@@ -1,5 +1,6 @@
 backend:
-  name: animapaise
+  name: gitlab
+  repo: jpoupinet/animapaise
 media_folder: static/assets
 public_folder: /assets
 collections:
