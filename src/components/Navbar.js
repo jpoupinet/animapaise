@@ -22,8 +22,34 @@ const Navbar = () => {
       <div className="container">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Accueil">
-            <img src={logo} alt="Animapaise logo" width="150" height="150" />
-            <img src={logoTexte} alt="Animapaise logo texte" width="280" height="140" />
+            <img
+              src={logo}
+              className="is-hidden-touch"
+              alt="Animapaise logo"
+              width="150"
+              height="150"
+            />
+            <img
+              src={logo}
+              className="is-hidden-desktop"
+              alt="Animapaise logo"
+              width="80"
+              height="80"
+            />
+            <img
+              src={logoTexte}
+              className="is-hidden-touch"
+              alt="Animapaise logo"
+              width="200"
+              height="100"
+            />
+            <img
+              src={logoTexte}
+              className="is-hidden-desktop"
+              alt="Animapaise logo"
+              width="150"
+              height="75"
+            />
           </Link>
           {/* Hamburger menu */}
           <div
@@ -31,9 +57,9 @@ const Navbar = () => {
             data-target="navMenu"
             onClick={() => toggleHamburger()}
           >
-            <span aria-hidden="true"/>
-            <span aria-hidden="true"/>
-            <span aria-hidden="true"/>
+            <span aria-hidden="true" />
+            <span aria-hidden="true" />
+            <span aria-hidden="true" />
           </div>
         </div>
         <div
@@ -50,8 +76,6 @@ const Navbar = () => {
             <Link className="navbar-item" to="/activites-sports">
               ACTIVITES ET SPORTS CANINS
             </Link>
-          </div>
-          <div className="navbar-end has-text-centered">
             <Link className="navbar-item" to="/a-propos">
               A PROPOS
             </Link>
