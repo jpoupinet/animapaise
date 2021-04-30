@@ -68,16 +68,16 @@ const Navbar = () => {
         >
           <div className="navbar-start has-text-centered">
             <Link className="navbar-item" to="/mediation">
-              MEDIATION ANIMALE
+              MÉDIATION ANIMALE
             </Link>
             <Link className="navbar-item" to="/comportement-education">
               COMPORTEMENT CANIN
             </Link>
             <Link className="navbar-item" to="/activites-sports">
-              ACTIVITES ET SPORTS CANINS
+              ACTIVITÉS ET SPORTS CANINS
             </Link>
             <Link className="navbar-item" to="/a-propos">
-              A PROPOS
+              À PROPOS
             </Link>
             <Link className="navbar-item" to="/contact">
               CONTACT
