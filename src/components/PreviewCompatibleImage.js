@@ -2,8 +2,11 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { GatsbyImage } from 'gatsby-plugin-image';
 
-const PreviewCompatibleImage = ({ imageInfo }) => {
-  const imageStyle = { display: 'block' };
+const defaultImageStyle = {
+  display: 'inline-block'
+};
+
+const PreviewCompatibleImage = ({ imageInfo, imageStyle = defaultImageStyle }) => {
   const { alt = '', childImageSharp, image } = imageInfo;
 
   if (!!image && !!image.childImageSharp) {

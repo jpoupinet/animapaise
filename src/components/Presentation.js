@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
 const PhotoContainer = ({ photo }) => (
-  <div className="column">
+  <div className="column is-flex">
     <PreviewCompatibleImage imageInfo={photo} />
   </div>
 );

@@ -15,7 +15,7 @@ const IndexPageTemplate = ({
   <div>
     <section className="hero is-fullheight-with-navbar">
       <div className="hero-body">
-        <div className="container is-fluid">
+        <div className="container is-fluid is-flex">
           <div className="columns is-vcentered">
             <div className="column"></div>
             <div className="column is-two-fifths">
