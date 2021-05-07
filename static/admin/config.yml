@@ -1,7 +1,9 @@
 backend:
   name: git-gateway
-media_folder: static/assets
-public_folder: /assets
+
+media_folder: static/img
+public_folder: /public/img
+
 collections:
   - name: "pages"
     label: "Pages"
@@ -11,4 +13,36 @@ collections:
         name: "index"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
-          - {label: Title, name: title, widget: string}
+          - {
+              label: Mainpitch, 
+              name: mainpitch, 
+              widget: object, 
+              fields: [
+                {label: Title, name: title, widget: string},
+                {label: Description, name: description, widget: text},
+                {label: Image, name: image, widget: image},
+              ]
+          }
+          - {
+            label: Intro,
+            name: intro,
+            widget: object,
+            fields: [
+              {label: Heading, name: heading, widget: string},
+              {label: Description, name: description, widget: string},
+              {label: Blurbs, name: blurbs, widget: list, fields: [
+                {label: Image, name: image, widget: image},
+                {label: Text, name: text, widget: text},
+              ]}
+            ]
+          }
+          - {
+            label: Presentations,
+            name: presentations,
+            widget: list,
+            fields: [
+              {label: Photo, name: photo, widget: photo},
+              {label: Titre, name: titre, widget: string},
+              {label: Description, name: description, widget: text},
+            ]
+          }
