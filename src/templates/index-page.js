@@ -14,7 +14,7 @@ const IndexPageTemplate = ({
   presentations,
   decouvrir,
 }) => {
-  const [width, setWidth] = useState(window.innerWidth);
+  const [width, setWidth] = useState(null);
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
