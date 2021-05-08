@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql } from 'gatsby';
 
@@ -11,55 +11,72 @@ const IndexPageTemplate = ({
   mainpitch,
   intro,
   presentations,
-}) => (
-  <div>
-    <section className="hero is-fullheight-with-navbar">
-      <div className="hero-body">
-        <div className="container is-fluid is-flex">
-          <div className="columns is-vcentered">
-            <div className="column"></div>
-            <div className="column is-two-fifths">
-              <div className="container">
-                <h2 className="title is-2">{mainpitch.title}</h2>
-                <div className="block">{mainpitch.description}</div>
+}) => {
+  const [width, setWidth] = useState(window.innerWidth);
+
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+  
+    const handleResize = () => setWidth(window.innerWidth);
+
+    window.addEventListener('resize', handleResize);
+    
+    return () => {
+      window.removeEventListener('resize', handleResize)
+    };
+  }, [window.innerWidth]);
+
+  return (
+    <div>
+      <section className="hero is-fullheight-with-navbar">
+        <div className="hero-body">
+          <div className="container is-fluid is-flex">
+            <div className="columns is-vcentered">
+              <div className="column"></div>
+              <div className="column is-two-fifths">
+                <div className="container">
+                  <h2 className="title is-2">{mainpitch.title}</h2>
+                  <div className="block">{mainpitch.description}</div>
+                </div>
               </div>
-            </div>
-            <div className="column"></div>
-            <div className="column is-two-fifths">
-              <div className="container has-text-centered">
-                <PreviewCompatibleImage
-                  imageInfo={{ alt: 'Animapaise logo', image: mainpitch.image }}
-                />
+              <div className="column"></div>
+              <div className="column is-two-fifths">
+                <div className="container has-text-centered">
+                  <PreviewCompatibleImage
+                    imageInfo={{ alt: 'Animapaise logo', image: mainpitch.image }}
+                  />
+                </div>
               </div>
+              <div className="column"></div>
             </div>
-            <div className="column"></div>
           </div>
         </div>
-      </div>
-    </section>
-    <section className="section has-background-primary">
-      <div className="container">
-        <div className="block has-text-white">
-          <h1 className="title is-1 has-text-white">{intro.heading}</h1>
-          <p>{intro.description}</p>
+      </section>
+      <section className="section has-background-primary">
+        <div className="container">
+          <div className="block has-text-white">
+            <h1 className="title is-1 has-text-white">{intro.heading}</h1>
+            <p>{intro.description}</p>
+          </div>
+          <Features gridItems={intro.blurbs} />
         </div>
-        <Features gridItems={intro.blurbs} />
-      </div>
-    </section>
-    <section className="section">
-      <div className="container">
-        {presentations.map((pres, i) =>
-          <Presentation
-            photo={pres.photo}
-            titre={pres.titre}
-            description={pres.description}
-            positionPhoto={i % 2 === 0 ? 'gauche' : 'droite'}
-          />
-        )}
-      </div>
-    </section>
-  </div>
-);
+      </section>
+      <section className="section">
+        <div className="container">
+          {presentations.map((pres, i) =>
+            <Presentation
+              key={`presentation${i}`}
+              photo={pres.photo}
+              titre={pres.titre}
+              description={pres.description}
+              positionPhoto={(i % 2 === 0 || width <= 768) ? 'gauche' : 'droite'}
+            />
+          )}
+        </div>
+      </section>
+    </div>
+  )
+};
 
 IndexPageTemplate.propTypes = {
   mainpitch: PropTypes.object,

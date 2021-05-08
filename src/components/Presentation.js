@@ -4,7 +4,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
 const PhotoContainer = ({ photo }) => (
   <div className="column is-flex">
-    <PreviewCompatibleImage imageInfo={photo} />
+    <PreviewCompatibleImage imageInfo={{ alt: 'Presentation', image: photo }} />
   </div>
 );
 
