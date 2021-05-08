@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql } from 'gatsby';
+import { BgImage } from 'gbimage-bridge';
 
 import Layout from '../components/Layout';
 import Features from '../components/Features';
@@ -11,20 +12,21 @@ const IndexPageTemplate = ({
   mainpitch,
   intro,
   presentations,
+  decouvrir,
 }) => {
   const [width, setWidth] = useState(window.innerWidth);
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
-  
+
     const handleResize = () => setWidth(window.innerWidth);
 
     window.addEventListener('resize', handleResize);
-    
+
     return () => {
       window.removeEventListener('resize', handleResize)
     };
-  }, [window.innerWidth]);
+  });
 
   return (
     <div>
@@ -74,6 +76,27 @@ const IndexPageTemplate = ({
           )}
         </div>
       </section>
+      <BgImage
+        className="hero is-halfheight"
+        image={decouvrir.image.childImageSharp.gatsbyImageData}
+      >
+        <div className="
+          hero-body
+          is-flex-direction-column
+          is-justify-content-space-around
+          is-align-items-flex-start
+        ">
+          <h2
+            className="title is-2 has-text-white"
+            style={{ width: '40%', textShadow: '1px 1px 2px black' }}
+          >
+            {decouvrir.title}
+          </h2>
+          <div className="block">
+            <Link to="/" className="button is-primary is-large">{decouvrir.lien}</Link>
+          </div>
+        </div>
+      </BgImage>
     </div>
   )
 };
@@ -86,6 +109,7 @@ IndexPageTemplate.propTypes = {
     blurbs: PropTypes.array,
   }),
   presentations: PropTypes.array,
+  decouvrir: PropTypes.object,
 };
 
 const IndexPage = ({ data }) => {
@@ -97,6 +121,7 @@ const IndexPage = ({ data }) => {
         mainpitch={frontmatter.mainpitch}
         intro={frontmatter.intro}
         presentations={frontmatter.presentations}
+        decouvrir={frontmatter.decouvrir}
       />
     </Layout>
   )
@@ -137,6 +162,7 @@ export const pageQuery = graphql`
                 gatsbyImageData(
                   width: 180
                   quality: 64
+                  placeholder: TRACED_SVG
                 )
               }
             }
@@ -155,6 +181,17 @@ export const pageQuery = graphql`
           }
           titre
           description
+        }
+        decouvrir {
+          title
+          lien
+          image {
+            childImageSharp {
+              gatsbyImageData(
+                quality: 64
+              )
+            }
+          }
         }
       }
     }

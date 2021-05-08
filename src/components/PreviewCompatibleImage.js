@@ -42,6 +42,7 @@ PreviewCompatibleImage.propTypes = {
     image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]).isRequired,
     style: PropTypes.object,
   }).isRequired,
+  imageStyle: PropTypes.object,
 };
 
 export default PreviewCompatibleImage;

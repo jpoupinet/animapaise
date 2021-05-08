@@ -26,4 +26,8 @@ presentations:
   - photo: /img/navi.jpg
     titre: Vestibulum vulputate turpis
     description: Nulla eu tortor vulputate, convallis velit nec, cursus risus. Aenean ut iaculis quam. Duis ut pulvinar justo. Cras interdum felis dui. Praesent et ligula enim. Phasellus consequat egestas risus eget vestibulum. Mauris ac mi dignissim, dapibus tellus volutpat, faucibus diam.
+decouvrir:
+  title: Nous sommes là pour vous accompagner
+  lien: Découvrir nos ateliers
+  image: /img/border2.jpg
 ---

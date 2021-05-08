@@ -46,3 +46,13 @@ collections:
               {label: Description, name: description, widget: text},
             ]
           }
+          - {
+            label: Decouvrir,
+            name: decouvrir,
+            widget: object,
+            fields: [
+              {label: Title, name: title, widget: string},
+              {label: Lien, name: lien, widget: string},
+              {label: Image, name: image, widget: image},
+            ]
+          }
