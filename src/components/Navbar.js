@@ -56,6 +56,10 @@ const Navbar = () => {
             className={`navbar-burger burger ${navbarActiveClass}`}
             data-target="navMenu"
             onClick={() => toggleHamburger()}
+            onKeyDown={() => toggleHamburger()}
+            role="button"
+            tabIndex={0}
+            aria-label="Bouton Menu"
           >
             <span aria-hidden="true" />
             <span aria-hidden="true" />

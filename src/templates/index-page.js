@@ -88,7 +88,7 @@ const IndexPageTemplate = ({
         ">
           <h2
             className="title is-2 has-text-white"
-            style={{ width: '40%', textShadow: '1px 1px 2px black' }}
+            style={{ width: `${width <= 768 ? 100 : 40}%`, textShadow: '1px 1px 2px black' }}
           >
             {decouvrir.title}
           </h2>
