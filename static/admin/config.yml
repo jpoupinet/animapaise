@@ -41,7 +41,7 @@ collections:
             name: presentations,
             widget: list,
             fields: [
-              {label: Photo, name: photo, widget: photo},
+              {label: Photo, name: photo, widget: image},
               {label: Titre, name: titre, widget: string},
               {label: Description, name: description, widget: text},
             ]
