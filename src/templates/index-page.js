@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql } from 'gatsby';
-import { BgImage } from 'gbimage-bridge';
 
 import Layout from '../components/Layout';
 import Features from '../components/Features';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
+import PreviewCompatibleBgImage from '../components/PreviewCompatibleBgImage';
 import Presentation from '../components/Presentation';
 
-const IndexPageTemplate = ({
+export const IndexPageTemplate = ({
   mainpitch,
   intro,
   presentations,
@@ -76,9 +76,9 @@ const IndexPageTemplate = ({
           )}
         </div>
       </section>
-      <BgImage
-        className="hero is-halfheight"
-        image={decouvrir.image.childImageSharp.gatsbyImageData}
+      <PreviewCompatibleBgImage
+        bgImageClass="hero is-halfheight"
+        imageInfo={{ image: decouvrir.image }}
       >
         <div className="
           hero-body
@@ -96,7 +96,7 @@ const IndexPageTemplate = ({
             <Link to="/" className="button is-primary is-large">{decouvrir.lien}</Link>
           </div>
         </div>
-      </BgImage>
+      </PreviewCompatibleBgImage>
     </div>
   )
 };

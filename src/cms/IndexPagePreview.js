@@ -8,10 +8,10 @@ const IndexPagePreview = ({ entry, getAsset }) => {
   if (data) {
     return (
       <IndexPageTemplate
-        mainpitch={data.mainpitch || {}}
-        intro={data.intro || {}}
-        presentations={data.presentations || {}}
-        decouvrir={data.decouvrir || {}}
+        mainpitch={data.mainpitch}
+        intro={data.intro}
+        presentations={data.presentations}
+        decouvrir={data.decouvrir}
       />
     );
   } else {

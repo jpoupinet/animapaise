@@ -63,14 +63,24 @@ const Footer = () => {
             <div className="block">Siret : 841.866.254.00029</div>
           </div>
           <div className="column is-4 social has-text-centered">
-            <a title="facebook" target="_blank" href="https://facebook.com/animapaise">
+            <a
+              title="facebook"
+              target="_blank"
+              rel="noreferrer"
+              href="https://facebook.com/animapaise"
+            >
               <img
                 src={facebook}
                 alt="Facebook"
                 style={{ width: '1em', height: '1em' }}
               />
             </a>
-            <a title="instagram" target="_blank" href="https://instagram.com/anim_apaise">
+            <a
+              title="instagram"
+              target="_blank"
+              rel="noreferrer"
+              href="https://instagram.com/anim_apaise"
+            >
               <img
                 src={instagram}
                 alt="Instagram"
