@@ -14,7 +14,7 @@ const IndexPageTemplate = ({
   decouvrir,
   wrapperWindow,
 }) => {
-  const [width, setWidth] = useState(wrapperWindow.innerWidth);
+  const [width, setWidth] = useState(wrapperWindow ? wrapperWindow.innerWidth : null);
 
   useEffect(() => {
     if (typeof wrapperWindow === 'undefined') return;
