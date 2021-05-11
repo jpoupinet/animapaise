@@ -15,7 +15,6 @@ const IndexPage = ({ data }) => {
         intro={frontmatter.intro}
         presentations={frontmatter.presentations}
         decouvrir={frontmatter.decouvrir}
-        wrapperWindow={window ? window : null}
       />
     </Layout>
   )

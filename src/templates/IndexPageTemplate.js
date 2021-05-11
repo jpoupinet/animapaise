@@ -11,20 +11,20 @@ const IndexPageTemplate = ({
   mainpitch,
   intro,
   presentations,
-  decouvrir,
-  wrapperWindow,
+  decouvrir
 }) => {
-  const [width, setWidth] = useState(wrapperWindow ? wrapperWindow.innerWidth : null);
-  console.log(width);
+  const [width, setWidth] = useState(null);
+
   useEffect(() => {
-    if (typeof wrapperWindow === 'undefined') return;
+    if (typeof window === 'undefined') return;
 
-    const handleResize = () => setWidth(wrapperWindow.innerWidth);
+    const handleResize = () => setWidth(window.innerWidth);
 
-    wrapperWindow.addEventListener('resize', handleResize);
+    handleResize();
+    window.addEventListener('resize', handleResize);
 
     return () => {
-      wrapperWindow.removeEventListener('resize', handleResize)
+      window.removeEventListener('resize', handleResize)
     };
   });
 
