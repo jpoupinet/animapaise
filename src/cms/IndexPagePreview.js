@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import IndexPageTemplate from '../templates/IndexPageTemplate';
+import { IndexPageTemplate } from '../templates/index-page';
 
 const IndexPagePreview = ({ entry, getAsset }) => {
   const data = entry.getIn(['data']).toJS();
@@ -12,7 +12,6 @@ const IndexPagePreview = ({ entry, getAsset }) => {
         intro={data.intro}
         presentations={data.presentations}
         decouvrir={data.decouvrir}
-        wrapperWindow={window}
       />
     );
   } else {
