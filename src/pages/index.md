@@ -5,7 +5,7 @@ mainpitch:
   description: Nunc porttitor mi purus, malesuada vulputate est elementum sit
     amet. Pellentesque volutpat velit non erat hendrerit lacinia.Etiam lacus
     risus, semper id interdum molestie, dignissim in nunc.
-  image: /img/49373541963_92197af12c_o.jpg
+  image: /img/site.png
 intro:
   heading: Sed sit amet euismod nisl
   description: Integer vitae facilisis sapien. Aliquam eu condimentum dolor.
