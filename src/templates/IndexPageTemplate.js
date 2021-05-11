@@ -12,18 +12,19 @@ const IndexPageTemplate = ({
   intro,
   presentations,
   decouvrir,
+  wrapperWindow,
 }) => {
-  const [width, setWidth] = useState(null);
+  const [width, setWidth] = useState(wrapperWindow.innerWidth);
 
   useEffect(() => {
-    if (typeof window === 'undefined') return;
+    if (typeof wrapperWindow === 'undefined') return;
 
-    const handleResize = () => setWidth(window.innerWidth);
+    const handleResize = () => setWidth(wrapperWindow.innerWidth);
 
-    window.addEventListener('resize', handleResize);
+    wrapperWindow.addEventListener('resize', handleResize);
 
     return () => {
-      window.removeEventListener('resize', handleResize)
+      wrapperWindow.removeEventListener('resize', handleResize)
     };
   });
 
@@ -76,7 +77,7 @@ const IndexPageTemplate = ({
         </div>
       </section>
       <PreviewCompatibleBgImage
-        bgImageClass="hero is-halfheight"
+        bgImageClass="hero is-large"
         imageInfo={{ image: decouvrir.image }}
       >
         <div className="
