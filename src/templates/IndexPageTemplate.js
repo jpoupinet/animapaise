@@ -11,7 +11,7 @@ const IndexPageTemplate = ({
   mainpitch,
   intro,
   presentations,
-  decouvrir
+  decouvrir,
 }) => {
   const [width, setWidth] = useState(null);
 
