@@ -7,7 +7,7 @@ const Presentation = ({ photo, titre, description, positionPhoto }) => (
     {
       positionPhoto === 'droite' ?
         <div className="columns is-gapless">
-          <div className="column has-background-primary">
+          <div className="column is-flex has-background-primary">
             <div className="block p-6 has-text-white">
               <h3 className="title is-3 p-6 has-text-white">{titre}</h3>
               <p className="p-6 has-text-justified">{description}</p>
@@ -22,7 +22,7 @@ const Presentation = ({ photo, titre, description, positionPhoto }) => (
           <div className="column is-flex">
             <PreviewCompatibleImage imageInfo={{ alt: 'Presentation', image: photo }} />
           </div>
-          <div className="column has-background-primary">
+          <div className="column is-flex has-background-primary">
             <div className="block p-6 has-text-white">
               <h3 className="title is-3 p-6 has-text-white">{titre}</h3>
               <p className="p-6 has-text-justified">{description}</p>
