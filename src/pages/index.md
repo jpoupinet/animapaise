@@ -1,10 +1,9 @@
 ---
 templateKey: index-page
 mainpitch:
-  title: Lorem ipsum dolor sit amet
-  description: Nunc porttitor mi purus, malesuada vulputate est elementum sit
-    amet. Pellentesque volutpat velit non erat hendrerit lacinia.Etiam lacus
-    risus, semper id interdum molestie, dignissim in nunc.
+  title: Trouver de l'apaisement dans le lien à l'animal
+  description: "Médiation par l'animal, comportement, activités et sports canins
+    en Loire-Atlantique. "
   image: /img/site.png
 intro:
   heading: Sed sit amet euismod nisl
