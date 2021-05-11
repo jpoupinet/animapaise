@@ -50,5 +50,5 @@ presentations:
 decouvrir:
   title: Nous sommes là pour vous accompagner
   lien: Découvrir nos ateliers
-  image: /img/border2.jpg
+  image: /img/dsc_5099.jpg
 ---
