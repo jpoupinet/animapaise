@@ -49,6 +49,6 @@ presentations:
       diam.
 decouvrir:
   title: Nous sommes là pour vous accompagner
-  lien: Découvrir nos ateliers
+  lien: Découvrir notre blog
   image: /img/dsc_5099.jpg
 ---
