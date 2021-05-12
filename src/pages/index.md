@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 mainpitch:
-  title: Trouver de l'apaisement dans le lien à l'animal
+  title: Trouver de l'apaisement dans la relation avec les animaux
   description: "Médiation par l'animal, comportement, activités et sports canins
     en Loire-Atlantique. "
   image: /img/site.png
