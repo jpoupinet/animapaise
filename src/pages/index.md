@@ -18,7 +18,7 @@ intro:
         comme ses faiblesses afin de pouvoir être valorisé lors de chaque effort
         ou progrès.
     - image: /img/pet-house.png
-      text: Tout les animaux, quelle que soit l'espèce, est bienveillant de nature. Sa
+      text: Tous les animaux, quelle que soit l'espèce, est bienveillant de nature. Sa
         spontanéité et son regard non jugeant provoquant un sentiment
         d'apaisement et de sécurité à ses côtés.
     - image: /img/vet.png
