@@ -19,7 +19,7 @@ intro:
         ou progrès.
     - image: /img/pet-house.png
       text: Tous les animaux, quelle que soit l'espèce, est bienveillant de nature. Sa
-        spontanéité et son regard non jugeant provoquant un sentiment
+        spontanéité et son regard non jugeant provoquent un sentiment
         d'apaisement et de sécurité à ses côtés.
     - image: /img/vet.png
       text: Aliquam eu condimentum dolor. Suspendisse egestas aliquam ligula. Aenean
