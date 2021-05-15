@@ -2,22 +2,25 @@
 templateKey: index-page
 mainpitch:
   title: Trouver de l'apaisement dans la relation avec les animaux
-  description: "Médiation par l'animal, comportement, activités et sports canins
-    en Loire-Atlantique. "
+  description: Médiation par l'animal, comportement, activités et sports canins en
+    Loire-Atlantique. Les animaux nous apportent tellement et nous avons
+    réciproquement beaucoup à leur apporter. Venez découvrir le monde
+    d'Anim'Apaise, qui que vous soyez.
   image: /img/site.png
 intro:
-  heading: Sed sit amet euismod nisl
-  description: Integer vitae facilisis sapien. Aliquam eu condimentum dolor.
-    Suspendisse egestas aliquam ligula. Aenean sagittis, arcu varius congue
-    accumsan, neque diam tincidunt ipsum, ullamcorper accumsan erat eros id
-    nisi.
+  heading: La bienveillance au coeur de l'accompagnement
+  description: "Que ça soit auprès de tout humain ou auprès de tout animal,
+    Anim'Apaise tient à coeur d'avoir une approche bienveillante et respectueuse
+    afin de proposer un accompagnement de qualité. "
   blurbs:
     - image: /img/love.png
-      text: Etiam luctus turpis nec libero ullamcorper scelerisque. Suspendisse non
-        dignissim dolor.
-    - image: /img/cat.png
-      text: Ut malesuada metus nunc, nec fringilla quam interdum eu. Aliquam erat
-        volutpat. Vivamus sed enim velit.
+      text: Chaque individu se doit d'être respecté dans son intégrité avec ses forces
+        comme ses faiblesses afin de pouvoir être valorisé lors de chaque effort
+        ou progrès.
+    - image: /img/pet-house.png
+      text: Tout les animaux, quelle que soit l'espèce, est bienveillant de nature. Sa
+        spontanéité et son regard non jugeant provoquant un sentiment
+        d'apaisement et de sécurité à ses côtés.
     - image: /img/vet.png
       text: Aliquam eu condimentum dolor. Suspendisse egestas aliquam ligula. Aenean
         sagittis, arcu varius congue accumsan, neque diam tincidunt ipsum,
