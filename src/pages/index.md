@@ -22,10 +22,11 @@ intro:
         spontanéité et son regard non jugeant provoquent un sentiment
         d'apaisement et de sécurité à ses côtés.
     - image: /img/vet.png
-      text: Aliquam eu condimentum dolor. Suspendisse egestas aliquam ligula. Aenean
-        sagittis, arcu varius congue accumsan, neque diam tincidunt ipsum,
-        ullamcorper accumsan erat eros id nisi.
-    - image: /img/dog.png
+      text: La coopération de l'animal doit être une priorité pour entretenir cette
+        relation bienveillante que nous cherchons à entretenir avec eux. C'est
+        en leur donnant le choix que nous ferons d'eux des acteurs à part
+        entière de leur quotidien et des accompagnements proposés.
+    - image: /img/training.png
       text: In tristique ligula eu nisl placerat euismod. Aenean faucibus tincidunt
         tortor, non varius ante dictum ac.
 presentations:
