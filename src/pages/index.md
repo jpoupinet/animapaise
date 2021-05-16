@@ -54,6 +54,6 @@ presentations:
       sagittis nunc malesuada
 decouvrir:
   title: Anim'Apaise c'est aussi du partage d'expériences et de connaissances
-  lien: Découvrir notre blog
+  lien: Découvrir nos articles
   image: /img/tonnere.jpg
 ---
