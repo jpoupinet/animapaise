@@ -27,8 +27,7 @@ intro:
         en leur donnant le choix que nous ferons d'eux des acteurs à part
         entière de leur quotidien et des accompagnements proposés.
     - image: /img/training.png
-      text: In tristique ligula eu nisl placerat euismod. Aenean faucibus tincidunt
-        tortor, non varius ante dictum ac.
+      text: "Le renforcement positif "
 presentations:
   - photo: /img/tonnere.jpg
     titre: Suspendisse egestas aliquam ligula
@@ -37,7 +36,7 @@ presentations:
       risus sagittis, id blandit est pulvinar. In non orci vitae erat
       pellentesque semper sodales sit amet diam. Duis a erat consectetur,
       sagittis nunc malesuada
-  - photo: /img/chat.jpg
+  - photo: /img/dsc_2158.jpg
     titre: Aliquam diam sapien
     description: Sed vel orci nec turpis mattis maximus eget ac eros. Etiam laoreet
       sapien nibh, ac lacinia velit pharetra vitae. Nunc pulvinar urna id ligula
