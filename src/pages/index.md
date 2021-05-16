@@ -53,7 +53,7 @@ presentations:
       vestibulum. Mauris ac mi dignissim, dapibus tellus volutpat, faucibus
       diam.
 decouvrir:
-  title: Nous sommes là pour vous accompagner
+  title: Anim'Apaise c'est aussi du partage d'expériences et de connaissances
   lien: Découvrir notre blog
   image: /img/dsc_5099.jpg
 ---
