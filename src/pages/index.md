@@ -55,5 +55,5 @@ presentations:
 decouvrir:
   title: Anim'Apaise c'est aussi du partage d'expériences et de connaissances
   lien: Découvrir notre blog
-  image: /img/eyes.jpg
+  image: /img/dsc_6505.jpg
 ---
