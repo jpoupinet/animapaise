@@ -25,9 +25,9 @@ intro:
       text: "Le renforcement positif va permettre d'entretenir une relation équilibrée
         avec son animal. Cette approche respecte le processus d'apprentissage de
         tout individu. "
-    - image: /img/vet.png
+    - image: /img/cat.png
       text: La coopération de l'animal doit être une priorité pour entretenir cette
-        relation bienveillante que nous cherchons à entretenir avec eux. C'est
+        relation bienveillante que nous cherchons à développer avec eux. C'est
         en leur donnant le choix que nous ferons d'eux des acteurs à part
         entière de leur quotidien et des accompagnements proposés.
 presentations:
