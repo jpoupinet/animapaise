@@ -23,8 +23,8 @@ intro:
         d'apaisement et de sécurité à ses côtés.
     - image: /img/training.png
       text: "Le renforcement positif va permettre d'entretenir une relation équilibrée
-        avec son animal. Cette approche respecte le processus d'apprentissage de
-        tout individu. "
+        avec son animal. Cette approche respecte les processus d'apprentissage
+        de tout individu. "
     - image: /img/cat.png
       text: La coopération de l'animal doit être une priorité pour entretenir cette
         relation bienveillante que nous cherchons à développer avec eux. C'est
