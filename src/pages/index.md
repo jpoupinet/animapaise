@@ -18,8 +18,8 @@ intro:
         comme ses faiblesses afin de pouvoir être valorisé lors de chaque effort
         ou progrès.
     - image: /img/pet-house.png
-      text: Tous les animaux, quelle que soit l'espèce, est bienveillant de nature. Sa
-        spontanéité et son regard non jugeant provoquent un sentiment
+      text: Tous les animaux, quelle que soit l'espèce, sont bienveillants de nature.
+        Sa spontanéité et son regard non jugeant provoquent un sentiment
         d'apaisement et de sécurité à ses côtés.
     - image: /img/training.png
       text: "Le renforcement positif va permettre d'entretenir une relation équilibrée
