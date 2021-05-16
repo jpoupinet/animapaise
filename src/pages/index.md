@@ -45,7 +45,7 @@ presentations:
       congue, fringilla aliquet ipsum imperdiet. In tristique ligula eu nisl
       placerat euismod. Aenean faucibus tincidunt tortor, non varius ante dictum
       ac.
-  - photo: /img/navi.jpg
+  - photo: /img/dsc_2001.jpg
     titre: Vestibulum vulputate turpis
     description: Nulla eu tortor vulputate, convallis velit nec, cursus risus.
       Aenean ut iaculis quam. Duis ut pulvinar justo. Cras interdum felis dui.
