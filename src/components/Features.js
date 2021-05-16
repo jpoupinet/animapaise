@@ -7,7 +7,7 @@ const FeatureGrid = ({ gridItems }) => (
     {gridItems.map((item) => (
       <div key={item.text} className="column is-6 is-flex">
         <section className="section box">
-          <div className="has-text-centered">
+          <div className="block has-text-centered">
             <div
               style={{
                 width: '180px',
@@ -17,7 +17,7 @@ const FeatureGrid = ({ gridItems }) => (
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
-          <p>{item.text}</p>
+          <div className="block">{item.text}</div>
         </section>
       </div>
     ))}

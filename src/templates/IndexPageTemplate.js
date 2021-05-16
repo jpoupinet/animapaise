@@ -63,7 +63,7 @@ const IndexPageTemplate = ({
           <Features gridItems={intro.blurbs} />
         </div>
       </section>
-      <section className="section">
+      <section className="section presentations">
         <div className="container">
           {presentations.map((pres, i) =>
             <Presentation
