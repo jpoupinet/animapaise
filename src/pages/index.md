@@ -19,8 +19,8 @@ intro:
         ou progrès.
     - image: /img/pet-house.png
       text: Tous les animaux, quelle que soit l'espèce, sont bienveillants de nature.
-        Sa spontanéité et son regard non jugeant provoquent un sentiment
-        d'apaisement et de sécurité à ses côtés.
+        Leur spontanéité et leur regard non jugeant provoquent un sentiment
+        d'apaisement et de sécurité à leurs côtés.
     - image: /img/training.png
       text: "Le renforcement positif va permettre d'entretenir une relation équilibrée
         avec son animal. Cette approche respecte les processus d'apprentissage
