@@ -21,13 +21,15 @@ intro:
       text: Tous les animaux, quelle que soit l'espèce, est bienveillant de nature. Sa
         spontanéité et son regard non jugeant provoquent un sentiment
         d'apaisement et de sécurité à ses côtés.
+    - image: /img/training.png
+      text: "Le renforcement positif va permettre d'entretenir une relation équilibrée
+        avec son animal. Cette approche respecte le processus d'apprentissage de
+        tout individu. "
     - image: /img/vet.png
       text: La coopération de l'animal doit être une priorité pour entretenir cette
         relation bienveillante que nous cherchons à entretenir avec eux. C'est
         en leur donnant le choix que nous ferons d'eux des acteurs à part
         entière de leur quotidien et des accompagnements proposés.
-    - image: /img/training.png
-      text: "Le renforcement positif "
 presentations:
   - photo: /img/tonnere.jpg
     titre: Suspendisse egestas aliquam ligula
