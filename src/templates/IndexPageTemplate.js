@@ -77,15 +77,17 @@ const IndexPageTemplate = ({
         </div>
       </section>
       <PreviewCompatibleBgImage
-        bgImageClass="hero is-large"
+        bgImageClass="hero decouvrir"
         imageInfo={{ image: decouvrir.image }}
       >
-        <div className="
-          hero-body
-          is-flex-direction-column
-          is-justify-content-space-around
-          is-align-items-flex-start
-        ">
+        <div
+          className="
+            hero-body
+            is-flex-direction-column
+            is-justify-content-space-around
+            is-align-items-flex-start
+          "
+        >
           <h2
             className="title is-2 has-text-white"
             style={{ width: `${width <= 768 ? 100 : 40}%`, textShadow: '1px 1px 2px black' }}
