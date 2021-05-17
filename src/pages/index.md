@@ -33,11 +33,11 @@ intro:
 presentations:
   - photo: /img/dsc_2001.jpg
     titre: Médiation par l'animal
-    description: Nulla eu tortor vulputate, convallis velit nec, cursus risus.
-      Aenean ut iaculis quam. Duis ut pulvinar justo. Cras interdum felis dui.
-      Praesent et ligula enim. Phasellus consequat egestas risus eget
-      vestibulum. Mauris ac mi dignissim, dapibus tellus volutpat, faucibus
-      diam.
+    description: >-
+      La médiation animale a pour objectif de favoriser le bien-être d'un
+      bénéficiaire par le lien avec l'animal. 
+
+      Anim'Apaise propose des accompagnements et ateliers à visée thérapeutique, de prévention ou d'animation adaptés aux besoins du public concerné.
   - photo: /img/dsc_2158.jpg
     titre: Soins coopératifs
     description: Sed vel orci nec turpis mattis maximus eget ac eros. Etiam laoreet
