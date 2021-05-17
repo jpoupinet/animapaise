@@ -37,7 +37,7 @@ presentations:
       La médiation animale a pour objectif de favoriser le bien-être d'un
       bénéficiaire par le lien avec l'animal. 
 
-      Anim'Apaise propose des accompagnements et ateliers à visée thérapeutique, de prévention ou d'animation adaptés aux besoins du public concerné.
+      Anim'Apaise propose des accompagnements et ateliers à visée thérapeutique, préventive ou récréative adaptés aux besoins du public concerné.
   - photo: /img/dsc_2158.jpg
     titre: Soins coopératifs
     description: Sed vel orci nec turpis mattis maximus eget ac eros. Etiam laoreet
