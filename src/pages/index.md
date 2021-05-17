@@ -48,11 +48,11 @@ presentations:
   - photo: /img/dsc_8605.jpg
     titre: Obérythmée
     description: L'obérythmée, ou dog-dancing, est une discipline canine consistant
-      à réaliser une chorégraphie avec son chien en musique, incluant des tours
-      connus par le chien. Anim'Apaise propose des cours ou stages afin de
-      découvrir la discipline, créer sa première chorégraphie et apprendre de
-      nouveaux tours à votre chien. Il est également possible d'inclure cette
-      discipline dans les ateliers de médiation animale.
+      à réaliser une chorégraphie en musique avec son chien. Cette chorégraphie
+      incluant des tours connus par le chien. Anim'Apaise propose des cours ou
+      stages afin de découvrir la discipline, créer sa première chorégraphie et
+      apprendre de nouveaux tours à votre chien. Il est également possible
+      d'inclure cette discipline dans les ateliers de médiation animale.
 decouvrir:
   title: Anim'Apaise c'est aussi du partage d'expériences et de connaissances
   lien: Découvrir nos articles
