@@ -3,19 +3,36 @@ import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 
 import Layout from '../components/Layout';
-import IndexPageTemplate from './IndexPageTemplate';
+
+import logo from '../../static/img/logo.svg';
+import logoTexte from '../../static/img/logo-texte.svg';
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
     <Layout>
-      <IndexPageTemplate
-        mainpitch={frontmatter.mainpitch}
-        intro={frontmatter.intro}
-        presentations={frontmatter.presentations}
-        decouvrir={frontmatter.decouvrir}
-      />
+      <section className="hero is-fullheight is-primary has-text-centered">
+        <div className="hero-body container">
+          <div className="columns is-flex is-flex-direction-column">
+            <div className="column">
+              <img
+                src={logo}
+                alt="Animapaise logo"
+                style={{ width: '20em', height: '20em' }}
+              />
+            </div>
+            <div className="column">
+              <img
+                src={logoTexte}
+                alt="Animapaise logo"
+                style={{ width: '30em', height: '10em' }}
+              />
+            </div>
+          </div>
+        </div>
+        <h2 className="title is-2 p-3">Site en construction, à très vite !</h2>
+      </section>
     </Layout>
   )
 };
@@ -29,66 +46,3 @@ IndexPage.propTypes = {
 };
 
 export default IndexPage;
-
-export const pageQuery = graphql`
-  query IndexPageTemplate {
-    markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
-      frontmatter {
-        mainpitch {
-          title
-          description
-          image {
-            childImageSharp {
-              gatsbyImageData(
-                width: 800
-                quality: 64
-                placeholder: TRACED_SVG
-              )
-            }
-          }
-        }
-        intro {
-          heading
-          description
-          blurbs {
-            image {
-              childImageSharp {
-                gatsbyImageData(
-                  width: 180
-                  quality: 64
-                  placeholder: TRACED_SVG
-                )
-              }
-            }
-            text
-          }
-        }
-        presentations {
-          photo {
-            childImageSharp {
-              gatsbyImageData(
-                width: 1000
-                height: 800
-                quality: 64
-              )
-            }
-          }
-          titre
-          description
-        }
-        decouvrir {
-          title
-          lien
-          image {
-            childImageSharp {
-              gatsbyImageData(
-                width: 2000
-                quality: 64
-              )
-            }
-          }
-        }
-      }
-    }
-  }
-`;
