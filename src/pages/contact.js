@@ -106,7 +106,7 @@ const ContactPage = () => {
 
               <div className="field">
                 <div className="control">
-                  <button className="button is-primary">Envoyer</button>
+                  <button className="button is-primary" type="submit">Envoyer</button>
                 </div>
               </div>
             </form>
