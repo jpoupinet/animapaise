@@ -72,7 +72,7 @@ const ContactPage = () => {
                     <p className="control is-expanded has-icons-left has-icons-right">
                       <label className="label">Nom</label>
                       <div className="control">
-                        <input className="input" type="text" />
+                        <input className="input" type="text" name="nom" />
                       </div>
                     </p>
                   </div>
@@ -80,7 +80,7 @@ const ContactPage = () => {
                     <p className="control is-expanded has-icons-left has-icons-right">
                       <label className="label">Prénom</label>
                       <div className="control">
-                        <input className="input" type="text" />
+                        <input className="input" type="text" name="prenom" />
                       </div>
                     </p>
                   </div>
@@ -90,7 +90,7 @@ const ContactPage = () => {
               <div className="field">
                 <label className="label">Email</label>
                 <div className="control has-icons-left has-icons-right">
-                  <input className="input" type="email" />
+                  <input className="input" type="email" name="email" />
                   <span className="icon is-small is-left">
                     <Icon path={mdiEmail} size="1.33em" />
                   </span>
@@ -100,7 +100,7 @@ const ContactPage = () => {
               <div className="field">
                 <label className="label">Message</label>
                 <div className="control">
-                  <textarea className="textarea"></textarea>
+                  <textarea className="textarea" name="message"></textarea>
                 </div>
               </div>
 
