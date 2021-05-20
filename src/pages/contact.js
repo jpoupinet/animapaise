@@ -65,43 +65,52 @@ const ContactPage = () => {
             </div>
           </div>
           <div className="column is-two-fifths">
-            <form name="contact" method="POST" data-netlify="true">
+            <form
+              name="contact"
+              method="POST"
+              action="/success"
+              data-netlify="true"
+              data-netlify-honeypot="bot-field"
+            >
+              <input type="hidden" name="form-name" value="contact" />
               <div className="field is-horizontal">
                 <div className="field-body">
                   <div className="field">
                     <p className="control is-expanded has-icons-left has-icons-right">
-                      <label className="label">Nom</label>
-                      <div className="control">
+                      <label className="label">
+                        Nom
                         <input className="input" type="text" name="nom" />
-                      </div>
+                      </label>
                     </p>
                   </div>
                   <div className="field">
                     <p className="control is-expanded has-icons-left has-icons-right">
-                      <label className="label">Prénom</label>
-                      <div className="control">
+                      <label className="label">
+                        Prénom
                         <input className="input" type="text" name="prenom" />
-                      </div>
+                      </label>
                     </p>
                   </div>
                 </div>
               </div>
 
               <div className="field">
-                <label className="label">Email</label>
-                <div className="control has-icons-left has-icons-right">
-                  <input className="input" type="email" name="email" />
-                  <span className="icon is-small is-left">
-                    <Icon path={mdiEmail} size="1.33em" />
-                  </span>
-                </div>
+                <label className="label">
+                  Email
+                  <div className="control has-icons-left has-icons-right">
+                    <input className="input" type="email" name="email" />
+                    <span className="icon is-small is-left">
+                      <Icon path={mdiEmail} size="1.33em" />
+                    </span>
+                  </div>
+                </label>
               </div>
 
               <div className="field">
-                <label className="label">Message</label>
-                <div className="control">
+                <label className="label">
+                  Message
                   <textarea className="textarea" name="message"></textarea>
-                </div>
+                </label>
               </div>
 
               <div className="field">
