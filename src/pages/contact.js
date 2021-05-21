@@ -121,7 +121,7 @@ const ContactPage = () => {
               <div className="field">
                 <label className="label">
                   Message
-                  <textarea className="textarea" name="message"></textarea>
+                  <textarea className="textarea" name="message" rows="10"></textarea>
                 </label>
               </div>
 
