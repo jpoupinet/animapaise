@@ -56,3 +56,8 @@ collections:
               {label: Image, name: image, widget: image},
             ]
           }
+      - file: "src/pages/a-propos.md"
+        label: "A propos"
+        name: "a-propos"
+        fields:
+          
