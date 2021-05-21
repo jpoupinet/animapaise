@@ -15,10 +15,25 @@ const ContactPage = () => {
     <Layout>
       <section className="section is-medium">
         <div className="columns">
-          <div className="column"></div>
-          <div className="column is-two-fifths">
-            <div className="block mb-6">
-              <h1 className="title is-1">Me contacter</h1>
+          <div className="column is-1"></div>
+          <div className="column">
+            <h1 className="title">Me contacter</h1>
+          </div>
+        </div>
+        <div className="columns">
+          <div className="column is-1"></div>
+          <div className="column is-4">
+            <div className="block">
+              <p className="block">
+                Que vous souhaitiez organiser une séance de médiation animale dans votre structure,
+                à votre domicile ou auprès de mes poneys, réserver un cours avec votre chien à
+                votre domicile ou sur le terrain dédié, avoir plus d'informations sur les
+                prestations proposées par Anim'Apaise, ou toute autre question...
+              </p>
+              <p className="block">
+                N'hésitez pas à me contacter aux coordonnées ci-dessous ou en remplissant
+                le formulaire de contact en précisant votre demande.
+              </p>
             </div>
             <div className="block">
               <span className="icon-text">
@@ -65,7 +80,8 @@ const ContactPage = () => {
               </a>
             </div>
           </div>
-          <div className="column is-two-fifths">
+          <div className="column is-1"></div>
+          <div className="column is-5">
             <form
               name="contact"
               method="POST"
@@ -116,7 +132,7 @@ const ContactPage = () => {
               </div>
             </form>
           </div>
-          <div className="column"></div>
+          <div className="column is-1"></div>
         </div>
       </section>
     </Layout>
