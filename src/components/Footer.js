@@ -15,7 +15,7 @@ const Footer = () => {
           style={{ width: '18em', height: '18em' }}
         />
       </div>
-      <div className="has-text-white">
+      <div className="block has-text-white">
         <div className="columns">
           <div className="column is-4 has-text-centered">
             <section className="menu">
@@ -89,6 +89,9 @@ const Footer = () => {
             </a>
           </div>
         </div>
+      </div>
+      <div className="block container has-text-centered is-size-7">
+        <p>Site réalisé par Julien Poupinet</p>
       </div>
     </footer>
   );
