@@ -6,6 +6,7 @@ import Layout from '../components/Layout';
 import { mdiPhoneClassic } from '@mdi/js';
 import { mdiEmail } from '@mdi/js';
 import { mdiDomain } from '@mdi/js';
+import { mdiAccount } from '@mdi/js';
 import facebook from '../../static/img/facebook.svg';
 import instagram from '../../static/img/instagram.svg';
 
@@ -76,20 +77,15 @@ const ContactPage = () => {
               <div className="field is-horizontal">
                 <div className="field-body">
                   <div className="field">
-                    <p className="control is-expanded has-icons-left has-icons-right">
-                      <label className="label">
-                        Nom
+                    <label className="label">
+                      Nom - Prénom - Structure
+                      <div className="control has-icons-left">
                         <input className="input" type="text" name="nom" />
-                      </label>
-                    </p>
-                  </div>
-                  <div className="field">
-                    <p className="control is-expanded has-icons-left has-icons-right">
-                      <label className="label">
-                        Prénom
-                        <input className="input" type="text" name="prenom" />
-                      </label>
-                    </p>
+                        <span className="icon is-small is-left">
+                          <Icon path={mdiAccount} size="1.33em" />
+                        </span>
+                      </div>
+                    </label>
                   </div>
                 </div>
               </div>
@@ -97,7 +93,7 @@ const ContactPage = () => {
               <div className="field">
                 <label className="label">
                   Email
-                  <div className="control has-icons-left has-icons-right">
+                  <div className="control has-icons-left">
                     <input className="input" type="email" name="email" />
                     <span className="icon is-small is-left">
                       <Icon path={mdiEmail} size="1.33em" />
