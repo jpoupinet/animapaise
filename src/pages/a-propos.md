@@ -1,6 +1,17 @@
 ---
 templateKey: a-propos-page 
 imageIntro: /img/dsc_6505.jpg
+diplomesCertificats:
+  - annee: 2024 - 2027
+    description: Meilleure personne
+formationsStages:
+  - annee: 2024 - 2027
+    description: Meilleure personne
+experiences:
+  - annee: 2035 - 2037
+    description: Encore meilleure personne
+  - annee: 2024 - 2027
+    description: Meilleure personne
 ---
 Coucou c'est moiiii, Sophiiiiiie !!!!!!11!!
 

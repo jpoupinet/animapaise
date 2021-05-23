@@ -15,6 +15,9 @@ const AProposPage = ({ data }) => {
         imageIntro={post.frontmatter.imageIntro}
         content={post.html}
         contentComponent={HTMLContent}
+        diplomesCertificats={post.frontmatter.diplomesCertificats}
+        formationsStages={post.frontmatter.formationsStages}
+        experiences={post.frontmatter.experiences}
       />
     </Layout>
   )
@@ -39,6 +42,18 @@ export const pageQuery = graphql`
               placeholder: TRACED_SVG
             )
           }
+        }
+        diplomesCertificats {
+          annee
+          description
+        }
+        formationsStages {
+          annee
+          description
+        }
+        experiences {
+          annee
+          description
         }
       }
     }

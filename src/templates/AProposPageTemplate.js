@@ -8,9 +8,12 @@ const AProposPageTemplate = ({
   imageIntro,
   content,
   contentComponent,
+  diplomesCertificats,
+  formationsStages,
+  experiences,
 }) => {
   const [width, setWidth] = useState(null);
-  
+
   useEffect(() => {
     if (typeof window === 'undefined') return;
 
@@ -47,18 +50,54 @@ const AProposPageTemplate = ({
       </section>
       <section className="section">
         <div className="container">
-          <div className="block">
-            <h3 className="title is-4 has-text-centered">Certificats, diplômes</h3>
+          <div className="block mb-6">
+            <h3 className="title is-4 has-text-centered">Diplômes / Certificats</h3>
+            <div className="is-flex is-justify-content-center">
+              <ul>
+                {
+                  diplomesCertificats.map(dip =>
+                    <li>
+                      <span className="has-text-weight-semibold">{dip.annee} : </span>
+                      <span>{dip.description}</span>
+                    </li>
+                  )
+                }
+              </ul>
+            </div>
           </div>
-          <div className="block">
-            <h3 className="title is-4 has-text-centered">Formations</h3>
+          <div className="block mb-6">
+            <h3 className="title is-4 has-text-centered">Formations / Stages</h3>
+            <div className="is-flex is-justify-content-center">
+              <ul>
+                {
+                  formationsStages.map(form =>
+                    <li>
+                      <span className="has-text-weight-semibold">{form.annee} : </span>
+                      <span>{form.description}</span>
+                    </li>
+                  )
+                }
+              </ul>
+            </div>
           </div>
-          <div className="block">
+          <div className="block mb-6">
             <h3 className="title is-4 has-text-centered">Expériences</h3>
+            <div className="is-flex is-justify-content-center">
+              <ul>
+                {
+                  experiences.map((exp, i) =>
+                    <li key={`exp${i}`}>
+                      <span className="has-text-weight-semibold">{exp.annee} : </span>
+                      <span>{exp.description}</span>
+                    </li>
+                  )
+                }
+              </ul>
+            </div>
           </div>
         </div>
       </section>
-    </section>
+    </section >
   )
 };
 

@@ -60,4 +60,19 @@ collections:
         label: "A propos"
         name: "a-propos"
         fields:
-          
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "a-propos-page"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Image", name: "imageIntro", widget: image}
+          - {label: "Diplômes / Certificats", name: "diplomesCertificats", widget: list, fields: [
+              {label: "Année", name: "annee", widget: string},
+              {label: "Description", name: "description", widget: text},
+            ]}
+          - {label: "Formations / Stages", name: "formationsStages", widget: list, fields: [
+              {label: "Année", name: "annee", widget: string},
+              {label: "Description", name: "description", widget: text},
+            ]}
+          - {label: "Expériences", name: "experiences", widget: list, fields: [
+              {label: "Année", name: "annee", widget: string},
+              {label: "Description", name: "description", widget: text},
+            ]}
+

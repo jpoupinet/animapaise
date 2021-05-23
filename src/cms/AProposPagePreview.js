@@ -3,13 +3,17 @@ import PropTypes from 'prop-types';
 import AProposPageTemplate from '../templates/AProposPageTemplate';
 import '../all.sass';
 
-const AProposPagePreview = ({ entry, getAsset }) => {
+const AProposPagePreview = ({ entry }) => {
   const data = entry.getIn(['data']).toJS();
 
   if (data) {
     return (
       <AProposPageTemplate
-        // mainpitch={data.mainpitch}
+        imageIntro={data.imageIntro}
+        content={data.body}
+        diplomesCertificats={data.diplomesCertificats}
+        formationsStages={data.formationsStages}
+        experiences={data.experiences}
       />
     );
   } else {
@@ -21,7 +25,7 @@ AProposPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
-  getAsset: PropTypes.func,
+  widgetFor: PropTypes.func,
 };
 
 export default AProposPagePreview;
