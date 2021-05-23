@@ -1,9 +1,6 @@
 ---
-templateKey: a-propos-page
+templateKey: a-propos-page 
 imageIntro: /img/dsc_6505.jpg
-diplomesCertificats:
-  - annee: jkh
-    description: jkhv
 ---
 Coucou c'est moiiii, Sophiiiiiie !!!!!!11!!
 
