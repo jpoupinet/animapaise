@@ -56,6 +56,11 @@ collections:
               {label: Image, name: image, widget: image},
             ]
           }
+      - file: "src/pages/mediation.md"
+        label: "Médiation animale"
+        name: "mediation"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "mediation-page"}
       - file: "src/pages/a-propos.md"
         label: "A propos"
         name: "a-propos"
