@@ -74,10 +74,10 @@ const Navbar = () => {
             <Link className="navbar-item" to="/mediation">
               MÉDIATION ANIMALE
             </Link>
-            <Link className="navbar-item" to="/comportement-education">
+            <Link className="navbar-item" to="/comportement">
               COMPORTEMENT CANIN
             </Link>
-            <Link className="navbar-item" to="/activites-sports">
+            <Link className="navbar-item" to="/activites">
               ACTIVITÉS ET SPORTS CANINS
             </Link>
             <Link className="navbar-item" to="/a-propos">

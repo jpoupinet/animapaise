@@ -61,6 +61,11 @@ collections:
         name: "mediation"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "mediation-page"}
+      - file: "src/pages/comportement.md"
+        label: "Comportement canin"
+        name: "comportement"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "comportement-page"}
       - file: "src/pages/a-propos.md"
         label: "A propos"
         name: "a-propos"
