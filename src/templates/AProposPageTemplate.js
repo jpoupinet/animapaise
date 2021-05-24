@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 import Content from '../components/Content'
 
@@ -12,21 +12,6 @@ const AProposPageTemplate = ({
   formationsStages,
   experiences,
 }) => {
-  const [width, setWidth] = useState(null);
-
-  useEffect(() => {
-    if (typeof window === 'undefined') return;
-
-    const handleResize = () => setWidth(window.innerWidth);
-
-    handleResize();
-    window.addEventListener('resize', handleResize);
-
-    return () => {
-      window.removeEventListener('resize', handleResize)
-    };
-  });
-
   const PageContent = contentComponent || Content;
 
   return (
