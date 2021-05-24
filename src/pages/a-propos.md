@@ -1,6 +1,6 @@
 ---
-templateKey: a-propos-page 
-imageIntro: /img/dsc_6505.jpg
+templateKey: a-propos-page
+imageIntro: /img/36570903202_c609e91097_k.jpg
 diplomesCertificats:
   - annee: 2024 - 2027
     description: Meilleure personne
