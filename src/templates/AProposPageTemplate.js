@@ -52,11 +52,11 @@ const AProposPageTemplate = ({
         <div className="container">
           <div className="block mb-6">
             <h3 className="title is-4 has-text-centered">Diplômes / Certificats</h3>
-            <div className="is-flex is-justify-content-center">
+            <div className="liste-a-propos">
               <ul>
                 {
-                  diplomesCertificats.map(dip =>
-                    <li>
+                  diplomesCertificats.map((dip, i) =>
+                    <li key={`dip${i}`}>
                       <span className="has-text-weight-semibold">{dip.annee} : </span>
                       <span>{dip.description}</span>
                     </li>
@@ -67,11 +67,11 @@ const AProposPageTemplate = ({
           </div>
           <div className="block mb-6">
             <h3 className="title is-4 has-text-centered">Formations / Stages</h3>
-            <div className="is-flex is-justify-content-center">
+            <div className="liste-a-propos">
               <ul>
                 {
-                  formationsStages.map(form =>
-                    <li>
+                  formationsStages.map((form, i) =>
+                    <li key={`form${i}`}>
                       <span className="has-text-weight-semibold">{form.annee} : </span>
                       <span>{form.description}</span>
                     </li>
@@ -82,7 +82,7 @@ const AProposPageTemplate = ({
           </div>
           <div className="block mb-6">
             <h3 className="title is-4 has-text-centered">Expériences</h3>
-            <div className="is-flex is-justify-content-center">
+            <div className="liste-a-propos">
               <ul>
                 {
                   experiences.map((exp, i) =>
