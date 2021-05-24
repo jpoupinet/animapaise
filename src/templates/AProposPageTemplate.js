@@ -42,8 +42,15 @@ const AProposPageTemplate = ({
                 {
                   diplomesCertificats.map((dip, i) =>
                     <li key={`dip${i}`}>
-                      <span className="has-text-weight-semibold">{dip.annee} : </span>
-                      <span>{dip.description}</span>
+                      <div className="columns">
+                        <div className="column is-3">
+                          <span className="has-text-weight-semibold">{dip.annee} : </span>
+                        </div>
+                        <div className="column">
+                          <p>{dip.description}</p>
+                          <p className="is-italic has-text-grey">{dip.organisme}</p>
+                        </div>
+                      </div>
                     </li>
                   )
                 }
@@ -57,8 +64,15 @@ const AProposPageTemplate = ({
                 {
                   formationsStages.map((form, i) =>
                     <li key={`form${i}`}>
-                      <span className="has-text-weight-semibold">{form.annee} : </span>
-                      <span>{form.description}</span>
+                      <div className="columns">
+                        <div className="column is-3">
+                          <span className="has-text-weight-semibold">{form.annee} : </span>
+                        </div>
+                        <div className="column">
+                          <p>{form.description}</p>
+                          <p className="is-italic has-text-grey">{form.organisme}</p>
+                        </div>
+                      </div>
                     </li>
                   )
                 }
@@ -72,8 +86,15 @@ const AProposPageTemplate = ({
                 {
                   experiences.map((exp, i) =>
                     <li key={`exp${i}`}>
-                      <span className="has-text-weight-semibold">{exp.annee} : </span>
-                      <span>{exp.description}</span>
+                      <div className="columns">
+                        <div className="column is-3">
+                          <span className="has-text-weight-semibold">{exp.annee} : </span>
+                        </div>
+                        <div className="column">
+                          <p>{exp.description}</p>
+                          <p className="is-italic has-text-grey">{exp.organisme}</p>
+                        </div>
+                      </div>
                     </li>
                   )
                 }

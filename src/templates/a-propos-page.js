@@ -46,14 +46,17 @@ export const pageQuery = graphql`
         diplomesCertificats {
           annee
           description
+          organisme
         }
         formationsStages {
           annee
           description
+          organisme
         }
         experiences {
           annee
           description
+          organisme
         }
       }
     }
