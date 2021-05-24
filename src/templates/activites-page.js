@@ -3,21 +3,21 @@ import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 
 import Layout from '../components/Layout';
-import ComportementPageTemplate from './ComportementPageTemplate';
+import ActivitesPageTemplate from './ActivitesPageTemplate';
 
-// const ComportementPage = ({ data }) => {
-const ComportementPage = () => {
+// const ActivitesPage = ({ data }) => {
+const ActivitesPage = () => {
   // const { frontmatter } = data.markdownRemark
 
   return (
     <Layout>
-      <ComportementPageTemplate
+      <ActivitesPageTemplate
       />
     </Layout>
   )
 };
 
-// ComportementPage.propTypes = {
+// ActivitesPage.propTypes = {
 //   data: PropTypes.shape({
 //     markdownRemark: PropTypes.shape({
 //       frontmatter: PropTypes.object,
@@ -25,11 +25,11 @@ const ComportementPage = () => {
 //   }),
 // };
 
-export default ComportementPage;
+export default ActivitesPage;
 
 // export const pageQuery = graphql`
-//   query ComportementPageTemplate {
-//     markdownRemark(frontmatter: { templateKey: { eq: "comportement-page" } }) {
+//   query ActivitesPageTemplate {
+//     markdownRemark(frontmatter: { templateKey: { eq: "activites-page" } }) {
 //       frontmatter {
         
 //       }

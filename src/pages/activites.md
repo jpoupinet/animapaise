@@ -1,0 +1,3 @@
+---
+templateKey: activites-page
+---
