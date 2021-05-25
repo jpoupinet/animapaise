@@ -78,6 +78,15 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "a-propos-page"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Image", name: "imageIntro", widget: image}
+          - {
+              label: Presentation, 
+              name: presentation, 
+              widget: object, 
+              fields: [
+                {label: Image, name: image, widget: image},
+                {label: Description, name: description, widget: text},
+              ]
+          }
           - {label: "Diplômes / Certificats", name: "diplomesCertificats", widget: list, fields: [
               {label: "Année", name: "annee", widget: string},
               {label: "Description", name: "description", widget: text},

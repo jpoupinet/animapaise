@@ -15,6 +15,7 @@ const AProposPage = ({ data }) => {
         imageIntro={post.frontmatter.imageIntro}
         content={post.html}
         contentComponent={HTMLContent}
+        presentation={post.frontmatter.presentation}
         diplomesCertificats={post.frontmatter.diplomesCertificats}
         formationsStages={post.frontmatter.formationsStages}
         experiences={post.frontmatter.experiences}
@@ -42,6 +43,18 @@ export const pageQuery = graphql`
               placeholder: TRACED_SVG
             )
           }
+        }
+        presentation {
+          image {
+            childImageSharp {
+              gatsbyImageData(
+                width: 500
+                quality: 64
+                placeholder: TRACED_SVG
+              )
+            }
+          }
+          description
         }
         diplomesCertificats {
           annee

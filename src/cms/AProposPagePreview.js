@@ -11,6 +11,7 @@ const AProposPagePreview = ({ entry }) => {
       <AProposPageTemplate
         imageIntro={data.imageIntro}
         content={data.body}
+        presentation={data.presentation}
         diplomesCertificats={data.diplomesCertificats}
         formationsStages={data.formationsStages}
         experiences={data.experiences}

@@ -8,6 +8,7 @@ const AProposPageTemplate = ({
   imageIntro,
   content,
   contentComponent,
+  presentation,
   diplomesCertificats,
   formationsStages,
   experiences,
@@ -33,6 +34,20 @@ const AProposPageTemplate = ({
           </div>
         </div>
       </section>
+      <div className="block mx-5">
+        <div className="columns is-gapless">
+          <div className="column has-background-primary">
+            <div className="block has-text-white p-5">
+              <p className="has-text-justified">{presentation.description}</p>
+            </div>
+          </div>
+          <div className="column is-flex is-one-quarter" style={{ maxHeight: '10em' }}>
+            <PreviewCompatibleImage
+              imageInfo={{ alt: 'Presentation', image: presentation.image }}
+            />
+          </div>
+        </div>
+      </div>
       <section className="section">
         <div className="container">
           <div className="block mb-6">

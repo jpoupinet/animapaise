@@ -1,6 +1,9 @@
 ---
 templateKey: a-propos-page 
 imageIntro: /img/dsc_6505.jpg
+presentation:
+  image: /img/dsc_6505.jpg
+  description: Quisque dui justo, pretium id nisl at, facilisis egestas tortor. Integer euismod rhoncus erat eu dictum. Morbi finibus vulputate lacus.
 diplomesCertificats:
   - annee: 2024 - 2027
     description: Meilleure personne
