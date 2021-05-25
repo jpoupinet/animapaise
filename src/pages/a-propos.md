@@ -39,6 +39,9 @@ formationsStages:
 
       & Face à l’environnement : Aider les chiens réactifs, agressifs & phobiques
     organisme: Lisa Longo - Muzo +
+  - annee: "2020"
+    description: Discdog je continue ! Niveau 2
+    organisme: Yannick Thoulon - Canissimo
 experiences:
   - annee: 2021 à ce jour
     description: Fondatrice et gérante d'Anim'Apaise
