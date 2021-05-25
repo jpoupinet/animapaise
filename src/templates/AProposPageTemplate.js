@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import Content from '../components/Content'
 
@@ -15,9 +15,24 @@ const AProposPageTemplate = ({
 }) => {
   const PageContent = contentComponent || Content;
 
+  const [width, setWidth] = useState(null);
+
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+
+    const handleResize = () => setWidth(window.innerWidth);
+
+    handleResize();
+    window.addEventListener('resize', handleResize);
+
+    return () => {
+      window.removeEventListener('resize', handleResize)
+    };
+  });
+
   return (
-    <section className="section">
-      <section className="section">
+    <section className="section a-propos">
+      <section className="section a-propos-intro">
         <div className="columns">
           <div className="column is-6">
             <div className="container has-text-centered">
@@ -34,19 +49,35 @@ const AProposPageTemplate = ({
           </div>
         </div>
       </section>
-      <div className="block mx-5">
-        <div className="columns is-gapless">
-          <div className="column has-background-primary">
-            <div className="block has-text-white p-5">
-              <p className="has-text-justified">{presentation.description}</p>
+      <div className="block presentation-a-propos">
+        {
+          width > 768 ?
+            <div className="columns is-gapless">
+              <div className="column has-background-primary">
+                <div className="block has-text-white p-5">
+                  <p className="has-text-justified">{presentation.description}</p>
+                </div>
+              </div>
+              <div className="column is-flex is-one-quarter" style={{ maxHeight: '10em' }}>
+                <PreviewCompatibleImage
+                  imageInfo={{ alt: 'Presentation', image: presentation.image }}
+                />
+              </div>
             </div>
-          </div>
-          <div className="column is-flex is-one-quarter" style={{ maxHeight: '10em' }}>
-            <PreviewCompatibleImage
-              imageInfo={{ alt: 'Presentation', image: presentation.image }}
-            />
-          </div>
-        </div>
+            :
+            <div className="columns is-gapless">
+              <div className="column is-flex" style={{ maxHeight: '10em' }}>
+                <PreviewCompatibleImage
+                  imageInfo={{ alt: 'Presentation', image: presentation.image }}
+                />
+              </div>
+              <div className="column has-background-primary">
+                <div className="block has-text-white p-5">
+                  <p className="has-text-justified">{presentation.description}</p>
+                </div>
+              </div>
+            </div>
+        }
       </div>
       <section className="section">
         <div className="container">
