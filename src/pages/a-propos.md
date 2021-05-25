@@ -18,10 +18,16 @@ diplomesCertificats:
     description: Diplôme d'Etat de Conseillère en Économie Sociale et Familiale
     organisme: Lycée Talensac Etablissement d'Enseignement Général
 formationsStages:
-  - annee: 2024 - 2027
-    description: Meilleure personne
-    organisme: Fondation des bonnes personnes
+  - annee: "2021"
+    description: Medical Training multi-espèces
+    organisme: Iris Castaing - Muzo+
+  - annee: "2021"
+    description: 3, 2, 1 véto !
+    organisme: Yannick Thoulon et Elodie Jacques - Canissimo
 experiences:
+  - annee: 2021 à ce jour
+    description: Fondatrice et gérante d'Anim'Apaise
+    organisme: Anim'Apaise
   - annee: Fin 2019 à ce jour
     description: Compétitrice en obérythmée - Novice
     organisme: Avec mes deux dog-danseurs de compétition
