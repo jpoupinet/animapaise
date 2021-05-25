@@ -34,7 +34,7 @@ const AProposPageTemplate = ({
     <section className="section a-propos">
       <section className="section a-propos-intro">
         <div className="columns">
-          <div className="column is-6">
+          <div className="column is-6 is-flex is-align-items-center">
             <div className="container has-text-centered">
               <PreviewCompatibleImage
                 imageInfo={{ alt: 'Image a propos', image: imageIntro }}
@@ -53,9 +53,9 @@ const AProposPageTemplate = ({
         {
           width > 768 ?
             <div className="columns is-gapless">
-              <div className="column has-background-primary">
+              <div className="column has-background-primary is-flex is-align-items-center">
                 <div className="block has-text-white p-5">
-                  <p className="has-text-justified">{presentation.description}</p>
+                  <p className="has-text-centered">{presentation.description}</p>
                 </div>
               </div>
               <div className="column is-flex is-one-quarter" style={{ maxHeight: '10em' }}>
