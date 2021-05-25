@@ -2,7 +2,7 @@
 templateKey: a-propos-page
 imageIntro: /img/50006367386_0b3f3e5c36_c.jpg
 presentation:
-  image: /img/2021-03-10_06-36-44.jpg
+  image: /img/image-n°19.jpg
   description: Je ne remercierais jamais assez ma Toupie, la jument de ma vie, qui
     a été le premier déclencheur de toute cette folle aventure. Elle ne marche
     plus à nos côtés physiquement aujourd'hui, mais n'est jamais bien loin dans
