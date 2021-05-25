@@ -8,9 +8,12 @@ presentation:
     plus à nos côtés physiquement aujourd'hui, mais n'est jamais bien loin dans
     tout ce que j'entreprends.
 diplomesCertificats:
-  - annee: 2024 - 2027
-    description: Meilleure personne
-    organisme: Fondation des bonnes personnes
+  - annee: "2020"
+    description: Certifiée Intervenante en Médiation par l'Animal
+    organisme: Association de Zoothérapie des Côtes d'Or Formations
+  - annee: "2019"
+    description: Diplôme d'Etat de Conseillère en Économie Sociale et Familiale
+    organisme: Lycée Talensac Etablissement d'Enseignement Général
 formationsStages:
   - annee: 2024 - 2027
     description: Meilleure personne
