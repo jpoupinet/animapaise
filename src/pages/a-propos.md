@@ -27,4 +27,4 @@ Je suis Conseillère en Économie Sociale et Familiale formée en médiation par
 \
 Autant que je m'en souvienne, j'ai toujours été passionnée par les animaux. Après avoir été cavalière de club puis de spectacle aux côtés de mes merveilleux poneys, j'ai découvert le monde du chien grâce à Jäger, le travail au clicker, l'éducation bienveillante et positive ainsi que la folle aventure des sports canins. Dès que j'en ai eu la possibilité je n'ai cessé de me former pour en apprendre davantage sur ce monde passionnant, pour comprendre au mieux le comportement de nos amis à quatre pattes. C'est pourquoi je me forme actuellement en comportement animalier, plus particulièrement canin.\
 \
-Je ne remercierais jamais assez ma Toupie, ma première jument, qui a été le premier déclencheur de toute cette folle aventure. Elle ne marche plus à nos côtés physiquement aujourd'hui, mais n'est jamais bien loin dans tout ce que j'entreprends.
+Je
