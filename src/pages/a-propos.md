@@ -1,9 +1,12 @@
 ---
-templateKey: a-propos-page 
+templateKey: a-propos-page
 imageIntro: /img/36570903202_c609e91097_k.jpg
 presentation:
   image: /img/dsc_6505.jpg
-  description: Quisque dui justo, pretium id nisl at, facilisis egestas tortor. Integer euismod rhoncus erat eu dictum. Morbi finibus vulputate lacus.
+  description: Je ne remercierais jamais assez ma Toupie, ma première jument, qui
+    a été le premier déclencheur de toute cette folle aventure. Elle ne marche
+    plus à nos côtés physiquement aujourd'hui, mais n'est jamais bien loin dans
+    tout ce que j'entreprends.
 diplomesCertificats:
   - annee: 2024 - 2027
     description: Meilleure personne
