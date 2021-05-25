@@ -2,7 +2,7 @@
 templateKey: a-propos-page
 imageIntro: /img/36570903202_c609e91097_k.jpg
 presentation:
-  image: /img/dsc_6505.jpg
+  image: /img/2021-03-10_06-36-44.jpg
   description: Je ne remercierais jamais assez ma Toupie, ma première jument, qui
     a été le premier déclencheur de toute cette folle aventure. Elle ne marche
     plus à nos côtés physiquement aujourd'hui, mais n'est jamais bien loin dans
