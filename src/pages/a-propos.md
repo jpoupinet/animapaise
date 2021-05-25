@@ -49,7 +49,7 @@ experiences:
   - annee: 2021 à ce jour
     description: Fondatrice et gérante d'Anim'Apaise
     organisme: Anim'Apaise
-  - annee: Fin 2019 à ce jour
+  - annee: 2019 à ce jour
     description: Compétitrice en obérythmée - Novice
     organisme: Avec mes deux dog-danseurs de compétition
   - annee: 2019 à ce jour
