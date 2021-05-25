@@ -1,6 +1,6 @@
 ---
 templateKey: a-propos-page 
-imageIntro: /img/dsc_6505.jpg
+imageIntro: /img/36570903202_c609e91097_k.jpg
 presentation:
   image: /img/dsc_6505.jpg
   description: Quisque dui justo, pretium id nisl at, facilisis egestas tortor. Integer euismod rhoncus erat eu dictum. Morbi finibus vulputate lacus.
@@ -20,8 +20,8 @@ experiences:
     description: Meilleure personne
     organisme: Fondation des bonnes personnes
 ---
-Coucou c'est moiiii, Sophiiiiiie !!!!!!11!!
-
-Morbi ac velit eu urna sagittis imperdiet. Sed ultricies sit amet purus at facilisis. Fusce nisi erat, blandit pharetra ipsum non, iaculis scelerisque mi. Donec ac malesuada ante. Aliquam malesuada est nisi, quis suscipit purus commodo vitae.
-
-Nam rhoncus dolor elit. Quisque dui justo, pretium id nisl at, facilisis egestas tortor. Integer euismod rhoncus erat eu dictum. Morbi finibus vulputate lacus, in vulputate felis imperdiet quis. Cras nibh tellus, gravida non elementum in, varius a ante. 
+Je suis Conseillère en Économie Sociale et Familiale formée en médiation par l'animal. Plus jeune j'ai été témoin de la magie du lien entre mes chevaux et des enfants en situation de handicap, cela m'a poussée vers le monde du travail social afin d'aller vers un accompagnement en relation avec les animaux.\
+\
+Autant que je m'en souvienne, j'ai toujours été passionnée par les animaux. Après avoir été cavalière de club puis de spectacle aux côtés de mes merveilleux poneys, j'ai découvert le monde du chien grâce à Jäger, le travail au clicker, l'éducation bienveillante et positive ainsi que la folle aventure des sports canins. Dès que j'en ai eu la possibilité je n'ai cessé de me former pour en apprendre davantage sur ce monde passionnant, pour comprendre au mieux le comportement de nos amis à quatre pattes. C'est pourquoi je me forme actuellement en comportement animalier, plus particulièrement canin.\
+\
+Je ne remercierais jamais assez ma Toupie, ma première jument, qui a été le premier déclencheur de toute cette folle aventure. Elle ne marche plus à nos côtés physiquement aujourd'hui, mais n'est jamais bien loin dans tout ce que j'entreprends.
