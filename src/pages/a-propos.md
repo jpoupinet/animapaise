@@ -11,6 +11,9 @@ diplomesCertificats:
   - annee: "2020"
     description: Certifiée Intervenante en Médiation par l'Animal
     organisme: Association de Zoothérapie des Côtes d'Or Formations
+  - annee: "2020"
+    description: Attestation de connaissance - ACACED n°5049
+    organisme: Zoopro
   - annee: "2019"
     description: Diplôme d'Etat de Conseillère en Économie Sociale et Familiale
     organisme: Lycée Talensac Etablissement d'Enseignement Général
@@ -19,12 +22,21 @@ formationsStages:
     description: Meilleure personne
     organisme: Fondation des bonnes personnes
 experiences:
-  - annee: 2035 - 2037
-    description: Encore meilleure personne
-    organisme: Fondation des bonnes personnes
-  - annee: 2024 - 2027
-    description: Meilleure personne
-    organisme: Fondation des bonnes personnes
+  - annee: Fin 2019 à ce jour
+    description: Compétitrice en obérythmée - Novice
+    organisme: Avec mes deux dog-danseurs de compétition
+  - annee: 2019 à ce jour
+    description: Créatrice de contenu vidéo / partenaire de Danse avec ton Chien
+    organisme: Danse avec ton Chien
+  - annee: 2018 à ce jour
+    description: Compétitrice en agility - Grade 2
+    organisme: Avec mon chien magique, Jäger
+  - annee: 2010 - 2016
+    description: Spectacle équestre
+    organisme: Avec mes trois merveilleux compagnons à sabots
+  - annee: "2013"
+    description: Galop 5
+    organisme: Centre équestre de Quimper
 ---
 Je suis Conseillère en Économie Sociale et Familiale formée en médiation par l'animal. Plus jeune j'ai été témoin de la magie du lien entre mes chevaux et des enfants en situation de handicap, cela m'a poussée vers le monde du travail social afin d'aller vers un accompagnement en relation avec les animaux.
 
