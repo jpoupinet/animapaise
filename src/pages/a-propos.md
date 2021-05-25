@@ -42,6 +42,9 @@ formationsStages:
   - annee: "2020"
     description: Discdog je continue ! Niveau 2
     organisme: Yannick Thoulon - Canissimo
+  - annee: "2020"
+    description: Mini-cours échauffements et récupération
+    organisme: Marie Démaris - Canissimo
 experiences:
   - annee: 2021 à ce jour
     description: Fondatrice et gérante d'Anim'Apaise
