@@ -24,6 +24,21 @@ formationsStages:
   - annee: "2021"
     description: 3, 2, 1 véto !
     organisme: Yannick Thoulon et Elodie Jacques - Canissimo
+  - annee: "2021"
+    description: Initiation hoopers et conduite à distance
+    organisme: Yannick Thoulon et Angélique Hénnuy - Canissimo
+  - annee: "2021"
+    description: "L’approche scientifique : la comprendre, s’en servir"
+    organisme: Stéphanie Deldalle - Muzo+
+  - annee: "2020"
+    description: Structure et flatwork
+    organisme: Camille Nguyen - Muzo+
+  - annee: "2020"
+    description: >-
+      Analyse et modification comportementale 
+
+      & Face à l’environnement : Aider les chiens réactifs, agressifs & phobiques
+    organisme: Lisa Longo - Muzo +
 experiences:
   - annee: 2021 à ce jour
     description: Fondatrice et gérante d'Anim'Apaise
