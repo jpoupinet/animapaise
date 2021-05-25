@@ -45,6 +45,10 @@ formationsStages:
   - annee: "2020"
     description: Mini-cours échauffements et récupération
     organisme: Marie Démaris - Canissimo
+  - annee: 2020 - 2021
+    description: "Webinaires autour de la préparation physique du chien, du
+      comportement canin et classe en ligne Bilan Structural "
+    organisme: "Fanny Walther - AREG Animalcare "
 experiences:
   - annee: 2021 à ce jour
     description: Fondatrice et gérante d'Anim'Apaise
