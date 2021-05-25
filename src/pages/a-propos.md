@@ -49,6 +49,12 @@ formationsStages:
     description: "Webinaires autour de la préparation physique du chien, du
       comportement canin et classe en ligne Bilan Structural "
     organisme: "Fanny Walther - AREG Animalcare "
+  - annee: "2019"
+    description: Stage proprioception fitness canin
+    organisme: Marie Démaris - Dogfit
+  - annee: "2017"
+    description: Stage en présentiel de Disdog Niveau 1
+    organisme: Yannick Thoulon et Camille Nguyen - Canissimo
 experiences:
   - annee: 2021 à ce jour
     description: Fondatrice et gérante d'Anim'Apaise
