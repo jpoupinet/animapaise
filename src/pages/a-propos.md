@@ -17,6 +17,9 @@ diplomesCertificats:
   - annee: "2019"
     description: Diplôme d'Etat de Conseillère en Économie Sociale et Familiale
     organisme: Lycée Talensac Etablissement d'Enseignement Général
+  - annee: "2018"
+    description: BTS Économie Sociale et Familiale
+    organisme: Adonis
 formationsStages:
   - annee: "2021"
     description: Medical Training multi-espèces
