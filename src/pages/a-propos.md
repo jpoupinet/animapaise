@@ -80,6 +80,10 @@ experiences:
   - annee: "2013"
     description: Galop 5
     organisme: Centre équestre de Quimper
+  - annee: 2019 à ce jour
+    description: CESF Coordinatrice de projet au Service d'Accompagnement à la Vie
+      Sociale et Accompagnante au Service d'Accompagnement et d'Aide à Domicile
+    organisme: Association Handisup
 ---
 Je suis Conseillère en Économie Sociale et Familiale formée en médiation par l'animal. Plus jeune j'ai été témoin de la magie du lien entre mes chevaux et des enfants en situation de handicap, cela m'a poussée vers le monde du travail social afin d'aller vers un accompagnement en relation avec les animaux.
 
