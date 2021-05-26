@@ -58,6 +58,9 @@ formationsStages:
   - annee: "2017"
     description: Stage en présentiel de Disdog Niveau 1
     organisme: Yannick Thoulon et Camille Nguyen - Canissimo
+  - annee: "2021"
+    description: Troubles du Spectre Autistique et ses particularités
+    organisme: Centre de Ressources Autisme de Loire-Atlantique
 experiences:
   - annee: 2021 à ce jour
     description: Fondatrice et gérante d'Anim'Apaise
