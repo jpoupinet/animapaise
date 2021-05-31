@@ -3,7 +3,7 @@ templateKey: index-page
 mainpitch:
   title: Trouver de l'apaisement dans la relation avec les animaux
   description: Médiation par l'animal, comportement, activités et sports canins en
-    Loire-Atlantique... Les animaux nous apportent tellement et nous avons
+    Loire-Atlantique. Les animaux nous apportent tellement et nous avons
     réciproquement beaucoup à leur apporter. Venez découvrir ce que nous avons à
     vous apporter dans votre relation à l'animal avec Anim'Apaise.
   image: /img/site.png
