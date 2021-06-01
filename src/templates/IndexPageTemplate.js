@@ -38,7 +38,9 @@ const IndexPageTemplate = ({
               <div className="column is-two-fifths">
                 <div className="container">
                   <h2 className="title is-2">{mainpitch.title}</h2>
-                  <div className="block">{mainpitch.description}</div>
+                  <div className="block">
+                    <p className="is-size-5">{mainpitch.description}</p>
+                  </div>
                 </div>
               </div>
               <div className="column"></div>
