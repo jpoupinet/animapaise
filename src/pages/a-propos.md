@@ -22,6 +22,9 @@ diplomesCertificats:
     organisme: Adonis
 formationsStages:
   - annee: "2021"
+    description: Troubles du Spectre Autistique et ses particularités
+    organisme: Centre Ressources Autisme de Loire-Atlantique
+  - annee: "2021"
     description: Medical Training multi-espèces
     organisme: Iris Castaing - Muzo+
   - annee: "2021"
@@ -58,19 +61,24 @@ formationsStages:
   - annee: "2017"
     description: Stage en présentiel de Disdog Niveau 1
     organisme: Yannick Thoulon et Camille Nguyen - Canissimo
-  - annee: "2021"
-    description: Troubles du Spectre Autistique et ses particularités
-    organisme: Centre de Ressources Autisme de Loire-Atlantique
 experiences:
   - annee: 2021 à ce jour
     description: Fondatrice et gérante d'Anim'Apaise
     organisme: Anim'Apaise
   - annee: 2019 à ce jour
-    description: Compétitrice en obérythmée - Novice
-    organisme: Avec mes deux dog-danseurs de compétition
+    description: Coordinatrice de parcours d'étudiants en situation de handicap au
+      Service d'Accompagnement à la Vie Sociale
+    organisme: Association Handisup
+  - description: Accompagnante auprès d'enfants et jeunes en situation de handicap
+      au Service d'Accompagnement et d'Aide à Domicile
+    organisme: Association Handisup
+    annee: 2019 à ce jour
   - annee: 2019 à ce jour
     description: Créatrice de contenu vidéo / partenaire de Danse avec ton Chien
     organisme: Danse avec ton Chien
+  - annee: 2019 à ce jour
+    description: Compétitrice en obérythmée - Novice
+    organisme: Avec mes deux dog-danseurs de compétition
   - annee: 2018 à ce jour
     description: Compétitrice en agility - Grade 2
     organisme: Avec mon chien magique, Jäger
@@ -80,11 +88,7 @@ experiences:
   - annee: "2013"
     description: Galop 5
     organisme: Centre équestre de Quimper
-  - annee: 2019 à ce jour
-    description: CESF Coordinatrice de projet au Service d'Accompagnement à la Vie
-      Sociale et Accompagnante au Service d'Accompagnement et d'Aide à Domicile
-    organisme: Association Handisup
 ---
 Je suis Conseillère en Économie Sociale et Familiale formée en médiation par l'animal. Plus jeune j'ai été témoin de la magie du lien entre mes chevaux et des enfants en situation de handicap, cela m'a poussée vers le monde du travail social afin d'aller vers un accompagnement en relation avec les animaux.
 
-Autant que je m'en souvienne, j'ai toujours été passionnée par les animaux. Après avoir été cavalière de club, puis de spectacle aux côtés de mes merveilleux poneys, j'ai découvert le monde du chien grâce à Jäger, le travail au clicker, l'éducation bienveillante et positive ainsi que la folle aventure des sports canins. Dès que j'en ai eu la possibilité je n'ai cessé de me former pour en apprendre davantage sur ce monde passionnant, pour comprendre au mieux le comportement de nos amis à quatre pattes. C'est pourquoi je me forme actuellement en comportement animalier, plus particulièrement canin.
+Autant que je m'en souvienne, j'ai toujours été passionnée par les animaux. Après avoir été cavalière de club, puis de spectacle aux côtés de mes merveilleux poneys, j'ai découvert le monde du chien grâce à Jäger, le travail au clicker, l'éducation bienveillante et positive ainsi que la folle aventure des sports canins. Dès que j'en ai eu la possibilité je n'ai cessé de me former pour en apprendre davantage sur ce monde passionnant. C'est pourquoi je suis actuellement une formation pour être comportementaliste canin.
