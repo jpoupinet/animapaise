@@ -63,6 +63,10 @@ const MediationPageTemplate = ({
 };
 
 MediationPageTemplate.propTypes = {
+  content: PropTypes.string,
+  contentComponent: PropTypes.func,
+  imageIntro: PropTypes.object,
+  cartes: PropTypes.object,
 };
 
 export default MediationPageTemplate;
