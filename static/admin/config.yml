@@ -61,6 +61,18 @@ collections:
         name: "mediation"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "mediation-page"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Image", name: "imageIntro", widget: image}
+          - {
+            label: Cartes,
+            name: cartes,
+            widget: object,
+            fields: [
+              {label: Image, name: image, widget: image},
+              {label: Texte, name: texte, widget: string},
+              {label: Lien, name: lien, widget: string},
+            ]
+          }
       - file: "src/pages/comportement.md"
         label: "Comportement canin"
         name: "comportement"
