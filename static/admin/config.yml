@@ -66,7 +66,7 @@ collections:
           - {
             label: Cartes,
             name: cartes,
-            widget: object,
+            widget: list,
             fields: [
               {label: Image, name: image, widget: image},
               {label: Texte, name: texte, widget: string},
