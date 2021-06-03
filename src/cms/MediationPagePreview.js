@@ -9,6 +9,9 @@ const MediationPagePreview = ({ entry }) => {
   if (data) {
     return (
       <MediationPageTemplate
+        content={data.body}
+        imageIntro={data.imageIntro}
+        cartes={data.cartes}
       />
     );
   } else {
@@ -20,6 +23,7 @@ MediationPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
+  widgetFor: PropTypes.func,
 };
 
 export default MediationPagePreview;
