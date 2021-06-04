@@ -3,14 +3,14 @@ templateKey: mediation-page
 imageIntro: /img/49375037576_116e4231ef_k.jpg
 cartes:
   - image: /img/dsc_2158.jpg
-    texte: Ce que les animaux apportent
-    lien: clique
-  - image: /img/dsc_2158.jpg
     texte: Mes collègues à quatre pattes
     lien: super
   - image: /img/dsc_2158.jpg
-    texte: Les prestations proposées
+    texte: Nos prestations et ateliers
     lien: allez
+  - image: /img/dsc_2158.jpg
+    texte: Programme PECCRAM
+    lien: clique
 ---
 La médiation animale est une approche à visée thérapeutique, préventive ou récréative favorisant le bien-être d’un bénéficiaire par le lien avec l’animal.\
 \
