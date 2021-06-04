@@ -12,6 +12,10 @@ cartes:
     texte: Les prestations proposées
     lien: allez
 ---
-Je suis Conseillère en Économie Sociale et Familiale formée en médiation par l'animal. Plus jeune j'ai été témoin de la magie du lien entre mes chevaux et des enfants en situation de handicap, cela m'a poussée vers le monde du travail social afin d'aller vers un accompagnement en relation avec les animaux.
+La médiation animale est une approche à visée thérapeutique, préventive ou récréative favorisant le bien-être d’un bénéficiaire par le lien avec l’animal.\
+\
+Cette approche a comme objectif de mettre en contact des animaux spécifiquement sélectionnés et éduqués avec des personnes fragilisées (personnes souffrant de divers troubles, aussi bien moteurs que cognitifs, psychologiques ou sociaux) afin de provoquer des réactions et interactions positives tout en favorisant le maintien ou l’amélioration de leurs capacités (motrices, sensorielles, émotionnelles, intellectuelles…).
 
-Autant que je m'en souvienne, j'ai toujours été passionnée par les animaux. Après avoir été cavalière de club, puis de spectacle aux côtés de mes merveilleux poneys, j'ai découvert le monde du chien grâce à Jäger, le travail au clicker, l'éducation bienveillante et positive ainsi que la folle aventure des sports canins. Dès que j'en ai eu la possibilité je n'ai cessé de me former pour en apprendre davantage sur ce monde passionnant. C'est pourquoi je suis actuellement une formation pour être comportementaliste canin.
+Avec son regard non jugeant, sa spontanéité et sa capacité d’être dans l’instant présent, l'animal va permettre de favoriser la création d’un lien de confiance et donc de motiver le bénéficiaire dans les actions proposées. Il permet de donner du sens aux efforts tout en faisant naître l’envie de se mobiliser.
+
+L’animal permet de communiquer autrement, d’utiliser des canaux de communication différents et de développer la prise en compte de son émotionnel dans l’interaction. De s’écouter soi tout en prenant en compte cet autre. On peut ainsi dire que l’animal va stimuler sa relation à soi ainsi que celle aux autres.
