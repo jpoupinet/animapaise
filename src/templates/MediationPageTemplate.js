@@ -37,21 +37,18 @@ const MediationPageTemplate = ({
             {
               cartes.map((carte, i) =>
                 <div className="column" key={`carte${i}`}>
-                  <div className="card">
-                    <div className="card-image">
-                      <PreviewCompatibleImage
-                        imageInfo={{ alt: 'Image carte Mediation animale', image: carte.image }}
-                      />
+                  <Link to={`/mediation/${carte.lien}`}>
+                    <div className="card carte-mediation">
+                      <div className="card-image">
+                        <PreviewCompatibleImage
+                          imageInfo={{ alt: 'Image carte Mediation animale', image: carte.image }}
+                        />
+                      </div>
+                      <div className="card-footer">
+                        <span className="card-footer-item">{carte.texte}</span>
+                      </div>
                     </div>
-                    <div className="card-footer">
-                      <Link
-                        to={`/mediation/${carte.lien}`}
-                        className="card-footer-item"
-                      >
-                        {carte.texte}
-                      </Link>
-                    </div>
-                  </div>
+                  </Link>
                 </div>
               )
             }
