@@ -8,7 +8,9 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 const MediationPageTemplate = ({
   content,
   contentComponent,
+  titrePage,
   imageIntro,
+  titreCartes,
   cartes,
 }) => {
   const PageContent = contentComponent || Content;
@@ -24,6 +26,7 @@ const MediationPageTemplate = ({
             />
           </div>
           <div className="column is-8">
+            <h1 className="title is-3 has-text-centered mb-0">{titrePage}</h1>
             <div className="container has-text-centered">
               <PageContent className="content p-6" content={content} />
             </div>
@@ -31,8 +34,9 @@ const MediationPageTemplate = ({
         </div>
       </section>
       {/* Cartes */}
-      <section className="section is-medium has-background-primary mb-6">
+      <section className="section has-background-primary pt-4 mb-6">
         <div className="container">
+          <h2 className="title is-3 has-text-centered has-text-white">{titreCartes}</h2>
           <div className="columns">
             {
               cartes.map((carte, i) =>

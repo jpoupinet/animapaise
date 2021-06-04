@@ -10,7 +10,9 @@ const MediationPagePreview = ({ entry }) => {
     return (
       <MediationPageTemplate
         content={data.body}
+        titrePage={data.titrePage}
         imageIntro={data.imageIntro}
+        titreCartes={data.titreCartes}
         cartes={data.cartes}
       />
     );

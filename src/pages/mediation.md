@@ -1,6 +1,8 @@
 ---
 templateKey: mediation-page
+titrePage: Méditation animale ...
 imageIntro: /img/chat.jpg
+titreCartes: Regarde tout ce qu'on peut faire
 cartes:
   - image: /img/dsc_2158.jpg
     texte: Super truc animal

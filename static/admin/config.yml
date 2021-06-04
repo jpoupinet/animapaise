@@ -62,7 +62,9 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "mediation-page"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Titre page", name: "titrePage", widget: string}
           - {label: "Image", name: "imageIntro", widget: image}
+          - {label: "Titre cartes", name: "titreCartes", widget: string}
           - {
             label: Cartes,
             name: cartes,

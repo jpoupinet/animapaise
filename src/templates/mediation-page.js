@@ -14,7 +14,9 @@ const MediationPage = ({ data }) => {
       <MediationPageTemplate
         content={post.html}
         contentComponent={HTMLContent}
+        titrePage={post.frontmatter.titrePage}
         imageIntro={post.frontmatter.imageIntro}
+        titreCartes={post.frontmatter.titreCartes}
         cartes={post.frontmatter.cartes}
       />
     </Layout>
@@ -32,6 +34,7 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { templateKey: { eq: "mediation-page" } }) {
       html
       frontmatter {
+        titrePage
         imageIntro {
           childImageSharp {
             gatsbyImageData(
@@ -41,6 +44,7 @@ export const pageQuery = graphql`
             )
           }
         }
+        titreCartes
         cartes {
           image {
             childImageSharp {
