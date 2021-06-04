@@ -3,7 +3,7 @@ templateKey: mediation-page
 imageIntro: /img/chat.jpg
 cartes:
   - image: /img/dsc_2158.jpg
-    texte: Pourquoi ces animaux ?
+    texte: Ce que les animaux apportent
     lien: clique
   - image: /img/dsc_2158.jpg
     texte: Mes collègues à quatre pattes
