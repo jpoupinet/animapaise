@@ -4,13 +4,13 @@ imageIntro: /img/49375037576_116e4231ef_k.jpg
 cartes:
   - image: /img/48553953707_77c1525f08_c.jpg
     texte: Mes collègues à quatre pattes
-    lien: super
+    lien: collegues
   - image: /img/dsc_2136.jpg
     texte: Nos prestations et ateliers
-    lien: allez
+    lien: prestations
   - image: /img/44487428284_b6f0d2ab2e_c.jpg
     texte: Programme PECCRAM
-    lien: clique
+    lien: peccram
 ---
 La médiation animale est une approche à visée thérapeutique, préventive ou récréative favorisant le bien-être d’un bénéficiaire par le lien avec l’animal.\
 \
