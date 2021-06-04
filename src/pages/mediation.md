@@ -3,13 +3,13 @@ templateKey: mediation-page
 imageIntro: /img/chat.jpg
 cartes:
   - image: /img/dsc_2158.jpg
-    texte: Super truc animal
-    lien: super
-  - image: /img/dsc_2158.jpg
-    texte: Clique là
+    texte: Pourquoi ces animaux ?
     lien: clique
   - image: /img/dsc_2158.jpg
-    texte: allez stp
+    texte: Mes collègues à quatre pattes
+    lien: super
+  - image: /img/dsc_2158.jpg
+    texte: Les prestations proposées
     lien: allez
 ---
 Je suis Conseillère en Économie Sociale et Familiale formée en médiation par l'animal. Plus jeune j'ai été témoin de la magie du lien entre mes chevaux et des enfants en situation de handicap, cela m'a poussée vers le monde du travail social afin d'aller vers un accompagnement en relation avec les animaux.
