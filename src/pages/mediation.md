@@ -5,7 +5,7 @@ cartes:
   - image: /img/48553953707_77c1525f08_c.jpg
     texte: Mes collègues à quatre pattes
     lien: super
-  - image: /img/dsc_2158.jpg
+  - image: /img/dsc_2136.jpg
     texte: Nos prestations et ateliers
     lien: allez
   - image: /img/44487428284_b6f0d2ab2e_c.jpg
