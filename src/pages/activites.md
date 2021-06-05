@@ -4,7 +4,7 @@ imageIntro: /img/50163601406_2f2ff20102_k.jpg
 titrePage: Les activités et sport à partager avec son chien
 titreCartes: Laissez-vous tenter par...
 cartes:
-  - image: /img/48553953707_77c1525f08_c.jpg
+  - image: /img/51227579113_30d002f457_c.jpg
     texte: L'obérythmée
     lien: oberythmee
   - image: /img/50316184016_7531f73557_c.jpg
