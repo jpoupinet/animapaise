@@ -79,6 +79,11 @@ collections:
         label: "Comportement canin"
         name: "comportement"
         fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "comportement-page"}
+      - file: "src/pages/activites.md"
+        label: "Activités et sports canins"
+        name: "activites"
+        fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "activites-page"}
           - {label: "Image", name: "imageIntro", widget: image}
           - {label: "Titre page", name: "titrePage", widget: string}
@@ -94,11 +99,6 @@ collections:
               {label: Lien, name: lien, widget: string},
             ]
           }
-      - file: "src/pages/activites.md"
-        label: "Activités et sports canins"
-        name: "activites"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "comportement-page"}
       - file: "src/pages/a-propos.md"
         label: "A propos"
         name: "a-propos"
