@@ -1,9 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Link } from 'gatsby';
 
 import Content from '../components/Content';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
+import Cartes from '../components/Cartes';
 
 const MediationPageTemplate = ({
   content,
@@ -37,26 +37,7 @@ const MediationPageTemplate = ({
       <section className="section has-background-primary pt-4 mb-6">
         <div className="container">
           <h2 className="title is-3 has-text-centered has-text-white">{titreCartes}</h2>
-          <div className="columns">
-            {
-              cartes.map((carte, i) =>
-                <div className="column" key={`carte${i}`}>
-                  <Link to={`/mediation/${carte.lien}`}>
-                    <div className="card carte-mediation">
-                      <div className="card-image">
-                        <PreviewCompatibleImage
-                          imageInfo={{ alt: 'Image carte Mediation animale', image: carte.image }}
-                        />
-                      </div>
-                      <div className="card-footer">
-                        <span className="card-footer-item">{carte.texte}</span>
-                      </div>
-                    </div>
-                  </Link>
-                </div>
-              )
-            }
-          </div>
+          <Cartes data={cartes} pageRacine="mediation" />
         </div>
       </section>
     </div>
@@ -66,8 +47,10 @@ const MediationPageTemplate = ({
 MediationPageTemplate.propTypes = {
   content: PropTypes.string,
   contentComponent: PropTypes.func,
+  titrePage: PropTypes.string,
   imageIntro: PropTypes.object,
-  cartes: PropTypes.object,
+  titreCartes: PropTypes.string,
+  cartes: PropTypes.array,
 };
 
 export default MediationPageTemplate;

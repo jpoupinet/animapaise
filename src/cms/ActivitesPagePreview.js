@@ -9,6 +9,11 @@ const ActivitesPagePreview = ({ entry }) => {
   if (data) {
     return (
       <ActivitesPageTemplate
+        imageIntro={data.imageIntro}
+        titrePage={data.titrePage}
+        content={data.body}
+        titreCartes={data.titreCartes}
+        cartes={data.cartes}
       />
     );
   } else {

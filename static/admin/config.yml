@@ -80,6 +80,20 @@ collections:
         name: "comportement"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "activites-page"}
+          - {label: "Image", name: "imageIntro", widget: image}
+          - {label: "Titre page", name: "titrePage", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Titre cartes", name: "titreCartes", widget: string}
+          - {
+            label: Cartes,
+            name: cartes,
+            widget: list,
+            fields: [
+              {label: Image, name: image, widget: image},
+              {label: Texte, name: texte, widget: string},
+              {label: Lien, name: lien, widget: string},
+            ]
+          }
       - file: "src/pages/activites.md"
         label: "Activités et sports canins"
         name: "activites"
