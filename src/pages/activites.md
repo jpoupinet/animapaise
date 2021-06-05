@@ -1,6 +1,6 @@
 ---
 templateKey: activites-page
-imageIntro: /img/50649678932_c2148c9015_k.jpg
+imageIntro: /img/dsc_6505.jpg
 titrePage: Partenaires de vie, partenaires de sport
 titreCartes: Laissez-vous tenter par...
 cartes:
@@ -15,6 +15,6 @@ cartes:
     lien: medical-training
   - texte: Le shaping
     lien: shaping
-    image: /img/50814010578_536ba00ce4_c.jpg
+    image: /img/49335580906_3f9e4e3792_c.jpg
 ---
 Il existe bien des activités à partager avec son chien pour renforcer la relation qu'on entretient avec eux, le dépenser mentalement et physiquement. Il existe plein d'apprentissages à mettre en place pour les valoriser, leur offrir des espaces de choix, leur permettre d'être acteurs de ces apprentissages. Venez découvrir ce qu'Anim'Apaise vous propose de partager avec votre chien au quotidien.
