@@ -1,23 +1,20 @@
 ---
 templateKey: activites-page
-imageIntro: /img/dsc_2158.jpg
-titrePage: Qu'est-ce que la médiation par l'animal ?
-titreCartes: Pour en savoir plus sur ce que l'on propose
+imageIntro: /img/50649678932_c2148c9015_k.jpg
+titrePage: Partenaires de vie, partenaires de sport
+titreCartes: Laissez-vous tenter par...
 cartes:
   - image: /img/48553953707_77c1525f08_c.jpg
-    texte: Mes collègues à quatre pattes
-    lien: collegues
-  - image: /img/dsc_2136.jpg
-    texte: Nos prestations et ateliers
-    lien: prestations
-  - image: /img/44487428284_b6f0d2ab2e_c.jpg
-    texte: Programme PECCRAM
-    lien: peccram
+    texte: L'obérythmée
+    lien: oberythmee
+  - image: /img/50316184016_7531f73557_c.jpg
+    texte: L'agility
+    lien: agility
+  - image: /img/51228088719_a788ac669d_c.jpg
+    texte: Le medical-training
+    lien: medical-training
+  - texte: Le shaping
+    lien: shaping
+    image: /img/50814010578_536ba00ce4_c.jpg
 ---
-La médiation animale est une approche à **visée thérapeutique, préventive ou récréative** favorisant le bien-être d’un bénéficiaire par le lien avec l’animal.\
-\
-Cette approche a comme objectif de mettre en contact des animaux spécifiquement **sélectionnés et éduqués** avec **tout type de public** (personnes en situation de handicap -moteur, psychique, mental, sensoriel, TED, pluri/polyhandicap...-, personnes âgées, jeunes enfants, adultes ou enfants fragilisés par leur parcours de vie...) afin de *provoquer des réactions et interactions positives tout en favorisant le maintien ou l’amélioration de leurs capacités* (motrices, sensorielles, émotionnelles, intellectuelles…).
-
-Avec son regard non jugeant, sa spontanéité et sa capacité d’être dans l’instant présent, l'animal va permettre de **favoriser la création d’un lien de confiance** et donc de motiver le bénéficiaire dans les actions proposées. Il permet de donner du **sens aux efforts** tout en faisant naître l’envie de se mobiliser.
-
-L’animal permet de **communiquer autrement**, d’utiliser des canaux de communication différents et de développer la prise en compte de son émotionnel dans l’interaction. De s’écouter soi tout en prenant en compte cet autre. *On peut ainsi dire que l’animal va stimuler sa relation à soi ainsi que celle aux autres.*
+Il existe bien des activités à partager avec son chien pour renforcer la relation qu'on entretient avec eux, le dépenser mentalement et physiquement. Il existe plein d'apprentissages à mettre en place pour les valoriser, leur offrir des espaces de choix, leur permettre d'être acteurs de ces apprentissages. Venez découvrir ce qu'Anim'Apaise vous propose de partager avec votre chien au quotidien.
