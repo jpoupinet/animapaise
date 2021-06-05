@@ -1,6 +1,6 @@
 ---
 templateKey: activites-page
-imageIntro: /img/50163601406_2f2ff20102_k.jpg
+imageIntro: /img/51228442110_7cc6b564b4_k.jpg
 titrePage: Les activités et sports à partager avec son chien
 titreCartes: Laissez-vous tenter par...
 cartes:
