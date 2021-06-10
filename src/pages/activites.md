@@ -17,4 +17,4 @@ cartes:
     lien: shaping
     image: /img/49335580906_3f9e4e3792_c.jpg
 ---
-Il existe bien des activités à partager avec son chien pour renforcer la relation qu'on entretient avec eux, le dépenser mentalement et physiquement. Il existe plein d'apprentissages à mettre en place pour les valoriser, leur offrir des espaces de choix, leur permettre d'être acteurs de ces apprentissages. Venez découvrir ce qu'Anim'Apaise vous propose de partager avec votre chien au quotidien.
+Il existe bien des activités à partager avec son chien pour renforcer la relation qu'on entretient avec lui, le dépenser mentalement et physiquement. Il existe plein d'apprentissages à mettre en place pour le valoriser, lui offrir des espaces de choix, lui permettre d'être acteur de ces apprentissages. Venez découvrir ce qu'Anim'Apaise vous propose de partager avec votre chien au quotidien.

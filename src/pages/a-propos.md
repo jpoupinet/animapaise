@@ -1,6 +1,6 @@
 ---
 templateKey: a-propos-page
-imageIntro: /img/47858099602_dc1827e053_k.jpg
+imageIntro: /img/2021-06-06_01-06-08.jpg
 presentation:
   image: /img/image-n°19.jpg
   description: Je ne remercierais jamais assez ma Toupie, la jument de ma vie, qui
