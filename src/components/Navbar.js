@@ -18,6 +18,8 @@ const Navbar = () => {
   return (
     <nav
       className="navbar is-primary"
+      role="navigation"
+      aria-label="navigation"
     >
       <div className="container">
         <div className="navbar-brand">
@@ -71,9 +73,20 @@ const Navbar = () => {
           className={`navbar-menu ${navbarActiveClass}`}
         >
           <div className="navbar-start has-text-centered">
-            <Link className="navbar-item" to="/mediation">
-              MÉDIATION ANIMALE
-            </Link>
+            <div className="navbar-item has-dropdown is-hoverable">
+              <Link className="navbar-link is-arrowless" to="/mediation">MÉDIATION ANIMALE</Link>
+              <div className="navbar-dropdown">
+                <Link className="navbar-item" to="/mediation/collegues">
+                  Mes collègues à quatre pattes
+                </Link>
+                <Link className="navbar-item" to="/mediation/prestations">
+                  Nos prestations et ateliers
+                </Link>
+                <Link className="navbar-item" to="/mediation/peccram">
+                  Programme PECCRAM
+                </Link>
+              </div>
+            </div>
             <Link className="navbar-item" to="/comportement">
               COMPORTEMENT CANIN
             </Link>
