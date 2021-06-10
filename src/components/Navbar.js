@@ -90,9 +90,25 @@ const Navbar = () => {
             <Link className="navbar-item" to="/comportement">
               COMPORTEMENT CANIN
             </Link>
-            <Link className="navbar-item" to="/activites">
-              ACTIVITÉS ET SPORTS CANINS
-            </Link>
+            <div className="navbar-item has-dropdown is-hoverable">
+              <Link className="navbar-link is-arrowless" to="/activites">
+                ACTIVITÉS ET SPORTS CANINS
+              </Link>
+              <div className="navbar-dropdown">
+                <Link className="navbar-item" to="/activites/oberythmee">
+                  Obérythmée
+                </Link>
+                <Link className="navbar-item" to="/activites/agility">
+                  Agility
+                </Link>
+                <Link className="navbar-item" to="/activites/medical-training">
+                  Medical training
+                </Link>
+                <Link className="navbar-item" to="/activites/shaping">
+                  Shaping
+                </Link>
+              </div>
+            </div>
             <Link className="navbar-item" to="/a-propos">
               À PROPOS
             </Link>
