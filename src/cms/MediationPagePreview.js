@@ -14,6 +14,7 @@ const MediationPagePreview = ({ entry }) => {
         imageIntro={data.imageIntro}
         titreCartes={data.titreCartes}
         cartes={data.cartes}
+        citation={data.citation}
       />
     );
   } else {

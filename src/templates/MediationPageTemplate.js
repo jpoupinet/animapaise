@@ -12,6 +12,7 @@ const MediationPageTemplate = ({
   imageIntro,
   titreCartes,
   cartes,
+  citation,
 }) => {
   const PageContent = contentComponent || Content;
 
@@ -34,10 +35,17 @@ const MediationPageTemplate = ({
         </div>
       </section>
       {/* Cartes */}
-      <section className="section has-background-primary pt-4 mb-6">
+      <section className="section has-background-primary pt-4">
         <div className="container">
           <h2 className="title is-3 has-text-centered has-text-white">{titreCartes}</h2>
           <Cartes data={cartes} pageRacine="mediation" />
+        </div>
+      </section>
+      {/* Citation */}
+      <section className="section is-medium">
+        <div className="container has-text-centered citation">
+          <p className="is-size-3 has-text-grey-dark mb-2">{citation.texte}</p>
+          <h3 className="title is-4 has-text-grey-light">{citation.auteur}</h3>
         </div>
       </section>
     </div>
@@ -51,6 +59,7 @@ MediationPageTemplate.propTypes = {
   imageIntro: PropTypes.object,
   titreCartes: PropTypes.string,
   cartes: PropTypes.array,
+  citation: PropTypes.object,
 };
 
 export default MediationPageTemplate;

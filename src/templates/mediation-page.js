@@ -18,6 +18,7 @@ const MediationPage = ({ data }) => {
         imageIntro={post.frontmatter.imageIntro}
         titreCartes={post.frontmatter.titreCartes}
         cartes={post.frontmatter.cartes}
+        citation={post.frontmatter.citation}
       />
     </Layout>
   )
@@ -57,6 +58,10 @@ export const pageQuery = graphql`
           }
           texte
           lien
+        }
+        citation {
+          texte
+          auteur
         }
       }
     }

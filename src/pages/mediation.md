@@ -13,6 +13,9 @@ cartes:
   - image: /img/44487428284_b6f0d2ab2e_c.jpg
     texte: Programme PECCRAM
     lien: peccram
+citation:
+  texte: Dans la vie, il faut être gentil
+  auteur: Moi
 ---
 La médiation animale est une approche à **visée thérapeutique, préventive ou récréative** favorisant le bien-être d’un bénéficiaire par le lien avec l’animal.\
 \
