@@ -1,6 +1,6 @@
 ---
 templateKey: collegues-page
-titrePage: Médiation par l'animal, comportement, activités et sports canins
+titrePage: Qui sont mes collègues à quatre pattes ?
 presentations:
   - photo: /img/dsc_2001.jpg
     titre: Jäger
