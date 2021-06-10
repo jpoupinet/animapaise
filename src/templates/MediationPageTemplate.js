@@ -24,11 +24,12 @@ const MediationPageTemplate = ({
           <div className="column is-4">
             <PreviewCompatibleImage
               imageInfo={{ alt: 'Image Mediation animale', image: imageIntro }}
+              imageStyle={{ maxHeight: '50em' }}
             />
           </div>
-          <div className="column is-8">
+          <div className="column is-8 is-flex is-flex-direction-column">
             <h1 className="title is-3 has-text-centered mb-0">{titrePage}</h1>
-            <div className="container has-text-centered">
+            <div className="container has-text-centered is-flex is-align-items-center">
               <PageContent className="content p-6" content={content} />
             </div>
           </div>
