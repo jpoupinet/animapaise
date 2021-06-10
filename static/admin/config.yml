@@ -30,7 +30,7 @@ collections:
             fields: [
               {label: Heading, name: heading, widget: string},
               {label: Description, name: description, widget: string},
-              {label: Blurbs, name: blurbs, widget: list, fields: [
+              {label: Icones, name: blurbs, widget: list, fields: [
                 {label: Image, name: image, widget: image},
                 {label: Text, name: text, widget: text},
               ]}
@@ -139,4 +139,29 @@ collections:
               {label: "Description", name: "description", widget: text},
               {label: "Organisme", name: "organisme", widget: text},
             ]}
-
+      - file: "src/pages/mediation/collegues.md"
+        label: "Collègues"
+        name: "collegues"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "collegues-page"}
+          - {label: "Titre page", name: "titrePage", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {
+            label: Presentations,
+            name: presentations,
+            widget: list,
+            fields: [
+              {label: Photo, name: photo, widget: image},
+              {label: Titre, name: titre, widget: string},
+              {label: Description, name: description, widget: text},
+            ]
+          }
+          - {
+            label: Icones,
+            name: blurbs,
+            widget: list,
+            fields: [
+              {label: Image, name: image, widget: image},
+              {label: Text, name: text, widget: text},
+            ]
+          }
