@@ -3,27 +3,33 @@ templateKey: collegues-page
 titrePage: Médiation par l'animal, comportement, activités et sports canins
 presentations:
   - photo: /img/dsc_2001.jpg
-    titre: Médiation par l'animal
+    titre: Jäger
     description: >-
       La médiation animale a pour objectif de favoriser le bien-être d'un
       bénéficiaire par le lien avec l'animal. 
 
       Anim'Apaise propose des accompagnements et ateliers à visée thérapeutique, préventive ou récréative adaptés aux besoins du public concerné.
   - photo: /img/dsc_2158.jpg
-    titre: Soins coopératifs
+    titre: Navi
     description: Les soins en coopération ont pour objectif de rendre l'animal
       acteur des soins ou manipulations proposées par son gardien. Anim'Apaise
       se base sur cette approche pour les ateliers de médiation animale auprès
       de ses animaux. Il est également proposé des cours ou stages avec votre
       animal pour vous initier à ces méthodes.
   - photo: /img/dsc_8605.jpg
-    titre: Obérythmée
+    titre: Tonerre
     description: L'obérythmée, ou dog-dancing, est une discipline canine consistant
       à réaliser une chorégraphie en musique avec son chien. Cette chorégraphie
       inclue des tours connus par le chien. Anim'Apaise propose des cours ou
       stages afin de découvrir la discipline, créer sa première chorégraphie et
       apprendre de nouveaux tours à votre chien. Il est également possible
       d'inclure cette discipline dans les ateliers de médiation animale.
+  - titre: Uskyna
+    description: ...
+    photo: /img/2021-06-06_01-06-08.jpg
+  - titre: Maggie
+    description: ...
+    photo: /img/dsc_2158.jpg
 blurbs:
   - image: /img/love.png
     text: Chaque individu se doit d'être respecté dans son intégrité avec ses forces
@@ -35,8 +41,8 @@ blurbs:
       d'apaisement et de sécurité à leurs côtés.
   - image: /img/training.png
     text: "Le renforcement positif va permettre d'entretenir une relation équilibrée
-      avec son animal. Cette approche respecte les processus d'apprentissage
-      de tout individu. "
+      avec son animal. Cette approche respecte les processus d'apprentissage de
+      tout individu. "
 ---
 La médiation animale est une approche à **visée thérapeutique, préventive ou récréative** favorisant le bien-être d’un bénéficiaire par le lien avec l’animal.\
 \
