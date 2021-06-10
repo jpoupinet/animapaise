@@ -68,7 +68,12 @@ const ColleguesPageTemplate = ({
                     <PreviewCompatibleImage imageInfo={item} />
                   </div>
                 </div>
-                <div className="block has-text-centered">{item.text}</div>
+                <div
+                  className="block has-text-centered has-text-primary
+                    is-size-3 has-text-weight-bold"
+                >
+                  {item.text}
+                </div>
               </section>
             </div>
           ))}
