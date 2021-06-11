@@ -39,7 +39,12 @@ presentations:
       de donner.
     photo: /img/2021-06-11_01-07-06.jpg
   - titre: Maggie
-    description: "Maggie est une européenne écaille de tortue née le 30 avril 2016. "
+    description: "Maggie est une européenne écaille de tortue née le 30 avril 2016.
+      Son plus grand charme est son rapport à l'homme. Sa spécialité est sa
+      manière de se jeter par terre sous l'effet des caresses. Elle est en
+      recherche quasi constante d'interaction, mais saura aussi signifier quand
+      elle ne souhaite plus de contact. Malicieuse et gourmande, elle pourra
+      aussi interagir autrement que par le contact physique. "
     photo: /img/51240649069_257dd0d501_c.jpg
 blurbs:
   - image: /img/love.png
