@@ -31,14 +31,14 @@ presentations:
     description: ...
     photo: /img/dsc_2158.jpg
 blurbs:
-  - image: /img/pet-house.png
-    text: Tous les animaux, quelle que soit l'espèce, sont bienveillants de nature.
-      Leur spontanéité et leur regard non jugeant provoquent un sentiment
-      d'apaisement et de sécurité à leurs côtés.
   - image: /img/love.png
     text: Chaque individu se doit d'être respecté dans son intégrité avec ses forces
       comme ses faiblesses afin de pouvoir être valorisé lors de chaque effort
       ou progrès.
+  - image: /img/pet-house.png
+    text: Tous les animaux, quelle que soit l'espèce, sont bienveillants de nature.
+      Leur spontanéité et leur regard non jugeant provoquent un sentiment
+      d'apaisement et de sécurité à leurs côtés.
   - image: /img/training.png
     text: "Le renforcement positif va permettre d'entretenir une relation équilibrée
       avec son animal. Cette approche respecte les processus d'apprentissage de
