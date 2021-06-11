@@ -7,7 +7,7 @@ mainpitch:
     apporter. Venez nous rencontrer en Loire-Atlantique (44) et alentours, afin
     de découvrir ce que nous avons à vous apporter dans votre relation à
     l'animal.
-  image: /img/site.png
+  image: /img/51239880121_25730801ce_c.jpg
 intro:
   heading: La bienveillance au coeur de l'accompagnement
   description: "Que ça soit auprès de tout humain ou auprès de tout animal,
