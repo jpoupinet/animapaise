@@ -4,26 +4,30 @@ titrePage: Qui sont mes collègues à quatre pattes ?
 presentations:
   - photo: /img/2021-06-11_01-09-27.jpg
     titre: Jäger
-    description: "Jäger est un croisé border collie / dalmatien né le 11/05/2014. Un
+    description: Jäger est un croisé border collie / dalmatien né le 11/05/2014. Un
       grand cœur tendre qui se fera un plaisir d'offrir des câlins dont lui seul
       a le secret. Il apprécie toutes les activités qu'on lui propose tant que
-      ses envies de pauses sont respectées et qu'on ne le contraint pas
-      physiquement comme psychiquement. "
+      ses demandes d'une pause sont respectées et qu'on ne le contraint pas
+      physiquement comme psychiquement. C'est un chien très joueur et très
+      volontaire, il ne résistera pas devant un jouet lancé ou des récompenses à
+      retrouver.
   - photo: /img/2021-06-11_01-09-13.jpg
     titre: Navi
-    description: Les soins en coopération ont pour objectif de rendre l'animal
-      acteur des soins ou manipulations proposées par son gardien. Anim'Apaise
-      se base sur cette approche pour les ateliers de médiation animale auprès
-      de ses animaux. Il est également proposé des cours ou stages avec votre
-      animal pour vous initier à ces méthodes.
+    description: "Navi est une berger blanc suisse née le 01/11/2016. Une chienne
+      réservée au premier abord, qui n'est pas une grande fan du contact
+      tactile. Cependant très gourmande elle saura donné sa confiance à qui sait
+      prendre son temps (et a quelques gâteaux dans ses poches). Une chienne qui
+      par son approche toute en douceur saura charmer les plus réservés. Sa
+      présence sera très intéressante pour apprendre à prendre son temps dans la
+      relation et valoriser les bénéficiaires qui pourront échanger en lui
+      offrant une approche calme et en douceur. "
   - photo: /img/2021-06-11_01-06-53.jpg
     titre: Tonerre
-    description: L'obérythmée, ou dog-dancing, est une discipline canine consistant
-      à réaliser une chorégraphie en musique avec son chien. Cette chorégraphie
-      inclue des tours connus par le chien. Anim'Apaise propose des cours ou
-      stages afin de découvrir la discipline, créer sa première chorégraphie et
-      apprendre de nouveaux tours à votre chien. Il est également possible
-      d'inclure cette discipline dans les ateliers de médiation animale.
+    description: Tonerre est un petit poney croisé shetland né en 2004. Un poney qui
+      sait être très doux comme facétieux selon les personnes avec qui il
+      interagit. Il est très gourmand et ne résistera jamais à une friandise
+      qu'on pourra lui présenter. Il peut être très dynamique comme très calme
+      selon l'activité proposé, mais toujours partant pour participer.
   - titre: Uskyna
     description: ...
     photo: /img/2021-06-11_01-07-06.jpg
