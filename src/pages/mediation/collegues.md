@@ -26,7 +26,7 @@ presentations:
       d'inclure cette discipline dans les ateliers de médiation animale.
   - titre: Uskyna
     description: ...
-    photo: /img/2021-06-11_01-06-45.jpg
+    photo: /img/2021-06-11_01-07-06.jpg
   - titre: Maggie
     description: ...
     photo: /img/dsc_2158.jpg
