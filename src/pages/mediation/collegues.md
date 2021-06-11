@@ -19,7 +19,7 @@ presentations:
       sait prendre son temps (et qui a quelques gâteaux dans ses poches). Une
       chienne qui par son approche toute en douceur saura charmer les plus
       réservés. Sa présence sera très intéressante pour apprendre à prendre son
-      temps dans la relation et valoriser leur capacité à entrer en lien. "
+      temps dans la relation et valoriser la capacité à entrer en lien. "
   - photo: /img/2021-06-11_01-06-53.jpg
     titre: Tonerre
     description: Tonerre est un petit poney croisé shetland né en 2004. Un poney qui
