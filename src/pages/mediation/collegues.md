@@ -15,12 +15,12 @@ presentations:
     titre: Navi
     description: "Navi est une berger blanc suisse née le 01/11/2016. Une chienne
       réservée au premier abord, qui n'est pas une grande fan du contact
-      tactile. Cependant très gourmande elle saura donné sa confiance à qui sait
-      prendre son temps (et a quelques gâteaux dans ses poches). Une chienne qui
-      par son approche toute en douceur saura charmer les plus réservés. Sa
-      présence sera très intéressante pour apprendre à prendre son temps dans la
-      relation et valoriser les bénéficiaires qui pourront échanger en lui
-      offrant une approche calme et en douceur. "
+      tactile. Cependant très gourmande elle saura donner sa confiance à qui
+      sait prendre son temps (et qui a quelques gâteaux dans ses poches). Une
+      chienne qui par son approche toute en douceur saura charmer les plus
+      réservés. Sa présence sera très intéressante pour apprendre à prendre son
+      temps dans la relation et valoriser les bénéficiaires qui pourront
+      échanger en lui offrant une approche calme et en douceur. "
   - photo: /img/2021-06-11_01-06-53.jpg
     titre: Tonerre
     description: Tonerre est un petit poney croisé shetland né en 2004. Un poney qui
