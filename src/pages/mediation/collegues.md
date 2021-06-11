@@ -4,11 +4,11 @@ titrePage: Qui sont mes collègues à quatre pattes ?
 presentations:
   - photo: /img/2021-06-11_01-09-27.jpg
     titre: Jäger
-    description: >-
-      La médiation animale a pour objectif de favoriser le bien-être d'un
-      bénéficiaire par le lien avec l'animal. 
-
-      Anim'Apaise propose des accompagnements et ateliers à visée thérapeutique, préventive ou récréative adaptés aux besoins du public concerné.
+    description: "Jäger est un croisé border collie / dalmatien né le 11/05/2014. Un
+      grand cœur tendre qui se fera un plaisir d'offrir des câlins dont lui seul
+      a le secret. Il apprécie toutes les activités qu'on lui propose tant que
+      ses envies de pauses sont respectées et qu'on ne le contraint pas
+      physiquement comme psychiquement. "
   - photo: /img/2021-06-11_01-09-13.jpg
     titre: Navi
     description: Les soins en coopération ont pour objectif de rendre l'animal
