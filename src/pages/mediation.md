@@ -14,8 +14,9 @@ cartes:
     texte: Programme PECCRAM
     lien: peccram
 citation:
-  texte: Dans la vie, il faut être gentil
-  auteur: Moi
+  texte: |
+    "Les yeux des animaux ont le pouvoir de parler un langage extraordinaire” 
+  auteur: Martin BUBER
 ---
 La médiation animale est une approche à **visée thérapeutique, préventive ou récréative** favorisant le bien-être d’un bénéficiaire par le lien avec l’animal.\
 \
