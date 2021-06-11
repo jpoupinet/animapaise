@@ -29,7 +29,7 @@ presentations:
     photo: /img/2021-06-11_01-07-06.jpg
   - titre: Maggie
     description: ...
-    photo: /img/dsc_2158.jpg
+    photo: /img/51240649069_257dd0d501_c.jpg
 blurbs:
   - image: /img/love.png
     text: Chaque individu se doit d'être respecté dans son intégrité avec ses forces
