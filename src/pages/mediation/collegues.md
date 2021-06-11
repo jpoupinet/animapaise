@@ -47,12 +47,12 @@ presentations:
       aussi interagir autrement que par le contact physique. "
     photo: /img/51240649069_257dd0d501_c.jpg
 blurbs:
-  - image: /img/love.png
-    text: Coopération et consentement
-  - image: /img/training.png
+  - image: /img/horse.png
     text: Bien-être physique et psychique
-  - image: /img/pet-house.png
+  - image: /img/dog-training-1-.png
     text: Education positive et bienveillante
+  - image: /img/pets.png
+    text: Coopération et consentement
 ---
 **Chiens, poneys et chats** m'accompagnent au quotidien mais également lors des ateliers proposés. Tous avec leur **caractère**, leur **tempérament**, je fais en sorte de leur proposer de s'investir dans des activités avec lesquelles ils seront le plus à l'aise possible. ***Leur bien-être en séance est une de mes priorité.*** Ma vigilance quant au respect de cet aspect permet de garantir une **sécurité** supplémentaire au contact du public. 
 
