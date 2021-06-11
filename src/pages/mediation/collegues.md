@@ -28,7 +28,8 @@ presentations:
       interagit. Il est très gourmand et ne résistera jamais à une friandise
       qu'on pourra lui présenter. Il peut être très dynamique comme très calme
       selon l'activité proposée, mais toujours partant pour participer. On
-      l'appelle le poney Bisounours, vous découvrirez par vous même pourquoi.
+      l'appelle le poney Bisounours, vous pourrez découvrir par vous même
+      pourquoi ce surnom.
   - titre: Uskyna
     description: Uskyna est une ponette haflinger née le 10/05/2008. Cette jument
       est une vraie bout en train au quotidien. Elle est spécialiste des
