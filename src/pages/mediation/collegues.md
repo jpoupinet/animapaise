@@ -44,10 +44,6 @@ blurbs:
       avec son animal. Cette approche respecte les processus d'apprentissage de
       tout individu. "
 ---
-La médiation animale est une approche à **visée thérapeutique, préventive ou récréative** favorisant le bien-être d’un bénéficiaire par le lien avec l’animal.\
-\
-Cette approche a comme objectif de mettre en contact des animaux spécifiquement **sélectionnés et éduqués** avec **tout type de public** (personnes en situation de handicap -moteur, psychique, mental, sensoriel, TED, pluri/polyhandicap...-, personnes âgées, jeunes enfants, adultes ou enfants fragilisés par leur parcours de vie...) afin de *provoquer des réactions et interactions positives tout en favorisant le maintien ou l’amélioration de leurs capacités* (motrices, sensorielles, émotionnelles, intellectuelles…).
+**Chiens, poneys et chats** m'accompagnent au quotidien mais également lors des ateliers proposés. Tous avec leur **caractère**, leur **tempérament**, je fais en sorte de leur proposer de s'investir dans des activités avec lesquelles ils seront le plus à l'aise possible. ***Leur bien-être en séance est une de mes priorité.*** Ma vigilance quant au respect de cet aspect permet de garantir une **sécurité** supplémentaire au contact du public. 
 
-Avec son regard non jugeant, sa spontanéité et sa capacité d’être dans l’instant présent, l'animal va permettre de **favoriser la création d’un lien de confiance** et donc de motiver le bénéficiaire dans les actions proposées. Il permet de donner du **sens aux efforts** tout en faisant naître l’envie de se mobiliser.
-
-L’animal permet de **communiquer autrement**, d’utiliser des canaux de communication différents et de développer la prise en compte de son émotionnel dans l’interaction. De s’écouter soi tout en prenant en compte cet autre. *On peut ainsi dire que l’animal va stimuler sa relation à soi ainsi que celle aux autres.*
+Ils bénéficient tous d'un ***suivi vétérinaire, ostéopathe et autres suivis*** spécifiques à leurs besoins personnels et liés à leur espèce. Ils ont également des **soins réguliers** garantissant leur bonne santé et la sécurité des bénéficiaires.
