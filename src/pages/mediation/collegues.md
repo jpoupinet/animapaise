@@ -7,7 +7,7 @@ presentations:
     description: Jäger est un croisé border collie / dalmatien né le 11/05/2014. Un
       grand cœur tendre qui se fera un plaisir d'offrir des câlins dont lui seul
       a le secret. Il apprécie toutes les activités qu'on lui propose tant que
-      ses demandes d'une pause sont respectées et qu'on ne le contraint pas
+      ses demandes de pauses sont respectées et qu'on ne le contraint pas
       physiquement comme psychiquement. C'est un chien très joueur et très
       volontaire, il ne résistera pas devant un jouet lancé ou des récompenses à
       retrouver.
