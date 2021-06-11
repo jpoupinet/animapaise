@@ -32,17 +32,11 @@ presentations:
     photo: /img/51240649069_257dd0d501_c.jpg
 blurbs:
   - image: /img/love.png
-    text: Chaque individu se doit d'être respecté dans son intégrité avec ses forces
-      comme ses faiblesses afin de pouvoir être valorisé lors de chaque effort
-      ou progrès.
+    text: Coopération et consentement
   - image: /img/pet-house.png
-    text: Tous les animaux, quelle que soit l'espèce, sont bienveillants de nature.
-      Leur spontanéité et leur regard non jugeant provoquent un sentiment
-      d'apaisement et de sécurité à leurs côtés.
+    text: Education positive et bienveillante
   - image: /img/training.png
-    text: "Le renforcement positif va permettre d'entretenir une relation équilibrée
-      avec son animal. Cette approche respecte les processus d'apprentissage de
-      tout individu. "
+    text: Intégrité physique et psychique
 ---
 **Chiens, poneys et chats** m'accompagnent au quotidien mais également lors des ateliers proposés. Tous avec leur **caractère**, leur **tempérament**, je fais en sorte de leur proposer de s'investir dans des activités avec lesquelles ils seront le plus à l'aise possible. ***Leur bien-être en séance est une de mes priorité.*** Ma vigilance quant au respect de cet aspect permet de garantir une **sécurité** supplémentaire au contact du public. 
 
