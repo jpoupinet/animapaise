@@ -29,10 +29,10 @@ presentations:
       qu'on pourra lui présenter. Il peut être très dynamique comme très calme
       selon l'activité proposé, mais toujours partant pour participer.
   - titre: Uskyna
-    description: ...
+    description: "Uskyna est une ponette haflinger née le 10/05/2008. "
     photo: /img/2021-06-11_01-07-06.jpg
   - titre: Maggie
-    description: ...
+    description: Maggie est une européenne écaille de tortue née le 30 avril 2016.
     photo: /img/51240649069_257dd0d501_c.jpg
 blurbs:
   - image: /img/love.png
