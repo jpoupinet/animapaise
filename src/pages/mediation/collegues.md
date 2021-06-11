@@ -29,10 +29,17 @@ presentations:
       qu'on pourra lui présenter. Il peut être très dynamique comme très calme
       selon l'activité proposée, mais toujours partant pour participer.
   - titre: Uskyna
-    description: "Uskyna est une ponette haflinger née le 10/05/2008. "
+    description: Uskyna est une ponette haflinger née le 10/05/2008. Cette jument
+      est une vraie bout en train au quotidien. Elle est spécialiste des
+      "sourires" à s'en décrocher la bouche. Uskyna fera le bonheur des plus
+      grands et/ou plus assurés de part son gabarit imposant. C'est une jument
+      qui réfléchi beaucoup et qui a besoin de comprendre ce qu'on lui demande.
+      Elle amènera les bénéficiaires à être présents dans l'instant lors des
+      ateliers, et elle espère décrocher autant de sourires qu'elle est capable
+      de donner.
     photo: /img/2021-06-11_01-07-06.jpg
   - titre: Maggie
-    description: Maggie est une européenne écaille de tortue née le 30 avril 2016.
+    description: "Maggie est une européenne écaille de tortue née le 30 avril 2016. "
     photo: /img/51240649069_257dd0d501_c.jpg
 blurbs:
   - image: /img/love.png
