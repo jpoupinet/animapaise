@@ -79,7 +79,7 @@ const Navbar = () => {
                 <Link className="navbar-item" to="/mediation/collegues">
                   Mes collègues à quatre pattes
                 </Link>
-                <Link className="navbar-item" to="/mediation/prestations">
+                <Link className="navbar-item" to="/mediation/prestations-ma">
                   Nos prestations et ateliers
                 </Link>
                 <Link className="navbar-item" to="/mediation/peccram">

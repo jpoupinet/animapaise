@@ -1,0 +1,3 @@
+---
+templateKey: prestations-ma-page
+---

@@ -84,6 +84,37 @@ collections:
               {label: "Auteur / Autrice", name: auteur, widget: string}
             ]
           }
+      - file: "src/pages/mediation/collegues.md"
+        label: "Collègues"
+        name: "collegues"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "collegues-page"}
+          - {label: "Titre page", name: "titrePage", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {
+            label: Presentations,
+            name: presentations,
+            widget: list,
+            fields: [
+              {label: Photo, name: photo, widget: image},
+              {label: Titre, name: titre, widget: string},
+              {label: Description, name: description, widget: text},
+            ]
+          }
+          - {
+            label: Icones,
+            name: blurbs,
+            widget: list,
+            fields: [
+              {label: Image, name: image, widget: image},
+              {label: Text, name: text, widget: text},
+            ]
+          }
+      - file: "src/pages/mediation/prestations.md"
+        label: "Prestations MA"
+        name: "prestations-ma-page"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "prestations-ma-page"}
       - file: "src/pages/comportement.md"
         label: "Comportement canin"
         name: "comportement"
@@ -139,29 +170,13 @@ collections:
               {label: "Description", name: "description", widget: text},
               {label: "Organisme", name: "organisme", widget: text},
             ]}
-      - file: "src/pages/mediation/collegues.md"
-        label: "Collègues"
-        name: "collegues"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "collegues-page"}
-          - {label: "Titre page", name: "titrePage", widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {
-            label: Presentations,
-            name: presentations,
-            widget: list,
-            fields: [
-              {label: Photo, name: photo, widget: image},
-              {label: Titre, name: titre, widget: string},
-              {label: Description, name: description, widget: text},
-            ]
-          }
-          - {
-            label: Icones,
-            name: blurbs,
-            widget: list,
-            fields: [
-              {label: Image, name: image, widget: image},
-              {label: Text, name: text, widget: text},
-            ]
-          }
+  - name: "prestations-ma-collection"
+    label: "Prestations MA"
+    folder: "/src/pages/mediation/prestations"
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "prestation-ma"}
+      - {label: "Titre", name: "titre", widget: "string"}
+      - {label: "Image", name: image, widget: image}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Prix", name: "prix", widget: "string"}
