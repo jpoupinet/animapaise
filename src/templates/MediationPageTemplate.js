@@ -45,7 +45,7 @@ const MediationPageTemplate = ({
       {/* Citation */}
       <section className="section is-medium">
         <div className="container has-text-centered citation">
-          <p className="is-size-3 has-text-grey-dark mb-2">{citation.texte}</p>
+          <p className="is-size-3 is-italic has-text-grey-dark mb-2">{citation.texte}</p>
           <h3 className="title is-4 has-text-grey-light">{citation.auteur}</h3>
         </div>
       </section>
