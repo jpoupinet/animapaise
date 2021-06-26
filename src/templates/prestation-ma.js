@@ -9,7 +9,7 @@ const Prestation = ({
   contentComponent,
   index,
 }) => {
-  const { frontmatter: prestation } = data.node;
+  const { frontmatter: prestation } = data ? data.node : null;
   const PageContent = contentComponent || Content;
 
   return (
