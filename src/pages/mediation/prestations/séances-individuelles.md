@@ -1,6 +1,6 @@
 ---
 templateKey: prestation-ma
-ordre: 3
+ordre: 1
 titre: Séances individuelles en structure ou à domicile
 image: /img/dsc_2136.jpg
 prix: "Tarifs : à partir de 40€"
