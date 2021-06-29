@@ -21,16 +21,20 @@ const Prestation = ({
           {prestation.titre}
         </h2>
         <div className="columns">
-          <div className="column">
+          <div className="column is-flex is-justify-content-flex-end">
             <PreviewCompatibleImage
               imageInfo={{ alt: `Prestation ${prestation.titre}`, image: prestation.image }}
             />
           </div>
-          <div className="column">
-            <PageContent
-              className={`content ${index % 2 === 0 ? 'has-text-black' : 'has-text-white'}`}
-              content={data.node.html}
-            />
+          <div className="column is-flex is-justify-content-flex-start p-5">
+            <div style={{ maxWidth: 700 }}>
+              <PageContent
+                className={`
+                  content is-size-5 ${index % 2 === 0 ? 'has-text-black' : 'has-text-white'}
+                `}
+                content={data.node.html}
+              />
+            </div>
           </div>
         </div>
         <h3 className={`
