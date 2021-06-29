@@ -39,7 +39,7 @@ const Prestation = ({
           {prestation.prix}
         </h3>
         <h4 className={`is-italic ${index % 2 === 0 ? 'has-text-primary' : 'has-text-white'}`}>
-          blabla
+          Des tarifs préférentiels peuvent être accordés en fonction du nombre de séances demandées.
         </h4>
       </section>
     </div>
