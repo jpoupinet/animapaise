@@ -1,8 +1,8 @@
 ---
 templateKey: prestation-ma
-ordre: 1
+ordre: 3
 titre: Médiation équine et canine sur site
-image: /img/p1030122.jpg
+image: /img/dsc_0141.jpg
 prix: "Tarifs : à partir de 35€"
 ---
 Les séances de médiation équine ou canine sur site peuvent être aussi bien **collectives qu'individuelles**.

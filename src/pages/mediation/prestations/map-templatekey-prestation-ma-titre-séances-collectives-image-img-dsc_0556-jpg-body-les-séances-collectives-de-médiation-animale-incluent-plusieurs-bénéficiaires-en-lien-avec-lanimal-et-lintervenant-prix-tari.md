@@ -1,7 +1,7 @@
 ---
 templateKey: prestation-ma
 ordre: 2
-titre: Séances collectives
+titre: Séances collectives en structure
 image: /img/dsc_0556.jpg
 prix: "Tarifs : à partir de 90€"
 ---
@@ -13,4 +13,4 @@ Dans le cadre d'interventions à visée préventive et thérapeutique qu'on peut
 
 Dans le cadre de séances récréatives également appelées **Animations Assistées par l’Animal** les interventions peuvent être ponctuelles et s'adressent à des groupes de **10 bénéficiaires** maximum.
 
-Les séances collectives ont une durée variant **entre 1h et 1h30**.
+Les séances collectives ont une durée variant **entre 1h et 1h30** et auront lieu au sein des **structures**.
