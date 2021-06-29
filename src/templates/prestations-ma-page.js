@@ -9,6 +9,9 @@ import PrestationsMAPageTemplate from './PrestationsMAPageTemplate';
 const PrestationsMAPage = ({ data }) => {
   const { edges: prestations } = data.allMarkdownRemark;
 
+  // On trie les prestas par la valeur du champ ordre
+  prestations.sort((a, b) => a.node.frontmatter.ordre - b.node.frontmatter.ordre)
+
   return (
     <Layout>
       <PrestationsMAPageTemplate
@@ -38,6 +41,7 @@ export const pageQuery = graphql`
         node {
           html
           frontmatter {
+            ordre
             titre
             image {
               childImageSharp {

@@ -1,5 +1,6 @@
 ---
 templateKey: prestation-ma
+ordre: 3
 titre: Séances individuelles
 image: /img/dsc_2136.jpg
 prix: "Tarifs : à partir de 40€"

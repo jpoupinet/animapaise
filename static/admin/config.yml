@@ -174,8 +174,10 @@ collections:
     label: "Prestations MA"
     folder: "/src/pages/mediation/prestations"
     create: true
+    slug: "{{titre}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "prestation-ma"}
+      - {label: "Ordre", name: "ordre", widget: "number", default: 1, value_type: "int", step: 1}
       - {label: "Titre", name: "titre", widget: "string"}
       - {label: "Image", name: image, widget: image}
       - {label: "Body", name: "body", widget: "markdown"}

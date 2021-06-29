@@ -1,5 +1,6 @@
 ---
 templateKey: prestation-ma
+ordre: 2
 titre: Séances collectives
 image: /img/dsc_0556.jpg
 prix: "Tarifs : à partir de 90€"

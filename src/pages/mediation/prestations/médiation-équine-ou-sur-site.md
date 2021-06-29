@@ -1,5 +1,6 @@
 ---
 templateKey: prestation-ma
+ordre: 1
 titre: Médiation équine (ou sur site)
 image: /img/p1030122.jpg
 prix: "Tarifs : à partir de 35€"
