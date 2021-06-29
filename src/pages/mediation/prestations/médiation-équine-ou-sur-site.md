@@ -1,6 +1,6 @@
 ---
 templateKey: prestation-ma
-ordre: 1
+ordre: 3
 titre: Médiation équine et canine sur site
 image: /img/p1030122.jpg
 prix: "Tarifs : à partir de 35€"
