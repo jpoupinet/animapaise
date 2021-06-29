@@ -26,8 +26,8 @@ const Prestation = ({
               imageInfo={{ alt: `Prestation ${prestation.titre}`, image: prestation.image }}
             />
           </div>
-          <div className="column is-flex is-justify-content-flex-start p-5">
-            <div style={{ maxWidth: 700 }}>
+          <div className="column is-flex is-justify-content-flex-start is-align-items-center p-5">
+            <div style={{ maxWidth: 700, fontSize: '1.1rem' }}>
               <PageContent
                 className={`
                   content ${index % 2 === 0 ? 'has-text-black' : 'has-text-white'}
