@@ -30,7 +30,7 @@ const Prestation = ({
             <div style={{ maxWidth: 700 }}>
               <PageContent
                 className={`
-                  content is-size-5 ${index % 2 === 0 ? 'has-text-black' : 'has-text-white'}
+                  content ${index % 2 === 0 ? 'has-text-black' : 'has-text-white'}
                 `}
                 content={data.node.html}
               />
