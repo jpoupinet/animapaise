@@ -25,7 +25,10 @@ const ActivitesPageTemplate = ({
       <section className="section">
         <div className="container">
           <h1 className="title is-3 has-text-centered mb-0">{titrePage}</h1>
-          <div className="container has-text-centered">
+          <div
+            className="container has-text-centered"
+            style={{ fontSize: '1.1rem' }}
+          >
             <PageContent className="content p-6" content={content} />
           </div>
         </div>

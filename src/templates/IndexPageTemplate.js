@@ -60,7 +60,7 @@ const IndexPageTemplate = ({
         <div className="container">
           <div className="block has-text-white">
             <h1 className="title is-1 has-text-white">{intro.heading}</h1>
-            <p>{intro.description}</p>
+            <p style={{ fontSize: '1.1rem' }}>{intro.description}</p>
           </div>
           <Features gridItems={intro.blurbs} />
         </div>

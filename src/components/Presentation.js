@@ -11,8 +11,13 @@ const PhotoContainer = ({ photo }) => (
 const TexteContainer = ({ titre, description }) => (
   <div className="column has-background-primary">
     <div className="block p-6 has-text-white">
-      <h3 className="title is-3 p-6 has-text-white">{titre}</h3>
-      <p className="p-6 has-text-justified">{description}</p>
+      <h3 className="title is-3 px-6 pt-6 has-text-white">{titre}</h3>
+      <p
+        className="p-6 has-text-justified"
+        style={{ fontSize: '1.1rem' }}
+      >
+        {description}
+      </p>
     </div>
   </div>
 );
