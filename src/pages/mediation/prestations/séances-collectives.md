@@ -1,7 +1,7 @@
 ---
 templateKey: prestation-ma
 ordre: 2
-titre: Séances collectives en structure ou à domicile
+titre: Ateliers collectifs en structure ou à domicile
 image: /img/dsc_0556.jpg
 prix: "Tarifs : à partir de 90€"
 ---
