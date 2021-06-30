@@ -36,20 +36,39 @@ const IndexPageTemplate = ({
             <div className="columns is-vcentered">
               <div className="column"></div>
               <div className="column is-two-fifths">
-                <div className="container">
-                  <h2 className="title is-2">{mainpitch.title}</h2>
-                  <div className="block">
-                    <p className="is-size-5">{mainpitch.description}</p>
-                  </div>
-                </div>
+                {
+                  width > 768 ?
+                    <div className="container">
+                      <h2 className="title is-2">{mainpitch.title}</h2>
+                      <div className="block">
+                        <p className="is-size-5">{mainpitch.description}</p>
+                      </div>
+                    </div>
+                    :
+                    <div className="container has-text-centered">
+                      <PreviewCompatibleImage
+                        imageInfo={{ alt: 'Animapaise logo', image: mainpitch.image }}
+                      />
+                    </div>
+                }
               </div>
               <div className="column"></div>
               <div className="column is-two-fifths">
-                <div className="container has-text-centered">
-                  <PreviewCompatibleImage
-                    imageInfo={{ alt: 'Animapaise logo', image: mainpitch.image }}
-                  />
-                </div>
+                {
+                  width <= 768 ?
+                    <div className="container">
+                      <h2 className="title is-2">{mainpitch.title}</h2>
+                      <div className="block">
+                        <p className="is-size-5">{mainpitch.description}</p>
+                      </div>
+                    </div>
+                    :
+                    <div className="container has-text-centered">
+                      <PreviewCompatibleImage
+                        imageInfo={{ alt: 'Animapaise logo', image: mainpitch.image }}
+                      />
+                    </div>
+                }
               </div>
               <div className="column"></div>
             </div>
