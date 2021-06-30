@@ -59,7 +59,7 @@ const ColleguesPageTemplate = ({
       <section className="section">
         <div className="columns is-multiline">
           {blurbs.map((item) => (
-            <div key={item.text} className="column is-4 is-flex">
+            <div key={item.text} className="column is-4 is-flex is-justify-content-center">
               <section className="section">
                 <div className="block has-text-centered">
                   <div
