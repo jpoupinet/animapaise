@@ -5,6 +5,8 @@ import Content from '../components/Content';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 import Cartes from '../components/Cartes';
 
+import dossierPresentation from '../../static/dossier-presentation.pdf';
+
 const MediationPageTemplate = ({
   content,
   contentComponent,
@@ -33,6 +35,13 @@ const MediationPageTemplate = ({
               <PageContent className="content p-6" content={content} />
             </div>
           </div>
+        </div>
+      </section>
+      <section className="section pt-0">
+        <div className="container has-text-centered">
+          <a href={dossierPresentation} target="_blank" rel="noreferrer" className="is-size-4">
+            Cliquez ici pour consulter le dossier de présentation d'Anim'apaise
+          </a>
         </div>
       </section>
       {/* Cartes */}
