@@ -7,7 +7,7 @@ prix: "Tarifs : à partir de 35€"
 ---
 Les séances de médiation équine (pouvant être également alliées aux chiens selon les objectifs) peuvent être aussi bien **collectives qu'individuelles**.
 
-De la même manière que les séances collectives au sein des structures les séances pourront être à **visée thérapeutique et préventive** ou alors **récréatives** avec les mêmes objectifs, la même fréquence ainsi que la même taille de groupe durant les ateliers selon s'il s'agit d'un **Programme de Médiation Assistée par l’Animale** ou d'**Animations Assistées par l’Animal**.
+De la même manière que les séances au sein des structures ou à domicile, les séances pourront être à **visée thérapeutique et préventive** et basées sur un plan d'intervention. Elles peuvent également être **récréatives** de la même manière que les ateliers collectifs. Cependant les séances récréatives peuvent être **individuelles** ce qui n'est pas le cas lors d'ateliers récréatifs en structure.
 
 Les séances ont une durée de **30min** minimum *en individue*l et d'environ **1h à 1h30** *en collectif*.
 
