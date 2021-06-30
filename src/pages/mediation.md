@@ -9,7 +9,7 @@ cartes:
     lien: collegues
   - image: /img/dsc_2136.jpg
     texte: Nos prestations et ateliers
-    lien: prestations
+    lien: prestations-ma
   - image: /img/44487428284_b6f0d2ab2e_c.jpg
     texte: Programme PECCRAM
     lien: peccram
