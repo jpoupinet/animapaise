@@ -34,7 +34,7 @@ const AProposPageTemplate = ({
     <section className="section a-propos">
       <section className="section a-propos-intro">
         <div className="columns">
-          <div className="column is-6 is-flex is-align-items-center">
+          <div className="column is-6 p-0 pb-3 is-flex is-align-items-center">
             <div className="container has-text-centered">
               <PreviewCompatibleImage
                 imageInfo={{ alt: 'Image a propos', image: imageIntro }}
