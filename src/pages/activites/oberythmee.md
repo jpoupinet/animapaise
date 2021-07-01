@@ -4,17 +4,18 @@ imageIntro: /img/51228442110_7cc6b564b4_k.jpg
 survolImageIntro: crédit photo
 titrePage: Obérythmée
 prerequis:
-  - texte: "- un an minimum"
-  - texte: "- base d'éducation "
+  - texte: âge minimum fixé à un an
+  - texte: "chiens sociable avec de bonnes bases d'éducation "
 tarifs:
-  - titre: Cours individuels
+  - titre: "Cours individuels "
     tarifs:
-    - texte: 20 simflouzes pour 1 heure
-    - texte: 50 simflouzes pour 3 heures
+      - texte: "Un cours : 30€ "
+      - texte: "Forfait 5 cours : 140€"
+      - texte: "Forfait 10 cours : 270€"
   - titre: Cours collectifs
     tarifs:
-    - texte: 20 simflouzes pour 1 heure
-    - texte: 50 simflouzes pour 3 heures
+      - texte: 20 simflouzes pour 1 heure
+      - texte: 50 simflouzes pour 3 heures
 sousTexteTarifs: Ni repris ni échangé ni remboursé
 imagesBasDePage:
   - image: /img/49375037576_116e4231ef_k.jpg
