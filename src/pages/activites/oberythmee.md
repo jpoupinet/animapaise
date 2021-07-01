@@ -1,6 +1,6 @@
 ---
 templateKey: oberythmee-page
-imageIntro: /img/51228442110_7cc6b564b4_k.jpg
+imageIntro: /img/51227579113_30d002f457_c.jpg
 survolImageIntro: crédit photo
 titrePage: Obérythmée
 prerequis:
