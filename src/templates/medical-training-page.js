@@ -54,6 +54,7 @@ export const pageQuery = graphql`
         }
         tarifs {
           titre
+          sousTitre
           tarifs {
             texte
           }

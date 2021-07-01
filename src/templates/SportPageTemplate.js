@@ -57,7 +57,8 @@ const SportPageTemplate = ({
               {
                 tarifs.map((tarif, i) =>
                   <div className="mb-3" key={`tarifs-${tarif.titre}-${i}`}>
-                    <p className="is-underlined has-text-weight-bold mb-3">{tarif.titre}</p>
+                    <p className="is-underlined has-text-weight-bold">{tarif.titre}</p>
+                    <p className="mb-3" style={{ fontSize: '0.9rem' }}>{tarif.sousTitre}</p>
                     <div className="pl-5">
                       <ul className="liste-tarifs">
                         {

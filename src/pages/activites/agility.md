@@ -8,11 +8,13 @@ prerequis:
   - texte: Chiens sociables avec des bases d'éducation
 tarifs:
   - titre: Cours individuels
+    sousTitre: Et là c'est bien ?
     tarifs:
       - texte: "Un cours : 30€"
       - texte: "Forfait 5 cours : 140€"
       - texte: "Forfait 10 cours : 270€"
   - titre: Cours collectifs
+    sousTitre: Et là c'est bien ?
     tarifs:
       - texte: "Un cours : 25€"
       - texte: "Forfait de 5 cours : 115€"
