@@ -26,12 +26,12 @@ const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link className="navbar-item" to="/comportement-education">
+                  <Link className="navbar-item" to="/comportement">
                     Comportement canin
                   </Link>
                 </li>
                 <li>
-                  <Link className="navbar-item" to="/activites-sports">
+                  <Link className="navbar-item" to="/activites">
                     Activités et sports canins
                   </Link>
                 </li>
