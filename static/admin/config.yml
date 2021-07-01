@@ -163,6 +163,7 @@ collections:
               {label: Texte, name: texte, widget: string},
             ]
           }
+          - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
           - {
             label: "Images bas de page",
             name: "imagesBasDePage",
@@ -195,6 +196,7 @@ collections:
               {label: Texte, name: texte, widget: string},
             ]
           }
+          - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
           - {
             label: "Images bas de page",
             name: "imagesBasDePage",
@@ -227,6 +229,7 @@ collections:
               {label: Texte, name: texte, widget: string},
             ]
           }
+          - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
           - {
             label: "Images bas de page",
             name: "imagesBasDePage",
@@ -259,6 +262,7 @@ collections:
               {label: Texte, name: texte, widget: string},
             ]
           }
+          - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
           - {
             label: "Images bas de page",
             name: "imagesBasDePage",
