@@ -14,8 +14,9 @@ tarifs:
       - texte: "Forfait 10 cours : 270€"
   - titre: Cours collectifs
     tarifs:
-      - texte: 20 simflouzes pour 1 heure
-      - texte: 50 simflouzes pour 3 heures
+      - texte: "Un cours : 25€"
+      - texte: "Forfait de 5 cours : 115€"
+      - texte: "Forfait de 10 cours : 225€"
 sousTexteTarifs: Ni repris ni échangé ni remboursé
 imagesBasDePage:
   - image: /img/49375037576_116e4231ef_k.jpg
