@@ -51,16 +51,23 @@ const SportPageTemplate = ({
             {/* Tarifs */}
             <div className="column is-4 p-6">
               <h3 className="title is-4">Tarifs</h3>
-              <div className="pl-5">
-                <ul className="liste-tarifs">
-                  {
-                    tarifs.map((tarif, i) =>
-                      <li key={`tarif${i}`}>{tarif.texte}</li>
-                    )
-                  }
-                </ul>
-                <p className="block mt-4 is-italic">{sousTexteTarifs}</p>
-              </div>
+              {
+                tarifs.map((tarif, i) =>
+                  <div className="mb-3" key={`tarifs-${tarif.titre}-${i}`}>
+                    <p className="is-underlined has-text-weight-bold mb-3">{tarif.titre}</p>
+                    <div className="pl-5">
+                      <ul className="liste-tarifs">
+                        {
+                          tarif.tarifs.map((t, i) =>
+                            <li key={`tarif${i}`}>{t.texte}</li>
+                          )
+                        }
+                      </ul>
+                    </div>
+                  </div>
+                )
+              }
+              <p className="block mt-4 is-italic">{sousTexteTarifs}</p>
             </div>
           </div>
         </div>

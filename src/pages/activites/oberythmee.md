@@ -6,8 +6,14 @@ prerequis:
   - texte: Faire au moins 1m89
   - texte: Manger 5 fruits et légumes par jour
 tarifs:
-  - texte: 20 simflouzes pour 1 personne
-  - texte: 50 simflouzes pour 3 personnes
+  - titre: Cours individuels
+    tarifs:
+    - texte: 20 simflouzes pour 1 heure
+    - texte: 50 simflouzes pour 3 heures
+  - titre: Cours collectifs
+    tarifs:
+    - texte: 20 simflouzes pour 1 heure
+    - texte: 50 simflouzes pour 3 heures
 sousTexteTarifs: Ni repris ni échangé ni remboursé
 imagesBasDePage:
   - image: /img/49375037576_116e4231ef_k.jpg

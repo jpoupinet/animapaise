@@ -50,7 +50,10 @@ export const pageQuery = graphql`
           texte
         }
         tarifs {
-          texte
+          titre
+          tarifs {
+            texte
+          }
         }
         sousTexteTarifs
         imagesBasDePage {

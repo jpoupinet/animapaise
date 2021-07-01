@@ -160,7 +160,15 @@ collections:
             name: "tarifs",
             widget: list,
             fields: [
-              {label: Texte, name: texte, widget: string},
+              {label: Titre, name: titre, widget: string},
+              {
+                label: "Tarifs",
+                name: "tarifs",
+                widget: list,
+                fields: [
+                  {label: Texte, name: texte, widget: string},
+                ]
+              }
             ]
           }
           - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
@@ -193,7 +201,15 @@ collections:
             name: "tarifs",
             widget: list,
             fields: [
-              {label: Texte, name: texte, widget: string},
+              {label: Titre, name: titre, widget: string},
+              {
+                label: "Tarifs",
+                name: "tarifs",
+                widget: list,
+                fields: [
+                  {label: Texte, name: texte, widget: string},
+                ]
+              }
             ]
           }
           - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
@@ -226,7 +242,15 @@ collections:
             name: "tarifs",
             widget: list,
             fields: [
-              {label: Texte, name: texte, widget: string},
+              {label: Titre, name: titre, widget: string},
+              {
+                label: "Tarifs",
+                name: "tarifs",
+                widget: list,
+                fields: [
+                  {label: Texte, name: texte, widget: string},
+                ]
+              }
             ]
           }
           - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
@@ -259,7 +283,15 @@ collections:
             name: "tarifs",
             widget: list,
             fields: [
-              {label: Texte, name: texte, widget: string},
+              {label: Titre, name: titre, widget: string},
+              {
+                label: "Tarifs",
+                name: "tarifs",
+                widget: list,
+                fields: [
+                  {label: Texte, name: texte, widget: string},
+                ]
+              }
             ]
           }
           - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
