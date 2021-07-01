@@ -22,14 +22,14 @@ sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   gratuits jusqu'à 20km autour d'Orvault Cholière.
 imagesBasDePage:
   - image: /img/50300658088_65ae4301cb_k.jpg
-    survolImage: crédit photo
+    survolImage: Photo de Sylvain STEPHANT
   - image: /img/49614673678_47e00fb275_k.jpg
-    survolImage: crédit photo
+    survolImage: Photo d'Anim'Apaise
   - image: /img/51284528795_369ebc2789_k.jpg
-    survolImage: crédit photo
+    survolImage: Photo de Morgane GARABEDIAN
 liensCreditPhoto:
-  - texte: Crédit photo
-    lien: https://i.imgur.com/ztqVuWx.jpg
+  - texte: Site internet de Céline DUFOURD
+    lien: https://www.celinedufourd.fr/
 ---
 L'obérythmée ou dog-dancing est une discipline qui consiste à enchaîner une chorégraphie avec son chien. Cette chorégraphie est constituée d'enchaînements de tricks/figures et de déplacements réalisés par le chien, le tout en harmonie avec l'humain, le thème et la musique. 
 
