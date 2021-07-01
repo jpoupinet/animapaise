@@ -5,15 +5,15 @@ titrePage: Les activités et sports à partager avec son chien
 titreCartes: Laissez-vous tenter par...
 cartes:
   - image: /img/51227579113_30d002f457_c.jpg
-    texte: L'obérythmée
+    texte: Obérythmée
     lien: oberythmee
   - image: /img/50316184016_7531f73557_c.jpg
-    texte: L'agility
+    texte: Agility loisir
     lien: agility
   - image: /img/51228088719_a788ac669d_c.jpg
-    texte: Le medical-training
+    texte: Medical-training
     lien: medical-training
-  - texte: Le shaping
+  - texte: Shaping
     lien: shaping
     image: /img/49335580906_3f9e4e3792_c.jpg
 ---
