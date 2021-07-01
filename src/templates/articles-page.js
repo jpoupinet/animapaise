@@ -1,15 +1,16 @@
 import React from 'react';
-// import PropTypes from 'prop-types';
 
+import Layout from '../components/Layout';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
 import imageBanniere from '../../static/img/2021-06-11_01-09-27.jpg';
 
-const ComportementPageTemplate = () => {
+const ArticlesPage = () => {
   return (
-    <div>
-      {/* Banniere */}
-      <PreviewCompatibleImage
+    <Layout>
+      <div>
+        {/* Banniere */}
+        <PreviewCompatibleImage
           imageInfo={{ alt: '', image: imageBanniere }}
           imageStyle={{
             display: 'inline-block',
@@ -21,11 +22,9 @@ const ComportementPageTemplate = () => {
         <section className="section my-6 p-6 has-text-centered">
           <h1 className="title is-1 p-6">A venir ...</h1>
         </section>
-    </div>
+      </div>
+    </Layout>
   )
 };
 
-// ComportementPageTemplate.propTypes = {
-// };
-
-export default ComportementPageTemplate;
+export default ArticlesPage;

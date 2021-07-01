@@ -116,7 +116,7 @@ const IndexPageTemplate = ({
             {decouvrir.title}
           </h2>
           <div className="block">
-            <Link to="/" className="button is-primary is-large">{decouvrir.lien}</Link>
+            <Link to="/articles" className="button is-primary is-large">{decouvrir.lien}</Link>
           </div>
         </div>
       </PreviewCompatibleBgImage>

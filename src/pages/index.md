@@ -56,6 +56,6 @@ presentations:
       d'inclure cette discipline dans les ateliers de médiation animale.
 decouvrir:
   title: Anim'Apaise c'est aussi du partage d'expériences et de connaissances
-  lien: Découvrir nos articles
+  lien: A venir ...
   image: /img/31085861467_7902e6d2d7_k.jpg
 ---
