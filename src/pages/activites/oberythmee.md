@@ -31,4 +31,16 @@ liensCreditPhoto:
   - texte: Crédit photo
     lien: https://i.imgur.com/ztqVuWx.jpg
 ---
-Il existe bien des activités à partager avec son chien pour renforcer la relation qu'on entretient avec lui, le dépenser mentalement et physiquement. Il existe plein d'apprentissages à mettre en place pour le valoriser, lui offrir des espaces de choix, lui permettre d'être acteur de ces apprentissages. Venez découvrir ce qu'Anim'Apaise vous propose de partager avec votre chien au quotidien.
+L'obérythmée ou dog-dancing est une discipline qui consiste à enchaîner une chorégraphie avec son chien. Cette chorégraphie est constituée d'enchaînements de tricks/figures et de déplacements réalisés par le chien, le tout en harmonie avec l'humain, le thème et la musique. 
+
+Anim'Apaise pourra vous accompagner dans :
+
+\- l'initiation au clicker-training et l'amorce d'apprentissages nécessaire à ce sport
+
+\- l'apprentissage de tricks et déplacements 
+
+\- la réalisation des premiers enchaînements 
+
+\- la création de votre première chorégraphie 
+
+L'obérythmée va permettre
