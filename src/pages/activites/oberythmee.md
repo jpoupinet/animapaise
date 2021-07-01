@@ -21,11 +21,11 @@ sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines ou à votre domicile. Les frais de déplacement sont
   gratuits jusqu'à 20km autour d'Orvault Cholière.
 imagesBasDePage:
-  - image: /img/49375037576_116e4231ef_k.jpg
+  - image: /img/50300658088_65ae4301cb_k.jpg
     survolImage: crédit photo
-  - image: /img/2021-06-11_01-09-13.jpg
+  - image: /img/49614673678_47e00fb275_k.jpg
     survolImage: crédit photo
-  - image: /img/dsc_2001.jpg
+  - image: /img/51284528795_369ebc2789_k.jpg
     survolImage: crédit photo
 liensCreditPhoto:
   - texte: Crédit photo
