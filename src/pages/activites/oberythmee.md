@@ -4,8 +4,8 @@ imageIntro: /img/51228442110_7cc6b564b4_k.jpg
 survolImageIntro: crédit photo
 titrePage: Obérythmée
 prerequis:
-  - texte: Faire au moins 1m89
-  - texte: Manger 5 fruits et légumes par jour
+  - texte: "- un an minimum"
+  - texte: "- base d'éducation "
 tarifs:
   - titre: Cours individuels
     tarifs:
