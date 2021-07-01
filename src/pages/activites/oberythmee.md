@@ -4,8 +4,8 @@ imageIntro: /img/51228133969_7c6bfb5306_k.jpg
 survolImageIntro: Photo de Céline DUFOURD
 titrePage: Obérythmée
 prerequis:
-  - texte: âge minimum fixé à un an
-  - texte: "chiens sociable avec de bonnes bases d'éducation "
+  - texte: Âge minimum fixé à un an
+  - texte: "Chiens sociable avec de bonnes bases d'éducation "
 tarifs:
   - titre: "Cours individuels "
     tarifs:
