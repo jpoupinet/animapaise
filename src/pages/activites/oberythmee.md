@@ -42,3 +42,5 @@ Anim'Apaise pourra vous accompagner dans :
 \- la réalisation des **premiers enchaînements** 
 
 \- la création de votre **première chorégraphie**
+
+**5 CHIENS MAXIMUM POUR LES COURS COLLECTIFS**
