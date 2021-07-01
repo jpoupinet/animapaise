@@ -2,7 +2,7 @@
 templateKey: agility-page
 imageIntro: /img/51284291144_88ffb976a5_k.jpg
 survolImageIntro: Photo de Camille IMBERT
-titrePage: Agility
+titrePage: Agility loisir
 prerequis:
   - texte: Faire au moins 1m89
   - texte: Manger 5 fruits et légumes par jour
@@ -29,4 +29,6 @@ liensCreditPhoto:
   - texte: Crédit photo
     lien: https://i.imgur.com/ztqVuWx.jpg
 ---
-Il existe bien des activités à partager avec son chien pour renforcer la relation qu'on entretient avec lui, le dépenser mentalement et physiquement. Il existe plein d'apprentissages à mettre en place pour le valoriser, lui offrir des espaces de choix, lui permettre d'être acteur de ces apprentissages. Venez découvrir ce qu'Anim'Apaise vous propose de partager avec votre chien au quotidien.
+L'agility est un sport canin consistant à enchaîner des agrès le plus rapidement possible sans fautes. Cette activité va demander aussi bien vitesse que précision de la part du chien et du conducteur. 
+
+Anim'Apaise vous propose
