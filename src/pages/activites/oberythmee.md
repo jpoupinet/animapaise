@@ -3,8 +3,8 @@ templateKey: oberythmee-page
 imageIntro: /img/51228442110_7cc6b564b4_k.jpg
 titrePage: Obérythmée
 prerequis:
-  - texte: Faire au moins 1m89
-  - texte: Manger 5 fruits et légumes par jour
+  - texte: "- un an minimum"
+  - texte: "- base d'éducation "
 tarifs:
   - texte: 20 simflouzes pour 1 personne
   - texte: 50 simflouzes pour 3 personnes
