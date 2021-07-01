@@ -378,6 +378,12 @@ collections:
               {label: "Description", name: "description", widget: text},
               {label: "Organisme", name: "organisme", widget: text},
             ]}
+      - file: "src/pages/cgv.md"
+        label: "CGV"
+        name: "cgv"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "cgv-page"}
+          - {label: "Body", name: "body", widget: "markdown"}
   - name: "prestations-ma-collection"
     label: "Prestations MA"
     folder: "/src/pages/mediation/prestations"

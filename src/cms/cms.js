@@ -7,6 +7,7 @@ import ActivitesPagePreview from './ActivitesPagePreview';
 import AProposPagePreview from './AProposPagePreview';
 import ColleguesPagePreview from './ColleguesPagePreview';
 import SportPagePreview from './SportPagePreview';
+import CGVPagePreview from './CGVPagePreview';
 
 CMS.registerPreviewTemplate('index', IndexPagePreview);
 CMS.registerPreviewTemplate('mediation', MediationPagePreview);
@@ -18,3 +19,4 @@ CMS.registerPreviewTemplate('oberythmee', SportPagePreview);
 CMS.registerPreviewTemplate('agility', SportPagePreview);
 CMS.registerPreviewTemplate('medical-training', SportPagePreview);
 CMS.registerPreviewTemplate('shaping', SportPagePreview);
+CMS.registerPreviewTemplate('cgv', CGVPagePreview);

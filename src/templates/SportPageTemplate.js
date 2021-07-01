@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { Link } from 'gatsby';
 
 import Content from '../components/Content';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
@@ -70,6 +71,9 @@ const SportPageTemplate = ({
                 )
               }
               <p className="block mt-4 is-italic">{sousTexteTarifs}</p>
+              <Link to="/cgv" className="is-underlined has-text-weight-bold">
+                Conditions Générales de Vente
+              </Link>
             </div>
           </div>
         </div>
