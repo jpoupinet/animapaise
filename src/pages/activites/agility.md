@@ -1,6 +1,6 @@
 ---
 templateKey: agility-page
-imageIntro: /img/51228442110_7cc6b564b4_k.jpg
+imageIntro: /img/50316365307_1690ec792d_k.jpg
 survolImageIntro: crédit photo
 titrePage: Agility
 prerequis:
@@ -9,12 +9,12 @@ prerequis:
 tarifs:
   - titre: Cours individuels
     tarifs:
-    - texte: 20 simflouzes pour 1 heure
-    - texte: 50 simflouzes pour 3 heures
+      - texte: 20 simflouzes pour 1 heure
+      - texte: 50 simflouzes pour 3 heures
   - titre: Cours collectifs
     tarifs:
-    - texte: 20 simflouzes pour 1 heure
-    - texte: 50 simflouzes pour 3 heures
+      - texte: 20 simflouzes pour 1 heure
+      - texte: 50 simflouzes pour 3 heures
 sousTexteTarifs: Ni repris ni échangé ni remboursé
 imagesBasDePage:
   - image: /img/49375037576_116e4231ef_k.jpg
