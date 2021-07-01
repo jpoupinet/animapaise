@@ -1,6 +1,6 @@
 ---
 templateKey: oberythmee-page
-imageIntro: /img/51227579113_30d002f457_c.jpg
+imageIntro: /img/51226661657_a9d925ed3d_k.jpg
 survolImageIntro: Photo de Céline DUFOURD
 titrePage: Obérythmée
 prerequis:
