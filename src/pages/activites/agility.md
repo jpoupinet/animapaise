@@ -4,8 +4,8 @@ imageIntro: /img/51284291144_88ffb976a5_k.jpg
 survolImageIntro: Photo de Camille IMBERT
 titrePage: Agility loisir
 prerequis:
-  - texte: Faire au moins 1m89
-  - texte: Manger 5 fruits et légumes par jour
+  - texte: Âge minimum fixé à un an
+  - texte: Chiens sociable avec de bonnes bases d'éducation
 tarifs:
   - titre: Cours individuels
     tarifs:
@@ -15,7 +15,8 @@ tarifs:
     tarifs:
       - texte: 20 simflouzes pour 1 heure
       - texte: 50 simflouzes pour 3 heures
-sousTexteTarifs: Ni repris ni échangé ni remboursé
+sousTexteTarifs: Les cours auront lieu sur le terrain d'Anim'Apaise sur
+  Grandchamp des Fontaines.
 imagesBasDePage:
   - image: /img/51283684198_a2595435ef_k.jpg
     survolImage: Photo concours Amicale Canine Anne de Bretagne
