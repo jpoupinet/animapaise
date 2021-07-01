@@ -6,6 +6,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
 const SportPageTemplate = ({
   imageIntro,
+  survolImageIntro,
   titrePage,
   content,
   contentComponent,
@@ -13,6 +14,7 @@ const SportPageTemplate = ({
   tarifs,
   sousTexteTarifs,
   imagesBasDePage,
+  liensCreditPhoto,
 }) => {
   const PageContent = contentComponent || Content;
 
@@ -20,7 +22,7 @@ const SportPageTemplate = ({
     <div>
       {/* Banniere */}
       <PreviewCompatibleImage
-        imageInfo={{ alt: '', image: imageIntro }}
+        imageInfo={{ alt: '', image: imageIntro, title: survolImageIntro }}
         imageStyle={{ display: 'inline-block', maxHeight: '20em', width: '100%' }}
       />
 
@@ -81,7 +83,7 @@ const SportPageTemplate = ({
               imagesBasDePage.map((img, i) =>
                 <div className="column" key={`imgBasDePage${i}`}>
                   <PreviewCompatibleImage
-                    imageInfo={{ alt: '', image: img.image }}
+                    imageInfo={{ alt: '', image: img.image, title: img.survolImage }}
                   />
                 </div>
               )
@@ -89,12 +91,30 @@ const SportPageTemplate = ({
           </div>
         </div>
       </section>
+
+      {/* Crédits photo */}
+      <div className="container has-text-centered mb-3">
+        {
+          liensCreditPhoto.map((cred, i) =>
+            <a
+              href={cred.lien}
+              className="is-size-6 is-italic mx-3"
+              target="_blank"
+              rel="noreferrer"
+              key={`creditPhoto${i}`}
+            >
+              {cred.texte}
+            </a>
+          )
+        }
+      </div>
     </div>
   )
 };
 
 SportPageTemplate.propTypes = {
   imageIntro: PropTypes.object,
+  survolImageIntro: PropTypes.string,
   titrePage: PropTypes.string,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
@@ -102,6 +122,7 @@ SportPageTemplate.propTypes = {
   tarifs: PropTypes.array,
   sousTexteTarifs: PropTypes.string,
   imagesBasDePage: PropTypes.array,
+  liensCreditPhoto: PropTypes.array,
 };
 
 export default SportPageTemplate;

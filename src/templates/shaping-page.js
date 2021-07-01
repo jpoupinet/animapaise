@@ -13,6 +13,7 @@ const ShapingPage = ({ data }) => {
     <Layout>
       <SportPageTemplate
         imageIntro={post.frontmatter.imageIntro}
+        survolImageIntro={post.frontmatter.survolImageIntro}
         titrePage={post.frontmatter.titrePage}
         content={post.html}
         contentComponent={HTMLContent}
@@ -20,6 +21,7 @@ const ShapingPage = ({ data }) => {
         tarifs={post.frontmatter.tarifs}
         sousTexteTarifs={post.frontmatter.sousTexteTarifs}
         imagesBasDePage={post.frontmatter.imagesBasDePage}
+        liensCreditPhoto={post.frontmatter.liensCreditPhoto}
       />
     </Layout>
   )
@@ -45,6 +47,7 @@ export const pageQuery = graphql`
             )
           }
         }
+        survolImageIntro
         titrePage
         prerequis {
           texte
@@ -67,6 +70,11 @@ export const pageQuery = graphql`
               )
             }
           }
+          survolImage
+        }
+        liensCreditPhoto {
+          texte
+          lien
         }
       }
     }

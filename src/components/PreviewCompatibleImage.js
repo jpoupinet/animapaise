@@ -7,7 +7,7 @@ const defaultImageStyle = {
 };
 
 const PreviewCompatibleImage = ({ imageInfo, imageStyle = defaultImageStyle }) => {
-  const { alt = '', childImageSharp, image } = imageInfo;
+  const { alt = '', childImageSharp, image, title } = imageInfo;
 
   if (!!image && !!image.childImageSharp) {
     return (
@@ -15,6 +15,7 @@ const PreviewCompatibleImage = ({ imageInfo, imageStyle = defaultImageStyle }) =
         style={imageStyle}
         image={image.childImageSharp.gatsbyImageData}
         alt={alt}
+        title={title}
       />
     );
   }
@@ -25,12 +26,13 @@ const PreviewCompatibleImage = ({ imageInfo, imageStyle = defaultImageStyle }) =
         style={imageStyle}
         image={childImageSharp.gatsbyImageData}
         alt={alt}
+        title={title}
       />
     );
   }
 
   if (!!image && typeof image === 'string')
-    return <img style={imageStyle} src={image} alt={alt} />;
+    return <img style={imageStyle} src={image} alt={alt} title={title} />;
 
   return null;
 };
@@ -41,6 +43,7 @@ PreviewCompatibleImage.propTypes = {
     childImageSharp: PropTypes.object,
     image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]).isRequired,
     style: PropTypes.object,
+    title: PropTypes.string,
   }).isRequired,
   imageStyle: PropTypes.object,
 };

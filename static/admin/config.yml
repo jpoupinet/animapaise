@@ -143,8 +143,9 @@ collections:
         label: "Obérythmée"
         name: "oberythmee"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "sport-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "oberythmee-page"}
           - {label: "Image", name: "imageIntro", widget: image}
+          - {label: "Survol image", name: "survolImageIntro", widget: string}
           - {label: "Titre page", name: "titrePage", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
           - {
@@ -178,6 +179,16 @@ collections:
             widget: list,
             fields: [
               {label: Image, name: image, widget: image},
+              {label: "Survol image", name: "survolImage", widget: string},
+            ]
+          }
+          - {
+            label: "Liens crédits photo",
+            name: "liensCreditPhoto",
+            widget: list,
+            fields: [
+              {label: "Texte", name: "texte", widget: string},
+              {label: "Lien", name: "lien", widget: string},
             ]
           }
       - file: "src/pages/activites/agility.md"
@@ -186,6 +197,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "agility-page"}
           - {label: "Image", name: "imageIntro", widget: image}
+          - {label: "Survol image", name: "survolImageIntro", widget: string}
           - {label: "Titre page", name: "titrePage", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
           - {
@@ -219,6 +231,16 @@ collections:
             widget: list,
             fields: [
               {label: Image, name: image, widget: image},
+              {label: "Survol image", name: "survolImage", widget: string},
+            ]
+          }
+          - {
+            label: "Liens crédits photo",
+            name: "liensCreditPhoto",
+            widget: list,
+            fields: [
+              {label: "Texte", name: "texte", widget: string},
+              {label: "Lien", name: "lien", widget: string},
             ]
           }
       - file: "src/pages/activites/medical-training.md"
@@ -227,6 +249,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "medical-training-page"}
           - {label: "Image", name: "imageIntro", widget: image}
+          - {label: "Survol image", name: "survolImageIntro", widget: string}
           - {label: "Titre page", name: "titrePage", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
           - {
@@ -260,6 +283,16 @@ collections:
             widget: list,
             fields: [
               {label: Image, name: image, widget: image},
+              {label: "Survol image", name: "survolImage", widget: string},
+            ]
+          }
+          - {
+            label: "Liens crédits photo",
+            name: "liensCreditPhoto",
+            widget: list,
+            fields: [
+              {label: "Texte", name: "texte", widget: string},
+              {label: "Lien", name: "lien", widget: string},
             ]
           }
       - file: "src/pages/activites/shaping.md"
@@ -268,6 +301,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "shaping-page"}
           - {label: "Image", name: "imageIntro", widget: image}
+          - {label: "Survol image", name: "survolImageIntro", widget: string}
           - {label: "Titre page", name: "titrePage", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
           - {
@@ -301,6 +335,16 @@ collections:
             widget: list,
             fields: [
               {label: Image, name: image, widget: image},
+              {label: "Survol image", name: "survolImage", widget: string},
+            ]
+          }
+          - {
+            label: "Liens crédits photo",
+            name: "liensCreditPhoto",
+            widget: list,
+            fields: [
+              {label: "Texte", name: "texte", widget: string},
+              {label: "Lien", name: "lien", widget: string},
             ]
           }
       - file: "src/pages/a-propos.md"
