@@ -1,7 +1,7 @@
 ---
 templateKey: agility-page
-imageIntro: /img/51284291144_88ffb976a5_k.jpg
-survolImageIntro: Photo de Camille IMBERT
+imageIntro: /img/50316365307_1690ec792d_k.jpg
+survolImageIntro: Photo d'Anim'Apaise
 titrePage: Agility loisir
 prerequis:
   - texte: Âge minimum fixé à un an
@@ -22,20 +22,20 @@ imagesBasDePage:
     survolImage: Photo concours Amicale Canine Anne de Bretagne
   - image: /img/51282816367_c065ee9df0_k.jpg
     survolImage: Photo d'Anim'Apaise
-  - image: /img/50316365307_1690ec792d_k.jpg
-    survolImage: Photo d'Anim'Apaise
+  - image: /img/51284291144_88ffb976a5_k.jpg
+    survolImage: Photo de Camille IMBERT
 liensCreditPhoto:
   - texte: Crédit photo
     lien: https://i.imgur.com/ztqVuWx.jpg
   - texte: Crédit photo
     lien: https://i.imgur.com/ztqVuWx.jpg
 ---
-L'agility est un sport canin consistant à enchaîner des agrès le plus rapidement possible sans fautes. Cette activité va demander aussi bien vitesse que précision de la part du chien et du conducteur. 
+L'agility est un sport canin consistant à ***enchaîner des agrès*** le plus rapidement possible sans fautes. Cette activité va demander aussi bien **vitesse** que **précision** de la part du chien et du conducteur. 
 
-Anim'Apaise vous propose de l'agility loisir (sans obstacles à zones) sur son terrain :
+Anim'Apaise vous propose de **l'agility loisir** (sans obstacles à zones) sur son terrain :
 
-\- pas d'objectif de compétition entrant en jeu, le seul but sera de renforcer le lien de votre binôme tout en vous défoulant mutuellement
+\- pas d'objectif de compétition entrant en jeu, le seul but sera de **renforcer le lien** de votre binôme tout en vous défoulant mutuellement
 
-\- la découverte des obstacles (tunnel, haie et slalom) et enchaînement de ceux-ci
+\- la **découverte des obstacles** (tunnel, haie et slalom) et **enchaînement** de ceux-ci
 
-\- l'amorce d'un travail vers l'autonomie du chien sur les obstacles et enchaînements
+\- l'amorce d'un travail vers **l'autonomie** du chien sur les obstacles et enchaînements
