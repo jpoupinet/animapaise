@@ -26,11 +26,7 @@ imagesBasDePage:
     survolImage: Photo d'Anim'Apaise
   - image: /img/51284291144_88ffb976a5_k.jpg
     survolImage: Photo de Camille IMBERT
-liensCreditPhoto:
-  - texte: Crédit photo
-    lien: https://i.imgur.com/ztqVuWx.jpg
-  - texte: Crédit photo
-    lien: https://i.imgur.com/ztqVuWx.jpg
+liensCreditPhoto: []
 ---
 L'agility est un sport canin consistant à ***enchaîner des agrès*** le plus rapidement possible sans fautes. Cette activité va demander aussi bien **vitesse** que **précision** de la part du chien et du conducteur. 
 
