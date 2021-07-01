@@ -68,14 +68,19 @@ const SportPageTemplate = ({
 
       {/* Images bas de page */}
       <section className="section has-text-centered">
-        {
-          imagesBasDePage.map((img, i) =>
-            <PreviewCompatibleImage
-              imageInfo={{ alt: '', image: img.image }}
-              key={`imgBasDePage${i}`}
-            />
-          )
-        }
+        <div className="container">
+          <div className="images-bas-de-page columns is-justify-content-center is-gapless">
+            {
+              imagesBasDePage.map((img, i) =>
+                <div className="column" key={`imgBasDePage${i}`}>
+                  <PreviewCompatibleImage
+                    imageInfo={{ alt: '', image: img.image }}
+                  />
+                </div>
+              )
+            }
+          </div>
+        </div>
       </section>
     </div>
   )
