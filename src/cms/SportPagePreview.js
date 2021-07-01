@@ -10,12 +10,14 @@ const SportPagePreview = ({ entry }) => {
     return (
       <SportPageTemplate
         imageIntro={data.imageIntro}
+        survolImageIntro={data.survolImageIntro}
         titrePage={data.titrePage}
         content={data.body}
         prerequis={data.prerequis}
         tarifs={data.tarifs}
         sousTexteTarifs={data.sousTexteTarifs}
         imagesBasDePage={data.imagesBasDePage}
+        liensCreditPhoto={data.liensCreditPhoto}
       />
     );
   } else {
