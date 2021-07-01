@@ -9,12 +9,14 @@ prerequis:
 tarifs:
   - titre: Cours individuels
     tarifs:
-      - texte: 20 simflouzes pour 1 heure
-      - texte: 50 simflouzes pour 3 heures
+      - texte: "Un cours : 30€"
+      - texte: "Forfait 5 cours : 140€"
+      - texte: "Forfait 10 cours : 270€"
   - titre: Cours collectifs
     tarifs:
-      - texte: 20 simflouzes pour 1 heure
-      - texte: 50 simflouzes pour 3 heures
+      - texte: "Un cours : 25€"
+      - texte: "Forfait de 5 cours : 115€"
+      - texte: "Forfait de 10 cours : 225€"
 sousTexteTarifs: Les cours auront lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines.
 imagesBasDePage:
