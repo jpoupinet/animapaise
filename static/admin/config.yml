@@ -139,6 +139,134 @@ collections:
               {label: Lien, name: lien, widget: string},
             ]
           }
+      - file: "src/pages/activites/oberythmee.md"
+        label: "Obérythmée"
+        name: "oberythmee"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "sport-page"}
+          - {label: "Image", name: "imageIntro", widget: image}
+          - {label: "Titre page", name: "titrePage", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {
+            label: "Pré-requis",
+            name: "prerequis",
+            widget: list,
+            fields: [
+              {label: Texte, name: texte, widget: string},
+            ]
+          }
+          - {
+            label: "Tarifs",
+            name: "tarifs",
+            widget: list,
+            fields: [
+              {label: Texte, name: texte, widget: string},
+            ]
+          }
+          - {
+            label: "Images bas de page",
+            name: "imagesBasDePage",
+            widget: list,
+            fields: [
+              {label: Image, name: image, widget: image},
+            ]
+          }
+      - file: "src/pages/activites/agility.md"
+        label: "Agility"
+        name: "agility"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "agility-page"}
+          - {label: "Image", name: "imageIntro", widget: image}
+          - {label: "Titre page", name: "titrePage", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {
+            label: "Pré-requis",
+            name: "prerequis",
+            widget: list,
+            fields: [
+              {label: Texte, name: texte, widget: string},
+            ]
+          }
+          - {
+            label: "Tarifs",
+            name: "tarifs",
+            widget: list,
+            fields: [
+              {label: Texte, name: texte, widget: string},
+            ]
+          }
+          - {
+            label: "Images bas de page",
+            name: "imagesBasDePage",
+            widget: list,
+            fields: [
+              {label: Image, name: image, widget: image},
+            ]
+          }
+      - file: "src/pages/activites/medical-training.md"
+        label: "Medical training"
+        name: "medical-training"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "medical-training-page"}
+          - {label: "Image", name: "imageIntro", widget: image}
+          - {label: "Titre page", name: "titrePage", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {
+            label: "Pré-requis",
+            name: "prerequis",
+            widget: list,
+            fields: [
+              {label: Texte, name: texte, widget: string},
+            ]
+          }
+          - {
+            label: "Tarifs",
+            name: "tarifs",
+            widget: list,
+            fields: [
+              {label: Texte, name: texte, widget: string},
+            ]
+          }
+          - {
+            label: "Images bas de page",
+            name: "imagesBasDePage",
+            widget: list,
+            fields: [
+              {label: Image, name: image, widget: image},
+            ]
+          }
+      - file: "src/pages/activites/shaping.md"
+        label: "Shaping"
+        name: "shaping"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "shaping-page"}
+          - {label: "Image", name: "imageIntro", widget: image}
+          - {label: "Titre page", name: "titrePage", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {
+            label: "Pré-requis",
+            name: "prerequis",
+            widget: list,
+            fields: [
+              {label: Texte, name: texte, widget: string},
+            ]
+          }
+          - {
+            label: "Tarifs",
+            name: "tarifs",
+            widget: list,
+            fields: [
+              {label: Texte, name: texte, widget: string},
+            ]
+          }
+          - {
+            label: "Images bas de page",
+            name: "imagesBasDePage",
+            widget: list,
+            fields: [
+              {label: Image, name: image, widget: image},
+            ]
+          }
       - file: "src/pages/a-propos.md"
         label: "A propos"
         name: "a-propos"
