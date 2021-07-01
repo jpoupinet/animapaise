@@ -1,7 +1,7 @@
 ---
 templateKey: oberythmee-page
 imageIntro: /img/51227579113_30d002f457_c.jpg
-survolImageIntro: crédit photo
+survolImageIntro: Photo de Céline DUFOURD
 titrePage: Obérythmée
 prerequis:
   - texte: âge minimum fixé à un an
