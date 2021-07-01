@@ -5,7 +5,7 @@ survolImageIntro: Photo de Camille IMBERT
 titrePage: Agility loisir
 prerequis:
   - texte: Âge minimum fixé à un an
-  - texte: Chiens sociable avec de bonnes bases d'éducation
+  - texte: Chiens sociables avec de bonnes bases d'éducation
 tarifs:
   - titre: Cours individuels
     tarifs:
