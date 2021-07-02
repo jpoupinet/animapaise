@@ -1,6 +1,6 @@
 ---
 templateKey: medical-training-page
-imageIntro: /img/51228442110_7cc6b564b4_k.jpg
+imageIntro: /img/51228088719_a788ac669d_c.jpg
 survolImageIntro: crédit photo
 titrePage: Medical training
 prerequis:
