@@ -3,13 +3,13 @@ import PropTypes from 'prop-types';
 import ColleguesPageTemplate from '../templates/ColleguesPageTemplate';
 import '../all.sass';
 
-const ColleguesPagePreview = ({ entry }) => {
+const ColleguesPagePreview = ({ entry, widgetFor }) => {
   const data = entry.getIn(['data']).toJS();
 
   if (data) {
     return (
       <ColleguesPageTemplate
-        content={data.body}
+        content={widgetFor('body')}
         titrePage={data.titrePage}
         presentations={data.presentations}
         blurbs={data.blurbs}
@@ -24,6 +24,7 @@ ColleguesPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
+  widgetFor: PropTypes.func,
 };
 
 export default ColleguesPagePreview;

@@ -3,14 +3,14 @@ import PropTypes from 'prop-types';
 import AProposPageTemplate from '../templates/AProposPageTemplate';
 import '../all.sass';
 
-const AProposPagePreview = ({ entry }) => {
+const AProposPagePreview = ({ entry, widgetFor }) => {
   const data = entry.getIn(['data']).toJS();
 
   if (data) {
     return (
       <AProposPageTemplate
         imageIntro={data.imageIntro}
-        content={data.body}
+        content={widgetFor('body')}
         presentation={data.presentation}
         diplomesCertificats={data.diplomesCertificats}
         formationsStages={data.formationsStages}

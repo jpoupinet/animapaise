@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import ActivitesPageTemplate from '../templates/ActivitesPageTemplate';
 import '../all.sass';
 
-const ActivitesPagePreview = ({ entry }) => {
+const ActivitesPagePreview = ({ entry, widgetFor }) => {
   const data = entry.getIn(['data']).toJS();
 
   if (data) {
@@ -11,7 +11,7 @@ const ActivitesPagePreview = ({ entry }) => {
       <ActivitesPageTemplate
         imageIntro={data.imageIntro}
         titrePage={data.titrePage}
-        content={data.body}
+        content={widgetFor('body')}
         titreCartes={data.titreCartes}
         cartes={data.cartes}
       />
@@ -25,6 +25,7 @@ ActivitesPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
+  widgetFor: PropTypes.func,
 };
 
 export default ActivitesPagePreview;

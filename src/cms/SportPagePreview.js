@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import SportPageTemplate from '../templates/SportPageTemplate';
 import '../all.sass';
 
-const SportPagePreview = ({ entry }) => {
+const SportPagePreview = ({ entry, widgetFor }) => {
   const data = entry.getIn(['data']).toJS();
 
   if (data) {
@@ -12,7 +12,7 @@ const SportPagePreview = ({ entry }) => {
         imageIntro={data.imageIntro}
         survolImageIntro={data.survolImageIntro}
         titrePage={data.titrePage}
-        content={data.body}
+        content={widgetFor('body')}
         prerequis={data.prerequis}
         tarifs={data.tarifs}
         sousTexteTarifs={data.sousTexteTarifs}

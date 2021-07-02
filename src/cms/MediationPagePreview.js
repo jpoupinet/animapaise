@@ -3,13 +3,13 @@ import PropTypes from 'prop-types';
 import MediationPageTemplate from '../templates/MediationPageTemplate';
 import '../all.sass';
 
-const MediationPagePreview = ({ entry }) => {
+const MediationPagePreview = ({ entry, widgetFor }) => {
   const data = entry.getIn(['data']).toJS();
 
   if (data) {
     return (
       <MediationPageTemplate
-        content={data.body}
+        content={widgetFor('body')}
         titrePage={data.titrePage}
         imageIntro={data.imageIntro}
         titreCartes={data.titreCartes}
@@ -26,6 +26,7 @@ MediationPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
+  widgetFor: PropTypes.func,
 };
 
 export default MediationPagePreview;
