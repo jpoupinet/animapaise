@@ -37,7 +37,7 @@ L'obérythmée ou dog-dancing est une discipline qui consiste à ***enchaîner u
 
 Anim'Apaise pourra vous accompagner dans :
 
-\- l'initiation au **clicker-training** et l'amorce d'apprentissages nécessaire à ce sport
+\- l'initiation au **clicker-training** et l'amorce d'apprentissages nécessaires à ce sport
 
 \- l'apprentissage de **tricks et déplacements** 
 
