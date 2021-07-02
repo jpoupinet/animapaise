@@ -8,7 +8,7 @@ prerequis:
   - texte: Avoir son propre clicker
 tarifs:
   - titre: Cours individuels
-    sousTitre: Et là c'est bien ?
+    sousTitre: Un cours individuel dure environ 45 minutes
     tarifs:
       - texte: 20 simflouzes pour 1 heure
       - texte: 50 simflouzes pour 3 heures
