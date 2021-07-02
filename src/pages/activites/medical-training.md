@@ -13,7 +13,7 @@ tarifs:
       - texte: 20 simflouzes pour 1 heure
       - texte: 50 simflouzes pour 3 heures
   - titre: Cours collectifs
-    sousTitre: Et là c'est bien ?
+    sousTitre: Un cours collectif dure entre 1h30 et 2h selon le nombre de participants
     tarifs:
       - texte: 20 simflouzes pour 1 heure
       - texte: 50 simflouzes pour 3 heures
