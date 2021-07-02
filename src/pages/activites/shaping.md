@@ -4,8 +4,8 @@ imageIntro: /img/50817282171_944bf475e7_k.jpg
 survolImageIntro: Photo d'Anim'Apaise
 titrePage: Shaping
 prerequis:
-  - texte: Faire au moins 1m89
-  - texte: Manger 5 fruits et légumes par jour
+  - texte: Âge minimum fixé à 6 mois
+  - texte: Avoir son propre clicker
 tarifs:
   - titre: Cours individuels
     sousTitre: Et là c'est bien ?
@@ -27,4 +27,16 @@ imagesBasDePage:
     survolImage: Photo d'Amandine RICOU
 liensCreditPhoto: []
 ---
-Il existe bien des activités à partager avec son chien pour renforcer la relation qu'on entretient avec lui, le dépenser mentalement et physiquement. Il existe plein d'apprentissages à mettre en place pour le valoriser, lui offrir des espaces de choix, lui permettre d'être acteur de ces apprentissages. Venez découvrir ce qu'Anim'Apaise vous propose de partager avec votre chien au quotidien.
+Le shaping (que l'on peut traduire façonnage) est une **technique d'apprentissage** qui permet de construire un nouveau comportement et d'améliorer un comportement déjà appris ou en apprentissage. Le but étant de ne **jamais inciter physiquement, ni leurrer** le chien et de renforcer grâce au marqueur (clicker) et renforçateurs les **propositions de comportement(s)**.
+
+Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec cette technique autour de :
+
+\- l'utilisation du **clicker** : apprendre à s'en servir sans le chien puis avec le chien
+
+\- la compréhension des **différentes manières** d'utiliser le shaping 
+
+\- l'apprentissage de **nouveaux comportements** grâce au shaping 
+
+\- la **généralisation** d'un comportement appris au shaping
+
+**4 CHIENS MAXIMUM POUR LES COURS COLLECTIFS**
