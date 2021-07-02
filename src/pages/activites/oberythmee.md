@@ -8,13 +8,13 @@ prerequis:
   - texte: "Chiens sociables avec des bases d'éducation "
 tarifs:
   - titre: "Cours individuels "
-    sousTitre: Et là c'est bien ?
+    sousTitre: Un cours individuel dure environ 45min
     tarifs:
       - texte: "Un cours : 30€ "
       - texte: "Forfait 5 cours : 140€"
       - texte: "Forfait 10 cours : 270€"
   - titre: Cours collectifs
-    sousTitre: Et là c'est bien ?
+    sousTitre: Un cours collectif dure entre 1h30 et 2h selon le nombre de participants
     tarifs:
       - texte: "Un cours : 25€"
       - texte: "Forfait de 5 cours : 115€"
