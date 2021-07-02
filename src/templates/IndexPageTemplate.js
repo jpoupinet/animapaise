@@ -47,7 +47,7 @@ const IndexPageTemplate = ({
                     :
                     <div className="container has-text-centered">
                       <PreviewCompatibleImage
-                        imageInfo={{ alt: 'Animapaise logo', image: mainpitch.image }}
+                        imageInfo={{ alt: '', image: mainpitch.image }}
                       />
                     </div>
                 }
@@ -65,7 +65,7 @@ const IndexPageTemplate = ({
                     :
                     <div className="container has-text-centered">
                       <PreviewCompatibleImage
-                        imageInfo={{ alt: 'Animapaise logo', image: mainpitch.image }}
+                        imageInfo={{ alt: '', image: mainpitch.image }}
                       />
                     </div>
                 }
@@ -78,7 +78,7 @@ const IndexPageTemplate = ({
       <section className="section has-background-primary">
         <div className="container">
           <div className="block has-text-white">
-            <h1 className="title is-1 has-text-white">{intro.heading}</h1>
+            <h2 className="title is-1 has-text-white">{intro.heading}</h2>
             <p style={{ fontSize: '1.1rem' }}>{intro.description}</p>
           </div>
           <Features gridItems={intro.blurbs} />
