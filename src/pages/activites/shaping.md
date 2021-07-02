@@ -1,7 +1,7 @@
 ---
 templateKey: shaping-page
-imageIntro: /img/51228442110_7cc6b564b4_k.jpg
-survolImageIntro: crédit photo
+imageIntro: /img/50817282171_944bf475e7_k.jpg
+survolImageIntro: Photo d'Anim'Apaise
 titrePage: Shaping
 prerequis:
   - texte: Faire au moins 1m89
@@ -10,23 +10,21 @@ tarifs:
   - titre: Cours individuels
     sousTitre: Et là c'est bien ?
     tarifs:
-    - texte: 20 simflouzes pour 1 heure
-    - texte: 50 simflouzes pour 3 heures
+      - texte: 20 simflouzes pour 1 heure
+      - texte: 50 simflouzes pour 3 heures
   - titre: Cours collectifs
     sousTitre: Et là c'est bien ?
     tarifs:
-    - texte: 20 simflouzes pour 1 heure
-    - texte: 50 simflouzes pour 3 heures
+      - texte: 20 simflouzes pour 1 heure
+      - texte: 50 simflouzes pour 3 heures
 sousTexteTarifs: Ni repris ni échangé ni remboursé
 imagesBasDePage:
-  - image: /img/49375037576_116e4231ef_k.jpg
-    survolImage: crédit photo
-  - image: /img/2021-06-11_01-09-13.jpg
-    survolImage: crédit photo
-  - image: /img/dsc_2001.jpg
-    survolImage: crédit photo
-liensCreditPhoto:
-  - texte: Crédit photo
-    lien: https://i.imgur.com/ztqVuWx.jpg
+  - image: /img/51285958185_2965a1d766_k.jpg
+    survolImage: Photo d'Amandine RICOU
+  - image: /img/49860081482_6e2bc2d7f3_k.jpg
+    survolImage: Photo d'Anim'Apaise
+  - image: /img/51285099753_e89781202b_k.jpg
+    survolImage: Photo d'Amandine RICOU
+liensCreditPhoto: []
 ---
 Il existe bien des activités à partager avec son chien pour renforcer la relation qu'on entretient avec lui, le dépenser mentalement et physiquement. Il existe plein d'apprentissages à mettre en place pour le valoriser, lui offrir des espaces de choix, lui permettre d'être acteur de ces apprentissages. Venez découvrir ce qu'Anim'Apaise vous propose de partager avec votre chien au quotidien.
