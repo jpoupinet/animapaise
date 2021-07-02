@@ -8,15 +8,15 @@ prerequis:
   - texte: Manger 5 fruits et légumes par jour
 tarifs:
   - titre: Cours individuels
-    sousTitre: Et là c'est bien ?
+    sousTitre: Un cours individuel dure environ 45 minutes
     tarifs:
-    - texte: 20 simflouzes pour 1 heure
-    - texte: 50 simflouzes pour 3 heures
+      - texte: 20 simflouzes pour 1 heure
+      - texte: 50 simflouzes pour 3 heures
   - titre: Cours collectifs
     sousTitre: Et là c'est bien ?
     tarifs:
-    - texte: 20 simflouzes pour 1 heure
-    - texte: 50 simflouzes pour 3 heures
+      - texte: 20 simflouzes pour 1 heure
+      - texte: 50 simflouzes pour 3 heures
 sousTexteTarifs: Ni repris ni échangé ni remboursé
 imagesBasDePage:
   - image: /img/49375037576_116e4231ef_k.jpg
