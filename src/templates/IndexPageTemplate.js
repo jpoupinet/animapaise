@@ -37,18 +37,18 @@ const IndexPageTemplate = ({
               <div className="column"></div>
               <div className="column is-two-fifths">
                 {
-                  width && width > 768 ?
+                  width && width <= 768 ?
+                    <div className="container has-text-centered">
+                      <PreviewCompatibleImage
+                        imageInfo={{ alt: '', image: mainpitch.image }}
+                      />
+                    </div>
+                    :
                     <div className="container">
                       <h2 className="title is-2">{mainpitch.title}</h2>
                       <div className="block">
                         <p className="is-size-5">{mainpitch.description}</p>
                       </div>
-                    </div>
-                    :
-                    <div className="container has-text-centered">
-                      <PreviewCompatibleImage
-                        imageInfo={{ alt: '', image: mainpitch.image }}
-                      />
                     </div>
                 }
               </div>
