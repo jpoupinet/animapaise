@@ -37,7 +37,7 @@ const IndexPageTemplate = ({
               <div className="column"></div>
               <div className="column is-two-fifths">
                 {
-                  width > 768 ?
+                  width && width > 768 ?
                     <div className="container">
                       <h2 className="title is-2">{mainpitch.title}</h2>
                       <div className="block">
@@ -55,7 +55,7 @@ const IndexPageTemplate = ({
               <div className="column"></div>
               <div className="column is-two-fifths">
                 {
-                  width <= 768 ?
+                  width && width <= 768 ?
                     <div className="container">
                       <h2 className="title is-2">{mainpitch.title}</h2>
                       <div className="block">
