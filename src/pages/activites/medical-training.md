@@ -1,7 +1,7 @@
 ---
 templateKey: medical-training-page
 imageIntro: /img/51228088719_a788ac669d_c.jpg
-survolImageIntro: crédit photo
+survolImageIntro: Photo d'Anim'Apaise
 titrePage: Medical training
 prerequis:
   - texte: Faire au moins 1m89
