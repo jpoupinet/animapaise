@@ -3,7 +3,7 @@ templateKey: prestation-ma
 ordre: 2
 titre: Ateliers collectifs en structure ou à domicile
 image: /img/dsc_0556.jpg
-prix: "Tarifs : à partir de 90€"
+prix: "Tarifs : à partir de 75€"
 ---
 Les séances collectives de médiation animale incluent **plusieurs bénéficiaires** en lien avec **l'animal** et *l'intervenant*.
 
