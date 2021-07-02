@@ -1,6 +1,6 @@
 ---
 templateKey: shaping-page
-imageIntro: /img/50817282171_944bf475e7_k.jpg
+imageIntro: /img/49860081482_6e2bc2d7f3_k.jpg
 survolImageIntro: Photo d'Anim'Apaise
 titrePage: Shaping
 prerequis:
@@ -23,7 +23,7 @@ sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
 imagesBasDePage:
   - image: /img/51285958185_2965a1d766_k.jpg
     survolImage: Photo d'Amandine RICOU
-  - image: /img/49860081482_6e2bc2d7f3_k.jpg
+  - image: /img/50817282171_944bf475e7_k.jpg
     survolImage: Photo d'Anim'Apaise
   - image: /img/51285099753_e89781202b_k.jpg
     survolImage: Photo d'Amandine RICOU
