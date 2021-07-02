@@ -17,7 +17,9 @@ tarifs:
     tarifs:
       - texte: 20 simflouzes pour 1 heure
       - texte: 50 simflouzes pour 3 heures
-sousTexteTarifs: Ni repris ni échangé ni remboursé
+sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
+  Grandchamp des Fontaines ou à votre domicile. Les frais de déplacement sont
+  gratuits jusqu'à 20km autour d'Orvault Cholière.
 imagesBasDePage:
   - image: /img/49375037576_116e4231ef_k.jpg
     survolImage: crédit photo
