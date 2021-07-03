@@ -388,6 +388,12 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "cgv-page"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/zi-frais-deplacement.md"
+        label: "Zone d'intervention et frais de déplacement"
+        name: "zi-frais-deplacement"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "zi-frais-deplacement-page"}
+          - {label: "Body", name: "body", widget: "markdown"}
   - name: "prestations-ma-collection"
     label: "Prestations MA"
     folder: "/src/pages/mediation/prestations"

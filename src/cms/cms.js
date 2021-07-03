@@ -8,6 +8,7 @@ import AProposPagePreview from './AProposPagePreview';
 import ColleguesPagePreview from './ColleguesPagePreview';
 import SportPagePreview from './SportPagePreview';
 import CGVPagePreview from './CGVPagePreview';
+import ZIFraisDeplacementPagePreview from './ZIFraisDeplacementPagePreview';
 
 CMS.registerPreviewTemplate('index', IndexPagePreview);
 CMS.registerPreviewTemplate('mediation', MediationPagePreview);
@@ -20,3 +21,4 @@ CMS.registerPreviewTemplate('agility', SportPagePreview);
 CMS.registerPreviewTemplate('medical-training', SportPagePreview);
 CMS.registerPreviewTemplate('shaping', SportPagePreview);
 CMS.registerPreviewTemplate('cgv', CGVPagePreview);
+CMS.registerPreviewTemplate('zi-frais-deplacement', ZIFraisDeplacementPagePreview);
