@@ -102,7 +102,7 @@ const Navbar = () => {
                   Agility
                 </Link>
                 <Link className="navbar-item" to="/activites/medical-training">
-                  Medical training
+                  Medical-training
                 </Link>
                 <Link className="navbar-item" to="/activites/shaping">
                   Shaping
