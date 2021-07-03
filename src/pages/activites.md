@@ -10,7 +10,7 @@ cartes:
   - image: /img/50316184016_7531f73557_c.jpg
     texte: Agility loisir
     lien: agility
-  - image: /img/51228088719_a788ac669d_c.jpg
+  - image: /img/dsc_1897.jpg
     texte: Medical-training
     lien: medical-training
   - texte: Shaping
