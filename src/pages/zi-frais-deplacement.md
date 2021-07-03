@@ -1,7 +1,7 @@
 ---
 templateKey: zi-frais-deplacement-page
 ---
-##### **Ces informations concernent uniquement le prestations de sports, activités et comportement canins.**
+##### **Ces informations concernent uniquement les prestations de sports, activités et comportement canins.**
 
 ***Zone d'intervention***
 
@@ -9,7 +9,7 @@ J'interviens au domicile des clients dans un rayon de 60km autour d'Orvault Chol
 
 Pour les stages je peux me déplacer dans toute la France selon les demandes.
 
-**Frais de déplacement**
+***Frais de déplacement***
 
 Les 20 premiers kilomètres autour d'Orvault Cholière sont gratuits.
 
