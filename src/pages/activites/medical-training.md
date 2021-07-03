@@ -7,7 +7,7 @@ prerequis:
   - texte: Âge minimum fixé à 6 mois
 tarifs:
   - titre: Cours individuels
-    sousTitre: Un cours individuel dure environ 45 minutes
+    sousTitre: Un cours individuel dure environ 1h
     tarifs:
       - texte: "Une séance : 40€"
       - texte: "Forfait de 5 séances : 185€"
