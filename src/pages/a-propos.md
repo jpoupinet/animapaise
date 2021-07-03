@@ -8,6 +8,9 @@ presentation:
     plus à nos côtés physiquement aujourd'hui, mais n'est jamais bien loin dans
     tout ce que j'entreprends.
 diplomesCertificats:
+  - annee: En cours
+    description: Formation de Comportementaliste Animalier - Mention Chien
+    organisme: AimHo Formations
   - annee: "2021"
     description: Certifiée Intervenante en Médiation par l'Animal
     organisme: Association de Zoothérapie des Côtes d'Or Formations
