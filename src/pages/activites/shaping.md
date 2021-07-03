@@ -15,8 +15,8 @@ tarifs:
   - titre: Stages
     sousTitre: Une journée de stage dure environ 6h
     tarifs:
-      - texte: "Participant : 85€"
-      - texte: "Auditeur libre : 30€"
+      - texte: "Participant : 85€ (6 duos maximum)"
+      - texte: "Auditeur libre : 30€ (6 personnes maximum)"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines ou à votre domicile. Les frais de déplacement sont
   gratuits jusqu'à 20km autour d'Orvault Cholière.
@@ -40,5 +40,3 @@ Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec cette te
 \- l'apprentissage de **nouveaux comportements** grâce au shaping 
 
 \- la **généralisation** d'un comportement appris au shaping
-
-**4 CHIENS MAXIMUM POUR LES COURS COLLECTIFS**
