@@ -6,8 +6,8 @@ import '../all.sass';
 import useSiteMetadata from './SiteMetadata';
 import { withPrefix } from 'gatsby';
 
-const Layout = ({ children }) => {
-  const { title, description } = useSiteMetadata();
+const Layout = ({ title = 'Anim\'apaise', children }) => {
+  const { description } = useSiteMetadata();
 
   return (
     <div>

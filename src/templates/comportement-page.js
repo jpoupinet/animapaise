@@ -10,7 +10,7 @@ const ComportementPage = () => {
   // const { frontmatter } = data.markdownRemark
 
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - Comportement canin">
       <ComportementPageTemplate
       />
     </Layout>

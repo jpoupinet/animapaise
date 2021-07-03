@@ -13,7 +13,7 @@ const PrestationsMAPage = ({ data }) => {
   prestations.sort((a, b) => a.node.frontmatter.ordre - b.node.frontmatter.ordre)
 
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - Prestations">
       <PrestationsMAPageTemplate
         prestations={prestations}
         contentComponent={HTMLContent}

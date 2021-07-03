@@ -10,7 +10,7 @@ const AProposPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - A propos">
       <AProposPageTemplate
         imageIntro={post.frontmatter.imageIntro}
         content={post.html}

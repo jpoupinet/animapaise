@@ -10,7 +10,7 @@ const ColleguesPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - Mes collègues">
       <ColleguesPageTemplate
         content={post.html}
         contentComponent={HTMLContent}

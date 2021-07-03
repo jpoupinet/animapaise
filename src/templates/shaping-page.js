@@ -10,7 +10,7 @@ const ShapingPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - Shaping">
       <SportPageTemplate
         imageIntro={post.frontmatter.imageIntro}
         survolImageIntro={post.frontmatter.survolImageIntro}

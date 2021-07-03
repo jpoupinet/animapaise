@@ -10,7 +10,7 @@ const ZIFraisDeplacementPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - Zone d'intervention et frais de déplacement">
       <ZIFraisDeplacementPageTemplate
         content={post.html}
         contentComponent={HTMLContent}

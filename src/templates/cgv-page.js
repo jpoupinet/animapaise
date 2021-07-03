@@ -10,7 +10,7 @@ const CGVPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - CGV">
       <CGVPageTemplate
         content={post.html}
         contentComponent={HTMLContent}

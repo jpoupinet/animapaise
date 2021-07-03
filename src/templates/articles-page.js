@@ -7,7 +7,7 @@ import imageBanniere from '../../static/img/2021-06-11_01-09-27.jpg';
 
 const ArticlesPage = () => {
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - Articles">
       <div>
         {/* Banniere */}
         <PreviewCompatibleImage

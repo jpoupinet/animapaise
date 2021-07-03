@@ -7,7 +7,7 @@ import imageBanniere from '../../static/img/2021-06-11_01-09-27.jpg';
 
 const PeccramPage = () => {
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - PECCRAM">
       <div>
         {/* Banniere */}
         <PreviewCompatibleImage

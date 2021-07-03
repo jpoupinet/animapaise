@@ -10,7 +10,7 @@ const MediationPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - Médiation animale">
       <MediationPageTemplate
         content={post.html}
         contentComponent={HTMLContent}

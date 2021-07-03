@@ -40,7 +40,7 @@ const MediationPageTemplate = ({
       <section className="section pt-0">
         <div className="container has-text-centered">
           <a href={dossierPresentation} target="_blank" rel="noreferrer" className="is-size-4">
-            Cliquez ici pour consulter le dossier de présentation d'Anim'apaise
+            Cliquez ici pour consulter le dossier de présentation d'Anim'Apaise
           </a>
         </div>
       </section>

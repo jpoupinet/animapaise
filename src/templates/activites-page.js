@@ -10,7 +10,7 @@ const ActivitesPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - Activités et sports canins">
       <ActivitesPageTemplate
         imageIntro={post.frontmatter.imageIntro}
         titrePage={post.frontmatter.titrePage}

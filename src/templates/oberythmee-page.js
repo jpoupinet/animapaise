@@ -10,7 +10,7 @@ const OberythmeePage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - Obérythmée">
       <SportPageTemplate
         imageIntro={post.frontmatter.imageIntro}
         survolImageIntro={post.frontmatter.survolImageIntro}

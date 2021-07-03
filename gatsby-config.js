@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Animapaise',
-    description: 'Mediation animale, comportement canin en Loire Atlantique',
+    title: 'Anim\'Apaise',
+    description: 'Médiation animale, comportement canin, activités et sports canins en Loire Atlantique',
   },
   plugins: [
     `gatsby-plugin-sass`,
