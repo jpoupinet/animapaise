@@ -33,7 +33,9 @@ liensCreditPhoto:
   - texte: Site internet de Céline DUFOURD
     lien: https://www.celinedufourd.fr/
 ---
-L'obérythmée ou dog-dancing est une discipline qui consiste à ***enchaîner une chorégraphie avec son chien***. Cette chorégraphie est constituée d'enchaînements de **tricks/figures** et de **déplacements** réalisés par le chien, le tout en *harmonie avec l'humain, le thème et la musique*. Cette discipline permet d'exprimer sa **créativité**, de travailler sur la **gestion des émotions** du chien mais également de le **valoriser** dans ses déplacements et ses apprentissages.
+L'obérythmée ou dog-dancing est une discipline qui consiste à ***enchaîner une chorégraphie avec son chien***. Cette chorégraphie est constituée d'enchaînements de **tricks/figures** et de **déplacements** réalisés par le chien, le tout en *harmonie avec l'humain, le thème et la musique*. 
+
+Cette discipline permet d'exprimer sa **créativité**, de travailler sur la **gestion des émotions** du chien mais également de le **valoriser** dans ses déplacements et ses apprentissages.
 
 Anim'Apaise pourra vous accompagner dans :
 
