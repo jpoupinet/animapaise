@@ -4,7 +4,8 @@ imageIntro: /img/dsc_1897.jpg
 survolImageIntro: Photo d'Anim'Apaise
 titrePage: Medical-training
 prerequis:
-  - texte: Âge minimum fixé à 6 mois
+  - texte: Âge minimum fixé à 6 mois pour les chiens et chats
+  - texte: Âge minimum fixé à 18 mois pour les chevaux
 tarifs:
   - titre: Cours individuels
     sousTitre: Un cours individuel dure environ 30 minutes
@@ -15,7 +16,7 @@ tarifs:
     sousTitre: Une journée de stage dure environ 6h
     tarifs:
       - texte: "Participant : 85€ (6 duos maximum)"
-      - texte: "Auditeur libre : 30€ (6 personnes maximum)"
+      - texte: "Auditeur libre : 45€ (6 personnes maximum)"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines ou à votre domicile. Les frais de déplacement sont
   gratuits jusqu'à 20km autour d'Orvault Cholière.

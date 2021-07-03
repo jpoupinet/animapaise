@@ -55,6 +55,6 @@ blurbs:
   - image: /img/dog-1-.png
     text: Coopération et consentement
 ---
-**Chiens, poneys et chats** m'accompagnent au quotidien mais également lors des ateliers proposés. Tous avec leur **caractère**, leur **tempérament**, je fais en sorte de leur proposer de s'investir dans des activités avec lesquelles ils seront le plus à l'aise possible. ***Leur bien-être en séance est une de mes priorité.*** Ma vigilance quant au respect de cet aspect permet de garantir une **sécurité** supplémentaire au contact du public. 
+**Chiens, poneys et chats** m'accompagnent au quotidien mais également lors des ateliers proposés. Tous avec leur **caractère**, leur **tempérament**, je fais en sorte de leur proposer de s'investir dans des activités avec lesquelles ils seront le plus à l'aise possible. ***Leur bien-être en séance est une de mes priorités.*** Ma vigilance quant au respect de cet aspect permet de garantir une **sécurité** supplémentaire au contact du public. 
 
 Ils bénéficient tous d'un ***suivi vétérinaire, ostéopathe et autres suivis*** spécifiques à leurs besoins personnels et liés à leur espèce. Ils ont également des **soins réguliers** garantissant leur bonne santé et la sécurité des bénéficiaires.
