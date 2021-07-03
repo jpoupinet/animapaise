@@ -12,7 +12,7 @@ import instagram from '../../static/img/instagram.svg';
 
 const ContactPage = () => {
   return (
-    <Layout>
+    <Layout title="Anim'Apaise - Contact">
       <section className="section is-medium">
         <div className="columns">
           <div className="column is-1"></div>
