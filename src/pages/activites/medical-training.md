@@ -4,19 +4,18 @@ imageIntro: /img/51228088719_a788ac669d_c.jpg
 survolImageIntro: Photo d'Anim'Apaise
 titrePage: Medical training
 prerequis:
-  - texte: Faire au moins 1m89
-  - texte: Manger 5 fruits et légumes par jour
+  - texte: Âge minimum fixé à 6 mois
 tarifs:
   - titre: Cours individuels
     sousTitre: Un cours individuel dure environ 45 minutes
     tarifs:
-      - texte: 20 simflouzes pour 1 heure
-      - texte: 50 simflouzes pour 3 heures
-  - titre: Cours collectifs
-    sousTitre: Un cours collectif dure entre 1h30 et 2h selon le nombre de participants
+      - texte: "Une séance : 40€"
+      - texte: "Forfait de 5 séances : 185€"
+  - titre: Stages
+    sousTitre: Une journée de stage dure environ 6h
     tarifs:
-      - texte: 20 simflouzes pour 1 heure
-      - texte: 50 simflouzes pour 3 heures
+      - texte: "Participant : 85€ (6 duos maximum)"
+      - texte: "Auditeur libre : 30€ (6 personnes maximum)"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines ou à votre domicile. Les frais de déplacement sont
   gratuits jusqu'à 20km autour d'Orvault Cholière.
