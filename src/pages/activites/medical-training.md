@@ -1,6 +1,6 @@
 ---
 templateKey: medical-training-page
-imageIntro: /img/51228088719_a788ac669d_c.jpg
+imageIntro: /img/dsc_1890.jpg
 survolImageIntro: Photo d'Anim'Apaise
 titrePage: Medical training
 prerequis:
