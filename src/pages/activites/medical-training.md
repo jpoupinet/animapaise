@@ -2,7 +2,7 @@
 templateKey: medical-training-page
 imageIntro: /img/dsc_1897.jpg
 survolImageIntro: Photo d'Anim'Apaise
-titrePage: Medical training
+titrePage: Medical-training
 prerequis:
   - texte: Âge minimum fixé à 6 mois
 tarifs:
