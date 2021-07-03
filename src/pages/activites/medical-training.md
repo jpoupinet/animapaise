@@ -4,7 +4,8 @@ imageIntro: /img/dsc_1897.jpg
 survolImageIntro: Photo d'Anim'Apaise
 titrePage: Medical-training
 prerequis:
-  - texte: Âge minimum fixé à 6 mois
+  - texte: Âge minimum fixé à 6 mois pour les chiens et chats
+  - texte: Âge minimum fixé à 18 mois pour les chevaux
 tarifs:
   - titre: Cours individuels
     sousTitre: Un cours individuel dure environ 30 minutes
