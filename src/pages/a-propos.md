@@ -9,7 +9,7 @@ presentation:
     tout ce que j'entreprends.
 diplomesCertificats:
   - annee: En cours
-    description: Formation de Comportementaliste Animalier - Mention Chien
+    description: Comportementaliste Animalier - Mention Chien
     organisme: AimHo Formations
   - annee: "2021"
     description: Certifiée Intervenante en Médiation par l'Animal
