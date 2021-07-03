@@ -8,10 +8,10 @@ prerequis:
   - texte: Avoir son propre clicker
 tarifs:
   - titre: Cours individuels
-    sousTitre: Un cours individuel dure environ 1h
+    sousTitre: Un cours individuel dure environ 30 minutes
     tarifs:
-      - texte: "Une séance : 40€"
-      - texte: "Forfait de 5 séances : 185€"
+      - texte: "Une séance : 30€"
+      - texte: "Forfait de 5 séances : 135€"
   - titre: Stages
     sousTitre: Une journée de stage dure environ 6h
     tarifs:
