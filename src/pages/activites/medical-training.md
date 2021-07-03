@@ -28,4 +28,18 @@ imagesBasDePage:
     survolImage: Photo d'Anim'Apaise
 liensCreditPhoto: []
 ---
-Il existe bien des activités à partager avec son chien pour renforcer la relation qu'on entretient avec lui, le dépenser mentalement et physiquement. Il existe plein d'apprentissages à mettre en place pour le valoriser, lui offrir des espaces de choix, lui permettre d'être acteur de ces apprentissages. Venez découvrir ce qu'Anim'Apaise vous propose de partager avec votre chien au quotidien.
+Le medical-training a comme objectif de pouvoir **soigner** son animal **volontairement** et avec son **consentement**. Cette pratique est basée sur le principe de **l'empowerment** avec la **notion de choix** pour l'animal. Cette approche permet également d'amorcer une nouvelle manière de ***communiquer*** avec eux et de développer la ***relation de confiance*** qu'ils nous accordent.
+
+Que ça soit pour les **soins de tous les jours** (brossage, coupe des griffes, soins de yeux/oreilles etc.), les **actes vétérinaires/ostéopathiques**/etc. ou la **mise volontaire** de différents **outils** (harnais, licol, caisse de transport, muselière etc.), le concept de coopération va prendre sens dans beaucoup d'actes du quotidien.
+
+Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec le medical-training en abordant :
+
+\- la **construction d'une séance** de medical training : choix des marqueurs, des renforçateurs, des outils
+
+\- l'apprentissage de **positions de consentement** (podium, bucket-game, chin-rest, relax ect.)
+
+\- l'introduction d'un **ustensile de soin** (brosse, pulseur, coupe-griffe etc.) ou **matériel du quotidien** (harnais, licol, muselière etc.)
+
+\- la **réalisation d'un soin complet** avec le consentement de votre animal (soin des yeux, toilettage, donner le vermifuge etc.)
+
+Ce cours peut s'adresser aussi bien aux ***chiens qu'aux chevaux ou aux chats***.
