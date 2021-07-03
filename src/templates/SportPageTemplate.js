@@ -72,9 +72,16 @@ const SportPageTemplate = ({
                 )
               }
               <p className="block mt-4 is-italic">{sousTexteTarifs}</p>
-              <Link to="/cgv" className="is-underlined has-text-weight-bold">
-                Conditions Générales de Vente
-              </Link>
+              <div className="block">
+                <Link to="/cgv" className="is-underlined has-text-weight-bold">
+                  Conditions Générales de Vente
+                </Link>
+              </div>
+              <div className="block">
+                <Link to="/zi-frais-deplacement" className="is-underlined has-text-weight-bold">
+                  Zone d'intervention et frais de déplacement
+                </Link>
+              </div>
             </div>
           </div>
         </div>

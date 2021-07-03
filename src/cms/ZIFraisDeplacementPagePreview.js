@@ -1,5 +1,3 @@
-ZIFraisDeplacementPagePreview
-
 import React from 'react';
 import PropTypes from 'prop-types';
 import ZIFraisDeplacementPageTemplate from '../templates/ZIFraisDeplacementPageTemplate';

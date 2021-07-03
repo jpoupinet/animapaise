@@ -27,7 +27,7 @@ export default ZIFraisDeplacementPage;
 
 export const pageQuery = graphql`
   query ZIFraisDeplacementPageTemplate {
-    markdownRemark(frontmatter: { templateKey: { eq: "cgv-page" } }) {
+    markdownRemark(frontmatter: { templateKey: { eq: "zi-frais-deplacement-page" } }) {
       html
     }
   }
