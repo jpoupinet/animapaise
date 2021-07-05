@@ -8,10 +8,10 @@ prerequis:
   - texte: Âge minimum fixé à 18 mois pour les chevaux
 tarifs:
   - titre: Cours individuels
-    sousTitre: Un cours individuel dure environ 30 minutes
+    sousTitre: Un cours individuel dure environ 45 minutes
     tarifs:
-      - texte: "Une séance : 30€"
-      - texte: "Forfait de 5 séances : 135€"
+      - texte: "Une séance : 40€"
+      - texte: "Forfait de 5 séances : 185€"
   - titre: Stages
     sousTitre: Une journée de stage dure environ 6h
     tarifs:
