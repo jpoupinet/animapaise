@@ -29,17 +29,17 @@ Les forfaits de 5 cours et 10 cours seront respectivement valable 6 mois et 1 an
 
 Sophie Bourdon s’engage à mettre tout en œuvre pour apporter son savoir et ses compétences dans les activités canines proposées.
 
-Sophie Bourdon intervient systématiquement dans le plus grand respect du chien et de l’humain, ne mettant jamais en œuvre ce qui a trait à l’ordre du coercitif, que ce soit dans les outils utilisés, dans son savoir-faire et dans son savoir-être. L'approche des cours se fera de la manière la plus bienveillante et positive pour le chien comme son gardien.
+Sophie Bourdon intervient systématiquement dans le plus grand respect du chien et de l’humain, ne mettant jamais en œuvre ce qui a trait à l’ordre du coercitif, que ce soit dans les outils utilisés, dans son savoir-faire et dans son savoir-être. L'approche des cours et stages se fera de la manière la plus bienveillante et positive pour le chien comme son gardien.
 
 **Article 5**
 
-Le client s’engage à appliquer les conseils dispensés par Sophie Bourdon lors des cours. Le client s’engage à faire travailler son chien toutes les semaines de manière régulières en dehors des cours.
+Le client s’engage à appliquer les conseils dispensés par Sophie Bourdon lors des cours et stages. Le client s’engage à faire travailler son chien toutes les semaines de manière régulières en dehors des cours.
 
 Dans ces conditions Sophie Bourdon ne serait être en aucun cas considérée comme responsable des incidents ou des accidents survenant au cours ou postérieurement des séances données.
 
 **Article 6** 
 
-Aucune prestation ne pourra être annulée pour des raisons météorologiques à l’initiative des participants. C’est uniquement Sophie Bourdon qui pourra juger si le cours doit être annulé en cas de mauvaises conditions climatiques ou par manque de participants.
+Aucune prestation ne pourra être annulée pour des raisons météorologiques à l’initiative des participants. C’est uniquement Sophie Bourdon qui pourra juger si le cours ou le stage doit être annulé en cas de mauvaises conditions climatiques ou par manque de participants.
 
 Tout cours annulé moins de 24 heures à l’avance à l’initiative du client sans justificatif médical est due.
 
