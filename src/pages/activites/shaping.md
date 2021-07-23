@@ -13,7 +13,7 @@ tarifs:
       - texte: "Une séance : 40€"
       - texte: "Forfait de 5 séances : 185€"
   - titre: Stages
-    sousTitre: Une journée de stage dure environ 7h
+    sousTitre: Une journée de stage dure environ 7 heures
     tarifs:
       - texte: "Participant : 85€ (6 duos maximum)"
       - texte: "Auditeur libre : 45€ (6 personnes maximum)"
