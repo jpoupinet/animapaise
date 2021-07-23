@@ -5,7 +5,7 @@ survolImageIntro: Photo d'Anim'Apaise
 titrePage: Shaping
 prerequis:
   - texte: Âge minimum fixé à 6 mois
-  - texte: Avoir son propre clicker
+  - texte: Avoir un clicker
 tarifs:
   - titre: Cours individuels
     sousTitre: Un cours individuel dure environ 45 minutes
@@ -13,7 +13,7 @@ tarifs:
       - texte: "Une séance : 40€"
       - texte: "Forfait de 5 séances : 185€"
   - titre: Stages
-    sousTitre: Une journée de stage dure environ 6h
+    sousTitre: Une journée de stage dure environ 7h
     tarifs:
       - texte: "Participant : 85€ (6 duos maximum)"
       - texte: "Auditeur libre : 45€ (6 personnes maximum)"
@@ -29,7 +29,7 @@ imagesBasDePage:
     survolImage: Photo d'Amandine RICOU
 liensCreditPhoto: []
 ---
-Le shaping (que l'on peut traduire façonnage) est une **technique d'apprentissage** qui permet de construire un nouveau comportement et d'améliorer un comportement déjà appris ou en apprentissage. Le but étant de ne **jamais inciter physiquement, ni leurrer** le chien et de renforcer grâce au marqueur (clicker) et renforçateurs les **propositions de comportement(s)**.
+Le shaping (que l'on peut traduire façonnage) est une **technique d'apprentissage** qui permet de construire un nouveau comportement et d'améliorer un comportement déjà appris ou en apprentissage. Le but étant de **ne** **pas inciter physiquement, ni leurrer** le chien et de renforcer grâce au marqueur (clicker) et renforçateurs les **propositions de comportement(s)**.
 
 Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec cette technique autour de :
 
