@@ -3,8 +3,6 @@ templateKey: cgv-page
 ---
 A défaut de la signature de ce document, les CGV ci-après s’appliquent de plein droit dès lors que le client a convenu d’un rendez-vous avec Sophie Bourdon d'Anim'Apaise.
 
- 
-
 **Article 1**
 
 Les présentes Conditions générales de Vente, ci-après dénommées CGV, s’appliquent à régir les relations entre
