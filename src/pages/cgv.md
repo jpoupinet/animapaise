@@ -17,7 +17,7 @@ Le terme « le client » désigne la personne morale ou physique qui a fait appe
 
 Les règlements possibles sont en espèces, par virement ou par chèque.
 
-Le règlement par chèque pour les forfaits de 5 et 10 cours est accepté en plusieurs fois en 2 à 4 fois. L’ensemble des chèques sera perçu par Sophie Bourdon lors de la première séance et seront encaissés aux dates décidées avec le client.
+Le règlement par chèque pour les forfaits de 5 et 10 cours est accepté en plusieurs fois (en 2 à 4 fois). L’ensemble des chèques sera perçu par Sophie Bourdon lors de la première séance et seront encaissés aux dates décidées avec le client.
 
 **Article 3**
 
