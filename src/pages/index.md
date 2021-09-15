@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 mainpitch:
-  title: Médiation par l'animal, comportement, activités et sports canins
+  title: Médiation animale, comportement, activités et sports canins
   description: Trouvez de l'apaisement dans votre relation avec les animaux. Ils
     nous apportent tellement et nous avons réciproquement beaucoup à leur
     apporter. Venez nous rencontrer en Loire-Atlantique (44) et alentours, afin
