@@ -9,8 +9,15 @@ presentation:
     tout ce que j'entreprends.
 diplomesCertificats:
   - annee: En cours
+    description: Instructeur Soins Coopératifs Animaliers - Option chien
+    organisme: Iris Casting - Muzo +
+  - annee: En cours
     description: Comportementaliste Animalier - Mention Chien
     organisme: AimHo Formations
+  - annee: "2021"
+    description: Certifiée Intervenante au PECCRAM (Programme d'Éducation à la
+      Connaissance du Chien et au Risque d'Accident par Morsure)
+    organisme: Hantal Hazard - FIMAC Canin
   - annee: "2021"
     description: Certifiée Intervenante en Médiation par l'Animal
     organisme: Association de Zoothérapie des Côtes d'Or Formations
