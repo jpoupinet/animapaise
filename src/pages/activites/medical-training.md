@@ -31,7 +31,7 @@ liensCreditPhoto: []
 ---
 Le medical-training, et plus précisément : **les soins coopératifs**, est une approche qui a pour objectif d'apprendre à son animal à **accepter les manipulations** et de pouvoir le **soigner** avec son **consentement**. Cette pratique est basée sur le principe de **l'empowerment**, avec la **notion de choix** pour l'animal. Cette approche permet également d'amorcer une nouvelle manière de ***communiquer*** avec eux et de développer la ***relation de confiance*** qu'ils nous accordent.
 
-Que ça soit pour les **soins de tous les jours** (brossage, coupe des griffes, soins de yeux/oreilles etc.), les **actes vétérinaires/ostéopathiques**/etc. ou la **désensibilisation** à du **matériel** du quotidien (harnais, licol, caisse de transport, muselière etc.), le concept de coopération va prendre tout son sens.
+Que ça soit pour les **soins de tous les jours** (brossage, coupe des griffes, soins de yeux/oreilles etc.), les **actes vétérinaires/ostéopathiques**/etc. ou la **désensibilisation** à du **matériel** du quotidien (harnais, licol, caisse de transport, muselière etc.), toutes ces actions peuvent se faire avec la **participation active et volontaire** de nos animaux. Le concept de **coopération** va prendre tout son sens.
 
 Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec le medical-training en abordant :
 
