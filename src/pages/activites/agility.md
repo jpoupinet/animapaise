@@ -17,7 +17,7 @@ tarifs:
     sousTitre: Un cours collectif dure entre 1h30 et 2h selon le nombre de participants
     tarifs:
       - texte: "Un cours : 20€"
-      - texte: "Forfait de 5 cours : 90€"
+      - texte: "Forfait de 5 cours : 95€"
       - texte: "Forfait de 10 cours : 180€"
 sousTexteTarifs: Les cours auront lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines.
