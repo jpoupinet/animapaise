@@ -16,7 +16,7 @@ tarifs:
     sousTitre: Une journée de stage dure environ 6 heures
     tarifs:
       - texte: "Participant : 80€ (8 duos maximum)"
-      - texte: "Auditeur libre : 40€ (4 personnes maximum)"
+      - texte: "Auditeur libre : 45€ (4 personnes maximum)"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines ou à votre domicile. Les frais de déplacement sont
   gratuits jusqu'à 20km autour d'Orvault Cholière.
