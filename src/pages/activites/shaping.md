@@ -29,9 +29,9 @@ imagesBasDePage:
     survolImage: Photo d'Amandine RICOU
 liensCreditPhoto: []
 ---
-Le shaping (que l'on peut traduire façonnage) est une **technique d'apprentissage** qui permet de construire un nouveau comportement et d'améliorer un comportement déjà appris ou en apprentissage. Le but étant de **ne** **pas inciter physiquement, ni leurrer** le chien et de renforcer grâce au marqueur (clicker) et renforçateurs les **propositions de comportement(s)**.
+Le shaping (que l'on peut traduire façonnage) est une **méthode d'apprentissage** qui permet de construire un nouveau comportement et d'améliorer un comportement déjà appris ou en apprentissage. Le but étant de **ne** **pas inciter physiquement, ni leurrer** le chien et de renforcer grâce au marqueur (clicker) et renforçateurs les **propositions de comportement(s)**.
 
-Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec cette technique autour de :
+Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec cette approche en abordant :
 
 \- l'utilisation du **clicker** : apprendre à s'en servir sans le chien puis avec le chien
 
