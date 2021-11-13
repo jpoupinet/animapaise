@@ -59,6 +59,9 @@ formationsStages:
     description: Discdog je continue ! Niveau 2
     organisme: Yannick Thoulon - Canissimo
   - annee: "2020"
+    description: Mission Rappel
+    organisme: Cynotopia
+  - annee: "2020"
     description: Mini-cours échauffements et récupération
     organisme: Marie Démaris - Canissimo
   - annee: 2020 - 2021
