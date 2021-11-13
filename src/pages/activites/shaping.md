@@ -33,7 +33,7 @@ Le shaping (que l'on peut traduire façonnage) est une **méthode d'apprentissag
 
 Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec cette approche en abordant :
 
-\- l'utilisation du **clicker** : apprendre à s'en servir sans le chien puis avec le chien
+\- l'utilisation du **clicker** : apprendre à s'en servir sans le chien (mécaniques / timing) puis avec le chien (chargement du clicker)
 
 \- la compréhension des **différentes manières** d'utiliser le shaping 
 
