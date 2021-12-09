@@ -32,7 +32,7 @@ liensCreditPhoto: []
 ---
 L'agility est un sport canin consistant à ***enchaîner des agrès*** le plus rapidement possible sans fautes. Cette activité va demander aussi bien **vitesse** que **précision** de la part du chien et du conducteur. 
 
-Anim'Apaise vous propose de **l'agility loisir** (sans obstacles à zones) sur son terrain :
+Anim'Apaise vous propose de **l'agility loisir** sur son terrain :
 
 \- pas d'objectif de compétition entrant en jeu, le seul but sera de **renforcer le lien** de votre binôme tout en vous défoulant mutuellement
 
