@@ -14,7 +14,7 @@ tarifs:
       - texte: "Forfait de 5 cours : 140€"
       - texte: "Forfait 10 cours : 270€"
   - titre: Cours collectifs
-    sousTitre: Un cours collectif dure entre 1h30 et 2h selon le nombre de participants
+    sousTitre: Un cours collectif dure entre 1h30
     tarifs:
       - texte: "Un cours : 25€"
       - texte: "Forfait de 5 cours : 115€"
