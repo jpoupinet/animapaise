@@ -40,4 +40,4 @@ Anim'Apaise vous propose de **l'agility loisir** sur son terrain :
 
 \- l'amorce d'un travail vers **l'autonomie** du chien sur les obstacles et enchaînements
 
-**5 CHIENS MAXIMUM POUR LES COURS COLLECTIFS**
+**4 CHIENS MAXIMUM POUR LES COURS COLLECTIFS**
