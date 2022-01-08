@@ -99,7 +99,7 @@ const Navbar = () => {
                   Obérythmée
                 </Link>
                 <Link className="navbar-item" to="/activites/agility">
-                  Agility
+                  Agility loisir
                 </Link>
                 <Link className="navbar-item" to="/activites/medical-training">
                   Medical-training
