@@ -17,6 +17,7 @@
     "@mdi/js": "^5.9.55",
     "@mdi/react": "^1.5.0",
     "bulma": "^0.9.3",
+    "dashify": "^2.0.0",
     "gatsby": "^3.6.1",
     "gatsby-background-image": "^1.5.3",
     "gatsby-plugin-image": "^1.6.0",

@@ -394,6 +394,11 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "zi-frais-deplacement-page"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/articles.md"
+        label: "Articles"
+        name: "articles-page"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "articles-page"}
   - name: "prestations-ma-collection"
     label: "Prestations MA"
     folder: "/src/pages/mediation/prestations"
@@ -406,3 +411,18 @@ collections:
       - {label: "Image", name: image, widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Prix", name: "prix", widget: "string"}
+  - name: "articles-collection"
+    label: "Articles"
+    folder: "src/pages/articles"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "article"}
+      - {label: "Titre", name: "titre", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Auteur(e)", name: "auteur", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Mettre en avant", name: "featuredpost", widget: "boolean"}
+      - {label: "Image de l'aperçu", name: "featuredimage", widget: image}
+      - {label: "Article", name: "body", widget: "markdown"}
+      - {label: "Mots clés", name: "tags", widget: "list"}

@@ -1,30 +1,64 @@
 import React from 'react';
+import PropTypes from 'prop-types';
+import { graphql } from 'gatsby';
 
 import Layout from '../components/Layout';
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
+import ArticlesPageTemplate from './ArticlesPageTemplate';
 
-import imageBanniere from '../../static/img/2021-06-11_01-09-27.jpg';
+const ArticlesPage = ({ data }) => {
+  const { edges: articles } = data.allMarkdownRemark;
 
-const ArticlesPage = () => {
   return (
-    <Layout title="Anim'Apaise - Articles">
-      <div>
-        {/* Banniere */}
-        <PreviewCompatibleImage
-          imageInfo={{ alt: '', image: imageBanniere }}
-          imageStyle={{
-            display: 'inline-block',
-            maxHeight: '40em',
-            width: '100%',
-            objectFit: 'cover'
-          }}
-        />
-        <section className="section my-6 p-6 has-text-centered">
-          <h1 className="title is-1 p-6">A venir ...</h1>
-        </section>
-      </div>
+    <Layout>
+      <ArticlesPageTemplate
+        articles={articles.map(({ node: art }) =>
+          ({ ...art.frontmatter, slug: art.fields.slug, id: art.id})
+        )}
+      />
     </Layout>
   )
 };
 
+ArticlesPage.propTypes = {
+  data: PropTypes.shape({
+    allMarkdownRemark: PropTypes.shape({
+      edges: PropTypes.array,
+    }),
+  }),
+};
+
 export default ArticlesPage;
+
+export const pageQuery = graphql`
+  query ArticlesPageTemplate {
+    allMarkdownRemark(
+      sort: { order: DESC, fields: [frontmatter___date] }
+      filter: {frontmatter: {templateKey: {eq: "article"}}}
+    ) {
+      edges {
+        node {
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            titre
+            date(formatString: "DD MMMM YYYY", locale: "fr")
+            description
+            featuredpost
+            featuredimage {
+              childImageSharp {
+                gatsbyImageData(
+                  width: 700
+                  height: 500
+                  quality: 64
+                  placeholder: TRACED_SVG
+                )
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+`;

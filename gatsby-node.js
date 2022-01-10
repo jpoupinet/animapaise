@@ -1,6 +1,6 @@
-
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem');
+const dashify = require('dashify');
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
@@ -15,6 +15,7 @@ exports.createPages = ({ actions, graphql }) => {
               slug
             }
             frontmatter {
+              tags
               templateKey
             }
           }
@@ -44,6 +45,27 @@ exports.createPages = ({ actions, graphql }) => {
       });
     });
 
+    // Tag pages:
+    let tags = [];
+    // Iterate through each post, putting all found tags into `tags`
+    posts.forEach((edge) => {
+      if (edge.node.frontmatter.tags) {
+        tags = tags.concat(edge.node.frontmatter.tags);
+      }
+    });
+
+    // Make tag pages
+    tags.forEach((tag) => {
+      const tagPath = `/motscles/${dashify(tag)}/`;
+
+      createPage({
+        path: tagPath,
+        component: path.resolve(`src/templates/motscle.js`),
+        context: {
+          tag,
+        },
+      });
+    });
   });
 }
 
