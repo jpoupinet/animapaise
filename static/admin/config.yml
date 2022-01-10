@@ -422,7 +422,7 @@ collections:
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Auteur(e)", name: "auteur", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Mettre en avant", name: "featuredpost", widget: "boolean", required: false}
+      - {label: "Mettre en avant", name: "featuredpost", widget: "boolean", default: false, required: false}
       - {label: "Image de l'aperçu", name: "featuredimage", widget: image}
       - {label: "Article", name: "body", widget: "markdown"}
       - {label: "Mots clés", name: "tags", widget: "list"}
