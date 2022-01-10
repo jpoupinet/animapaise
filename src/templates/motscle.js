@@ -23,7 +23,7 @@ const MotsCle = ({ data, pageContext }) => {
               articles.map(article => (
                 <div className="column is-4" key={article.node.id}>
                   <CarteArticle
-                    titre={article.node.frontmatter.titre}
+                    titre={article.node.frontmatter.title}
                     description={article.node.frontmatter.description}
                     image={article.node.frontmatter.featuredimage}
                     date={article.node.frontmatter.date}
@@ -64,7 +64,7 @@ export const tagPageQuery = graphql`
             slug
           }
           frontmatter {
-            titre
+            title
             description
             featuredimage {
               childImageSharp {

@@ -14,7 +14,7 @@ const Article = ({ data }) => {
       <ArticleTemplate
         content={article.html}
         contentComponent={HTMLContent}
-        titre={article.frontmatter.titre}
+        titre={article.frontmatter.title}
         date={article.frontmatter.date}
         auteur={article.frontmatter.auteur}
         description={article.frontmatter.description}
@@ -37,7 +37,7 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        titre
+        title
         date(formatString: "DD MMMM YYYY", locale: "fr")
         auteur
         description

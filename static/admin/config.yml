@@ -418,11 +418,11 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "article"}
-      - {label: "Titre", name: "titre", widget: "string"}
+      - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Auteur(e)", name: "auteur", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Mettre en avant", name: "featuredpost", widget: "boolean"}
+      - {label: "Mettre en avant", name: "featuredpost", widget: "boolean", required: false}
       - {label: "Image de l'aperçu", name: "featuredimage", widget: image}
       - {label: "Article", name: "body", widget: "markdown"}
       - {label: "Mots clés", name: "tags", widget: "list"}
