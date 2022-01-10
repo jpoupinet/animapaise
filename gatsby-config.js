@@ -42,6 +42,7 @@ module.exports = {
               maxWidth: 2048,
             },
           },
+          `gatsby-remark-video-shortcode`,
         ],
       },
     },
