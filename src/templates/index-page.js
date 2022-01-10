@@ -75,6 +75,8 @@ export const pageQuery = graphql`
           }
           titre
           description
+          lien
+          titreLien
         }
         decouvrir {
           title

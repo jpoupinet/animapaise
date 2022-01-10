@@ -92,6 +92,8 @@ const IndexPageTemplate = ({
               photo={pres.photo}
               titre={pres.titre}
               description={pres.description}
+              lien={pres.lien}
+              titreLien={pres.titreLien}
               positionPhoto={(i % 2 === 0 || width <= 768) ? 'gauche' : 'droite'}
             />
           )}

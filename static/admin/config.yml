@@ -44,6 +44,8 @@ collections:
               {label: Photo, name: photo, widget: image},
               {label: Titre, name: titre, widget: string},
               {label: Description, name: description, widget: text},
+              {label: Lien, name: lien, widget: string, required: false, default: ''},
+              {label: Titre du lien, name: titreLien, widget: string, required: false, default: ''},
             ]
           }
           - {
