@@ -41,6 +41,9 @@ formationsStages:
     description: 3, 2, 1 véto !
     organisme: Yannick Thoulon et Elodie Jacques - Canissimo
   - annee: "2021"
+    description: Superviser les interactions canines
+    organisme: "Amélie Cospérec - Lumos "
+  - annee: "2021"
     description: Initiation hoopers et conduite à distance
     organisme: Yannick Thoulon et Angélique Hénnuy - Canissimo
   - annee: "2021"
@@ -65,8 +68,10 @@ formationsStages:
     description: Mini-cours échauffements et récupération
     organisme: Marie Démaris - Canissimo
   - annee: 2020 - 2021
-    description: "Webinaires autour de la préparation physique du chien, du
-      comportement canin et classe en ligne Bilan Structural "
+    description: "Webinaires autour de la préparation physique du chien, de
+      l'analyse structurelle, des échauffements, de la récupération, du
+      comportement canin (réactivité canine) et classe en ligne Bilan Structural
+      "
     organisme: "Fanny Walther - AREG Animalcare "
   - annee: "2019"
     description: Stage proprioception fitness canin
