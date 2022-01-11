@@ -80,6 +80,9 @@ formationsStages:
     description: Stage en présentiel de Disdog Niveau 1
     organisme: Yannick Thoulon et Camille Nguyen - Canissimo
 experiences:
+  - annee: 2022 à ce jour
+    description: Responsable de la section medical-training
+    organisme: Danse avec ton Chien
   - annee: 2021 à ce jour
     description: Fondatrice et gérante d'Anim'Apaise
     organisme: Anim'Apaise
@@ -91,7 +94,7 @@ experiences:
       au Service d'Accompagnement et d'Aide à Domicile
     organisme: Association Handisup
     annee: 2019 à ce jour
-  - annee: 2019 à ce jour
+  - annee: 2019 à 2021
     description: Créatrice de contenu vidéo / partenaire de Danse avec ton Chien
     organisme: Danse avec ton Chien
   - annee: 2019 à ce jour
