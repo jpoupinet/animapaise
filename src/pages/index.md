@@ -39,8 +39,8 @@ presentations:
       bénéficiaire par le lien avec l'animal. 
 
       Anim'Apaise propose des accompagnements et ateliers à visée thérapeutique, préventive ou récréative adaptés aux besoins du public concerné.
-    lien: ''
-    titreLien: ''
+    lien: mediation/prestations-ma
+    titreLien: Cliquez pour découvrir les prestations de médiation animale
   - photo: /img/dsc_2158.jpg
     titre: Soins coopératifs
     description: Les soins en coopération ont pour objectif de rendre l'animal
@@ -48,8 +48,8 @@ presentations:
       se base sur cette approche pour les ateliers de médiation animale auprès
       de ses animaux. Il est également proposé des cours ou stages avec votre
       animal pour vous initier à ces méthodes.
-    lien: ''
-    titreLien: ''
+    lien: activites/medical-training
+    titreLien: Cliquez pour en savoir plus sur les accompagnements proposés
   - photo: /img/dsc_8605.jpg
     titre: Obérythmée
     description: L'obérythmée, ou dog-dancing, est une discipline canine consistant
@@ -58,8 +58,8 @@ presentations:
       stages afin de découvrir la discipline, créer sa première chorégraphie et
       apprendre de nouveaux tours à votre chien. Il est également possible
       d'inclure cette discipline dans les ateliers de médiation animale.
-    lien: ''
-    titreLien: ''
+    lien: activites/oberythmee
+    titreLien: Cliquez pour en savoir plus sur les accompagnements proposés
 decouvrir:
   title: Anim'Apaise c'est aussi du partage d'expériences et de connaissances
   lien: Articles
