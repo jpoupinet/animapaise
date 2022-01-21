@@ -48,7 +48,7 @@ A contrario, la **punition positive** (P+) annihilerait la capacité de prise de
 Il existe également dans l’éducation le **renforcement négatif** (R-) qui correspond au fait d’enlever un stimulus désagréable, aversif pour obtenir un comportement attendu (par exemple, demander au chien à s’asseoir en venant mettre une pression sur l’arrière main du chien et répondre à la bonne réponse par le retrait de la pression).
 Et enfin il y a la **punition négative** (P-) correspond au fait de retirer un stimulus agréable pour le chien en réponse à un comportement non désiré (par exemple, si le chien tire en laisse on s’arrête (arrêt du mouvement : retrait du stimulus agréable pour le chien), on attend que le chien libère la pression sur la laisse pour repartir).
 
-## Matériel nécessaire pour pratiquer le shaping
+# Matériel nécessaire pour pratiquer le shaping
 
 1. **un clicker** : Le principe du clicker se base sur le fonctionnement de l’amygdale (se trouvant au niveau cérébrale). Cette amygdale est essentielle à notre capacité de ressentir et de percevoir chez les autres certaines émotions. Elle s’active selon certains stimuli. Le clicker a été créé pour être le déclencheur de son fonctionnement. 
    C’est un outil qui permet d’agir avec une grande précision et une certaine rapidité. Le clicker est fait pour stimuler les amygdales et donc décupler les capacités d’apprentissages; un bruit lambda (claquement de langue, sifflet, stylo..) n’est donc utile que pour la précision et la rapidité de la capture du comportement (à condition que vous arriviez à le faire précisément). En effet, ce type de bruit ne provoquera pas de réaction amygdalienne. 
@@ -67,27 +67,19 @@ Et enfin il y a la **punition négative** (P-) correspond au fait de retirer un 
 
 \- le chien doit venir toucher la cible avec n’importe laquelle de ses pattes
 
-
 \- le chien doit venir toucher la cible avec une seule de ses pattes (on cliquera à partir de cette étape que le mouvement de cette patte)
-
 
 \- le chien doit toucher la cible placée devant lui avec sa patte en position couché
 
 \- le chien doit venir toucher la cible, qu’on aura posé sur l’autre patte 
 
-
 \- le chien doit venir toucher la cible placée sur le côté extérieur de son autre patte et va donc croiser les pattes
-
 
 \- le chien va croiser ses pattes sans la cible
 
-
 \- le chien doit tenir la position deux à trois secondes
 
-
 \- introduction du signal vocal choisi
-
-
 
 > **shaping “pur”** : ici on clique une proposition qui nous intéresse avec une idée de finalité bien précise en tête
 
@@ -96,7 +88,6 @@ Et enfin il y a la **punition négative** (P-) correspond au fait de retirer un 
 \- on renforce la position de base souhaitée (assis ou debout pour ici)
 
 \- le chien bouge les pattes de devant 
-
 
 \- le chien bouge la patte choisie
 
@@ -108,8 +99,6 @@ Et enfin il y a la **punition négative** (P-) correspond au fait de retirer un 
 
 \- introduction du signal vocal choisi
 
-
-
 > **free shaping** : le but est de cliquer toute proposition de son chien, sans attente d’un mouvement particulier. On pourra le mettre sous signal ou pas.
 
 ***→ exemple de plan***: pas de plan type car c’est réellement au bon vouloir de votre chien et à votre bon vouloir de cliquer ce qui vous amuse. Une fois un mouvement proposé (par votre chien) et choisi (par vous), il faudra vous y tenir afin de ne pas “perdre” votre chien. 
@@ -120,28 +109,21 @@ Et enfin il y a la **punition négative** (P-) correspond au fait de retirer un 
 
 **Les moins** : le shaping n’est pas compatible avec tous les apprentissages. En effet, il est important que le chien connaisse le leurre peut être important dans certaines disciplines : fitness par exemple, ou pour les échauffements, afin d’effectuer des mouvements lents, décomposés et propres. Il faut également qu’il ai un bon maintien des positions de base si besoin, afin qu’il ne propose pas constamment un autre comportement quand on cherche à ce qu’il reste immobile.
 
-## Les autres méthodes d’apprentissage
+# Les autres méthodes d’apprentissage
 
 > Le **leurring** se travaille au départ avec une friandise en main et en accompagnant le chien afin d’obtenir le mouvement souhaité. La finalité est d’arriver à se passer, à la fin de l’apprentissage, de ce leurre et de basculer sur une gestuelle plus fine et/ou un signal vocal. Cette méthode permet, en créant le mouvement, de le façonner de la manière qui nous semble la plus appropriée. 
 
 → **exemple de plan**: le “tourne” 
 
-
 \- leurrer avec friandise en main le mouvement du tour sur lui même en accompagnant bien la tête du chien
-
 
 \- leurrer sans friandise en main ce même mouvement, toujours en accompagnant au plus près la tête du chien
 
-
 \- éloigner la main pour leurrer plus haut
-
 
 \- rendre le geste de plus en plus discret
 
-
 \- introduire le signal vocal
-
-
 
 > Le **capturing** ne va pas se dérouler comme toutes les autres méthodes. Ici il va être question de capturer un mouvement spontané que votre chien peut réaliser dans son quotidien. Ce n’est donc pas par le biais d’une séance ritualisée. Il n’y pas de plan en soit. Il s’agit de guetter et de repérer des moments de la journée, ou des situations récurrentes, qui vont provoquer le mouvement qui vous intéresse. Ensuite il vous faudra anticiper ces moments afin d’introduire un signal à l’instant où il va le réaliser, puis de récompenser. 
 > Par exemple : mon chien, quand il sort de l’eau, se secoue quasi instantanément une fois qu’il revient vers moi. Je vais donc, quand il sort d’un point d’eau, attendre qu’il revienne vers moi et signaler l’action à venir “secoue”. Puis récompenser le fait qu’il se soit secoué “sur demande” ou presque. En répétant ainsi ce processus le chien fera l’association entre le mot et l’action et pourra par la suite le proposer sur commande. Cette méthode demande plus de temps du fait que le chien ne propose parfois qu’une fois par jour le comportement recherché dans une journée.
