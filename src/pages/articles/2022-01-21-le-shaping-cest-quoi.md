@@ -62,26 +62,53 @@ Et enfin il y a la **punition négative** (P-) correspond au fait de retirer un 
 > **shaping dirigé** : ce type de shaping nécessite l’utilisation d’objets extérieurs comme la cible, un plot, une main… Tout ce qui donne un indicateur de base au chien. Cet objet doit rester immobile et ne pas guider explicitement le chien, sinon on bascule sur du leurre.
 
 ***→ exemple de plan***: apprendre à son chien à croiser les pattes en position couché. 
-le chien doit s’intéresser à la cible
-le chien doit venir toucher la cible avec n’importe laquelle de ses pattes
-le chien doit venir toucher la cible avec une seule de ses pattes (on cliquera à partir de cette étape que le mouvement de cette patte)
-le chien doit toucher la cible placée devant lui avec sa patte en position couché\
-le chien doit venir toucher la cible, qu’on aura posé sur l’autre patte 
-le chien doit venir toucher la cible placée sur le côté extérieur de son autre patte et va donc croiser les pattes
-le chien va croiser ses pattes sans la cible
-le chien doit tenir la position deux à trois secondes
-introduction du signal vocal choisi
+
+\- le chien doit s’intéresser à la cible
+
+\- le chien doit venir toucher la cible avec n’importe laquelle de ses pattes
+
+
+\- le chien doit venir toucher la cible avec une seule de ses pattes (on cliquera à partir de cette étape que le mouvement de cette patte)
+
+
+\- le chien doit toucher la cible placée devant lui avec sa patte en position couché
+
+\- le chien doit venir toucher la cible, qu’on aura posé sur l’autre patte 
+
+
+\- le chien doit venir toucher la cible placée sur le côté extérieur de son autre patte et va donc croiser les pattes
+
+
+\- le chien va croiser ses pattes sans la cible
+
+
+\- le chien doit tenir la position deux à trois secondes
+
+
+\- introduction du signal vocal choisi
+
+
 
 > **shaping “pur”** : ici on clique une proposition qui nous intéresse avec une idée de finalité bien précise en tête
 
 ***→ exemple de plan***: lever la patte haut 
-on renforce la position de base souhaitée (assis ou debout pour ici)
-le chien bouge les pattes de devant 
-le chien bouge la patte choisie
-le chien lève sa patte 
-le chien lève sa patte de plus en plus haut 
-le chien tient la position de patte levée 2 ou 3 secondes
-introduction du signal vocal choisi
+
+\- on renforce la position de base souhaitée (assis ou debout pour ici)
+
+\- le chien bouge les pattes de devant 
+
+
+\- le chien bouge la patte choisie
+
+\- le chien lève sa patte 
+
+\- le chien lève sa patte de plus en plus haut 
+
+\- le chien tient la position de patte levée 2 ou 3 secondes
+
+\- introduction du signal vocal choisi
+
+
 
 > **free shaping** : le but est de cliquer toute proposition de son chien, sans attente d’un mouvement particulier. On pourra le mettre sous signal ou pas.
 
@@ -98,11 +125,23 @@ introduction du signal vocal choisi
 > Le **leurring** se travaille au départ avec une friandise en main et en accompagnant le chien afin d’obtenir le mouvement souhaité. La finalité est d’arriver à se passer, à la fin de l’apprentissage, de ce leurre et de basculer sur une gestuelle plus fine et/ou un signal vocal. Cette méthode permet, en créant le mouvement, de le façonner de la manière qui nous semble la plus appropriée. 
 
 → **exemple de plan**: le “tourne” 
-leurrer avec friandise en main le mouvement du tour sur lui même en accompagnant bien la tête du chien
-leurrer sans friandise en main ce même mouvement, toujours en accompagnant au plus près la tête du chien
-éloigner la main pour leurrer plus haut
-rendre le geste de plus en plus discret
-introduire le signal vocal
+
+
+\- leurrer avec friandise en main le mouvement du tour sur lui même en accompagnant bien la tête du chien
+
+
+\- leurrer sans friandise en main ce même mouvement, toujours en accompagnant au plus près la tête du chien
+
+
+\- éloigner la main pour leurrer plus haut
+
+
+\- rendre le geste de plus en plus discret
+
+
+\- introduire le signal vocal
+
+
 
 > Le **capturing** ne va pas se dérouler comme toutes les autres méthodes. Ici il va être question de capturer un mouvement spontané que votre chien peut réaliser dans son quotidien. Ce n’est donc pas par le biais d’une séance ritualisée. Il n’y pas de plan en soit. Il s’agit de guetter et de repérer des moments de la journée, ou des situations récurrentes, qui vont provoquer le mouvement qui vous intéresse. Ensuite il vous faudra anticiper ces moments afin d’introduire un signal à l’instant où il va le réaliser, puis de récompenser. 
 > Par exemple : mon chien, quand il sort de l’eau, se secoue quasi instantanément une fois qu’il revient vers moi. Je vais donc, quand il sort d’un point d’eau, attendre qu’il revienne vers moi et signaler l’action à venir “secoue”. Puis récompenser le fait qu’il se soit secoué “sur demande” ou presque. En répétant ainsi ce processus le chien fera l’association entre le mot et l’action et pourra par la suite le proposer sur commande. Cette méthode demande plus de temps du fait que le chien ne propose parfois qu’une fois par jour le comportement recherché dans une journée.
