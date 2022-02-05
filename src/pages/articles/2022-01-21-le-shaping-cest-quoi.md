@@ -29,13 +29,19 @@ Oui et non.
 Le **conditionnement dit classique** a été formalisé grâce au Docteur **Ivan Pavlov** qui a mené des investigations précises à ce sujet. C’est un processus par lequel un individu va associer une réponse déjà “programmée”, qui est normalement déclenchée par un stimulus “conditionné”, à un autre stimulus ajouté. Pavlov a expérimenté ce concept en associant le bruit d’une cloche à l’arrivée du repas d’un chien. Les données de départ sont : le réflexe salivaire du chien à la vue de son repas, ainsi que sa non réaction au bruit de la cloche. Ensuite, introduction du bruit de la cloche juste avant la délivrance du repas du chien. La finalité de l’expérience: le seul bruit de la cloche déclenche le réflexe salivaire du chien.
 Le “clic” associé au **clicker** correspond à ce type de conditionnement. 
 
+![BELI Coupe griffe désensibilisation](https://beli.ca/wp-content/uploads/2018/03/coupe-griffe-BELI.jpg)
+
 Le processus d’apprentissage fera également intervenir le **conditionnement opérant de Skinner** (Burrhus Frederic Skinner, psychologue) qui permet l’introduction d’autres facteurs liés notamment à l’environnement. Contrairement au conditionnement classique, l’animal va déclencher par lui-même le circuit de récompense en actionnant un levier-réponse permettant la délivrance de la récompense alimentaire. 
+
+![Apprentissage canin : éducation par la motivation et le conditionnement |  DEFI-Écologique : le blog](https://blog.defi-ecologique.com/wp-content/uploads/schema-d-une-boite-de-skinner.jpg)
 
 > Pour comparer plus succinctement les deux processus : avec le conditionnement pavlovien, le renforcement sera déclenché par l’expérimentateur ; avec le conditionnement skinnerien elle dépend de la réponse du sujet. On peut donc remarquer que dans le processus d’apprentissage au shaping (ou d’autres méthodes), on retrouve un mix de ces deux types de conditionnement. 
 
 Mais ***conditionner ne veut pas dire robotiser*** pour autant. Il faut savoir que tout être-vivant est plus ou moins conditionné par son environnement. En effet, le conditionnement peut aussi bien être opéré avec l’ajout d’un renforçateur positif comme négatif (pour le shaping on utilise exclusivement un renforçateur positif), et le renforçateur n’est pas toujours une récompense alimentaire. 
 Prenons des exemples de réponses conditionnées afin de déconstruire la mauvaise image de ce concept. Quand nous sommes enfants, on apprend à répondre à un "bonjour" par un "bonjour", par mimétisme, par apprentissage des bonnes manières ou alors en réponse à la pression de l'environnement (regards interrogateurs, parents qui nous demandent activement de répondre etc). 
 Pour aller plus loin, on peut prendre l’illustration d’un comportement “conditionné” que mes chiens peuvent avoir: quand je sors les tapis antidérapants ils se jettent dessus. Pourquoi ? Les tapis sont devenus synonymes de récompense primaire (alimentaire), de moment privilégié avec l’humain  et donc ont une résonance positive pour eux. 
+
+
 
 Et du côté humain on pourrait le comparer avec quoi ? Bah par exemple, pour les aficionados de la raclette, quand on vous sort l'appareil à raclette devant vous, vous n'avez qu'une envie c'est de prendre votre poêlon. Ce précieux appareil résonne en vous comme l’arrivée d’un type d’aliment qui vous fait saliver. Et pour aller encore plus loin sur ces deux exemples, on peut en venir à la notion de plaisir dans ces deux situations. Certains diront que le chien ne prend pas de plaisir quand on travaille car les tapis sont juste associés à de l’apport de nourriture. Cependant si on reprend l'exemple de la raclette, au delà de l’appréciation de ce mets, vous prendrez plaisir à passer un bon moment d'interactions sociales avec vos proches, à arranger votre petite préparation avant de déguster. De la même manière, le chien va **prendre plaisir à passer un moment privilégié avec vous**, apprendre des choses pour lesquelles il sera récompensé..
 
