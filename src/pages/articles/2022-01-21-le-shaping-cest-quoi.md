@@ -91,6 +91,8 @@ Et enfin il y a la **punition négative** (P-) correspond au fait de retirer un 
 
 \- introduction du signal vocal choisi
 
+{{< Video url=https://youtu.be/TgqybqtnJag control=true loop=false autoplay=false muted=true height=400 width=600 poster=undefined >}}
+
 > **shaping “pur”** : ici on clique une proposition qui nous intéresse avec une idée de finalité bien précise en tête
 
 ***→ exemple de plan***: lever la patte haut 
