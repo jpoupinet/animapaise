@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Anim\'Apaise',
     description: 'Médiation animale, comportement canin, activités et sports canins en Loire Atlantique',
+    siteUrl: `https://www.animapaise.fr`,
   },
   plugins: [
     `gatsby-plugin-sass`,
@@ -43,7 +44,6 @@ module.exports = {
               maxWidth: 2048,
             },
           },
-          `gatsby-remark-video-shortcode`,
         ],
       },
     },

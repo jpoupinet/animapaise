@@ -1,5 +1,4 @@
 import CMS from 'netlify-cms-app';
-import video from 'netlify-cms-editor-component-video';
 
 import IndexPagePreview from './IndexPagePreview';
 import MediationPagePreview from './MediationPagePreview';
@@ -10,8 +9,6 @@ import ColleguesPagePreview from './ColleguesPagePreview';
 import SportPagePreview from './SportPagePreview';
 import CGVPagePreview from './CGVPagePreview';
 import ZIFraisDeplacementPagePreview from './ZIFraisDeplacementPagePreview';
-
-CMS.registerEditorComponent(video);
 
 CMS.registerPreviewTemplate('index', IndexPagePreview);
 CMS.registerPreviewTemplate('mediation', MediationPagePreview);
