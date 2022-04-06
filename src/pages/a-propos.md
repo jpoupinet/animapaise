@@ -13,11 +13,11 @@ diplomesCertificats:
     organisme: Iris Casting - Muzo +
   - annee: En cours
     description: Comportementaliste Animalier - Mention Chien
-    organisme: AimHo Formations
+    organisme: AnimHo Formations
   - annee: "2021"
     description: Certifiée Intervenante au PECCRAM (Programme d'Éducation à la
       Connaissance du Chien et au Risque d'Accident par Morsure)
-    organisme: Hantal Hazard - FIMAC Canin
+    organisme: Chantal Hazard - FIMAC Canin
   - annee: "2021"
     description: Certifiée Intervenante en Médiation par l'Animal
     organisme: Association de Zoothérapie des Côtes d'Or Formations
