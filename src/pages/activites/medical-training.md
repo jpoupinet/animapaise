@@ -18,11 +18,15 @@ tarifs:
       - texte: "Participant : 80€ (8 duos maximum)"
       - texte: "Auditeur libre : 45€ (4 personnes maximum)"
   - titre: Suivi présentiel / en ligne
-    sousTitre: Trois formules de suivi d'un mois sur mesure.
+    sousTitre: Trois formules de suivi d'un mois sur mesure. Les formules sont
+      composées d'au moins un bilan en présentiel ; un plan d'entraînement sur
+      mesure (d'un à trois soins choisi.s) ; un suivi quotidien, plus ou moins
+      intensif selon la formule choisie, par le biais d'échange et d'analyse des
+      vidéos partagés sur un groupe Facebook ou Slack dédié.
     tarifs:
-      - texte: "Le débutant : 70€"
-      - texte: "L'intermédiaire : 120€"
-      - texte: "Le confirmé : 175€"
+      - texte: "Le débutant : 80€"
+      - texte: "L'intermédiaire : 140€"
+      - texte: "Le confirmé : 200€"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines ou à votre domicile. Les frais de déplacement sont
   gratuits jusqu'à 20km autour d'Orvault Cholière.
@@ -45,7 +49,7 @@ Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec le medic
 
 \- l'apprentissage de **positions de consentement** (podium, bucket-game, chin-rest, relax ect.)
 
-\- l'introduction d'un **ustensile de soin** (brosse, pulseur, coupe-griffe etc.) ou **matériel du quotidien** (harnais, licol, muselière etc.)
+\- l'introduction d'un **outil de soin** (brosse, pulseur, coupe-griffe etc.) ou **matériel du quotidien** (harnais, licol, muselière etc.)
 
 \- la **réalisation d'un soin complet** avec le consentement de votre animal (soin des yeux, toilettage, donner le vermifuge etc.)
 
