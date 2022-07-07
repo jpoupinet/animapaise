@@ -17,6 +17,13 @@ tarifs:
     tarifs:
       - texte: "Participant : 80€ (8 duos maximum)"
       - texte: "Auditeur libre : 45€ (4 personnes maximum)"
+  - titre: Suivi présentiel / en ligne
+    sousTitre: Trois formules d'accompagnement sur mesure d'une durée d'un mois
+      renouvelable.
+    tarifs:
+      - texte: "Le débutant : 70€"
+      - texte: "L'intermédiaire : 120€"
+      - texte: "Le confirmé : 175€"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines ou à votre domicile. Les frais de déplacement sont
   gratuits jusqu'à 20km autour d'Orvault Cholière.
