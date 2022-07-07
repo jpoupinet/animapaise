@@ -18,8 +18,7 @@ tarifs:
       - texte: "Participant : 80€ (8 duos maximum)"
       - texte: "Auditeur libre : 45€ (4 personnes maximum)"
   - titre: Suivi présentiel / en ligne
-    sousTitre: Trois formules d'accompagnement sur mesure d'une durée d'un mois
-      renouvelable.
+    sousTitre: Trois formules de suivi d'un mois sur mesure.
     tarifs:
       - texte: "Le débutant : 70€"
       - texte: "L'intermédiaire : 120€"
