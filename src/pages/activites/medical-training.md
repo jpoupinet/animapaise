@@ -4,8 +4,7 @@ imageIntro: /img/dsc_1897.jpg
 survolImageIntro: Photo d'Anim'Apaise
 titrePage: Medical-training
 prerequis:
-  - texte: Âge minimum fixé à 5 mois pour les chiens et chats
-  - texte: Âge minimum fixé à 18 mois pour les chevaux
+  - texte: Âge minimum fixé à 5 mois
 tarifs:
   - titre: Cours individuels
     sousTitre: Un cours individuel dure environ 45 minutes
@@ -41,7 +40,7 @@ liensCreditPhoto: []
 ---
 Le medical-training, et plus précisément : **les soins coopératifs**, est une approche qui a pour objectif d'apprendre à son animal à **accepter les manipulations** et de pouvoir le **soigner** avec son **consentement**. Cette pratique est basée sur le principe de **l'empowerment**, avec la **notion de choix** pour l'animal. Cette approche permet également d'amorcer une nouvelle manière de ***communiquer*** avec eux et de développer la ***relation de confiance*** qu'ils nous accordent.
 
-Que ça soit pour les **soins de tous les jours** (brossage, coupe des griffes, soins de yeux/oreilles etc.), les **actes vétérinaires/ostéopathiques**/etc. ou la **désensibilisation** à du **matériel** du quotidien (harnais, licol, caisse de transport, muselière etc.), toutes ces actions peuvent se faire avec la **participation active et volontaire** de nos animaux. Le concept de **coopération** va prendre tout son sens.
+Que ça soit pour les **soins de tous les jours** (brossage, coupe des griffes, soins de yeux/oreilles etc.), les **actes vétérinaires/ostéopathiques**/etc. ou la **désensibilisation** à du **matériel** du quotidien (harnais, caisse de transport, muselière etc.), toutes ces actions peuvent se faire avec la **participation active et volontaire** de nos animaux. Le concept de **coopération** va prendre tout son sens.
 
 Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec le medical-training en abordant :
 
@@ -49,8 +48,6 @@ Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec le medic
 
 \- l'apprentissage de **positions de consentement** (podium, bucket-game, chin-rest, relax ect.)
 
-\- l'introduction d'un **outil de soin** (brosse, pulseur, coupe-griffe etc.) ou **matériel du quotidien** (harnais, licol, muselière etc.)
+\- l'introduction d'un **outil de soin** (brosse, pulseur, coupe-griffe etc.) ou **matériel du quotidien** (harnais, muselière etc.)
 
 \- la **réalisation d'un soin complet** avec le consentement de votre animal (soin des yeux, toilettage, donner le vermifuge etc.)
-
-Ce cours peut s'adresser aussi bien aux ***chiens qu'aux chevaux ou aux chats***.
