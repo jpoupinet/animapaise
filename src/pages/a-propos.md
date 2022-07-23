@@ -93,7 +93,7 @@ experiences:
   - description: Accompagnante auprès d'enfants et jeunes en situation de handicap
       au Service d'Accompagnement et d'Aide à Domicile
     organisme: Association Handisup
-    annee: 2019 à ce jour
+    annee: 2019 à 2022
   - annee: 2019 à 2021
     description: Créatrice de contenu vidéo / partenaire de Danse avec ton Chien
     organisme: Danse avec ton Chien
