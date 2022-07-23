@@ -11,7 +11,7 @@ diplomesCertificats:
   - annee: En cours
     description: Instructeur Soins Coopératifs Animaliers - Option chien
     organisme: Iris Casting - Muzo +
-  - annee: En cours
+  - annee: "2022"
     description: Comportementaliste Animalier - Mention Chien
     organisme: AnimHo Formations
   - annee: "2021"
