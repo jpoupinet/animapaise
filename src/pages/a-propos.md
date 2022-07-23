@@ -13,7 +13,7 @@ diplomesCertificats:
     organisme: Iris Casting - Muzo +
   - annee: "2022"
     description: Comportementaliste Animalier - Mention Chien
-    organisme: AnimHo Formations
+    organisme: Marie Sutter - AnimHo Formations
   - annee: "2021"
     description: Certifiée Intervenante au PECCRAM (Programme d'Éducation à la
       Connaissance du Chien et au Risque d'Accident par Morsure)
