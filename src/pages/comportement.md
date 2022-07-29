@@ -2,10 +2,10 @@
 templateKey: comportement-page
 imageIntro: /img/51228133969_7c6bfb5306_k.jpg
 survolImageIntro: Photo de Céline DUFOURD
-titrePage: Obérythmée
+titrePage: "Comportement canin "
 prerequis:
-  - texte: Âge minimum fixé à 6 mois (initiation adaptée à la croissance)
   - texte: "Chiens sociables avec des bases d'éducation "
+  - texte: Âge minimum fixé à 6 mois (initiation adaptée à la croissance)
 tarifs:
   - titre: "Cours individuels "
     sousTitre: Un cours individuel dure environ 45 minutes
