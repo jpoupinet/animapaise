@@ -7,6 +7,8 @@ prerequis: []
 tarifs:
   - titre: A venir...
     sousTitre: Ils arrivent !
+    tarifs:
+      - texte: ...
 sousTexteTarifs: Le bilan aura lieu à votre domicile et les séances de suivi
   pourront avoir lieu en extérieur (dans des parcs, sur le terrain
   d'Anim'Apaise...) ou à votre domicile. Les frais de déplacement sont gratuits
