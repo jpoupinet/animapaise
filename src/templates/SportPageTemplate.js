@@ -39,16 +39,19 @@ const SportPageTemplate = ({
               <div style={{ fontSize: '1.1rem' }}>
                 <PageContent className="content" content={content} />
               </div>
-              <div className="block mt-6">
-                <h3 className="title is-4">Pré-requis</h3>
-                <ul className="liste-prerequis pl-5">
-                  {
-                    prerequis.map((pr, i) =>
-                      <li key={`pr${i}`}>{pr.texte}</li>
-                    )
-                  }
-                </ul>
-              </div>
+              {
+                prerequis.length > 0 &&
+                <div className="block mt-6">
+                  <h3 className="title is-4">Pré-requis</h3>
+                  <ul className="liste-prerequis pl-5">
+                    {
+                      prerequis.map((pr, i) =>
+                        <li key={`pr${i}`}>{pr.texte}</li>
+                      )
+                    }
+                  </ul>
+                </div>
+              }
             </div>
 
             {/* Tarifs */}
