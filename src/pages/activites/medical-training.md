@@ -4,7 +4,7 @@ imageIntro: /img/dsc_1897.jpg
 survolImageIntro: Photo d'Anim'Apaise
 titrePage: Medical-training
 prerequis:
-  - texte: Âge minimum fixé à 5 mois
+  - texte: Âge minimum fixé à 3 mois
 tarifs:
   - titre: Cours individuels
     sousTitre: Un cours individuel dure environ 45 minutes
@@ -18,10 +18,11 @@ tarifs:
       - texte: "Auditeur libre : 45€ (4 personnes maximum)"
   - titre: Suivi présentiel / en ligne
     sousTitre: Trois formules de suivi d'un mois sur mesure. Les formules sont
-      composées d'au moins un bilan en présentiel ; un plan d'entraînement sur
-      mesure (d'un à trois soins choisi.s) ; un suivi quotidien, plus ou moins
-      intensif selon la formule choisie, par le biais d'échange et d'analyse des
-      vidéos partagés sur un groupe Facebook ou Slack dédié.
+      composées d'au moins un bilan en présentiel ou en visio ; un plan
+      d'entraînement sur mesure (d'un à trois soins choisi.s) ; un suivi
+      quotidien, plus ou moins intensif selon la formule choisie, par le biais
+      d'échange et d'analyse des vidéos partagés sur un groupe Facebook ou Slack
+      dédié.
     tarifs:
       - texte: "Le débutant : 80€"
       - texte: "L'intermédiaire : 140€"
