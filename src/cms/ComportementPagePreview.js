@@ -1,14 +1,23 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import ComportementPageTemplate from '../templates/ComportementPageTemplate';
+import SportPageTemplate from '../templates/SportPageTemplate';
 import '../all.sass';
 
-const ComportementPagePreview = ({ entry }) => {
+const ComportementPagePreview = ({ entry, widgetFor }) => {
   const data = entry.getIn(['data']).toJS();
 
   if (data) {
     return (
-      <ComportementPageTemplate
+      <SportPageTemplate
+        imageIntro={data.imageIntro}
+        survolImageIntro={data.survolImageIntro}
+        titrePage={data.titrePage}
+        content={widgetFor('body')}
+        prerequis={data.prerequis}
+        tarifs={data.tarifs}
+        sousTexteTarifs={data.sousTexteTarifs}
+        imagesBasDePage={data.imagesBasDePage}
+        liensCreditPhoto={data.liensCreditPhoto}
       />
     );
   } else {
@@ -20,6 +29,7 @@ ComportementPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
+  widgetFor: PropTypes.func,
 };
 
 export default ComportementPagePreview;

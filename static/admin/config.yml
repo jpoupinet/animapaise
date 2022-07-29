@@ -122,6 +122,54 @@ collections:
         name: "comportement"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "comportement-page"}
+          - {label: "Image", name: "imageIntro", widget: image}
+          - {label: "Survol image", name: "survolImageIntro", widget: string}
+          - {label: "Titre page", name: "titrePage", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {
+            label: "Pré-requis",
+            name: "prerequis",
+            widget: list,
+            fields: [
+              {label: Texte, name: texte, widget: string},
+            ]
+          }
+          - {
+            label: "Tarifs",
+            name: "tarifs",
+            widget: list,
+            fields: [
+              {label: Titre, name: titre, widget: string},
+              {label: Sous titre, name: sousTitre, widget: string},
+              {
+                label: "Tarifs",
+                name: "tarifs",
+                widget: list,
+                fields: [
+                  {label: Texte, name: texte, widget: string},
+                ]
+              }
+            ]
+          }
+          - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
+          - {
+            label: "Images bas de page",
+            name: "imagesBasDePage",
+            widget: list,
+            fields: [
+              {label: Image, name: image, widget: image},
+              {label: "Survol image", name: "survolImage", widget: string},
+            ]
+          }
+          - {
+            label: "Liens crédits photo",
+            name: "liensCreditPhoto",
+            widget: list,
+            fields: [
+              {label: "Texte", name: "texte", widget: string},
+              {label: "Lien", name: "lien", widget: string},
+            ]
+          }
       - file: "src/pages/activites.md"
         label: "Activités et sports canins"
         name: "activites"
