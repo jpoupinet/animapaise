@@ -35,13 +35,13 @@ Sophie Bourdon intervient systématiquement dans le plus grand respect du chien 
 
 Le client s’engage à appliquer les conseils dispensés par Sophie Bourdon lors des cours et stages. Le client s’engage à faire travailler son chien toutes les semaines de manière régulières en dehors des cours.
 
-Dans ces conditions Sophie Bourdon ne serait être en aucun cas considérée comme responsable des incidents ou des accidents survenant au cours ou postérieurement des séances données.
+Dans ces conditions Sophie Bourdon ne saurait en aucun cas être considérée comme responsable des incidents ou des accidents survenant au cours ou postérieurement des séances données.
 
 **Article 6** 
 
 Aucune prestation ne pourra être annulée pour des raisons météorologiques à l’initiative des participants. C’est uniquement Sophie Bourdon qui pourra juger si le cours ou le stage doit être annulé en cas de mauvaises conditions climatiques ou par manque de participants.
 
-Tout cours annulé moins de 24 heures à l’avance à l’initiative du client sans justificatif médical est due.
+Tout cours annulé moins de 24 heures à l’avance à l’initiative du client sans justificatif médical est dûe.
 
 **Article 7**
 
