@@ -35,11 +35,11 @@ Le quotidien avec son chien peut-être un long fleuve tranquille comme un **chem
 
 C'est pourquoi, si votre chien a des **comportements indésirables** tels que :
 
-* Réactivité et agressivité congénères ou les autres animaux
-* Réactivité et agressivité sur les humains en général, enfants, coureurs, vélos ou  les voitures
-* Prédation sur certaines animaux, vélos, coureurs ou les voitures
+* Réactivité et agressivité sur les congénères ou les autres animaux
+* Réactivité et agressivité sur les humains en général, les enfants, les coureurs, les vélos ou  les voitures
+* Prédation sur certains animaux, les vélos, les coureurs ou les voitures
 * Destructions ou vocalisations lors de vos absences
-* Saute sur les invités ou les gens dans la rue
+* Sauts sur les invités ou les gens dans la rue
 * Anxiété en général, phobies, TOC etc...
 
 Je peux vous accompagner pour que vous puissiez **comprendre l'origine** de ces comportements et vous aider à **les modifier** afin que vous retrouviez une vie plus sereine à ses côtés.
