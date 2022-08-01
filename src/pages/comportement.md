@@ -6,19 +6,32 @@ titrePage: "Comportement canin "
 prerequis: []
 tarifs:
   - titre: Bilan comportemental
-    sousTitre: Temps d'échange puis élaboration de solutions sur une durée de 1h30 à
+    sousTitre: Temps d'échange puis élaboration de solutions d'une durée de 1h30 à
       2h, à votre domicile ou en visio.
     tarifs:
       - texte: "A domicile : 85€"
       - texte: "En visio : 80€"
   - titre: Séances de suivi
-    sousTitre: Séances de 45 minutes faisant suite au bilan.
+    sousTitre: Séances de 45 minutes faisant suite à un bilan.
     tarifs:
-      - texte: "1 séance de suivi seule : 45€"
-      - texte: "3 séances de suivi : 130€"
-      - texte: "5 séances de suivi : 210€"
-  - titre: Forfait
-    sousTitre: ....
+      - texte: "A domicile ou en extérieur : 45€"
+      - texte: "En visio : 40€"
+  - titre: Forfaits préférentiels comportement
+    sousTitre: Forfaits incluant un bilan comportemental et des séances de suivi en
+      présentiel (me contacter par mail pour les forfaits d'accompagnement en
+      visio)..
+    tarifs:
+      - texte: "1 bilan + 2 séances de suivi : 165€"
+      - texte: "1 bilan + 5 séances de suivi : 285€"
+      - texte: "1 bilan + 8 séances de suivi : 400€"
+  - titre: Accompagnement pré/post-adoption
+    sousTitre: Rendez-vous à votre domicile d'1h30 afin de préparer l'arrivée de
+      votre futur compagnon, de cibler des pistes de travail pour son entrée
+      dans vos vies etc. Vous pouvez me contacter par mail pour un
+      accompagnement en visio.
+    tarifs:
+      - texte: "1 rendez-vous pré-adoption ou post-adoption : 75€"
+      - texte: "1 rendez vous pré-adoption + 1 rendez-vous post-adoption : 135€"
 sousTexteTarifs: Le bilan aura lieu à votre domicile ou en visio et les séances
   de suivi pourront avoir lieu en extérieur (dans un parc, sur le terrain
   d'Anim'Apaise...), à votre domicile ou en visio. Les frais de déplacement sont
