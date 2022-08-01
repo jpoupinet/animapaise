@@ -39,10 +39,7 @@ tarifs:
     tarifs:
       - texte: "1 rendez-vous pré-adoption ou post-adoption : 75€"
       - texte: "1 rendez-vous pré-adoption + 1 rendez-vous post-adoption : 135€"
-sousTexteTarifs: Le bilan aura lieu à votre domicile ou en visio et les séances
-  de suivi pourront avoir lieu en extérieur (dans un parc, sur le terrain
-  d'Anim'Apaise...), à votre domicile ou en visio. Les frais de déplacement sont
-  gratuits jusqu'à 20km autour d'Orvault Cholière.
+sousTexteTarifs: Les frais de déplacement sont gratuits jusqu'à 20km autour d'Orvault Cholière.
 imagesBasDePage:
   - image: /img/26963759687_cbcf2c57a1_k.jpg
     survolImage: Photo d'Anim'Apaise
