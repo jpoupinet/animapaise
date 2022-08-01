@@ -32,10 +32,8 @@ tarifs:
       - texte: "1 bilan + 2 séances de suivi + 1 cours d'initiation au medical-training
           ou au shaping : 190€"
   - titre: Accompagnement pré/post-adoption
-    sousTitre: Rendez-vous à votre domicile d'1h30 afin de préparer l'arrivée de
-      votre futur compagnon, de cibler des pistes de travail pour son entrée
-      dans vos vies etc. Vous pouvez me contacter par mail pour un
-      accompagnement en visio.
+    sousTitre: Rendez-vous à votre domicile d'1h30. Vous pouvez me contacter par
+      mail pour un accompagnement en visio.
     tarifs:
       - texte: "1 rendez-vous pré-adoption ou post-adoption : 75€"
       - texte: "1 rendez-vous pré-adoption + 1 rendez-vous post-adoption : 135€"
