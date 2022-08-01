@@ -16,13 +16,13 @@ tarifs:
     tarifs:
       - texte: "Participant : 80€ (8 duos maximum)"
       - texte: "Auditeur libre : 45€ (4 personnes maximum)"
-  - titre: Suivi présentiel / en ligne
+  - titre: Suivi en ligne
     sousTitre: Trois formules de suivi d'un mois sur mesure. Les formules sont
       composées d'au moins un bilan en présentiel ou en visio ; un plan
-      d'entraînement sur mesure (d'un à trois soins choisi.s) ; un suivi
-      quotidien, plus ou moins intensif selon la formule choisie, par le biais
-      d'échange et d'analyse des vidéos partagés sur un groupe Facebook ou Slack
-      dédié.
+      d'entraînement sur mesure (d'un à trois soins de votre choix) ; un suivi
+      quotidien plus ou moins intensif selon la formule choisie, par le biais
+      d'échanges et d'analyse des vidéos partagées sur un groupe Facebook ou
+      Slack dédié.
     tarifs:
       - texte: "Le débutant : 80€"
       - texte: "L'intermédiaire : 140€"
