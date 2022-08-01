@@ -17,6 +17,8 @@ tarifs:
       - texte: "1 séance de suivi seule : 45€"
       - texte: "3 séances de suivi : 130€"
       - texte: "5 séances de suivi : 210€"
+  - titre: Forfait
+    sousTitre: ....
 sousTexteTarifs: Le bilan aura lieu à votre domicile ou en visio et les séances
   de suivi pourront avoir lieu en extérieur (dans un parc, sur le terrain
   d'Anim'Apaise...), à votre domicile ou en visio. Les frais de déplacement sont
