@@ -24,6 +24,13 @@ tarifs:
       - texte: "1 bilan + 2 séances de suivi : 165€"
       - texte: "1 bilan + 5 séances de suivi : 285€"
       - texte: "1 bilan + 8 séances de suivi : 400€"
+  - titre: Forfaits comportement + initiation à une activité canine
+    sousTitre: Ces forfaits demandent un accompagnement en présentiel au préalable.
+    tarifs:
+      - texte: "1 bilan + 2 séances de suivi + 1 cours d'initiation au hooper, à
+          l'agility ou au dog-dancing : 185€"
+      - texte: "1 bilan + 2 séances de suivi + 1 cours d'initiation au medical-training
+          ou au shaping : 190€"
   - titre: Accompagnement pré/post-adoption
     sousTitre: Rendez-vous à votre domicile d'1h30 afin de préparer l'arrivée de
       votre futur compagnon, de cibler des pistes de travail pour son entrée
@@ -32,16 +39,6 @@ tarifs:
     tarifs:
       - texte: "1 rendez-vous pré-adoption ou post-adoption : 75€"
       - texte: "1 rendez-vous pré-adoption + 1 rendez-vous post-adoption : 135€"
-  - titre: Forfaits comportement + initiation à une activité canine
-    sousTitre: Une fois le travail amorcé autour de la modification de comportements
-      indésirables, venez découvrir une activité canine pour allez plus loin
-      avec lui et le découvrir sous un autre jour. Ces forfaits demandent un
-      accompagnement en présentiel au préalable.
-    tarifs:
-      - texte: "1 bilan + 2 séances de suivi + 1 cours d'initiation au hooper, à
-          l'agility ou au dog-dancing : 185€"
-      - texte: "1 bilan + 2 séances de suivi + 1 cours d'initiation au medical-training
-          ou au shaping : 190€"
 sousTexteTarifs: Le bilan aura lieu à votre domicile ou en visio et les séances
   de suivi pourront avoir lieu en extérieur (dans un parc, sur le terrain
   d'Anim'Apaise...), à votre domicile ou en visio. Les frais de déplacement sont
@@ -71,5 +68,12 @@ Je peux vous accompagner pour que vous puissiez **comprendre l'origine** de ces 
 Mon accompagnement auprès de vous démarre par un ***bilan comportemental*** qui me permet de faire le point avec vous sur l'histoire de votre chien, votre histoire commune, son cadre de vie, vos habitudes communes, l'origine de l'apparition du/des comportement(s) indésirable(s) etc. Puis nous élaborerons ensemble des solutions à mettre en place pour aider à modifier ce(s) comportement(s).
 
 Selon vos besoins exprimés mais aussi ma propre évaluation de la situation, nous pourrons continuer le travail lors de ***séances de suivi*** permettant la mise en pratique de certains exercices, l'approfondissement de certains apprentissages mis en place, l'ajustement des outils/exercices proposés si nécessaire etc.
+
+Cet accompagnement peut avoir lieu en **visio** en fonction de plusieurs critères, notamment :
+
+* La distance ne permettant pas que je me déplace chez vous
+* La problématique que vous rencontrez avec votre chien rendant ma présence physique contre-productive (agressivité sur les humains par exemple)
+
+Une fois l'accompagnement amorcé autour de la modification de comportements indésirables il sera possible d'initier votre duo à une **activité canine** afin de découvrir votre compagnon sous un nouvel angle, renforcer votre relation et enrichir son quotidien. Les bienfaits de ces activités viendront contribuer au travail en cours.
 
 Je peux aussi vous accompagner dans le **processus d'adoption**, que ça soit avant et/ou après l'arrivée de votre chiot ou chien adulte afin d''avoir toutes les clés en main pour démarrer cette aventure sur de bonnes bases.
