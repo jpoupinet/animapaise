@@ -11,8 +11,8 @@ tarifs:
     tarifs:
       - texte: "A domicile : 85€"
       - texte: "En visio : 80€"
-  - titre: Séances de suivi
-    sousTitre: Séances de 45 minutes faisant suite à un bilan.
+  - titre: Séance de suivi
+    sousTitre: Séance de 45 minutes faisant suite à un bilan.
     tarifs:
       - texte: "A domicile ou en extérieur : 45€"
       - texte: "En visio : 40€"
@@ -31,7 +31,17 @@ tarifs:
       accompagnement en visio.
     tarifs:
       - texte: "1 rendez-vous pré-adoption ou post-adoption : 75€"
-      - texte: "1 rendez vous pré-adoption + 1 rendez-vous post-adoption : 135€"
+      - texte: "1 rendez-vous pré-adoption + 1 rendez-vous post-adoption : 135€"
+  - titre: Forfaits comportement + initiation à une activité canine
+    sousTitre: Une fois le travail amorcé autour de la modification de comportements
+      indésirables, venez découvrir une activité canine pour allez plus loin
+      avec lui et le découvrir sous un autre jour. Ces forfaits demandent un
+      accompagnement en présentiel au préalable.
+    tarifs:
+      - texte: "1 bilan + 2 séances de suivi + 1 cours d'initiation au hooper, à
+          l'agility ou au dog-dancing : 185€"
+      - texte: "1 bilan + 2 séances de suivi + 1 cours d'initiation au medical-training
+          ou au shaping : 190€"
 sousTexteTarifs: Le bilan aura lieu à votre domicile ou en visio et les séances
   de suivi pourront avoir lieu en extérieur (dans un parc, sur le terrain
   d'Anim'Apaise...), à votre domicile ou en visio. Les frais de déplacement sont
