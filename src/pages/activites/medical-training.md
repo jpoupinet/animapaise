@@ -26,7 +26,7 @@ tarifs:
     tarifs:
       - texte: "Le débutant : 100€"
       - texte: "L'intermédiaire : 165€"
-      - texte: "Le confirmé : 240€"
+      - texte: "Le confirmé : 250€"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines, à votre domicile ou en visio. Les frais de
   déplacement sont gratuits jusqu'à 20km autour d'Orvault Cholière.
