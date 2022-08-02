@@ -24,9 +24,9 @@ tarifs:
       d'échanges et d'analyse des vidéos partagées sur un groupe Facebook ou
       Slack dédié.
     tarifs:
-      - texte: "Le débutant : 80€"
-      - texte: "L'intermédiaire : 140€"
-      - texte: "Le confirmé : 200€"
+      - texte: "Le débutant : 100€"
+      - texte: "L'intermédiaire : 165€"
+      - texte: "Le confirmé : 240€"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines, à votre domicile ou en visio. Les frais de
   déplacement sont gratuits jusqu'à 20km autour d'Orvault Cholière.
