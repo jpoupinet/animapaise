@@ -27,10 +27,10 @@ tarifs:
   - titre: Forfaits comportement + initiation à une activité canine
     sousTitre: Ces forfaits demandent un accompagnement en présentiel au préalable.
     tarifs:
-      - texte: "1 bilan + 2 séances de suivi + 1 cours d'initiation au hooper, à
-          l'agility ou au dog-dancing : 185€"
-      - texte: "1 bilan + 2 séances de suivi + 1 cours d'initiation au medical-training
-          ou au shaping : 190€"
+      - texte: "1 bilan + 2 séances de suivi + 1 cours d'initiation à une activité
+          canine proposée par Anim'Apaise : 190€"
+      - texte: "1 bilan + 5 séances de suivi + 1 cours d'initiation à une activité
+          canine proposée par Anim'Apaise : 305€"
   - titre: Accompagnement pré/post-adoption
     sousTitre: Rendez-vous à votre domicile d'1h30. Vous pouvez me contacter par
       mail pour un accompagnement en visio.
