@@ -27,7 +27,7 @@ tarifs:
     tarifs:
       - texte: "La découverte : 110€"
       - texte: "L'aventure : 165€"
-      - texte: "L'exploration : 250€"
+      - texte: "L'exploration : 240€"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines, à votre domicile ou en visio. Les frais de
   déplacement sont gratuits jusqu'à 20km autour d'Orvault Cholière.
