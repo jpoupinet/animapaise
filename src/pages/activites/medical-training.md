@@ -11,6 +11,7 @@ tarifs:
     tarifs:
       - texte: "Une séance : 40€"
       - texte: "Forfait de 5 séances : 185€"
+      - texte: "Forfait de 10 séances : 340€"
   - titre: Stages
     sousTitre: Une journée de stage dure environ 6 heures
     tarifs:
@@ -24,9 +25,9 @@ tarifs:
       d'échanges et d'analyse des vidéos partagées sur un groupe Facebook ou
       Slack dédié.
     tarifs:
-      - texte: "Le débutant : 100€"
-      - texte: "L'intermédiaire : 165€"
-      - texte: "Le confirmé : 250€"
+      - texte: "La découverte : 100€"
+      - texte: "L'aventure : 165€"
+      - texte: "L'exploration : 250€"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines, à votre domicile ou en visio. Les frais de
   déplacement sont gratuits jusqu'à 20km autour d'Orvault Cholière.
