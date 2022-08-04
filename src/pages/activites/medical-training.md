@@ -25,7 +25,7 @@ tarifs:
       d'échanges et d'analyse des vidéos partagées sur un groupe Facebook ou
       Slack dédié.
     tarifs:
-      - texte: "La découverte : 100€"
+      - texte: "La découverte : 110€"
       - texte: "L'aventure : 165€"
       - texte: "L'exploration : 250€"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
