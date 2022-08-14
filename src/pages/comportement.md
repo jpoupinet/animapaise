@@ -6,7 +6,7 @@ titrePage: "Comportement canin "
 prerequis: []
 tarifs:
   - titre: Bilan comportemental
-    sousTitre: Temps d'échange puis élaboration de solutions d'une durée de 1h30 à
+    sousTitre: Temps d'échange puis élaboration de solutions sur une durée d'environ
       2h, à votre domicile ou en visio.
     tarifs:
       - texte: "A domicile : 85€"
