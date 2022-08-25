@@ -406,11 +406,11 @@ collections:
               {label: "Lien", name: "lien", widget: string},
             ]
           }
-      - file: "src/pages/activites/hooper.md"
-        label: "Hooper"
-        name: "hooper"
+      - file: "src/pages/activites/hoopers.md"
+        label: "Hoopers"
+        name: "hoopers"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "hooper-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "hoopers-page"}
           - {label: "Image", name: "imageIntro", widget: image}
           - {label: "Survol image", name: "survolImageIntro", widget: string}
           - {label: "Titre page", name: "titrePage", widget: string}

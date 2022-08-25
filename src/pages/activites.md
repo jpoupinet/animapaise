@@ -11,8 +11,8 @@ cartes:
     texte: Agility loisir
     lien: agility
   - image: /img/2022-08-04_02-15-32.jpg
-    texte: Hooper
-    lien: hooper
+    texte: Hoopers
+    lien: hoopers
   - image: /img/dsc_1897.jpg
     texte: Medical-training
     lien: medical-training

@@ -6,11 +6,11 @@ import Layout from '../components/Layout';
 import { HTMLContent } from '../components/Content';
 import SportPageTemplate from './SportPageTemplate';
 
-const HooperPage = ({ data }) => {
+const HoopersPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <Layout title="Anim'Apaise - Hooper">
+    <Layout title="Anim'Apaise - Hoopers">
       <SportPageTemplate
         imageIntro={post.frontmatter.imageIntro}
         survolImageIntro={post.frontmatter.survolImageIntro}
@@ -27,15 +27,15 @@ const HooperPage = ({ data }) => {
   )
 };
 
-HooperPage.propTypes = {
+HoopersPage.propTypes = {
   data: PropTypes.object.isRequired,
 };
 
-export default HooperPage;
+export default HoopersPage;
 
 export const pageQuery = graphql`
-  query HooperPageTemplate {
-    markdownRemark(frontmatter: { templateKey: { eq: "hooper-page" } }) {
+  query HoopersPageTemplate {
+    markdownRemark(frontmatter: { templateKey: { eq: "hoopers-page" } }) {
       html
       frontmatter {
         imageIntro {

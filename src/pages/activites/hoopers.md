@@ -1,8 +1,8 @@
 ---
-templateKey: hooper-page
+templateKey: hoopers-page
 imageIntro: /img/2022-08-04_02-15-32.jpg
 survolImageIntro: Photo d'Anim'Apaise
-titrePage: Hooper
+titrePage: Hoopers
 prerequis:
   - texte: Âge minimum fixé à 4 mois
   - texte: Chiens sociables avec des bases d'éducation
@@ -30,4 +30,4 @@ imagesBasDePage:
     survolImage: Photo d'Anim'Apaise
 liensCreditPhoto: []
 ---
-Hooper - en cours de construction
+Hoopers - en cours de construction
