@@ -1,10 +1,10 @@
 ---
 templateKey: hooper-page
-imageIntro: /img/50316365307_1690ec792d_k.jpg
+imageIntro: /img/2022-08-04_02-15-32.jpg
 survolImageIntro: Photo d'Anim'Apaise
 titrePage: Hooper
 prerequis:
-  - texte: Âge minimum fixé à un an
+  - texte: Âge minimum fixé à 4 mois
   - texte: Chiens sociables avec des bases d'éducation
 tarifs:
   - titre: Cours individuels
@@ -22,9 +22,9 @@ tarifs:
 sousTexteTarifs: Les cours auront lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines.
 imagesBasDePage:
-  - image: /img/51283684198_a2595435ef_k.jpg
+  - image: /img/dsc_7077.jpg
     survolImage: Photo concours Amicale Canine Anne de Bretagne
-  - image: /img/51282816367_c065ee9df0_k.jpg
+  - image: /img/dsc_7120.jpg
     survolImage: Photo d'Anim'Apaise
   - image: /img/51284291144_88ffb976a5_k.jpg
     survolImage: Photo de Camille IMBERT
