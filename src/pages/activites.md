@@ -10,7 +10,7 @@ cartes:
   - image: /img/50316184016_7531f73557_c.jpg
     texte: Agility loisir
     lien: agility
-  - image: /img/50316184016_7531f73557_c.jpg
+  - image: /img/2022-08-04_02-15-32.jpg
     texte: Hooper
     lien: hooper
   - image: /img/dsc_1897.jpg
