@@ -18,6 +18,7 @@ CMS.registerPreviewTemplate('a-propos', AProposPagePreview);
 CMS.registerPreviewTemplate('collegues', ColleguesPagePreview);
 CMS.registerPreviewTemplate('oberythmee', SportPagePreview);
 CMS.registerPreviewTemplate('agility', SportPagePreview);
+CMS.registerPreviewTemplate('hoopers', SportPagePreview);
 CMS.registerPreviewTemplate('medical-training', SportPagePreview);
 CMS.registerPreviewTemplate('shaping', SportPagePreview);
 CMS.registerPreviewTemplate('cgv', CGVPagePreview);
