@@ -24,10 +24,10 @@ sousTexteTarifs: Les cours auront lieu sur le terrain d'Anim'Apaise sur
 imagesBasDePage:
   - image: /img/dsc_7077.jpg
     survolImage: Photo concours Amicale Canine Anne de Bretagne
-  - image: /img/dsc_7120.jpg
-    survolImage: Photo d'Anim'Apaise
   - image: /img/51284291144_88ffb976a5_k.jpg
     survolImage: Photo de Camille IMBERT
+  - image: /img/dsc_7120.jpg
+    survolImage: Photo d'Anim'Apaise
 liensCreditPhoto: []
 ---
 Hooper - en cours de construction
