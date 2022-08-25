@@ -101,6 +101,9 @@ const Navbar = () => {
               <Link className="navbar-item" to="/activites/agility">
                 Agility loisir
               </Link>
+              <Link className="navbar-item" to="/activites/hooper">
+                Hooper
+              </Link>
               <Link className="navbar-item" to="/activites/medical-training">
                 Medical-training
               </Link>
