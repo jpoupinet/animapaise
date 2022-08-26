@@ -43,7 +43,7 @@ const ArticleTemplate = ({
             className="container"
             style={{ fontSize: '1.1rem' }}
           >
-            <PageContent className="content p-6" content={content} />
+            <PageContent className="article-content content p-6" content={content} />
           </div>
         </div>
       </section>

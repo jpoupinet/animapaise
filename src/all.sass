@@ -84,6 +84,25 @@ $menu-item-color: $white
   flex-grow: unset
   flex-shrink: unset
 
+.article-content p>img
+  display: block
+  margin: auto
+
+.article-content .gatsby-resp-image-wrapper, .article-content p>img
+  max-width: 80% !important
+  min-width: 370px
+  height: auto !important
+  margin-top: 50px
+  margin-bottom: 50px
+
+.article-content iframe
+  width: 80% !important
+  min-height: 500px
+  display: block
+  margin: auto
+  margin-top: 50px
+  margin-bottom: 50px
+
 +mobile
   .title.is-1
     font-size: 2.2rem
@@ -103,3 +122,6 @@ $menu-item-color: $white
   .liste-a-propos
     margin-left: 5%
     margin-right: 5%
+  .article-content iframe
+    width: 100% !important
+    min-height: 300px
