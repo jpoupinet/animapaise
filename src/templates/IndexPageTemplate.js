@@ -1,17 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
-import { Link } from 'gatsby';
 
 import Features from '../components/Features';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
-import PreviewCompatibleBgImage from '../components/PreviewCompatibleBgImage';
 import Presentation from '../components/Presentation';
+import CarteArticle from '../components/CarteArticle';
 
 const IndexPageTemplate = ({
   mainpitch,
   intro,
   presentations,
-  decouvrir,
+  featuredArticles,
 }) => {
   const [width, setWidth] = useState(null);
 
@@ -99,29 +98,30 @@ const IndexPageTemplate = ({
           )}
         </div>
       </section>
-      <PreviewCompatibleBgImage
-        bgImageClass="hero decouvrir"
-        imageInfo={{ image: decouvrir.image }}
-      >
-        <div
-          className="
-            hero-body
-            is-flex-direction-column
-            is-justify-content-space-around
-            is-align-items-flex-start
-          "
-        >
-          <h2
-            className="title is-2 has-text-white"
-            style={{ width: `${width <= 768 ? 100 : 40}%`, textShadow: '1px 1px 2px black' }}
-          >
-            {decouvrir.title}
-          </h2>
-          <div className="block">
-            <Link to="/articles" className="button is-primary is-large">{decouvrir.lien}</Link>
+      <section className="section">
+        <div className="container">
+          <div className="block mb-6">
+            <h2 className="title is-2">
+              Anim'Apaise c'est aussi du partage d'expériences et de connaissances
+            </h2>
+          </div>
+          <div className="columns is-multiline">
+            {
+              featuredArticles.map((article) =>
+                <div className="column is-4" key={article.id}>
+                  <CarteArticle
+                    titre={article.title}
+                    description={article.description}
+                    image={article.featuredimage}
+                    date={article.date}
+                    lien={article.slug}
+                  />
+                </div>
+              )
+            }
           </div>
         </div>
-      </PreviewCompatibleBgImage>
+      </section>
     </div>
   )
 };
@@ -134,7 +134,7 @@ IndexPageTemplate.propTypes = {
     blurbs: PropTypes.array,
   }),
   presentations: PropTypes.array,
-  decouvrir: PropTypes.object,
+  featuredArticles: PropTypes.object,
 };
 
 export default IndexPageTemplate;

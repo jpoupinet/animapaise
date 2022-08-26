@@ -7,6 +7,7 @@ import IndexPageTemplate from './IndexPageTemplate';
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
+  const { edges: featuredArticles } = data.featuredArticles
 
   return (
     <Layout>
@@ -14,7 +15,9 @@ const IndexPage = ({ data }) => {
         mainpitch={frontmatter.mainpitch}
         intro={frontmatter.intro}
         presentations={frontmatter.presentations}
-        decouvrir={frontmatter.decouvrir}
+        featuredArticles={featuredArticles.map(({ node: art }) =>
+          ({ ...art.frontmatter, slug: art.fields.slug, id: art.id })
+        )}
       />
     </Layout>
   )
@@ -78,15 +81,37 @@ export const pageQuery = graphql`
           lien
           titreLien
         }
-        decouvrir {
-          title
-          lien
-          image {
-            childImageSharp {
-              gatsbyImageData(
-                width: 2000
-                quality: 64
-              )
+      }
+    }
+    featuredArticles: allMarkdownRemark(
+      sort: { order: DESC, fields: [frontmatter___date] }
+      filter: {
+        frontmatter: {
+          templateKey: {eq: "article"}
+          featuredpost: {eq: true}
+        }
+      }
+    ) {
+      edges {
+        node {
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date(formatString: "DD MMMM YYYY", locale: "fr")
+            description
+            featuredpost
+            featuredimage {
+              childImageSharp {
+                gatsbyImageData(
+                  width: 700
+                  height: 500
+                  quality: 64
+                  placeholder: TRACED_SVG
+                )
+              }
             }
           }
         }

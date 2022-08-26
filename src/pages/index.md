@@ -60,8 +60,4 @@ presentations:
       d'inclure cette discipline dans les ateliers de médiation animale.
     lien: activites/oberythmee
     titreLien: Cliquez pour en savoir plus sur les accompagnements proposés
-decouvrir:
-  title: Anim'Apaise c'est aussi du partage d'expériences et de connaissances
-  lien: Articles
-  image: /img/31085861467_7902e6d2d7_k.jpg
 ---

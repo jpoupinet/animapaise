@@ -48,16 +48,6 @@ collections:
               {label: Titre du lien, name: titreLien, widget: string, required: false, default: ''},
             ]
           }
-          - {
-            label: Decouvrir,
-            name: decouvrir,
-            widget: object,
-            fields: [
-              {label: Title, name: title, widget: string},
-              {label: Lien, name: lien, widget: string},
-              {label: Image, name: image, widget: image},
-            ]
-          }
       - file: "src/pages/mediation.md"
         label: "Médiation animale"
         name: "mediation"

@@ -12,7 +12,7 @@ const IndexPagePreview = ({ entry }) => {
         mainpitch={data.mainpitch}
         intro={data.intro}
         presentations={data.presentations}
-        decouvrir={data.decouvrir}
+        featuredArticles={data.featuredArticles}
       />
     );
   } else {
