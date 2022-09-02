@@ -4,7 +4,7 @@ imageIntro: /img/50316365307_1690ec792d_k.jpg
 survolImageIntro: Photo d'Anim'Apaise
 titrePage: Agility loisir
 prerequis:
-  - texte: Âge minimum fixé à un an
+  - texte: Âge minimum fixé à 9-12 mois (selon la race)
   - texte: Chiens sociables avec des bases d'éducation
 tarifs:
   - titre: Cours individuels
