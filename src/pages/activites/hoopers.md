@@ -30,4 +30,14 @@ imagesBasDePage:
     survolImage: Photo d'Anim'Apaise
 liensCreditPhoto: []
 ---
-Hoopers - en cours de construction
+Le **Hoopers** est une discipline développée par le NADAC (The North American Dog Agility Council) aux Etats-Unis. C'est un **sport canin encore peu connu** en France mais qui se développe progressivement. 
+
+Il s'agit d'une discipline **dérivée de l'agility**, qui consiste à guider son chien sur un parcours d'obstacles à distance, en restant dans une zone restreinte. Ce parcours est constitué d'arceaux sous lesquels le chien doit passer : les **hoopers**, d'objets qu'il doit contourner : les **barils/gates** et de **tunnels** qu'il doit traverser.
+
+C'est un sport adapté à **toute race de chien, de tout âge**, du fait que c'est un sport bien moins exigeant physiquement que l'agility. En effet, il n'y a aucun sauts ou virages serrés  à réaliser sur des parcours de Hoopers. 
+
+Anim'Apaise vous propose de **découvrir le Hoopers** sur son terrain en cours individuels ou collectifs !
+
+
+
+**4 CHIENS MAXIMUM POUR LES COURS COLLECTIFS**
