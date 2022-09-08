@@ -3,8 +3,7 @@ templateKey: medical-training-page
 imageIntro: /img/dsc_1897.jpg
 survolImageIntro: Photo d'Anim'Apaise
 titrePage: Medical-training
-prerequis:
-  - texte: Âge minimum fixé à 3 mois
+prerequis: []
 tarifs:
   - titre: Cours individuels
     sousTitre: Un cours individuel dure environ 45 minutes
