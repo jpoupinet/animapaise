@@ -1,1 +1,1 @@
-[Anim'Apaise](https://animapaise.fr)
+<a href="https://animapaise.fr" target="_blank">Anim'Apaise</a>
