@@ -10,9 +10,9 @@ tarifs:
   - titre: "Cours individuels "
     sousTitre: Un cours individuel dure environ 45 minutes
     tarifs:
-      - texte: "Un cours : 30€ "
-      - texte: "Forfait 5 cours : 140€"
-      - texte: "Forfait 10 cours : 270€"
+      - texte: "Un cours : 35€ "
+      - texte: "Forfait 5 cours : 160€"
+      - texte: "Forfait 10 cours : 310€"
   - titre: Cours collectifs
     sousTitre: Un cours collectif dure environ 1h30
     tarifs:
