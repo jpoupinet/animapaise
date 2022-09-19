@@ -29,7 +29,7 @@ tarifs:
       - texte: "L'exploration : 240€"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines, à votre domicile ou en visio. Les frais de
-  déplacement sont gratuits jusqu'à 20km autour d'Orvault Cholière.
+  déplacement sont gratuits jusqu'à 15km autour d'Orvault Cholière.
 imagesBasDePage:
   - image: /img/51286583466_6ccffe4d2a_k.jpg
     survolImage: Photo d'Anim'Apaise
