@@ -33,7 +33,7 @@ sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
 imagesBasDePage:
   - image: /img/51286583466_6ccffe4d2a_k.jpg
     survolImage: Photo d'Anim'Apaise
-  - image: /img/51287600040_fa3d2f3f99_k.jpg
+  - image: /img/dsc_7424.jpg
     survolImage: Photo d'Anim'Apaise
   - image: /img/51286754103_801f62e9ce_k.jpg
     survolImage: Photo d'Anim'Apaise
