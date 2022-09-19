@@ -11,10 +11,12 @@ Pour les stages je peux me déplacer dans toute la France selon les demandes.
 
 ***Frais de déplacement***
 
-Les 20 premiers kilomètres autour d'Orvault Cholière sont gratuits.
+Les 15 premiers kilomètres autour d'Orvault Cholière sont gratuits.
 
-A partir de 20km et jusqu'à 29km : 12€
+A partir de 15km et jusqu'à 24km : 12€
 
-A partir de 30km et jusqu'à 40km : 20€
+A partir de 25km et jusqu'à 34km : 20€
+
+A partir de 35km et jusqu'à 45km : 30€
 
 Au delà : 0,5€ le kilomètre
