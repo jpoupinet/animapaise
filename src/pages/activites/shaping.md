@@ -19,7 +19,7 @@ tarifs:
       - texte: "Auditeur libre : 45€ (4 personnes maximum)"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines ou à votre domicile. Les frais de déplacement sont
-  gratuits jusqu'à 20km autour d'Orvault Cholière.
+  gratuits jusqu'à 15km autour d'Orvault Cholière.
 imagesBasDePage:
   - image: /img/51285958185_2965a1d766_k.jpg
     survolImage: Photo d'Amandine RICOU
