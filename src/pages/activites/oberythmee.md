@@ -21,7 +21,7 @@ tarifs:
       - texte: "Forfait de 10 cours : 225€"
 sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
   Grandchamp des Fontaines ou à votre domicile (pour de l'individuel). Les frais
-  de déplacement sont gratuits jusqu'à 20km autour d'Orvault Cholière.
+  de déplacement sont gratuits jusqu'à 15km autour d'Orvault Cholière.
 imagesBasDePage:
   - image: /img/50300658088_65ae4301cb_k.jpg
     survolImage: Photo de Sylvain STEPHANT
