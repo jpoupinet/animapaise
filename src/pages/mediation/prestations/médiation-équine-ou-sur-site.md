@@ -11,4 +11,4 @@ De la même manière que les séances au sein des structures ou à domicile, les
 
 Les séances ont une durée de **30min** minimum *en individue*l et d'environ **1h à 1h30** *en collectif*.
 
-Ces ateliers se passeront sur **Grandchamp-des-Fontaines**, lieu de vie de l'équipe équine d'Anim'Apaise. Ils pourront avoir lieu les **jeudis après-midi**.
+Ces ateliers se passeront sur **Grandchamp-des-Fontaines**, lieu de vie de l'équipe équine d'Anim'Apaise.
