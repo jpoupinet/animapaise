@@ -22,22 +22,21 @@ tarifs:
       visio)..
     tarifs:
       - texte: "1 bilan + 2 séances de suivi : 165€"
-      - texte: "1 bilan + 5 séances de suivi : 285€"
-      - texte: "1 bilan + 8 séances de suivi : 400€"
+      - texte: "1 bilan + 3 séances de suivi : 200€"
   - titre: Forfaits comportement + initiation à une activité canine
     sousTitre: Ces forfaits demandent un accompagnement en présentiel au préalable.
     tarifs:
-      - texte: "1 bilan + 2 séances de suivi + 1 cours d'initiation à une activité
-          canine proposée par Anim'Apaise : 190€"
-      - texte: "1 bilan + 5 séances de suivi + 1 cours d'initiation à une activité
-          canine proposée par Anim'Apaise : 305€"
+      - texte: "1 bilan + 3 séances de suivi + 1 cours individuel à une acctivité :
+          230€"
+      - texte: "1 bilan + 3 séances de suivi + 3 cours individuels à une activité :
+          290€"
   - titre: Accompagnement pré/post-adoption
     sousTitre: Rendez-vous à votre domicile d'1h30. Vous pouvez me contacter par
       mail pour un accompagnement en visio.
     tarifs:
       - texte: "1 rendez-vous pré-adoption ou post-adoption : 75€"
       - texte: "1 rendez-vous pré-adoption + 1 rendez-vous post-adoption : 135€"
-sousTexteTarifs: Les frais de déplacement sont gratuits jusqu'à 20km autour d'Orvault Cholière.
+sousTexteTarifs: Les frais de déplacement sont gratuits jusqu'à 15km autour d'Orvault Cholière.
 imagesBasDePage:
   - image: /img/26963759687_cbcf2c57a1_k.jpg
     survolImage: Photo d'Anim'Apaise
