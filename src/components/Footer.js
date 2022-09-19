@@ -61,6 +61,12 @@ const Footer = () => {
               <a href="mailto:contact@animapaise.fr">contact@animapaise.fr</a>
             </div>
             <div className="block">Siret : 841.866.254.00029</div>
+            <div className="block">
+              <Link to="/mentions-legales">Mentions légales</Link>
+            </div>
+            <div className="block">
+              <Link to="/cgv">CGV</Link>
+            </div>
           </div>
           <div className="column is-4 social has-text-centered">
             <a

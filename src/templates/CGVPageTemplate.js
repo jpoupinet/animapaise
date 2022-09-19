@@ -10,10 +10,10 @@ const CGVPageTemplate = ({
   const PageContent = contentComponent || Content;
 
   return (
-    <section className="section">
-      <div className="container has-text-centered">
+    <section className="section is-medium">
+      <div className="container">
         <h1 className="title is-3">Conditions Générales de Vente</h1>
-        <PageContent className="content p-6" content={content} />
+        <PageContent className="content mt-6" content={content} />
       </div>
     </section>
   )
