@@ -17,13 +17,13 @@ Le terme « le client » désigne la personne morale ou physique qui a fait appe
 
 Les règlements possibles sont en espèces, par virement ou par chèque.
 
-Le règlement par virement ou chèque pour les forfaits de 5 et 10 cours est accepté en plusieurs fois (en 2 à 3 fois). L’ensemble des chèques sera perçu par Sophie Bourdon lors de la première séance et seront encaissés aux dates décidées avec le client.
+Le règlement par virement ou chèque pour les forfaits est accepté en plusieurs fois (en 2 à 3 fois). L’ensemble des chèques sera perçu par Sophie Bourdon lors de la première séance et seront encaissés aux dates décidées avec le client.
 
 **Article 3**
 
 Les forfaits et stages ne sont pas remboursables sauf en cas de maladie ou de décès du chien empêchant la poursuite des cours.  
 
-Les forfaits de 5 cours et 10 cours seront respectivement valable 8 mois et 1 an à compter de la date du premier paiement.
+Les forfaits seront valables 1 an à compter de la date du premier cours du forfait utilisé.
 
 **Article 4**
 
@@ -41,7 +41,7 @@ Dans ces conditions Sophie Bourdon ne saurait en aucun cas être considérée co
 
 Aucune prestation ne pourra être annulée pour des raisons météorologiques à l’initiative des participants. C’est uniquement Sophie Bourdon qui pourra juger si le cours ou le stage doit être annulé en cas de mauvaises conditions climatiques ou par manque de participants.
 
-Tout cours annulé moins de 24 heures à l’avance à l’initiative du client sans justificatif médical est dûe.
+Tout cours annulé moins de 48 heures à l’avance à l’initiative du client sans justificatif médical est due.
 
 **Article 7**
 
