@@ -2,34 +2,22 @@
 templateKey: medical-training-page
 imageIntro: /img/dsc_1897.jpg
 survolImageIntro: Photo d'Anim'Apaise
-titrePage: Medical-training
+titrePage: Soins coopératifs animaliers
 prerequis: []
 tarifs:
-  - titre: Cours individuels
-    sousTitre: Un cours individuel dure environ 45 minutes
+  - titre: Accompagnement en soins coopératifs
+    sousTitre: Des forfaits de séances et des formules de suivi en ligne peuvent
+      être proposés suite au bilan
     tarifs:
-      - texte: "Une séance : 40€"
-      - texte: "Forfait de 5 séances : 185€"
-      - texte: "Forfait de 10 séances : 340€"
+      - texte: "Bilan : 60€"
+      - texte: "Séance à l'unité : 30€"
   - titre: Stages
     sousTitre: Une journée de stage dure environ 6 heures
     tarifs:
       - texte: "Participant : 80€ (8 duos maximum)"
       - texte: "Auditeur libre : 45€ (4 personnes maximum)"
-  - titre: Suivi en ligne
-    sousTitre: Trois formules de suivi d'un mois sur mesure. Les formules sont
-      composées d'au moins un bilan en présentiel ou en visio ; un plan
-      d'entraînement sur mesure (d'un à trois soins de votre choix) ; un suivi
-      quotidien plus ou moins intensif selon la formule choisie, par le biais
-      d'échanges et d'analyse des vidéos partagées sur un groupe Facebook ou
-      Slack dédié.
-    tarifs:
-      - texte: "La découverte : 100€"
-      - texte: "L'aventure : 165€"
-      - texte: "L'exploration : 240€"
-sousTexteTarifs: Les cours peuvent avoir lieu sur le terrain d'Anim'Apaise sur
-  Grandchamp des Fontaines, à votre domicile ou en visio. Les frais de
-  déplacement sont gratuits jusqu'à 15km autour d'Orvault Cholière.
+sousTexteTarifs: Les cours peuvent avoir lieu à votre domicile ou en visio. Les
+  frais de déplacement sont gratuits jusqu'à 15km autour d'Orvault Cholière.
 imagesBasDePage:
   - image: /img/51286583466_6ccffe4d2a_k.jpg
     survolImage: Photo d'Anim'Apaise
@@ -52,3 +40,7 @@ Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec le medic
 \- l'introduction d'un **outil de soin** (brosse, pulseur, coupe-griffe etc.) ou **matériel du quotidien** (harnais, muselière etc.)
 
 \- la **réalisation d'un soin complet** avec le consentement de votre animal (soin des yeux, toilettage, donner le vermifuge etc.)
+
+Mon accompagnement auprès de vous et votre animal démarre par **un temps de bilan** où nous verrons ensemble vos besoins, lors duquel je vous présenterais plus en détail l'approche des soins coopératifs et où nous mettrons en place le début du travail. S﻿uite à ce bilan je vous enverrai un **support de travail** comprenant le plan de désensibilisation du soin choisi. 
+
+E﻿nfin s'en suivra des **séances de suivi** où vous pourrez mettre en pratique la pratique des soins coopératifs avec ma présence pour vous guider et optimiser la réussite des soins projetés.
