@@ -9,13 +9,11 @@ tarifs:
     sousTitre: Temps d'échange puis élaboration de solutions sur une durée d'environ
       2h, à votre domicile ou en visio.
     tarifs:
-      - texte: "A domicile : 85€"
-      - texte: "En visio : 80€"
+      - texte: 85€
   - titre: Séance de suivi
     sousTitre: Séance de 45 minutes faisant suite à un bilan.
     tarifs:
-      - texte: "A domicile ou en extérieur : 45€"
-      - texte: "En visio : 40€"
+      - texte: 45€
   - titre: Forfaits préférentiels comportement
     sousTitre: Forfaits incluant un bilan comportemental et des séances de suivi en
       présentiel (me contacter par mail pour les forfaits d'accompagnement en
