@@ -41,6 +41,6 @@ Anim'Apaise vous propose de vous accompagner dans vos premiers pas avec le medic
 
 \- la **réalisation d'un soin complet** avec le consentement de votre animal (soin des yeux, toilettage, donner le vermifuge etc.)
 
-Mon accompagnement auprès de vous et votre animal démarre par **un temps de bilan** où nous verrons ensemble vos besoins, lors duquel je vous présenterais plus en détail l'approche des soins coopératifs et où nous mettrons en place le début du travail. S﻿uite à ce bilan je vous enverrai un **support de travail** comprenant le plan de désensibilisation du soin choisi. 
+Mon accompagnement auprès de vous et votre animal démarre par **un temps de bilan**  d'une heure, où nous verrons ensemble vos besoins, lors duquel je vous présenterais plus en détail l'approche des soins coopératifs et où nous mettrons en place le début du travail. S﻿uite à ce bilan je vous enverrai un **support de travail** comprenant le plan de désensibilisation du soin choisi.
 
-E﻿nfin s'en suivra des **séances de suivi** où vous pourrez mettre en pratique la pratique des soins coopératifs avec ma présence pour vous guider et optimiser la réussite des soins projetés.
+E﻿nfin, s'en suivront des **séances de suivi** de 30 minutes, où vous pourrez mettre en application la pratique des soins coopératifs en ma présence, afin de vous guider et optimiser la réussite des soins projetés.
