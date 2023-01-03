@@ -24,8 +24,7 @@ tarifs:
   - titre: Forfaits comportement + initiation à une activité canine
     sousTitre: Ces forfaits demandent un accompagnement en présentiel au préalable.
     tarifs:
-      - texte: "1 bilan + 3 séances de suivi + 1 cours individuel à une acctivité :
-          230€"
+      - texte: "1 bilan + 3 séances de suivi + 1 cours individuel à une activité : 230€"
       - texte: "1 bilan + 3 séances de suivi + 3 cours individuels à une activité :
           290€"
   - titre: Accompagnement pré/post-adoption
@@ -66,6 +65,6 @@ Cet accompagnement peut avoir lieu en **visio** en fonction de plusieurs critèr
 * La distance ne permettant pas que je me déplace chez vous
 * La problématique que vous rencontrez avec votre chien rendant ma présence physique contre-productive (agressivité sur les humains par exemple)
 
-Une fois l'accompagnement amorcé autour de la modification de comportements indésirables il sera possible d'initier votre duo à une **activité canine** afin de découvrir votre compagnon sous un nouvel angle, renforcer votre relation et enrichir son quotidien. Les bienfaits de ces activités viendront contribuer au travail en cours.
+En parallèle de l'accompagnement amorcé autour de la modification de comportements indésirables il sera possible d'initier votre duo à une **activité canine** afin de découvrir votre compagnon sous un nouvel angle, renforcer votre relation et enrichir son quotidien. Les bienfaits de ces activités viendront contribuer au travail en cours.
 
 Je peux aussi vous accompagner dans le **processus d'adoption**, que ça soit avant et/ou après l'arrivée de votre chiot ou chien adulte afin d''avoir toutes les clés en main pour démarrer cette aventure sur de bonnes bases.
