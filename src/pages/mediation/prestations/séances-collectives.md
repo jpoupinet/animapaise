@@ -1,9 +1,9 @@
 ---
 templateKey: prestation-ma
 ordre: 2
-titre: Ateliers collectifs en structure ou à domicile
+titre: "Ateliers collectifs "
 image: /img/dsc_7537-1-1.jpg
-prix: "Tarifs : à partir de 75€"
+prix: "Tarifs : à partir de 90€"
 ---
 Les séances collectives de médiation animale incluent **plusieurs bénéficiaires** en lien avec **l'animal** et *l'intervenant*.
 
@@ -11,6 +11,4 @@ Ces séances se baseront sur des objectifs communs aux bénéficiaire concernés
 
 Dans le cadre d'interventions à visée préventive et thérapeutique qu'on peut également appeler un **Programme de Médiation Assistée par l’Animale** les séances seront **régulières** et basées sur un **plan d'intervention** établi avec l'équipe des professionnels. Elles s'adressent à des groupes de **6 bénéficiaires** maximum.
 
-Dans le cadre de séances récréatives également appelées **Animations Assistées par l’Animal** les interventions peuvent être ponctuelles et s'adressent à des groupes de **10 bénéficiaires** maximum.
-
-Les séances collectives ont une durée variant **entre 45min et 1h30** selon le nombre de bénéficiaires et le type de séance. Elle auront lieu au sein des **structures** ou **à domicile** (ces séances ne pourront pas se faire avec les poneys).
+Les séances collectives ont une durée variant **entre 1h et 1h30** selon le nombre de bénéficiaires et le type de séance. Elle peuvent avoir lieu au sein de la **structure**, à **domicile** ou sur le **terrain d'Anim'Apaise**.
