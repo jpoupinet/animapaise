@@ -9,10 +9,18 @@ presentation:
     tout ce que j'entreprends.
 diplomesCertificats:
   - annee: En cours
+    description: |+
+      Comportementaliste Equin
+
+    organisme: Marie Sutter - AnimHo Formations
+  - annee: En cours
+    description: Mentorat Professionnel
+    organisme: Lisa Longo - Animal Académie
+  - annee: "2022"
     description: Instructeur Soins Coopératifs Animaliers - Option chien
     organisme: Iris Casting - Muzo +
   - annee: "2022"
-    description: Comportementaliste Animalier - Mention Chien
+    description: Comportementaliste Canin
     organisme: Marie Sutter - AnimHo Formations
   - annee: "2021"
     description: Certifiée Intervenante au PECCRAM (Programme d'Éducation à la
@@ -31,6 +39,28 @@ diplomesCertificats:
     description: BTS Économie Sociale et Familiale
     organisme: Adonis
 formationsStages:
+  - annee: En cours
+    description: Connection Training Club
+    organisme: Rachel Bendigfiel et Hannah Weston - Connection Training
+  - annee: "2022"
+    description: Ouvrir ses horizons – Comment utiliser les sports canins pour aider
+      les chiens à problèmes ?
+    organisme: Julie Sansregret - De Main De Maître
+  - annee: "2022"
+    description: La protection de ressource – Vers un retour à la sécurité !
+    organisme: Simonne Raffa - De Main De Maître
+  - annee: "2022"
+    description: Confiance à distance
+    organisme: Marjorie Miltenberger - Muzo +
+  - annee: "2022"
+    description: Shaping
+    organisme: Cynthia Edelman - Muzo +
+  - annee: "2022"
+    description: Comprendre l’apprentissage
+    organisme: Cynthia Edelman - Muzo +
+  - annee: "2022"
+    description: Lire les messages du cheval
+    organisme: Emilie Fallet - Les Chevaux Explorateurs
   - annee: "2021"
     description: Troubles du Spectre Autistique et ses particularités
     organisme: Centre Ressources Autisme de Loire-Atlantique
