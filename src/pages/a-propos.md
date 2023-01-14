@@ -128,7 +128,7 @@ experiences:
     description: Créatrice de contenu vidéo / partenaire de Danse avec ton Chien
     organisme: Danse avec ton Chien
   - annee: 2019 à ce jour
-    description: Compétitrice en obérythmée - Novice
+    description: Compétitrice en obérythmée - Intermédiaire
     organisme: Avec mes deux dog-danseurs de compétition
   - annee: 2018 à ce jour
     description: Compétitrice en agility - Grade 2
