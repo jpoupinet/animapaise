@@ -116,7 +116,7 @@ experiences:
   - annee: 2021 à ce jour
     description: Fondatrice et gérante d'Anim'Apaise
     organisme: Anim'Apaise
-  - annee: 2019 à ce jour
+  - annee: 2019 à 2022
     description: Coordinatrice de parcours d'étudiants en situation de handicap au
       Service d'Accompagnement à la Vie Sociale
     organisme: Association Handisup
