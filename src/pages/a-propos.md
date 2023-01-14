@@ -17,7 +17,7 @@ diplomesCertificats:
     description: Mentorat Professionnel
     organisme: Lisa Longo - Animal Académie
   - annee: "2022"
-    description: Instructeur Soins Coopératifs Animaliers - Option chien
+    description: Instructeur Soins Coopératifs Animalier
     organisme: Iris Casting - Muzo +
   - annee: "2022"
     description: Comportementaliste Canin
