@@ -23,11 +23,11 @@ diplomesCertificats:
     description: Comportementaliste Canin
     organisme: Marie Sutter - AnimHo Formations
   - annee: "2021"
-    description: Certifiée Intervenante au PECCRAM (Programme d'Éducation à la
-      Connaissance du Chien et au Risque d'Accident par Morsure)
+    description: Intervenante au PECCRAM (Programme d'Éducation à la Connaissance du
+      Chien et au Risque d'Accident par Morsure)
     organisme: Chantal Hazard - FIMAC Canin
   - annee: "2021"
-    description: Certifiée Intervenante en Médiation par l'Animal
+    description: Intervenante en Médiation par l'Animal
     organisme: Association de Zoothérapie des Côtes d'Or Formations
   - annee: "2021"
     description: Attestation de connaissance - ACACED n°5049
