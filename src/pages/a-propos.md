@@ -52,6 +52,9 @@ formationsStages:
   - annee: "2023"
     description: Colloque Francophone sur le Comportement Animal et Canin 2023
     organisme: 19 intervenants - Evolution Canine
+  - annee: "2023"
+    description: Sommet de l'agility 2023
+    organisme: 6 intervenantes - Planète Agility
   - description: Comment monter une école du chiot – Episode 1
     organisme: Camille Nguyen - Muzo+
     annee: "2023"
@@ -125,9 +128,6 @@ formationsStages:
   - annee: "2017"
     description: Stage en présentiel de Disdog Niveau 1
     organisme: Yannick Thoulon et Camille Nguyen - Canissimo
-  - annee: "2023"
-    description: Sommet de l'agility 2023
-    organisme: 6 intervenantes - Planète Agility
 experiences:
   - annee: 2022 à ce jour
     description: Référente du module canin de la formation de comportementaliste animalier
