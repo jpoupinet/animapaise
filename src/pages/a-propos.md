@@ -45,16 +45,26 @@ diplomesCertificats:
     description: BTS Économie Sociale et Familiale
     organisme: Adonis
 formationsStages:
-  - annee: En cours
+  - description: Formation intensive – Réactivité et agression canine pour les
+      professionnels
+    annee: "2023"
+    organisme: Simonne Raffa - Evolution Canine
+  - annee: "2023"
+    description: Colloque Francophone sur le Comportement Animal et Canin 2023
+    organisme: 19 intervenants - Evolution Canine
+  - description: Comment monter une école du chiot – Episode 1
+    organisme: Camille Nguyen - Muzo+
+    annee: "2023"
+  - annee: "2022"
     description: Connection Training Club
     organisme: Rachel Bendigfiel et Hannah Weston - Connection Training
   - annee: "2022"
     description: Ouvrir ses horizons – Comment utiliser les sports canins pour aider
       les chiens à problèmes ?
-    organisme: Julie Sansregret - De Main De Maître
+    organisme: Julie Sansregret - Evolution Canine
   - annee: "2022"
     description: La protection de ressource – Vers un retour à la sécurité !
-    organisme: Simonne Raffa - De Main De Maître
+    organisme: Simonne Raffa - Evolution Canine
   - annee: "2022"
     description: Confiance à distance
     organisme: Marjorie Miltenberger - Muzo +
