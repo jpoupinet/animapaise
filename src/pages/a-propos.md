@@ -125,7 +125,13 @@ formationsStages:
   - annee: "2017"
     description: Stage en présentiel de Disdog Niveau 1
     organisme: Yannick Thoulon et Camille Nguyen - Canissimo
+  - annee: "2023"
+    description: Sommet de l'agility 2023
+    organisme: 6 intervenantes - Planète Agility
 experiences:
+  - annee: 2022 à ce jour
+    description: Référente du module canin de la formation de comportementaliste animalier
+    organisme: AnimHo
   - annee: 2022 à ce jour
     description: Responsable de la section medical-training
     organisme: Danse avec ton Chien
