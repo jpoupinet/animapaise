@@ -14,8 +14,14 @@ diplomesCertificats:
 
     organisme: Marie Sutter - AnimHo Formations
   - annee: En cours
-    description: Mentorat Professionnel
+    description: Diamond Membership All Access Pass
+    organisme: Grisha Stewart Academy
+  - annee: "2023"
+    description: Mentorat Professionnel de 6 mois
     organisme: Lisa Longo - Animal Académie
+  - annee: "2023"
+    description: Fear Free® Animal Trainer Certication
+    organisme: Fear Free
   - annee: "2022"
     description: Instructeur Soins Coopératifs Animalier
     organisme: Iris Casting - Muzo +
