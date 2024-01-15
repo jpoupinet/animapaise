@@ -26,4 +26,13 @@ services:
       d'inclure cette discipline dans les ateliers de médiation animale.
     lien: activites/oberythmee
     titreLien: Pour en savoir plus
+certifications:
+  - image: /img/love.png
+    lien: https://www.google.com
+  - image: /img/pet-house.png
+    lien: https://www.google.com
+  - image: /img/training.png
+    lien: https://www.google.com
+  - image: /img/cat.png
+    lien: https://www.google.com
 ---

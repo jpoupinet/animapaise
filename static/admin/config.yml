@@ -25,6 +25,15 @@ collections:
               {label: Titre du lien, name: titreLien, widget: string, required: false, default: ''},
             ]
           }
+          - {
+            label: Certifications,
+            name: certifications,
+            widget: list,
+            fields: [
+              {label: Image, name: image, widget: image},
+              {label: Lien, name: lien, widget: string, required: false, default: ''},
+            ]
+          }
       - file: "src/pages/mediation.md"
         label: "Médiation animale"
         name: "mediation"

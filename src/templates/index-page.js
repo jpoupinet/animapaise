@@ -13,6 +13,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         services={frontmatter.services}
+        certifications={frontmatter.certifications}
         featuredArticles={featuredArticles.map(({ node: art }) =>
           ({ ...art.frontmatter, slug: art.fields.slug, id: art.id })
         )}
@@ -49,6 +50,18 @@ export const pageQuery = graphql`
           description
           lien
           titreLien
+        }
+        certifications {
+          image {
+            childImageSharp {
+              gatsbyImageData(
+                width: 150
+                height: 150
+                quality: 50
+              )
+            }
+          }
+          lien
         }
       }
     }
