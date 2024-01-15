@@ -14,36 +14,13 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {
-              label: Mainpitch, 
-              name: mainpitch, 
-              widget: object, 
-              fields: [
-                {label: Title, name: title, widget: string},
-                {label: Description, name: description, widget: text},
-                {label: Image, name: image, widget: image},
-              ]
-          }
-          - {
-            label: Intro,
-            name: intro,
-            widget: object,
-            fields: [
-              {label: Heading, name: heading, widget: string},
-              {label: Description, name: description, widget: string},
-              {label: Icones, name: blurbs, widget: list, fields: [
-                {label: Image, name: image, widget: image},
-                {label: Text, name: text, widget: text},
-              ]}
-            ]
-          }
-          - {
-            label: Presentations,
-            name: presentations,
+            label: Services,
+            name: services,
             widget: list,
             fields: [
               {label: Photo, name: photo, widget: image},
               {label: Titre, name: titre, widget: string},
-              {label: Description, name: description, widget: text},
+              {label: Description, name: description, widget: markdown},
               {label: Lien, name: lien, widget: string, required: false, default: ''},
               {label: Titre du lien, name: titreLien, widget: string, required: false, default: ''},
             ]

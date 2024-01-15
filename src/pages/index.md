@@ -1,46 +1,12 @@
 ---
 templateKey: index-page
-mainpitch:
-  title: Médiation animale, comportementaliste canin, activités et sports canins
-  description: Trouvez de l'apaisement dans votre relation avec les animaux. Ils
-    nous apportent tellement et nous avons réciproquement beaucoup à leur
-    apporter. Venez nous rencontrer en Loire-Atlantique (44) et alentours, afin
-    de découvrir ce que nous avons à vous apporter dans votre relation à
-    l'animal.
-  image: /img/51239880121_25730801ce_c.jpg
-intro:
-  heading: La bienveillance au coeur de l'accompagnement
-  description: "Que ça soit auprès de tout humain ou auprès de tout animal,
-    Anim'Apaise tient à coeur d'avoir une approche bienveillante et respectueuse
-    afin de proposer un accompagnement de qualité. "
-  blurbs:
-    - image: /img/love.png
-      text: Chaque individu se doit d'être respecté dans son intégrité avec ses forces
-        comme ses faiblesses afin de pouvoir être valorisé lors de chaque effort
-        ou progrès.
-    - image: /img/pet-house.png
-      text: Tous les animaux, quelle que soit l'espèce, sont bienveillants de nature.
-        Leur spontanéité et leur regard non jugeant provoquent un sentiment
-        d'apaisement et de sécurité à leurs côtés.
-    - image: /img/training.png
-      text: "Le renforcement positif va permettre d'entretenir une relation équilibrée
-        avec son animal. Cette approche respecte les processus d'apprentissage
-        de tout individu. "
-    - image: /img/cat.png
-      text: La coopération de l'animal doit être une priorité pour entretenir cette
-        relation bienveillante que nous cherchons à développer avec eux. C'est
-        en leur donnant le choix que nous ferons d'eux des acteurs à part
-        entière de leur quotidien et des accompagnements proposés.
-presentations:
+services:
   - photo: /img/dsc_2001.jpg
     titre: Médiation par l'animal
-    description: >-
-      La médiation animale a pour objectif de favoriser le bien-être d'un
-      bénéficiaire par le lien avec l'animal. 
-
-      Anim'Apaise propose des accompagnements et ateliers à visée thérapeutique, préventive ou récréative adaptés aux besoins du public concerné.
+    description: >
+      Le medical-training, et plus précisément : **les soins coopératifs**, est une approche qui a pour objectif d'apprendre à son animal à **accepter les manipulations** et de pouvoir le **soigner** avec son **consentement**. Cette pratique est basée sur le principe de **l'empowerment**, avec la **notion de choix** pour l'animal. Cette approche permet également d'amorcer une nouvelle manière de ***communiquer*** avec eux et de développer la ***relation de confiance*** qu'ils nous accordent.
     lien: mediation/prestations-ma
-    titreLien: Cliquez pour découvrir les prestations de médiation animale
+    titreLien: Pour en savoir plus
   - photo: /img/dsc_2158.jpg
     titre: Soins coopératifs
     description: Les soins en coopération ont pour objectif de rendre l'animal
@@ -49,7 +15,7 @@ presentations:
       de ses animaux. Il est également proposé des cours ou stages avec votre
       animal pour vous initier à ces méthodes.
     lien: activites/medical-training
-    titreLien: Cliquez pour en savoir plus sur les accompagnements proposés
+    titreLien: Pour en savoir plus
   - photo: /img/dsc_8605.jpg
     titre: Obérythmée
     description: L'obérythmée, ou dog-dancing, est une discipline canine consistant
@@ -59,5 +25,5 @@ presentations:
       apprendre de nouveaux tours à votre chien. Il est également possible
       d'inclure cette discipline dans les ateliers de médiation animale.
     lien: activites/oberythmee
-    titreLien: Cliquez pour en savoir plus sur les accompagnements proposés
+    titreLien: Pour en savoir plus
 ---

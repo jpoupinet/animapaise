@@ -12,9 +12,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
-        mainpitch={frontmatter.mainpitch}
-        intro={frontmatter.intro}
-        presentations={frontmatter.presentations}
+        services={frontmatter.services}
         featuredArticles={featuredArticles.map(({ node: art }) =>
           ({ ...art.frontmatter, slug: art.fields.slug, id: art.id })
         )}
@@ -37,41 +35,12 @@ export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
-        mainpitch {
-          title
-          description
-          image {
-            childImageSharp {
-              gatsbyImageData(
-                width: 800
-                quality: 64
-                placeholder: TRACED_SVG
-              )
-            }
-          }
-        }
-        intro {
-          heading
-          description
-          blurbs {
-            image {
-              childImageSharp {
-                gatsbyImageData(
-                  width: 180
-                  quality: 64
-                  placeholder: TRACED_SVG
-                )
-              }
-            }
-            text
-          }
-        }
-        presentations {
+        services {
           photo {
             childImageSharp {
               gatsbyImageData(
-                width: 1000
-                height: 800
+                width: 2350
+                height: 1000
                 quality: 64
               )
             }
