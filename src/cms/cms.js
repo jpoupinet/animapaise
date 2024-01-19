@@ -1,25 +1,15 @@
 import CMS from 'netlify-cms-app';
 
 import IndexPagePreview from './IndexPagePreview';
-import MediationPagePreview from './MediationPagePreview';
-import ComportementPagePreview from './ComportementPagePreview';
-import ActivitesPagePreview from './ActivitesPagePreview';
 import AProposPagePreview from './AProposPagePreview';
-import ColleguesPagePreview from './ColleguesPagePreview';
-import SportPagePreview from './SportPagePreview';
+import ArticlePreview from './ArticlePreview';
+import ServicePagePreview from './ServicePagePreview';
 import CGVPagePreview from './CGVPagePreview';
 import ZIFraisDeplacementPagePreview from './ZIFraisDeplacementPagePreview';
 
-CMS.registerPreviewTemplate('index', IndexPagePreview);
-CMS.registerPreviewTemplate('mediation', MediationPagePreview);
-CMS.registerPreviewTemplate('comportement', ComportementPagePreview);
-CMS.registerPreviewTemplate('activites', ActivitesPagePreview);
-CMS.registerPreviewTemplate('a-propos', AProposPagePreview);
-CMS.registerPreviewTemplate('collegues', ColleguesPagePreview);
-CMS.registerPreviewTemplate('oberythmee', SportPagePreview);
-CMS.registerPreviewTemplate('agility', SportPagePreview);
-CMS.registerPreviewTemplate('hoopers', SportPagePreview);
-CMS.registerPreviewTemplate('medical-training', SportPagePreview);
-CMS.registerPreviewTemplate('shaping', SportPagePreview);
+CMS.registerPreviewTemplate('index', AProposPagePreview);
+CMS.registerPreviewTemplate('a-propos', IndexPagePreview);
+CMS.registerPreviewTemplate('article', ArticlePreview);
+CMS.registerPreviewTemplate('service', ServicePagePreview);
 CMS.registerPreviewTemplate('cgv', CGVPagePreview);
 CMS.registerPreviewTemplate('zi-frais-deplacement', ZIFraisDeplacementPagePreview);

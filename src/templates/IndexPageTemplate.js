@@ -99,8 +99,8 @@ const IndexPageTemplate = ({
         <div className="hero-body container is-flex is-justify-content-center is-flex-wrap-wrap">
           {
             certifications.map(certif =>
-              <a
-                href={certif.lien}
+              <Link
+                to={certif.lien}
                 target="_blank"
                 rel="noreferrer"
                 className="is-inline-block mx-5 my-4"
@@ -108,7 +108,7 @@ const IndexPageTemplate = ({
                 <PreviewCompatibleImage
                   imageInfo={{ image: certif.image }}
                 />
-              </a>
+              </Link>
             )
           }
         </div>
