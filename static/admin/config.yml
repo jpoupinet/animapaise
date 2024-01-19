@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  branch: develop
 
 media_folder: static/img
 public_folder: /img
@@ -99,11 +100,12 @@ collections:
       - {label: "Mots clés", name: "tags", widget: "list"}
   - name: "services-collection"
     label: "Services"
-    folder: "src/pages"
+    folder: "src/pages/services"
     create: true
-    slug: "{{slug}}"
+    slug: "{{lienService}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "service"}
+      - {label: "Lien service", name: "lienService", widget: "string"}
       - {label: "Photo haut de page", name: "photoHaut", widget: image}
       - {label: "Nom du service", name: "nomService", widget: "string"}
       - {label: "Description du service", name: "body", widget: "markdown"}

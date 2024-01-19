@@ -1,5 +1,6 @@
 ---
 templateKey: service
+lienService: "test123"
 photoHaut: "/img/dsc_7791.jpg"
 nomService: "Test service"
 lienComplementaire: "/contact"

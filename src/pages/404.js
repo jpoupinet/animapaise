@@ -3,9 +3,9 @@ import Layout from '../components/Layout'
 
 const NotFoundPage = () => (
   <Layout>
-    <div>
-      <h1>404</h1>
-    </div>
+    <section className='section is-large'>
+      <h1 className="title is-1 has-text-centered">Page introuvable</h1>
+    </section>
   </Layout>
 )
 

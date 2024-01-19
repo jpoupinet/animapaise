@@ -86,10 +86,8 @@ const Navbar = () => {
                     ) {
                       edges {
                         node {
-                          fields {
-                            slug
-                          }
                           frontmatter {
+                            lienService
                             nomService
                           }
                         }
@@ -98,7 +96,7 @@ const Navbar = () => {
                   }
                 `}
                 render={data => data.allMarkdownRemark.edges.map(page => 
-                  <Link className="navbar-item" to={page.node.fields.slug}>
+                  <Link className="navbar-item" to={page.node.frontmatter.lienService}>
                     {page.node.frontmatter.nomService}
                   </Link>
                 )}

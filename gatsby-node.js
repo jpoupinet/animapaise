@@ -17,6 +17,7 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               tags
               templateKey
+              lienService
             }
           }
         }
@@ -32,8 +33,14 @@ exports.createPages = ({ actions, graphql }) => {
 
     posts.forEach((edge) => {
       const id = edge.node.id;
+      let pathPage = edge.node.fields.slug;
+
+      if (edge.node.frontmatter.templateKey === 'service') {
+        pathPage = `/${edge.node.frontmatter.lienService}`;
+      } 
+
       createPage({
-        path: edge.node.fields.slug,
+        path: pathPage,
         tags: edge.node.frontmatter.tags,
         component: path.resolve(
           `src/templates/${String(edge.node.frontmatter.templateKey)}.js`

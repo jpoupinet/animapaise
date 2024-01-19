@@ -9,10 +9,9 @@ const IndexPagePreview = ({ entry }) => {
   if (data) {
     return (
       <IndexPageTemplate
-        mainpitch={data.mainpitch}
-        intro={data.intro}
-        presentations={data.presentations}
-        featuredArticles={data.featuredArticles}
+        services={data.services}
+        certifications={data.certifications}
+        featuredArticles={[]}
       />
     );
   } else {
