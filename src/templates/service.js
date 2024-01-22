@@ -15,6 +15,7 @@ const Service = ({ data }) => {
         content={service.html}
         contentComponent={HTMLContent}
         photoHaut={service.frontmatter.photoHaut}
+        videoHaut={service.frontmatter.videoHaut}
         nomService={service.frontmatter.nomService}
         lienComplementaire={service.frontmatter.lienComplementaire}
         titreLienComplementaire={service.frontmatter.titreLienComplementaire}
@@ -45,6 +46,9 @@ export const pageQuery = graphql`
               placeholder: TRACED_SVG
             )
           }
+        }
+        videoHaut {
+          publicURL
         }
         nomService
         lienComplementaire

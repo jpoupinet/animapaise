@@ -106,7 +106,8 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "service"}
       - {label: "Lien service", name: "lienService", widget: "string"}
-      - {label: "Photo haut de page", name: "photoHaut", widget: image}
+      - {label: "Photo haut de page", name: "photoHaut", widget: image, required: false}
+      - {label: "Vidéo haut de page", name: "videoHaut", widget: "file", required: false}
       - {label: "Nom du service", name: "nomService", widget: "string"}
       - {label: "Description du service", name: "body", widget: "markdown"}
       - {

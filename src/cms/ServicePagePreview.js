@@ -11,6 +11,7 @@ const ServicePagePreview = ({ entry, widgetFor }) => {
       <ServicePageTemplate
         content={widgetFor('body')}
         photoHaut={data.photoHaut}
+        videoHaut={data.videoHaut}
         nomService={data.nomService}
         lienComplementaire={data.lienComplementaire}
         titreLienComplementaire={data.titreLienComplementaire}

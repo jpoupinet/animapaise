@@ -11,6 +11,7 @@ const ServiceTemplate = ({
   content,
   contentComponent,
   photoHaut,
+  videoHaut,
   nomService,
   lienComplementaire,
   titreLienComplementaire,
@@ -29,10 +30,24 @@ const ServiceTemplate = ({
         />
       </Helmet>
 
-      <PreviewCompatibleImage
-        imageInfo={{ alt: '', image: photoHaut }}
-        imageStyle={{ display: 'inline-block', maxHeight: '30rem', width: '100%' }}
-      />
+      {
+        photoHaut &&
+        <PreviewCompatibleImage
+          imageInfo={{ alt: '', image: photoHaut }}
+          imageStyle={{ display: 'inline-block', maxHeight: '30rem', width: '100%' }}
+        />
+      }
+
+      {
+        videoHaut &&
+        <video
+          autoPlay muted loop playsInline
+          style={{ maxHeight: '30rem', width: '100%', objectFit: 'cover' }}
+        >
+          <source src={videoHaut.publicURL} type="video/mp4" />
+          Votre navigateur web est incompatible avec la vidéo.
+        </video>
+      }
 
       <section className="section">
         <div className="container">
