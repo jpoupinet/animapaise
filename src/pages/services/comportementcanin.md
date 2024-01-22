@@ -41,24 +41,25 @@ imagesBasDePage:
 ---
 Le quotidien avec son chien peut-être un long fleuve tranquille comme un **chemin semé d'embûches**. Dans certaines situations vous pouvez alors vous sentir **dépassés** et ne plus savoir quoi mettre en place pour **aider votre animal** ou rendre votre **quotidien plus apaisé**.
 
-C'est pourquoi, si votre chien a des **comportements indésirables** tels que :
+C'est pourquoi, si votre chien a des **comportements indésirables**En tant que spécialiste en comportements dits réactifs, agressifs et phobique, je peux vous accompagner autour des problématiques suivante avec votre/vos chien(s) :
 
-* Réactivité et agressivité sur les congénères ou les autres animaux
-* Réactivité et agressivité sur les humains en général, les enfants, les coureurs, les vélos ou les voitures
-* Prédation sur certains animaux, les vélos, les coureurs ou les voitures
-* Destructions ou vocalisations lors de vos absences
-* Sauts sur les invités ou les gens dans la rue
-* Anxiété en général, phobies, TOC etc...
+* Comportements réactifs, agressifs et phobiques rencontres ou de croisements de congénères
+* Comportements réactifs, agressifs et phobiques lors de de croisements et rencontres d'humains, vélos, joggeur etc. en extérieur 
+* Gestion et protection de ressources entre chiens du même foyer ou envers les humains du foyer
+* Comportements problématiques lors d'arrivées d'invités au domicile
+* Peur des bruits au quotidien
+* Mésentente et conflits dans un foyer multi-chiens
+* E﻿t plein d'autres situations provoquant des comportements envers l'environnement que vous n'arrivez pas à comprendre chez votre chien
 
 Je peux vous accompagner pour que vous puissiez **comprendre l'origine** de ces comportements et vous aider à **les modifier** afin que vous retrouviez une vie plus sereine à ses côtés.
 
-Mon accompagnement auprès de vous démarre par un ***bilan comportemental*** qui me permet de faire le point avec vous sur l'histoire de votre chien, votre histoire commune, son cadre de vie, vos habitudes communes, l'origine de l'apparition du/des comportement(s) indésirable(s) etc. Puis nous élaborerons ensemble des solutions à mettre en place pour aider à modifier ce(s) comportement(s).
+Mon accompagnement auprès de vous démarre par un ***bilan comportemental*** qui me permet de faire le point avec vous sur l'histoire de votre chien, votre histoire commune, son cadre de vie, vos habitudes communes, l'origine de l'apparition du/des comportement(s) réactif(s), agressif(s) et/ou phobique(s) etc. Puis nous élaborerons ensemble des solutions à mettre en place pour aider à modifier ce(s) comportement(s).
 
-Selon vos besoins exprimés mais aussi ma propre évaluation de la situation, nous pourrons continuer le travail lors de ***séances de suivi*** permettant la mise en pratique de certains exercices, l'approfondissement de certains apprentissages mis en place, l'ajustement des outils/exercices proposés si nécessaire etc.
+Selon vos besoins exprimés mais aussi ma propre évaluation de la situation, nous pourrons continuer le travail lors de ***séances de suivi*** permettant la mise en pratique de certains exercices, l'approfondissement de certains apprentissages mis en place et surtout des **mises en situation** par le biais d'un travail en **environnement contrôlé** au départ pour avancer sereinement en respectant la zone de confort de votre chien. 
 
-Cet accompagnement peut avoir lieu en **visio** en fonction de plusieurs critères, notamment :
+Le bilan, et potentiellement l'accompagnement, peut avoir lieu en **visio** ou **sur mon terrain** en fonction de plusieurs critères, notamment : 
 
-* La distance ne permettant pas que je me déplace chez vous
-* La problématique que vous rencontrez avec votre chien rendant ma présence physique contre-productive (agressivité sur les humains par exemple)
+* La distance ne permet pas que je me déplace jusqu'à chez vous 
+* La problématique que vous rencontrez avec votre chien rend ma présence physique contre-productive (agressivité sur les humains par exemple)
 
-En parallèle de l'accompagnement amorcé autour de la modification de comportements indésirables il sera possible d'initier votre duo à une **activité canine** afin de découvrir votre compagnon sous un nouvel angle, renforcer votre relation et enrichir son quotidien. Les bienfaits de ces activités viendront contribuer au travail en cours.
+En parallèle de l'accompagnement amorcé autour de la modification de comportements indésirables il sera possible d'initier votre duo à une **activité canine** afin de découvrir votre compagnon sous un nouvel angle, renforcer votre relation et enrichir son quotidien. Les bienfaits de ces activités viendront contribuer au travail en cours. Il sera également possible de cumuler cet accompagnement avec des séances en **soins coopératifs** pour une sérénité sur tous les plans du quotidien de votre chien et vous.
