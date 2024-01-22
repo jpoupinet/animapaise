@@ -67,12 +67,12 @@ services:
     titreLien: Pour en savoir plus
     ordre: 5
 certifications:
-  - image: /img/love.png
+  - image: /img/sca-19.png
     lien: https://www.google.com
-  - image: /img/pet-house.png
+  - image: /img/animho-logo-noir.png
     lien: https://www.google.com
-  - image: /img/training.png
+  - image: /img/tampon_mentorat-removebg-preview.png
     lien: https://www.google.com
-  - image: /img/cat.png
+  - image: /img/ff-certified-professional-logo.png
     lien: https://www.google.com
 ---
