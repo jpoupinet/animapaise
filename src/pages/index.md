@@ -28,19 +28,44 @@ services:
     lien: activites/oberythmee
     titreLien: Pour en savoir plus
     ordre: 2
-  - photo: /img/dsc_2001.jpg
-    titre: Médiation par l'animal
-    description: >
-      Le medical-training, et plus précisément : **les soins coopératifs**, est
-      une approche qui a pour objectif d'apprendre à son animal à **accepter les
-      manipulations** et de pouvoir le **soigner** avec son **consentement**.
-      Cette pratique est basée sur le principe de **l'empowerment**, avec la
-      **notion de choix** pour l'animal. Cette approche permet également
-      d'amorcer une nouvelle manière de ***communiquer*** avec eux et de
-      développer la ***relation de confiance*** qu'ils nous accordent.
+  - lien: ""
+    titreLien: Pour en savoir plus
+    titre: Accompagnement à l'adoption d'un chien des rues
+    photo: /img/dsc_8714.jpg
+    description: L'adoption d'un chien ou d'un chiot est un chamboulement, cela peut
+      l'être encore plus quand il s'agit d'un **chien venant de Roumanie,
+      Guadeloupe, Serbie etc**. En bref, un chien étant **né ou ayant vécu dans
+      la rue**. Je vous accompagne pour mieux appréhender **son arrivée et son
+      adaptation** dans cette nouvelle vie, dans ce nouvel environnement, mieux
+      comprendre ses réactions et les gérer au quotidien. Cela afin de trouver
+      le **meilleur équilibre pour cette belle aventure** qui démarre !
+    ordre: 3
+  - lien: ""
+    titreLien: Pour en savoir plus
+    photo: /img/2022-08-04_02-15-32.jpg
+    titre: Pratiquer des sports canins de loisir
+    description: Selon la problématique, **mon approche peut intégrer l'utilisation
+      des sports canins comme un outil à la modification de ce comportement**,
+      afin de revaloriser votre chien et/ou l'équipe que vous formez avec lui.
+      Ces sports canins peuvent également être pratiqués **en loisir, juste pour
+      le plaisir** de partager une activité ludique avec son chien. Les sports
+      proposés pour cela sont **l'agility, le hoopers ou encore le dog-dancing,
+      en individuel et/ou en collectif**, de quoi correspondre à de nombreux
+      profils de chiens.
+    ordre: 4
+  - photo: /img/dsc_7527.jpg
+    titre: Interventions collectives et individuelles en médiation animale
+    description: >-
+      Travailleuse sociale de formation et **intervenante en médiation
+      animale**, je propose aux **particuliers** comme aux **structures du
+      médico-social et du social** des ateliers de médiation par l'animal 
+
+      **en individuel comme en collectif**. 
+
+      Les ateliers ont lieu **sur le terrain d'Anim'Apaise** avec **les chiens et/ou les poneys** en fonction du public et des objectifs ciblés.
     lien: mediation/prestations-ma
     titreLien: Pour en savoir plus
-    ordre: 3
+    ordre: 5
 certifications:
   - image: /img/love.png
     lien: https://www.google.com
