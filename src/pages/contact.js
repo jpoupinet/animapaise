@@ -30,7 +30,7 @@ const ContactPage = () => {
                 d'agression, l'initiation à un sport canin, l'arrivée d'un chien des rues ou si vous 
                 êtes une structure ou un particulier souhaitant mettre en place un programme de 
                 médiation animal, n'hésitez pas à me contacter aux coordonnées ci-dessous ou en 
-                remplissant le formulaire de contact en précisant votre demande..
+                remplissant le formulaire de contact en précisant votre demande.
               </p>
               <p className="block">
                 Anim'Apaise est localisé sur Orvault, au Nord de Nantes, avec des ateliers ou cours 
