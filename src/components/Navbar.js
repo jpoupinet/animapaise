@@ -95,8 +95,12 @@ const Navbar = () => {
                     }
                   }
                 `}
-                render={data => data.allMarkdownRemark.edges.map(page => 
-                  <Link className="navbar-item" to={`/${page.node.frontmatter.lienService}`}>
+                render={data => data.allMarkdownRemark.edges.map((page, i) => 
+                  <Link
+                    className="navbar-item"
+                    to={`/${page.node.frontmatter.lienService}`}
+                    key={`lienNavbarPage${i}`}
+                  >
                     {page.node.frontmatter.nomService}
                   </Link>
                 )}
