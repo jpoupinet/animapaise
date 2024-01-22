@@ -15,8 +15,8 @@ services:
     titreLien: Pour en savoir plus
     ordre: 1
   - photo: /img/44487428284_b6f0d2ab2e_c.jpg
-    titre: Comportementaliste canin spécialisée en comportements réactifs, agressifs
-      et phobiques
+    titre: Consultante en comportement canin spécialisée en comportements réactifs,
+      agressifs et phobiques
     description: Je peux vous accompagner dans la **modification de comportements
       réactifs, agressifs** **et/ou phobiques** de votre chien afin de mieux les
       comprendre, mieux les appréhender et retrouver une **vie plus apaisée**.
