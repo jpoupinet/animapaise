@@ -98,12 +98,13 @@ const IndexPageTemplate = ({
       <section className="section">
         <div className="hero-body container is-flex is-justify-content-center is-flex-wrap-wrap">
           {
-            certifications.map(certif =>
+            certifications.map((certif, i) =>
               <Link
                 to={certif.lien}
                 target="_blank"
                 rel="noreferrer"
                 className="is-inline-block mx-5 my-4"
+                key={`certif${i}`}
               >
                 <PreviewCompatibleImage
                   imageInfo={{ image: certif.image }}
@@ -145,7 +146,7 @@ const IndexPageTemplate = ({
 IndexPageTemplate.propTypes = {
   services: PropTypes.array,
   cerifications: PropTypes.array,
-  featuredArticles: PropTypes.object,
+  featuredArticles: PropTypes.array,
 };
 
 export default IndexPageTemplate;

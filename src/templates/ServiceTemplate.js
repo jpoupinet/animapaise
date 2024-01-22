@@ -75,22 +75,24 @@ const ServiceTemplate = ({
       </section>
 
       <section
-        className='section container is-flex is-justify-content-space-around is-flex-wrap-wrap'
+        className='section px-6 is-flex is-justify-content-center is-flex-wrap-wrap'
       >
         {
           tarifs.map((tarif, i) => (
             <div
-              className='p-6 mb-3 has-background-light'
-              style={{ width: 'fit-content' }}
+              className='tarif p-6 mb-3 has-background-light'
+              style={{ width: 'fit-content', maxWidth: '30rem' }}
               key={`tarif${i}`}
             >
               <h4 className='title has-text-centered is-4'>{tarif.titre}</h4>
               <h5 className='title has-text-centered is-5'>{tarif.sousTitre}</h5>
 
-              <PreviewCompatibleImage
-                imageInfo={{ alt: '', image: tarif.image }}
-              />
-
+              <div className="has-text-centered">
+                <PreviewCompatibleImage
+                  imageInfo={{ alt: '', image: tarif.image }}
+                />
+              </div>
+              
               <p className='mt-3 has-text-weight-bold'>{tarif.dureePrix}</p>
 
               <ReactMarkdown className='my-5'>{tarif.description}</ReactMarkdown>
