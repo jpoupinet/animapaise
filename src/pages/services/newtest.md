@@ -1,7 +1,7 @@
 ---
 templateKey: service
 lienService: newtest
-videoHaut: /videos/dogs.mp4
+videoHaut: /img/dogs.mp4
 nomService: New teeeest
 lienComplementaire: ""
 titreLienComplementaire: ""
