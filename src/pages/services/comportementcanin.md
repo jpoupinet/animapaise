@@ -5,6 +5,13 @@ photoHaut: /img/47062837662_c417156e85_o.jpg
 nomService: Comportement canin - Réactivité, agression et peur
 lienComplementaire: ""
 titreLienComplementaire: Plus d'informations concernant les sports canins
+imagesBasDePage:
+  - image: /img/dsc_0556.jpg
+    survolImage: Photo d'Anim'Apaise
+  - image: /img/40581763160_10ee50e275_k.jpg
+    survolImage: Photo d'Anim'Apaise
+  - survolImage: Photo d'Anim'Apaise
+    image: /img/dsc_5939.jpg
 ---
 Le quotidien avec son chien peut-être un long fleuve tranquille comme un **chemin semé d'embûches**. Dans certaines situations vous pouvez alors vous sentir **dépassés** et ne plus savoir quoi mettre en place pour **aider votre animal** ou rendre votre **quotidien plus apaisé**.
 
