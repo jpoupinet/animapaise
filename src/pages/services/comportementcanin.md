@@ -5,6 +5,12 @@ photoHaut: /img/47062837662_c417156e85_o.jpg
 nomService: Comportement canin - Réactivité, agression et peur
 lienComplementaire: ""
 titreLienComplementaire: Plus d'informations concernant les sports canins
+tarifsService:
+  - titre: Bilan comportemental
+    sousTitre: Le moment de l'évaluation
+    image: /img/design_sans_titre__3_-removebg-preview.png
+    dureePrix: 2h / 2h30 - 95€
+    description: L﻿e bilan est un rendez-vous
 imagesBasDePage:
   - image: /img/dsc_0556.jpg
     survolImage: Photo d'Anim'Apaise
