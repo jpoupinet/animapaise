@@ -47,6 +47,7 @@ export const pageQuery = graphql`
               width: 2500
               quality: 64
               placeholder: TRACED_SVG
+              layout: FULL_WIDTH
             )
           }
         }

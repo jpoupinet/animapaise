@@ -43,6 +43,7 @@ export const pageQuery = graphql`
                 width: 2350
                 height: 1000
                 quality: 64
+                layout: FULL_WIDTH
               )
             }
           }

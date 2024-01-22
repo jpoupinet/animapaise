@@ -30,7 +30,7 @@ const ArticleTemplate = ({
       </Helmet>
       <PreviewCompatibleImage
         imageInfo={{ alt: '', image }}
-        imageStyle={{ display: 'inline-block', maxHeight: '20em', width: '100%' }}
+        imageStyle={{ display: 'inline-block', maxHeight: '30rem', width: '100%' }}
       />
       <section className="section">
         <div className="container">
