@@ -50,7 +50,6 @@ export const pageQuery = graphql`
           description
           lien
           titreLien
-          ordre
         }
         certifications {
           image {
