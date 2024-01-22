@@ -2,7 +2,7 @@
 templateKey: service
 lienService: comportementcanin
 photoHaut: /img/47062837662_c417156e85_o.jpg
-nomService: Comportement canin - Réactivité, agression et peur
+nomService: Comportement canin - Réactivité, agression et peurs
 lienComplementaire: ""
 titreLienComplementaire: Plus d'informations concernant les sports canins
 tarifsService:
@@ -11,6 +11,26 @@ tarifsService:
     image: /img/design_sans_titre__3_-removebg-preview.png
     dureePrix: 2h / 2h30 - 95€
     description: L﻿e bilan est un rendez-vous
+  - titre: Séances de suivi
+    sousTitre: Pour développer de nouvelles compétences
+    image: /img/design_sans_titre__4_-removebg-preview.png
+    dureePrix: 45min/1h - 50€
+    description: C﻿es séances permettront
+  - titre: Les forfaits 100% comportement
+    sousTitre: Pour avancer en étant accompagnés
+    image: /img/design_sans_titre__5_-removebg-preview.png
+    dureePrix: Entre 140€ et 550€
+    description: A﻿fin de
+  - titre: Du comportement et des sports canins
+    sousTitre: Pour progresser sans oublier de s'amuser
+    dureePrix: Entre 250€ et 385€
+    description: Les sports canins
+    image: /img/design_sans_titre__17_-removebg-preview.png
+  - titre: Du comportement et de l'entraînement aux soins
+    sousTitre: Pour se sentir bien dans tout le quotidien
+    image: /img/design_sans_titre__18_-removebg-preview.png
+    dureePrix: Entre 300€ et 380€
+    description: C﻿onstruire un apaisement global, même lors des soins,
 imagesBasDePage:
   - image: /img/dsc_0556.jpg
     survolImage: Photo d'Anim'Apaise
