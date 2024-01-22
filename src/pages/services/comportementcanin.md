@@ -32,7 +32,7 @@ tarifsService:
     dureePrix: Entre 300€ et 380€
     description: C﻿onstruire un apaisement global, même lors des soins,
 imagesBasDePage:
-  - image: /img/dsc_0556.jpg
+  - image: /img/dsc_7419.jpg
     survolImage: Photo d'Anim'Apaise
   - image: /img/40581763160_10ee50e275_k.jpg
     survolImage: Photo d'Anim'Apaise
