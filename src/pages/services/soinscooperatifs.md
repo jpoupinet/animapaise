@@ -55,7 +55,7 @@ imagesBasDePage:
   - image: /img/51287600040_fa3d2f3f99_k.jpg
     survolImage: Photo d'Anim'Apaise
   - survolImage: Photo d'Anim'Apaise
-    image: /img/dsc_2136.jpg
+    image: /img/dsc_2158.jpg
   - survolImage: Photo d'Anim'Apaise
     image: /img/dsc_1902.jpg
 ---
