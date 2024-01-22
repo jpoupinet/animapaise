@@ -64,7 +64,7 @@ const IndexPageTemplate = ({
                 paddingBottom: `${width >= 768 ? '7rem' : '3rem'}`
               }}
             >
-              <ReactMarkdown>{serv.description}</ReactMarkdown>
+              <ReactMarkdown className="markdown">{serv.description}</ReactMarkdown>
             </section>
           </div>
         )}

@@ -95,7 +95,9 @@ const ServiceTemplate = ({
               
               <p className='mt-3 has-text-centered has-text-weight-bold'>{tarif.dureePrix}</p>
 
-              <ReactMarkdown className='my-5'>{tarif.description}</ReactMarkdown>
+              <ReactMarkdown className='markdown my-5'>
+                {tarif.description}
+              </ReactMarkdown>
             </div>
           ))
         }
