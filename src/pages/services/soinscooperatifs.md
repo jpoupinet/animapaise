@@ -4,7 +4,7 @@ lienService: soinscooperatifs
 photoHaut: /img/dsc_7353.jpg
 nomService: Soins coopératifs animaliers
 lienComplementaire: https://danse-avec-ton-chien.fr/produit/precommande-du-livre-entrainer-son-chien-aux-soins-du-quotidien/
-titreLienComplementaire: Cliquez ici pour acheter mon livre "Entraîner son chien aux soins quotidiens"
+titreLienComplementaire: Cliquez ici pour découvrir mon livre "Entraîner son chien aux soins quotidiens"
 tarifsService:
   - titre: Bilan en soins coopératifs
     sousTitre: C'est parti pour l'aventure
