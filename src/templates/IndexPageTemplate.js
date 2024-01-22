@@ -30,7 +30,7 @@ const IndexPageTemplate = ({
   return (
     <div>
       <section className="services">
-        {services.map((serv, i) =>
+        {services.sort((a, b) => a.ordre - b.ordre).map((serv, i) =>
           <div key={`service${i}`}>
             <PreviewCompatibleBgImage
               bgImageClass="hero is-large"

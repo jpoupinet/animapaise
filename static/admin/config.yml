@@ -24,6 +24,7 @@ collections:
               {label: Description, name: description, widget: markdown},
               {label: Lien, name: lien, widget: string, required: false, default: ''},
               {label: Titre du lien, name: titreLien, widget: string, required: false, default: ''},
+              {label: "Ordre d'affichage", name: ordre, widget: number, valueType: int, min: 1}
             ]
           }
           - {
