@@ -10,12 +10,12 @@ tarifsService:
     sousTitre: Pour que tout soit prêt avant son arrivée
     dureePrix: 2h30 - 135€
     description: >-
-      C﻿et accompagnement démarre par un bilan pré-adoption d'environ 1h lors
+      C﻿et accompagnement démarre par un bilan pré-adoption d'environ 1h30 lors
       duquel nous pourrons préparer l'arrivée de votre nouveau compagnon de vie
       afin de ne rien rater le jour J.
 
 
-      P﻿uis nous nous reverrons quelques jours après son arrivée sur un bilan d'1h30 environ pour cibler les axes d'aménagements ou de travail adapté au tempérament du loulou.
+      P﻿uis nous nous reverrons quelques jours après son arrivée sur un bilan d'1h environ pour cibler les axes d'aménagements ou de travail adapté au tempérament du loulou.
 
 
       C﻿et accompagnement peut avoir lieu en présentiel comme en visio si la distance ne permet pas de se rencontrer physiquement.
@@ -48,6 +48,12 @@ imagesBasDePage:
   - image: /img/dsc_9123.jpg
     survolImage: Photo d'AnimApaise
 ---
-L﻿e chien des rues, qui est-il ? Ce sont bien souvent des chiens sauvés par des associations en Roumanie, Guadeloupe, Réunion, Croatie etc., qui ont été retrouvés chiots ou adultes dans la rue, ou alors négligés chez des personnes de ces différents pays. 
+L﻿e chien des rues, qui est-il ? Ce sont bien souvent des **chiens sauvés par des associations** en Roumanie, Guadeloupe, Réunion, Croatie etc., qui ont été **retrouvés chiots ou adultes dans la rue**, ou alors négligés chez des personnes de ces différents pays. 
 
-C﻿es chiens sont proposés à l'adoption grâce à ces différentes associations et sont rapatriés de manière régulières en France dans leur nouvelle famille. Et c'est à ce moment là que j'interviens !
+C﻿es chiens sont proposés à l'adoption grâce à ces différentes associations et sont **rapatriés** de manière régulières en France dans leur nouvelle famille. **Et c'est à ce moment là que j'interviens !**
+
+S﻿i vous souhaitez être accompagnés dans la **préparation de l'arrivée** de ces petits chiens, mieux **comprendre leurs particularités**, **anticiper les problématiques** pouvant être rencontrées, **aménager l'environnement** pour faciliter leur adaptation etc. Nous pouvons nous rencontrer **en amont du rapatriement** de ce nouvel arrivant pour que tout cela se passe au mieux, puis nous revoir **une fois qu'il a atterri dans votre domicile** afin d'adapter les aménagements et le potentiel travail à réaliser en fonction de ses difficultés ou facilités individuelles.
+
+I﻿l est également possible de se rencontrer seulement **après son arrivée** et de vous accompagner dans son adaptation et dans les difficultés pouvant être rencontrées les premiers jours, semaines voire mois.
+
+N﻿ous verrons ensuite ensemble si des **séances de suivi régulières** sont nécessaires le temps de trouver un équilibre dans cette nouvelle vie.
