@@ -68,11 +68,11 @@ services:
     ordre: 5
 certifications:
   - image: /img/sca-19.png
-    lien: https://www.google.com
+    lien: ""
   - image: /img/animho-logo-noir.png
-    lien: https://www.google.com
+    lien: ""
   - image: /img/tampon_mentorat-removebg-preview.png
-    lien: https://www.google.com
+    lien: ""
   - image: /img/ff-certified-professional-logo.png
     lien: https://www.google.com
 ---
