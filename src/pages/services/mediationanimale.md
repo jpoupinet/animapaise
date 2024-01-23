@@ -8,14 +8,28 @@ titreLienComplementaire: ""
 tarifsService:
   - titre: Ateliers individuels
     sousTitre: Pour un moment privilégié
-    dureePrix: 30/45min - 35€
-    description: d
+    dureePrix: Sur devis
+    description: >-
+      Ces séances s'adressent à 1 personne et durent entre 30min et 1h. Elles
+      ont lieu sur le terrain d'Anim'Apaise. 
+
+
+      Ces séances se baseront sur des objectifs individualisés avec une visée préventive et thérapeutique. On parle aussi de Programme de Médiation Assistée par l’Animale ; les séances seront régulières et basées sur un plan d'intervention établi avec l'équipe des professionnels et/ou les familles.
     image: /img/design_sans_titre__15_-removebg-preview.png
   - titre: Ateliers collectifs
     sousTitre: Pour un moment partagé
     image: /img/design_sans_titre__16_-removebg-preview.png
-    dureePrix: d
-    description: d
+    dureePrix: Sur devis
+    description: >-
+      Les séances collectives ont une durée variant entre 1h et 1h30 selon le
+      nombre de bénéficiaires et le type de séance. Elle ont lieu sur le terrain
+      d'Anim'Apaise.
+
+
+      Ces séances se baseront sur des objectifs communs aux bénéficiaire concernés avec une visée préventive et thérapeutique. Elles peuvent également être récréatives, sous forme d'animation auprès des bénéficiaires.
+
+
+      Dans le cadre d'interventions à visée préventive et thérapeutique qu'on peut également appeler un Programme de Médiation Assistée par l’Animale les séances seront régulières et basées sur un plan d'intervention établi avec l'équipe des professionnels. Elles s'adressent à des groupes de 6 bénéficiaires maximum.
 imagesBasDePage:
   - image: /img/dsc_7487.jpg
     survolImage: Photo d'AnimApaise
