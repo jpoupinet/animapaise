@@ -1,6 +1,7 @@
 ---
 templateKey: service
 lienService: sportscanins
+ordre: 4
 photoHaut: ""
 videoHaut: /img/vidéo-sans-titre-‐-réalisée-avec-clipchamp-2-.mp4
 nomService: Sports canins de loisir
@@ -76,7 +77,6 @@ imagesBasDePage:
     survolImage: Photo d'Anim'Apaise
   - image: /img/51285958185_2965a1d766_k.jpg
     survolImage: Photo d'Amandine Ricou
-ordre: 6
 ---
 Il existe bien des sports et activités à partager avec son chien pour renforcer la relation qu'on entretient avec lui, le **dépenser mentalement et physiquement**. Il existe plein d'apprentissages à mettre en place pour le **valoriser**, lui offrir des **espaces de choix**, lui permettre d'être **acteur** dans tout ce travail.
 
