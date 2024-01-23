@@ -7,13 +7,22 @@ lienComplementaire: ""
 titreLienComplementaire: ""
 tarifsService:
   - titre: Ateliers individuels
-    sousTitre: d
-    dureePrix: d
+    sousTitre: Pour un moment privilégié
+    dureePrix: 30/45min - 35€
     description: d
     image: /img/design_sans_titre__15_-removebg-preview.png
+  - titre: Ateliers collectifs
+    sousTitre: Pour un moment partagé
+    image: /img/design_sans_titre__16_-removebg-preview.png
+    dureePrix: d
+    description: d
 imagesBasDePage:
+  - image: /img/dsc_7487.jpg
+    survolImage: Photo d'AnimApaise
   - image: /img/51191801401_a3fd1564e2_c.jpg
     survolImage: Photo d'Anim'Apaise
+  - image: /img/dsc_7540.jpg
+    survolImage: Photo d'AnimApaise
 ---
 La médiation animale est une approche à **visée thérapeutique, préventive ou récréative** favorisant le bien-être d’un bénéficiaire par le lien avec l’animal.\
 \
