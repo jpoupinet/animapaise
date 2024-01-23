@@ -35,7 +35,7 @@ tarifsService:
       C﻿e bilan peut se faire en présentiel comme en visio si la distance ne permet pas de se rencontrer physiquement.
   - titre: Séances de suivi
     sousTitre: Pour découvrir sereinement cette nouvelle vie
-    image: /img/design-sans-titre-13-.png
+    image: /img/design_sans_titre__13_-removebg-preview-1-.png
     dureePrix: 45min - 40€
     description: >-
       A﻿près avoir ait le bilan, je vous accompagne dans la mise en place
