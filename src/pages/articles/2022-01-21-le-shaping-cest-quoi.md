@@ -29,7 +29,7 @@ Oui et non.
 Le **conditionnement dit classique** a été formalisé grâce au Docteur **Ivan Pavlov** qui a mené des investigations précises à ce sujet. C’est un processus par lequel un individu va associer une réponse déjà “programmée”, qui est normalement déclenchée par un stimulus “conditionné”, à un autre stimulus ajouté. Pavlov a expérimenté ce concept en associant le bruit d’une cloche à l’arrivée du repas d’un chien. Les données de départ sont : le réflexe salivaire du chien à la vue de son repas, ainsi que sa non réaction au bruit de la cloche. Ensuite, introduction du bruit de la cloche juste avant la délivrance du repas du chien. La finalité de l’expérience: le seul bruit de la cloche déclenche le réflexe salivaire du chien.
 Le “clic” associé au **clicker** correspond à ce type de conditionnement. 
 
-![](/img/coupe-griffe-beli.jpg)
+![](/img/coupe-griffe-beli.jpg "Visuel de Lili Chin")
 
 Le processus d’apprentissage fera également intervenir le **conditionnement opérant de Skinner** (Burrhus Frederic Skinner, psychologue) qui permet l’introduction d’autres facteurs liés notamment à l’environnement. Contrairement au conditionnement classique, l’animal va déclencher par lui-même le circuit de récompense en actionnant un levier-réponse permettant la délivrance de la récompense alimentaire. 
 
