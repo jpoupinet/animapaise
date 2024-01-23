@@ -112,7 +112,7 @@ imagesBasDePage:
 ---
 Le quotidien avec son chien peut-être un long fleuve tranquille comme un **chemin semé d'embûches**. Dans certaines situations vous pouvez alors vous sentir **dépassés** et ne plus savoir quoi mettre en place pour **aider votre animal** ou rendre votre **quotidien plus apaisé**.
 
-C'est pourquoi, si votre chien a des **comportements indésirables, e**En tant que **spécialiste en comportements dits réactifs, agressifs et phobique**, je peux vous accompagner autour des problématiques suivantes pouvant être rencontrées par votre/vos chien(s) :
+C'est pourquoi, si votre chien a des **comportements indésirables,** en tant que **spécialiste en comportements dits réactifs, agressifs et phobique**, je peux vous accompagner autour des problématiques suivantes pouvant être rencontrées par votre/vos chien(s) :
 
 * Comportements réactifs, agressifs et phobiques rencontres ou de croisements de congénères
 * Comportements réactifs, agressifs et phobiques lors de de croisements et rencontres d'humains, vélos, joggeur etc. en extérieur 
