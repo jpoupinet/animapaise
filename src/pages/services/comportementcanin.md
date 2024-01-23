@@ -14,7 +14,7 @@ tarifsService:
   - titre: Séances de suivi
     sousTitre: Pour développer de nouvelles compétences
     image: /img/design_sans_titre__4_-removebg-preview.png
-    dureePrix: 45min/1h - 50€
+    dureePrix: 45min / 1h - 50€
     description: C﻿es séances permettront
   - titre: Les forfaits 100% comportement
     sousTitre: Pour avancer en étant accompagnés
