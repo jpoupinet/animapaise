@@ -74,5 +74,5 @@ certifications:
   - image: /img/tampon_mentorat-removebg-preview.png
     lien: ""
   - image: /img/ff-certified-professional-logo.png
-    lien: https://www.google.com
+    lien: ""
 ---
