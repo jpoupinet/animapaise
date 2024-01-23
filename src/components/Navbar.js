@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'gatsby';
+import { StaticQuery, graphql, Link } from 'gatsby';
 import logo from '../../static/img/logo.svg';
 import logoTexte from '../../static/img/logo-texte.svg';
 
@@ -14,14 +14,13 @@ const Navbar = () => {
   useEffect(() => {
     active ? setNavbarActiveClass('is-active') : setNavbarActiveClass('');
   }, [active]);
-
+  
   return (
     <nav
       className="navbar is-primary"
       role="navigation"
       aria-label="navigation"
     >
-      {/* <div className="container"> */}
       <div className="navbar-brand">
         <Link to="/" className="navbar-item" title="Accueil">
           <img
@@ -73,53 +72,51 @@ const Navbar = () => {
         className={`navbar-menu ${navbarActiveClass}`}
       >
         <div className="navbar-start has-text-centered ml-3">
-          <div className="navbar-item has-dropdown is-hoverable">
-            <Link className="navbar-link is-arrowless" to="/mediation">MÉDIATION ANIMALE</Link>
-            <div className="navbar-dropdown">
-              <Link className="navbar-item" to="/mediation/collegues">
-                Mes collègues à quatre pattes
-              </Link>
-              <Link className="navbar-item" to="/mediation/prestations-ma">
-                Nos prestations et ateliers
-              </Link>
-              <Link className="navbar-item" to="/mediation/peccram">
-                Programme PECCRAM
-              </Link>
-            </div>
-          </div>
-          <Link className="navbar-item" to="/comportement">
-            COMPORTEMENT CANIN
-          </Link>
-          <div className="navbar-item has-dropdown is-hoverable">
-            <Link className="navbar-link is-arrowless" to="/activites">
-              ACTIVITÉS ET SPORTS CANINS
-            </Link>
-            <div className="navbar-dropdown">
-              <Link className="navbar-item" to="/activites/oberythmee">
-                Obérythmée
-              </Link>
-              <Link className="navbar-item" to="/activites/agility">
-                Agility loisir
-              </Link>
-              <Link className="navbar-item" to="/activites/hoopers">
-                Hoopers
-              </Link>
-              <Link className="navbar-item" to="/activites/medical-training">
-                Medical-training
-              </Link>
-              <Link className="navbar-item" to="/activites/shaping">
-                Shaping
-              </Link>
-            </div>
-          </div>
           <Link className="navbar-item" to="/a-propos">
             À PROPOS
           </Link>
-          <Link className="navbar-item" to="/articles">
-            ARTICLES
-          </Link>
+          <div className="navbar-item has-dropdown is-hoverable">
+            <span className="navbar-link is-arrowless">SERVICES</span>
+            <div className="navbar-dropdown">
+              <StaticQuery
+                query={graphql`
+                  query {
+                    allMarkdownRemark(
+                      filter: {frontmatter: {templateKey: {eq: "service"}}}
+                    ) {
+                      edges {
+                        node {
+                          frontmatter {
+                            lienService
+                            nomService
+                            ordre
+                          }
+                        }
+                      }
+                    }
+                  }
+                `}
+                render={data =>
+                  data.allMarkdownRemark.edges
+                    .sort((a, b) => a.node.frontmatter.ordre - b.node.frontmatter.ordre)
+                    .map((page, i) => 
+                      <Link
+                        className="navbar-item"
+                        to={`/${page.node.frontmatter.lienService}`}
+                        key={`lienNavbarPage${i}`}
+                      >
+                        {page.node.frontmatter.nomService}
+                      </Link>
+                    )
+                }
+              />
+            </div>
+          </div>
           <Link className="navbar-item" to="/contact">
             CONTACT
+          </Link>
+          <Link className="navbar-item" to="/articles">
+            ARTICLES
           </Link>
         </div>
       </div>

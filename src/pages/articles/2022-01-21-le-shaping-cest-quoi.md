@@ -29,11 +29,9 @@ Oui et non.
 Le **conditionnement dit classique** a été formalisé grâce au Docteur **Ivan Pavlov** qui a mené des investigations précises à ce sujet. C’est un processus par lequel un individu va associer une réponse déjà “programmée”, qui est normalement déclenchée par un stimulus “conditionné”, à un autre stimulus ajouté. Pavlov a expérimenté ce concept en associant le bruit d’une cloche à l’arrivée du repas d’un chien. Les données de départ sont : le réflexe salivaire du chien à la vue de son repas, ainsi que sa non réaction au bruit de la cloche. Ensuite, introduction du bruit de la cloche juste avant la délivrance du repas du chien. La finalité de l’expérience: le seul bruit de la cloche déclenche le réflexe salivaire du chien.
 Le “clic” associé au **clicker** correspond à ce type de conditionnement. 
 
-![BELI Coupe griffe désensibilisation](https://beli.ca/wp-content/uploads/2018/03/coupe-griffe-BELI.jpg)
+![](/img/coupe-griffe-beli.jpg "Visuel de Lili Chin")
 
 Le processus d’apprentissage fera également intervenir le **conditionnement opérant de Skinner** (Burrhus Frederic Skinner, psychologue) qui permet l’introduction d’autres facteurs liés notamment à l’environnement. Contrairement au conditionnement classique, l’animal va déclencher par lui-même le circuit de récompense en actionnant un levier-réponse permettant la délivrance de la récompense alimentaire. 
-
-![Apprentissage canin : éducation par la motivation et le conditionnement |  DEFI-Écologique : le blog](https://blog.defi-ecologique.com/wp-content/uploads/schema-d-une-boite-de-skinner.jpg)
 
 > Pour comparer plus succinctement les deux processus : avec le conditionnement pavlovien, le renforcement sera déclenché par l’expérimentateur ; avec le conditionnement skinnerien elle dépend de la réponse du sujet. On peut donc remarquer que dans le processus d’apprentissage au shaping (ou d’autres méthodes), on retrouve un mix de ces deux types de conditionnement. 
 
@@ -52,20 +50,18 @@ A contrario, la **punition positive** (P+) annihilerait la capacité de prise de
 Il existe également dans l’éducation le **renforcement négatif** (R-) qui correspond au fait d’enlever un stimulus désagréable, aversif pour obtenir un comportement attendu (par exemple, demander au chien à s’asseoir en venant mettre une pression sur l’arrière main du chien et répondre à la bonne réponse par le retrait de la pression).
 Et enfin il y a la **punition négative** (P-) correspond au fait de retirer un stimulus agréable pour le chien en réponse à un comportement non désiré (par exemple, si le chien tire en laisse on s’arrête (arrêt du mouvement : retrait du stimulus agréable pour le chien), on attend que le chien libère la pression sur la laisse pour repartir).
 
-![TD TIC PCBPC: 2017](http://1.bp.blogspot.com/-zsxfHTivNtU/WJo6oBLgVEI/AAAAAAAAAiE/Wa-Br7LYjTM94DDoRCnC4BOGuJry8B2rgCK4B/s1600/16507796_1232764900137715_410504919_n.png)
+![](/img/blank-6-panel-grid-comic-strip.jpg)
 
 # Matériel nécessaire pour pratiquer le shaping
 
 1. **un clicker** : Le principe du clicker se base sur le fonctionnement de l’amygdale (se trouvant au niveau cérébrale). Cette amygdale est essentielle à notre capacité de ressentir et de percevoir chez les autres certaines émotions. Elle s’active selon certains stimuli. Le clicker va être le déclencheur de son fonctionnement. 
    C’est un outil qui permet d’agir avec une grande précision et une certaine rapidité. Le clicker va stimuler les amygdales et donc décupler les capacités d’apprentissages; un bruit lambda (claquement de langue, sifflet, stylo..) n’est donc utile que pour la précision et la rapidité de la capture du comportement (à condition que vous arriviez à le faire précisément). En effet, ce type de bruit ne provoquera pas de réaction amygdalienne. 
    Le son que le clicker produit va ainsi annoncer à votre chien la venue d’une récompense alimentaire auquel il devra être préalablement conditionné (il faudra préparer le chien à cette réponse en lui présentant le bruit associé à la récompense alimentaire → conditionnement pavlovien). Le clicker active ainsi le circuit de récompense. Pour que son utilisation soit efficiente il faut respecter une règle de base : un click = une récompense. ***Chaque click, même raté (comportement non souhaité cliqué, trop tôt, trop tard), doit toujours être suivi du renforçateur.*** Cet outil est ainsi très utile dans l’apprentissage d’un comportement, son utilisation tend à disparaître une fois le comportement acquis.
-
-   ![Clicker Qolor Magenta - Accessoires chien/Clickers - Croqari](https://media.cdnws.com/_i/190536/72/2392/72/clicker-chien-magenta.png)
 2. **des friandises** : elles doivent être facilement assimilables et appétentes (fromage, knackies, viande séchée… à vous de trouver ce qui lui plait) ou sa propre ration de croquettes s’il est assez gourmand. La valeur des friandises devra varier en fonction des lieux de la séance. Évidemment si c’est votre première séance, ce sera en intérieur avec des friandises ***appétentes*** pour que le principe de ce “jeu” soit facilement compréhensible et positivement associé par votre chien. Des chiens plus expérimentés peuvent faire des séances n’importe où, n’importe quand et avec n’importe quel type de friandises du moment qu’ils vous ont exprimé leur envie de travailler.
-
-   ![](/img/dsc_8719.jpg)
 3. **un sol adapté**: il doit être non glissant et pas trop dur afin de ne  pas impacter les articulations lors des réceptions de sauts. Si vous travaillez en intérieur sur carrelage ou parquet, pensez à ajouter un tapis de gym afin d’avoir une surface antidérapante et amortissante pour ***travailler en sécurité***. Les surfaces trop molles type canapé, lit sont à préconiser seulement pour le travail en position couchée.
 4. **objets extérieurs (optionnel)**: cibles, jouets, plots, piquets, etc… tout ce qui est nécessaire à l’apprentissage souhaité. 
+
+![](/img/dsc_7278.jpg)
 
 # Les différents types de shaping
 

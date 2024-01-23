@@ -25,21 +25,16 @@ const ContactPage = () => {
           <div className="column is-4">
             <div className="block">
               <p className="block">
-                Que vous souhaitiez organiser une séance de médiation animale dans votre structure,
-                à votre domicile ou auprès de mes poneys, réserver un cours avec votre chien à
-                votre domicile ou sur le terrain dédié, avoir plus d'informations sur les
-                prestations proposées par Anim'Apaise, ou toute autre question...
+                Si vous souhaitez être accompagné dans la mise en place des soins coopératifs avec 
+                votre animal, dans la résolution d'un problème de comportement de réactivité ou 
+                d'agression, l'initiation à un sport canin, l'arrivée d'un chien des rues ou si vous 
+                êtes une structure ou un particulier souhaitant mettre en place un programme de 
+                médiation animal, n'hésitez pas à me contacter aux coordonnées ci-dessous ou en 
+                remplissant le formulaire de contact en précisant votre demande.
               </p>
               <p className="block">
-                N'hésitez pas à me contacter aux coordonnées ci-dessous ou en remplissant
-                le formulaire de contact en précisant votre demande.
-              </p>
-              <p className="block">
-                Anim'Apaise est localisé sur Orvault, avec des ateliers ou cours pouvant se passer
-                sur Grandchamp des Fontaines, en Loire-Atlantique (44). Je peux me déplacer
-                dans tout le département ainsi que les départements alentours au besoin
-                (jusqu'à 1h30 de déplacement maximum de mon domicile) : Morbihan (56),
-                Île-et-Vilaine (35), Maine-et-Loire (49) ainsi qu'en Vendée (85).
+                Anim'Apaise est localisé sur Orvault, au Nord de Nantes, avec des ateliers ou cours 
+                pouvant se passer sur Grandchamp des Fontaines, en Loire-Atlantique (44).
               </p>
             </div>
             <div className="block">

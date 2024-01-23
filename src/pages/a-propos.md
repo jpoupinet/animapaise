@@ -45,6 +45,24 @@ diplomesCertificats:
     description: BTS Économie Sociale et Familiale
     organisme: Adonis
 formationsStages:
+  - annee: "2024"
+    description: Clicker Expo Live 2024
+    organisme: 34 intervenants - ClickerExpo
+  - annee: "2024"
+    description: Hyperactif ? Vraiment ?!
+    organisme: Marjorie Miltenberger - Muzo+
+  - annee: "2023"
+    description: Cooperative Care Conference
+    organisme: 12 intervenants - Zoospensfull
+  - annee: "2023"
+    description: Stage en Détection Sportive
+    organisme: Laure Hanouna - Chien Zen
+  - annee: "2023"
+    description: Formation en Entretien Motivationnel
+    organisme: Morgane Borowiak et Livia Arce - Game of Paws
+  - annee: "2023"
+    description: Aggression in Dogs Conference
+    organisme: 12 intervenants - Aggressive Dog
   - description: Formation intensive – Réactivité et agression canine pour les
       professionnels
     annee: "2023"
@@ -162,6 +180,8 @@ experiences:
     description: Galop 5
     organisme: Centre équestre de Quimper
 ---
-Je suis **Conseillère en Économie Sociale et Familiale** formée en **médiation par l'animal**. Plus jeune j'ai été témoin de la magie du lien entre mes chevaux et des enfants en situation de handicap, cela m'a poussée vers le monde du travail social afin d'aller vers *un accompagnement en relation avec les animaux*.
+Autant que je m'en souvienne, *j'ai toujours été passionnée par les animaux*. Après avoir été cavalière de club, puis de spectacle aux côtés de mes merveilleux poneys, j'ai découvert le monde du chien grâce à Jäger, le ***travail au clicker***, ***l'éducation bienveillante et positive, les soins coopératifs*** ainsi que la folle aventure des ***sports canins***. Dès que j'en ai eu la possibilité je n'ai cessé de me former pour en apprendre davantage sur ce monde passionnant afin de pouvoir faire découvrir  et enseigner cette approche et ces diverses activités canines. 
 
-Autant que je m'en souvienne, *j'ai toujours été passionnée par les animaux*. Après avoir été cavalière de club, puis de spectacle aux côtés de mes merveilleux poneys, j'ai découvert le monde du chien grâce à Jäger, le ***travail au clicker***, ***l'éducation bienveillante et positive, les soins coopératifs*** ainsi que la folle aventure des ***sports canins***. Dès que j'en ai eu la possibilité je n'ai cessé de me former pour en apprendre davantage sur ce monde passionnant afin de pouvoir faire découvrir  et enseigner cette approche et ces diverses activités canines. Afin de vous accompagner au mieux sur les problématiques du quotidien rencontrées avec vos chiens je me suis formée pour être **comportementaliste canin** et **instructrice en soins coopératifs animaliers**.
+Afin de vous accompagner au mieux sur les **problématiques de réactivité, agressivité et phobies** je me suis *spécialisée et formée en profondeur et en continu* dans cette thématique. De la même manière j'ai choisi de me spécialiser en **entraînement des soins du quotidien et vétérinaires** et je me *forme également en continu* sur le sujet. 
+
+Je suis également **Conseillère en Économie Sociale et Familiale** formée en **médiation par l'animal**. Plus jeune j'ai été témoin de la magie du lien entre mes chevaux et des enfants en situation de handicap, cela m'a poussée vers le monde du travail social afin d'aller vers *un accompagnement en relation avec les animaux*.

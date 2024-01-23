@@ -16,6 +16,11 @@ const AProposPageTemplate = ({
   const PageContent = contentComponent || Content;
 
   const [width, setWidth] = useState(null);
+  const [activeTab, setActiveTab] = useState(1);
+
+  const handleTabClick = (tabNumber) => {
+    setActiveTab(tabNumber);
+  };
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
@@ -49,10 +54,18 @@ const AProposPageTemplate = ({
           </div>
         </div>
       </section>
+      
       <div className="block presentation-a-propos">
         {
           width > 768 ?
-            <div className="columns is-gapless">
+            <div
+              className="columns is-gapless"
+              style={{
+                borderRadius: '8px',
+                boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
+                overflow: 'hidden'
+              }}
+            >
               <div className="column has-background-primary is-flex is-align-items-center">
                 <div className="block has-text-white p-5">
                   <p className="has-text-centered">{presentation.description}</p>
@@ -65,10 +78,18 @@ const AProposPageTemplate = ({
               </div>
             </div>
             :
-            <div className="columns is-gapless">
+            <div
+              className="columns is-gapless mx-3"
+              style={{
+                borderRadius: '8px',
+                boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
+                overflow: 'hidden'
+              }}
+            >
               <div className="column is-flex" style={{ maxHeight: '10em' }}>
                 <PreviewCompatibleImage
                   imageInfo={{ alt: 'Presentation', image: presentation.image }}
+                  imageStyle={{ width: '100%' }}
                 />
               </div>
               <div className="column has-background-primary">
@@ -79,77 +100,100 @@ const AProposPageTemplate = ({
             </div>
         }
       </div>
+
       <section className="section">
         <div className="container">
-          <div className="block mb-6">
-            <h3 className="title is-4 has-text-centered">Diplômes / Certificats</h3>
-            <div className="liste-a-propos">
-              <ul>
-                {
-                  diplomesCertificats.map((dip, i) =>
-                    <li key={`dip${i}`}>
-                      <div className="columns">
-                        <div className="column is-3">
-                          <span className="has-text-weight-semibold">{dip.annee} : </span>
-                        </div>
-                        <div className="column">
-                          <p>{dip.description}</p>
-                          <p className="is-italic has-text-grey">{dip.organisme}</p>
-                        </div>
-                      </div>
-                    </li>
-                  )
-                }
-              </ul>
-            </div>
+          <div className="tabs is-centered mb-6">
+            <ul>
+              <li className={activeTab === 1 ? 'is-active' : ''} onClick={() => handleTabClick(1)}>
+                <a>
+                  <span>Diplômes / Certificats</span>
+                </a>
+              </li>
+              <li className={activeTab === 2 ? 'is-active' : ''} onClick={() => handleTabClick(2)}>
+                <a>
+                  <span>Formations / Stages</span>
+                </a>
+              </li>
+              <li className={activeTab === 3 ? 'is-active' : ''} onClick={() => handleTabClick(3)}>
+                <a>
+                  <span>Expériences</span>
+                </a>
+              </li>
+            </ul>
           </div>
-          <div className="block mb-6">
-            <h3 className="title is-4 has-text-centered">Formations / Stages</h3>
-            <div className="liste-a-propos">
-              <ul>
-                {
-                  formationsStages.map((form, i) =>
-                    <li key={`form${i}`}>
-                      <div className="columns">
-                        <div className="column is-3">
-                          <span className="has-text-weight-semibold">{form.annee} : </span>
+
+          <div className="tab-content">
+            {activeTab === 1 && (
+              <div className="liste-a-propos is-active">
+                <ul>
+                  {
+                    diplomesCertificats.map((form, i) => (
+                      <li key={`form${i}`}>
+                        <div className="columns">
+                          <div className="column is-3">
+                            <span className="has-text-weight-semibold">{form.annee} : </span>
+                          </div>
+                          <div className="column">
+                            <p>{form.description}</p>
+                            <p className="is-italic has-text-grey">{form.organisme}</p>
+                          </div>
                         </div>
-                        <div className="column">
-                          <p>{form.description}</p>
-                          <p className="is-italic has-text-grey">{form.organisme}</p>
+                      </li>
+                    ))
+                    }
+                </ul>
+              </div>
+            )}
+
+            {activeTab === 2 && (
+              <div className="liste-a-propos is-active">
+                <ul>
+                  {
+                    formationsStages.map((form, i) =>
+                      <li key={`form${i}`}>
+                        <div className="columns">
+                          <div className="column is-3">
+                            <span className="has-text-weight-semibold">{form.annee} : </span>
+                          </div>
+                          <div className="column">
+                            <p>{form.description}</p>
+                            <p className="is-italic has-text-grey">{form.organisme}</p>
+                          </div>
                         </div>
-                      </div>
-                    </li>
-                  )
-                }
-              </ul>
-            </div>
-          </div>
-          <div className="block mb-6">
-            <h3 className="title is-4 has-text-centered">Expériences</h3>
-            <div className="liste-a-propos">
-              <ul>
-                {
-                  experiences.map((exp, i) =>
-                    <li key={`exp${i}`}>
-                      <div className="columns">
-                        <div className="column is-3">
-                          <span className="has-text-weight-semibold">{exp.annee} : </span>
+                      </li>
+                    )
+                  }
+                </ul>
+              </div>
+            )}
+
+            {activeTab === 3 && (
+              <div className="liste-a-propos is-active">
+                <ul>
+                  {
+                    experiences.map((exp, i) => (
+                      <li key={`exp${i}`}>
+                        <div className="columns">
+                          <div className="column is-3">
+                            <span className="has-text-weight-semibold">{exp.annee} : </span>
+                          </div>
+                          <div className="column">
+                            <p>{exp.description}</p>
+                            <p className="is-italic has-text-grey">{exp.organisme}</p>
+                          </div>
                         </div>
-                        <div className="column">
-                          <p>{exp.description}</p>
-                          <p className="is-italic has-text-grey">{exp.organisme}</p>
-                        </div>
-                      </div>
-                    </li>
-                  )
-                }
-              </ul>
-            </div>
+                      </li>
+                    ))
+                  }
+                </ul>
+              </div>
+            )}
           </div>
         </div>
       </section>
-    </section >
+
+    </section>
   )
 };
 

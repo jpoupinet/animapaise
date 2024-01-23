@@ -14,440 +14,24 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {
-              label: Mainpitch, 
-              name: mainpitch, 
-              widget: object, 
-              fields: [
-                {label: Title, name: title, widget: string},
-                {label: Description, name: description, widget: text},
-                {label: Image, name: image, widget: image},
-              ]
-          }
-          - {
-            label: Intro,
-            name: intro,
-            widget: object,
-            fields: [
-              {label: Heading, name: heading, widget: string},
-              {label: Description, name: description, widget: string},
-              {label: Icones, name: blurbs, widget: list, fields: [
-                {label: Image, name: image, widget: image},
-                {label: Text, name: text, widget: text},
-              ]}
-            ]
-          }
-          - {
-            label: Presentations,
-            name: presentations,
+            label: Services,
+            name: services,
             widget: list,
             fields: [
               {label: Photo, name: photo, widget: image},
               {label: Titre, name: titre, widget: string},
-              {label: Description, name: description, widget: text},
+              {label: Description, name: description, widget: markdown},
               {label: Lien, name: lien, widget: string, required: false, default: ''},
               {label: Titre du lien, name: titreLien, widget: string, required: false, default: ''},
             ]
           }
-      - file: "src/pages/mediation.md"
-        label: "Médiation animale"
-        name: "mediation"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "mediation-page"}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Titre page", name: "titrePage", widget: string}
-          - {label: "Image", name: "imageIntro", widget: image}
-          - {label: "Titre cartes", name: "titreCartes", widget: string}
           - {
-            label: Cartes,
-            name: cartes,
+            label: Certifications,
+            name: certifications,
             widget: list,
             fields: [
               {label: Image, name: image, widget: image},
-              {label: Texte, name: texte, widget: string},
-              {label: Lien, name: lien, widget: string},
-            ]
-          }
-          - {
-            label: Citation,
-            name: citation,
-            widget: object,
-            fields: [
-              {label: Texte, name: texte, widget: text},
-              {label: "Auteur / Autrice", name: auteur, widget: string}
-            ]
-          }
-      - file: "src/pages/mediation/collegues.md"
-        label: "Collègues"
-        name: "collegues"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "collegues-page"}
-          - {label: "Titre page", name: "titrePage", widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {
-            label: Presentations,
-            name: presentations,
-            widget: list,
-            fields: [
-              {label: Photo, name: photo, widget: image},
-              {label: Titre, name: titre, widget: string},
-              {label: Description, name: description, widget: text},
-            ]
-          }
-          - {
-            label: Icones,
-            name: blurbs,
-            widget: list,
-            fields: [
-              {label: Image, name: image, widget: image},
-              {label: Text, name: text, widget: text},
-            ]
-          }
-      - file: "src/pages/mediation/prestations.md"
-        label: "Prestations MA"
-        name: "prestations-ma-page"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "prestations-ma-page"}
-      - file: "src/pages/comportement.md"
-        label: "Comportement canin"
-        name: "comportement"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "comportement-page"}
-          - {label: "Image", name: "imageIntro", widget: image}
-          - {label: "Survol image", name: "survolImageIntro", widget: string}
-          - {label: "Titre page", name: "titrePage", widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {
-            label: "Pré-requis",
-            name: "prerequis",
-            widget: list,
-            required: false,
-            fields: [
-              {label: Texte, name: texte, widget: string},
-            ]
-          }
-          - {
-            label: "Tarifs",
-            name: "tarifs",
-            widget: list,
-            fields: [
-              {label: Titre, name: titre, widget: string},
-              {label: Sous titre, name: sousTitre, widget: string},
-              {
-                label: "Tarifs",
-                name: "tarifs",
-                widget: list,
-                fields: [
-                  {label: Texte, name: texte, widget: string},
-                ]
-              }
-            ]
-          }
-          - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
-          - {
-            label: "Images bas de page",
-            name: "imagesBasDePage",
-            widget: list,
-            fields: [
-              {label: Image, name: image, widget: image},
-              {label: "Survol image", name: "survolImage", widget: string},
-            ]
-          }
-          - {
-            label: "Liens crédits photo",
-            name: "liensCreditPhoto",
-            widget: list,
-            fields: [
-              {label: "Texte", name: "texte", widget: string},
-              {label: "Lien", name: "lien", widget: string},
-            ]
-          }
-      - file: "src/pages/activites.md"
-        label: "Activités et sports canins"
-        name: "activites"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "activites-page"}
-          - {label: "Image", name: "imageIntro", widget: image}
-          - {label: "Titre page", name: "titrePage", widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Titre cartes", name: "titreCartes", widget: string}
-          - {
-            label: Cartes,
-            name: cartes,
-            widget: list,
-            fields: [
-              {label: Image, name: image, widget: image},
-              {label: Texte, name: texte, widget: string},
-              {label: Lien, name: lien, widget: string},
-            ]
-          }
-      - file: "src/pages/activites/oberythmee.md"
-        label: "Obérythmée"
-        name: "oberythmee"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "oberythmee-page"}
-          - {label: "Image", name: "imageIntro", widget: image}
-          - {label: "Survol image", name: "survolImageIntro", widget: string}
-          - {label: "Titre page", name: "titrePage", widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {
-            label: "Pré-requis",
-            name: "prerequis",
-            widget: list,
-            required: false,
-            fields: [
-              {label: Texte, name: texte, widget: string},
-            ]
-          }
-          - {
-            label: "Tarifs",
-            name: "tarifs",
-            widget: list,
-            fields: [
-              {label: Titre, name: titre, widget: string},
-              {label: Sous titre, name: sousTitre, widget: string},
-              {
-                label: "Tarifs",
-                name: "tarifs",
-                widget: list,
-                fields: [
-                  {label: Texte, name: texte, widget: string},
-                ]
-              }
-            ]
-          }
-          - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
-          - {
-            label: "Images bas de page",
-            name: "imagesBasDePage",
-            widget: list,
-            fields: [
-              {label: Image, name: image, widget: image},
-              {label: "Survol image", name: "survolImage", widget: string},
-            ]
-          }
-          - {
-            label: "Liens crédits photo",
-            name: "liensCreditPhoto",
-            widget: list,
-            fields: [
-              {label: "Texte", name: "texte", widget: string},
-              {label: "Lien", name: "lien", widget: string},
-            ]
-          }
-      - file: "src/pages/activites/agility.md"
-        label: "Agility"
-        name: "agility"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "agility-page"}
-          - {label: "Image", name: "imageIntro", widget: image}
-          - {label: "Survol image", name: "survolImageIntro", widget: string}
-          - {label: "Titre page", name: "titrePage", widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {
-            label: "Pré-requis",
-            name: "prerequis",
-            widget: list,
-            required: false,
-            fields: [
-              {label: Texte, name: texte, widget: string},
-            ]
-          }
-          - {
-            label: "Tarifs",
-            name: "tarifs",
-            widget: list,
-            fields: [
-              {label: Titre, name: titre, widget: string},
-              {label: Sous titre, name: sousTitre, widget: string},
-              {
-                label: "Tarifs",
-                name: "tarifs",
-                widget: list,
-                fields: [
-                  {label: Texte, name: texte, widget: string},
-                ]
-              }
-            ]
-          }
-          - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
-          - {
-            label: "Images bas de page",
-            name: "imagesBasDePage",
-            widget: list,
-            fields: [
-              {label: Image, name: image, widget: image},
-              {label: "Survol image", name: "survolImage", widget: string},
-            ]
-          }
-          - {
-            label: "Liens crédits photo",
-            name: "liensCreditPhoto",
-            widget: list,
-            fields: [
-              {label: "Texte", name: "texte", widget: string},
-              {label: "Lien", name: "lien", widget: string},
-            ]
-          }
-      - file: "src/pages/activites/medical-training.md"
-        label: "Medical training"
-        name: "medical-training"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "medical-training-page"}
-          - {label: "Image", name: "imageIntro", widget: image}
-          - {label: "Survol image", name: "survolImageIntro", widget: string}
-          - {label: "Titre page", name: "titrePage", widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {
-            label: "Pré-requis",
-            name: "prerequis",
-            widget: list,
-            required: false,
-            fields: [
-              {label: Texte, name: texte, widget: string},
-            ]
-          }
-          - {
-            label: "Tarifs",
-            name: "tarifs",
-            widget: list,
-            fields: [
-              {label: Titre, name: titre, widget: string},
-              {label: Sous titre, name: sousTitre, widget: string},
-              {
-                label: "Tarifs",
-                name: "tarifs",
-                widget: list,
-                fields: [
-                  {label: Texte, name: texte, widget: string},
-                ]
-              }
-            ]
-          }
-          - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
-          - {
-            label: "Images bas de page",
-            name: "imagesBasDePage",
-            widget: list,
-            fields: [
-              {label: Image, name: image, widget: image},
-              {label: "Survol image", name: "survolImage", widget: string},
-            ]
-          }
-          - {
-            label: "Liens crédits photo",
-            name: "liensCreditPhoto",
-            widget: list,
-            fields: [
-              {label: "Texte", name: "texte", widget: string},
-              {label: "Lien", name: "lien", widget: string},
-            ]
-          }
-      - file: "src/pages/activites/shaping.md"
-        label: "Shaping"
-        name: "shaping"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "shaping-page"}
-          - {label: "Image", name: "imageIntro", widget: image}
-          - {label: "Survol image", name: "survolImageIntro", widget: string}
-          - {label: "Titre page", name: "titrePage", widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {
-            label: "Pré-requis",
-            name: "prerequis",
-            widget: list,
-            required: false,
-            fields: [
-              {label: Texte, name: texte, widget: string},
-            ]
-          }
-          - {
-            label: "Tarifs",
-            name: "tarifs",
-            widget: list,
-            fields: [
-              {label: Titre, name: titre, widget: string},
-              {label: Sous titre, name: sousTitre, widget: string},
-              {
-                label: "Tarifs",
-                name: "tarifs",
-                widget: list,
-                fields: [
-                  {label: Texte, name: texte, widget: string},
-                ]
-              }
-            ]
-          }
-          - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
-          - {
-            label: "Images bas de page",
-            name: "imagesBasDePage",
-            widget: list,
-            fields: [
-              {label: Image, name: image, widget: image},
-              {label: "Survol image", name: "survolImage", widget: string},
-            ]
-          }
-          - {
-            label: "Liens crédits photo",
-            name: "liensCreditPhoto",
-            widget: list,
-            fields: [
-              {label: "Texte", name: "texte", widget: string},
-              {label: "Lien", name: "lien", widget: string},
-            ]
-          }
-      - file: "src/pages/activites/hoopers.md"
-        label: "Hoopers"
-        name: "hoopers"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "hoopers-page"}
-          - {label: "Image", name: "imageIntro", widget: image}
-          - {label: "Survol image", name: "survolImageIntro", widget: string}
-          - {label: "Titre page", name: "titrePage", widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {
-            label: "Pré-requis",
-            name: "prerequis",
-            widget: list,
-            required: false,
-            fields: [
-              {label: Texte, name: texte, widget: string},
-            ]
-          }
-          - {
-            label: "Tarifs",
-            name: "tarifs",
-            widget: list,
-            fields: [
-              {label: Titre, name: titre, widget: string},
-              {label: Sous titre, name: sousTitre, widget: string},
-              {
-                label: "Tarifs",
-                name: "tarifs",
-                widget: list,
-                fields: [
-                  {label: Texte, name: texte, widget: string},
-                ]
-              }
-            ]
-          }
-          - {label: "Sous texte tarifs", name: "sousTexteTarifs", widget: string}
-          - {
-            label: "Images bas de page",
-            name: "imagesBasDePage",
-            widget: list,
-            fields: [
-              {label: Image, name: image, widget: image},
-              {label: "Survol image", name: "survolImage", widget: string},
-            ]
-          }
-          - {
-            label: "Liens crédits photo",
-            name: "liensCreditPhoto",
-            widget: list,
-            fields: [
-              {label: "Texte", name: "texte", widget: string},
-              {label: "Lien", name: "lien", widget: string},
+              {label: Lien, name: lien, widget: string, required: false, default: ''},
             ]
           }
       - file: "src/pages/a-propos.md"
@@ -498,18 +82,6 @@ collections:
         name: "articles-page"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "articles-page"}
-  - name: "prestations-ma-collection"
-    label: "Prestations MA"
-    folder: "/src/pages/mediation/prestations"
-    create: true
-    slug: "{{titre}}"
-    fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "prestation-ma"}
-      - {label: "Ordre", name: "ordre", widget: "number", default: 1, value_type: "int", step: 1}
-      - {label: "Titre", name: "titre", widget: "string"}
-      - {label: "Image", name: image, widget: image}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Prix", name: "prix", widget: "string"}
   - name: "articles-collection"
     label: "Articles"
     folder: "src/pages/articles"
@@ -525,3 +97,51 @@ collections:
       - {label: "Image de l'aperçu", name: "featuredimage", widget: image}
       - {label: "Article", name: "body", widget: "markdown"}
       - {label: "Mots clés", name: "tags", widget: "list"}
+  - name: "services-collection"
+    label: "Services"
+    folder: "src/pages/services"
+    create: true
+    slug: "{{lienService}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "service"}
+      - {label: "Lien service", name: "lienService", widget: "string"}
+      - {label: "Ordre d'affichage", name: ordre, widget: number, valueType: int, min: 1}
+      - {label: "Photo haut de page", name: "photoHaut", widget: image, required: false, default: null}
+      - {label: "Vidéo haut de page", name: "videoHaut", widget: "file", required: false, default: null}
+      - {label: "Nom du service", name: "nomService", widget: "string"}
+      - {label: "Description du service", name: "body", widget: "markdown"}
+      - {
+          label: "Lien complémentaire",
+          name: "lienComplementaire",
+          widget: "string",
+          required: false,
+          default: '',
+        }
+      - {
+          label: "Titre du lien",
+          name: "titreLienComplementaire",
+          widget: "string",
+          required: false,
+          default: '',
+        }
+      - {
+          label: "Tarifs service",
+          name: "tarifsService",
+          widget: list,
+          fields: [
+            {label: Titre, name: titre, widget: string},
+            {label: Sous-titre, name: sousTitre, widget: string},
+            {label: Image, name: image, widget: image},
+            {label: Durée/Prix, name: dureePrix, widget: string},
+            {label: Description, name: description, widget: markdown},
+          ]
+        }
+      - {
+          label: "Images bas de page",
+          name: "imagesBasDePage",
+          widget: list,
+          fields: [
+            {label: Image, name: image, widget: image},
+            {label: "Survol image", name: "survolImage", widget: string},
+          ]
+        }
