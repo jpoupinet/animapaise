@@ -56,8 +56,8 @@ imagesBasDePage:
     survolImage: Photo d'Anim'Apaise
   - survolImage: Photo d'Anim'Apaise
     image: /img/dsc_2158.jpg
-  - survolImage: Photo d'Anim'Apaise
-    image: /img/dsc_1902.jpg
+  - survolImage: Photo Félinac
+    image: /img/230514-salon_felinacs_nantes-55-_1.jpg
 ---
 **L'approche en soins coopératifs**, est une approche qui a pour objectif d'apprendre à son animal à **accepter** **les manipulations** et de pouvoir le **soigner** avec son **consentement**. Cette pratique est basée sur le principe de **l'empowerment**, avec la **notion de choix** pour l'animal. Cette approche permet également d'amorcer une nouvelle manière de ***communiquer*** avec eux et de développer la ***relation de confiance*** qu'ils nous accordent.
 
