@@ -9,7 +9,7 @@ tarifsService:
   - titre: Bilan en soins coopératifs
     sousTitre: C'est parti pour l'aventure
     image: /img/design_sans_titre__1_-removebg-preview.png
-    dureePrix: 1 heure - 60€
+    dureePrix: 1h - 60€
     description: >-
       Le bilan est un rendez-vous d'une heure à votre domicile ou en visio, et
       qui est donc possible où que vous habitiez !
@@ -21,7 +21,7 @@ tarifsService:
       A﻿ la suite de ce bilan, un plan d'entraînement personnalisé vous sera envoyé sous forme de document GoogleSheet afin qu'il évolue en fonction de votre progression.
   - titre: Séances de suivi
     sousTitre: Pour devenir autonome avec son animal
-    dureePrix: 30 minutes - 30€
+    dureePrix: 30min - 30€
     image: /img/design_sans_titre__2_-removebg-preview.png
     description: >-
       Les séances de suivi sont des temps de mise en pratique de ce qui a été
