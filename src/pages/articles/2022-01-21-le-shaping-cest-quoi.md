@@ -57,13 +57,11 @@ Et enfin il y a la **punition négative** (P-) correspond au fait de retirer un 
 1. **un clicker** : Le principe du clicker se base sur le fonctionnement de l’amygdale (se trouvant au niveau cérébrale). Cette amygdale est essentielle à notre capacité de ressentir et de percevoir chez les autres certaines émotions. Elle s’active selon certains stimuli. Le clicker va être le déclencheur de son fonctionnement. 
    C’est un outil qui permet d’agir avec une grande précision et une certaine rapidité. Le clicker va stimuler les amygdales et donc décupler les capacités d’apprentissages; un bruit lambda (claquement de langue, sifflet, stylo..) n’est donc utile que pour la précision et la rapidité de la capture du comportement (à condition que vous arriviez à le faire précisément). En effet, ce type de bruit ne provoquera pas de réaction amygdalienne. 
    Le son que le clicker produit va ainsi annoncer à votre chien la venue d’une récompense alimentaire auquel il devra être préalablement conditionné (il faudra préparer le chien à cette réponse en lui présentant le bruit associé à la récompense alimentaire → conditionnement pavlovien). Le clicker active ainsi le circuit de récompense. Pour que son utilisation soit efficiente il faut respecter une règle de base : un click = une récompense. ***Chaque click, même raté (comportement non souhaité cliqué, trop tôt, trop tard), doit toujours être suivi du renforçateur.*** Cet outil est ainsi très utile dans l’apprentissage d’un comportement, son utilisation tend à disparaître une fois le comportement acquis.
-
-   ![Clicker Qolor Magenta - Accessoires chien/Clickers - Croqari]()
 2. **des friandises** : elles doivent être facilement assimilables et appétentes (fromage, knackies, viande séchée… à vous de trouver ce qui lui plait) ou sa propre ration de croquettes s’il est assez gourmand. La valeur des friandises devra varier en fonction des lieux de la séance. Évidemment si c’est votre première séance, ce sera en intérieur avec des friandises ***appétentes*** pour que le principe de ce “jeu” soit facilement compréhensible et positivement associé par votre chien. Des chiens plus expérimentés peuvent faire des séances n’importe où, n’importe quand et avec n’importe quel type de friandises du moment qu’ils vous ont exprimé leur envie de travailler.
-
-   ![](/img/dsc_7278.jpg)
 3. **un sol adapté**: il doit être non glissant et pas trop dur afin de ne  pas impacter les articulations lors des réceptions de sauts. Si vous travaillez en intérieur sur carrelage ou parquet, pensez à ajouter un tapis de gym afin d’avoir une surface antidérapante et amortissante pour ***travailler en sécurité***. Les surfaces trop molles type canapé, lit sont à préconiser seulement pour le travail en position couchée.
 4. **objets extérieurs (optionnel)**: cibles, jouets, plots, piquets, etc… tout ce qui est nécessaire à l’apprentissage souhaité. 
+
+![](/img/dsc_7278.jpg)
 
 # Les différents types de shaping
 
