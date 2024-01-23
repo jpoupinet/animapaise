@@ -5,6 +5,12 @@ photoHaut: /img/dsc_7537-1-.jpg
 nomService: Médiation animale
 lienComplementaire: ""
 titreLienComplementaire: ""
+tarifsService:
+  - titre: Ateliers individuels
+    sousTitre: d
+    dureePrix: d
+    description: d
+    image: /img/design_sans_titre__15_-removebg-preview.png
 ---
 La médiation animale est une approche à **visée thérapeutique, préventive ou récréative** favorisant le bien-être d’un bénéficiaire par le lien avec l’animal.\
 \
