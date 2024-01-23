@@ -3,7 +3,7 @@ templateKey: service
 lienService: baladescollectives
 photoHaut: /img/42157528770_56e759356a_k1.jpg
 nomService: Balades collectives
-lienComplementaire: ""
+lienComplementaire: https://www.opuscani.com/
 titreLienComplementaire: Le site d'Opus Cani c'est par ici
 tarifsService:
   - titre: Grand format
