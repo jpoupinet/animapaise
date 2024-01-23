@@ -1,0 +1,53 @@
+---
+templateKey: service
+lienService: adoptionchien
+photoHaut: /img/dsc_8724.jpg
+nomService: Adopter un chien des rues
+lienComplementaire: ""
+titreLienComplementaire: ""
+tarifsService:
+  - titre: Suivi d'adoption
+    sousTitre: Pour que tout soit prêt avant son arrivée
+    dureePrix: 2h30 - 135€
+    description: >-
+      C﻿et accompagnement démarre par un bilan pré-adoption d'environ 1h lors
+      duquel nous pourrons préparer l'arrivée de votre nouveau compagnon de vie
+      afin de ne rien rater le jour J.
+
+
+      P﻿uis nous nous reverrons quelques jours après son arrivée sur un bilan d'1h30 environ pour cibler les axes d'aménagements ou de travail adapté au tempérament du loulou.
+
+
+      C﻿et accompagnement peut avoir lieu en présentiel comme en visio si la distance ne permet pas de se rencontrer physiquement.
+    image: /img/design_sans_titre__12_-removebg-preview.png
+  - titre: Bilan post-adoption
+    sousTitre: On commence après son arrivée
+    image: /img/design_sans_titre__14_-removebg-preview.png
+    dureePrix: 1h30 / 2h - 80€
+    description: >-
+      I﻿l est déjà chez vous, ce petit chien qui vous semble tout perdu par ce
+      chamboulement dans sa vie. 
+
+
+      Q﻿u'il soit chez vous depuis 1 journée ou 2 mois, ce rendez-vous d'1h30 à 2h, a pour but de vous donner tous les outils pour mieux appréhender l'adaptation de votre nouveau compagnon de vie et de mieux comprendre ses comportements au quotidien.
+
+
+      C﻿e bilan peut se faire en présentiel comme en visio si la distance ne permet pas de se rencontrer physiquement.
+  - titre: Séances de suivi
+    sousTitre: Pour découvrir sereinement cette nouvelle vie
+    image: /img/design-sans-titre-13-.png
+    dureePrix: 45min - 40€
+    description: >-
+      A﻿près avoir ait le bilan, je vous accompagne dans la mise en place
+      d'aménagements ou d'un travail sur certaines problématiques rencontrées
+      avec ce petit chien débarquant dans ce nouveau mode de vie.
+
+
+      C﻿es séances durent environ 45 minutes et peuvent se faire en présentiel ou en visio selon la problématique rencontrée.
+imagesBasDePage:
+  - image: /img/dsc_9123.jpg
+    survolImage: Photo d'AnimApaise
+---
+L﻿e chien des rues, qui est-il ? Ce sont bien souvent des chiens sauvés par des associations en Roumanie, Guadeloupe, Réunion, Croatie etc., qui ont été retrouvés chiots ou adultes dans la rue, ou alors négligés chez des personnes de ces différents pays. 
+
+C﻿es chiens sont proposés à l'adoption grâce à ces différentes associations et sont rapatriés de manière régulières en France dans leur nouvelle famille. Et c'est à ce moment là que j'interviens !
