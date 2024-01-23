@@ -14,5 +14,9 @@ tarifsService:
 imagesBasDePage:
   - image: /img/26963759687_cbcf2c57a1_k.jpg
     survolImage: Photo d'Anim'Apaise
+  - image: /img/dsc_9031.jpg
+    survolImage: Photo d'AnimApaise
+  - image: /img/dsc_9135.jpg
+    survolImage: Photo d'AnimApaise
 ---
 A﻿vec Typhaine Lecoq d'Opus Cani, nous nous sommes associées
