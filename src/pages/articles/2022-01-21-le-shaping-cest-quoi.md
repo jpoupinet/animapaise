@@ -50,7 +50,7 @@ A contrario, la **punition positive** (P+) annihilerait la capacité de prise de
 Il existe également dans l’éducation le **renforcement négatif** (R-) qui correspond au fait d’enlever un stimulus désagréable, aversif pour obtenir un comportement attendu (par exemple, demander au chien à s’asseoir en venant mettre une pression sur l’arrière main du chien et répondre à la bonne réponse par le retrait de la pression).
 Et enfin il y a la **punition négative** (P-) correspond au fait de retirer un stimulus agréable pour le chien en réponse à un comportement non désiré (par exemple, si le chien tire en laisse on s’arrête (arrêt du mouvement : retrait du stimulus agréable pour le chien), on attend que le chien libère la pression sur la laisse pour repartir).
 
-![TD TIC PCBPC: 2017](http://1.bp.blogspot.com/-zsxfHTivNtU/WJo6oBLgVEI/AAAAAAAAAiE/Wa-Br7LYjTM94DDoRCnC4BOGuJry8B2rgCK4B/s1600/16507796_1232764900137715_410504919_n.png)
+![](/img/blank-6-panel-grid-comic-strip.jpg)
 
 # Matériel nécessaire pour pratiquer le shaping
 
