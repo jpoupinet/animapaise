@@ -1,7 +1,7 @@
 ---
 templateKey: service
 lienService: sportscanins
-photoHaut: /img/51284291144_88ffb976a5_k.jpg
+photoHaut: /img/dsc_8660.jpg
 nomService: Sports canins de loisir
 lienComplementaire: ""
 titreLienComplementaire: Un outil dans le travail en modification comportementale
