@@ -11,7 +11,7 @@ services:
       animaliers**, je peux vous accompagner pour travailler autour de vos
       problématiques ou vous faire découvrir une nouvelle manière d'aborder les
       soins avec vos animaux.
-    lien: activites/medical-training
+    lien: soinscooperatifs
     titreLien: Pour en savoir plus
     ordre: 1
   - photo: /img/44487428284_b6f0d2ab2e_c.jpg
@@ -25,10 +25,10 @@ services:
       pouvez me contacter pour **programmer un premier bilan** pour commencer à
       échanger de la problématique de réactivité rencontrée et mettre en place
       un **plan d'action adapté** à celle-ci.
-    lien: activites/oberythmee
+    lien: comportementcanin
     titreLien: Pour en savoir plus
     ordre: 2
-  - lien: ""
+  - lien: adoptionchien
     titreLien: Pour en savoir plus
     titre: Accompagnement à l'adoption d'un chien des rues
     photo: /img/dsc_8714.jpg
@@ -40,7 +40,7 @@ services:
       comprendre ses réactions et les gérer au quotidien. Cela afin de trouver
       le **meilleur équilibre pour cette belle aventure** qui démarre !
     ordre: 3
-  - lien: ""
+  - lien: sportscanins
     titreLien: Pour en savoir plus
     photo: /img/2022-08-04_02-15-32.jpg
     titre: Pratiquer des sports canins de loisir
@@ -63,7 +63,7 @@ services:
       **en individuel comme en collectif**. 
 
       Les ateliers ont lieu **sur le terrain d'Anim'Apaise** avec **les chiens et/ou les poneys** en fonction du public et des objectifs ciblés.
-    lien: mediation/prestations-ma
+    lien: mediationanimale
     titreLien: Pour en savoir plus
     ordre: 5
 certifications:
