@@ -49,7 +49,7 @@ formationsStages:
     description: Clicker Expo Live 2024
     organisme: 34 intervenants - ClickerExpo
   - annee: "2024"
-    description: Webinaire - Hyperactif ? Vraiment ?!
+    description: Hyperactif ? Vraiment ?!
     organisme: Marjorie Miltenberger - Muzo+
   - annee: "2023"
     description: Cooperative Care Conference
