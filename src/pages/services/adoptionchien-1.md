@@ -39,7 +39,7 @@ tarifsService:
     image: /img/design_sans_titre__13_-removebg-preview-1-.png
     dureePrix: 45min - 40€
     description: >-
-      A﻿près avoir ait le bilan, je vous accompagne dans la mise en place
+      A﻿près avoir fait le bilan, je vous accompagne dans la mise en place
       d'aménagements ou d'un travail sur certaines problématiques rencontrées
       avec ce petit chien débarquant dans ce nouveau mode de vie.
 
