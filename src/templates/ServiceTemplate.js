@@ -78,7 +78,7 @@ const ServiceTemplate = ({
         className='section px-6 is-flex is-justify-content-center is-flex-wrap-wrap'
       >
         {
-          tarifs.map((tarif, i) => (
+          tarifs && tarifs.map((tarif, i) => (
             <div
               className='tarif p-6 mb-3 has-background-light'
               style={{ width: 'fit-content', maxWidth: '30rem' }}
@@ -95,7 +95,7 @@ const ServiceTemplate = ({
               
               <p className='mt-3 has-text-centered has-text-weight-bold'>{tarif.dureePrix}</p>
 
-              <ReactMarkdown className='markdown my-5'>
+              <ReactMarkdown className='content my-5'>
                 {tarif.description}
               </ReactMarkdown>
             </div>

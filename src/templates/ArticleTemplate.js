@@ -50,11 +50,13 @@ const ArticleTemplate = ({
       <section className='section'>
         <div className='container'>
           <h4 className='title is-5'>Mots-clés</h4>
-          {tags.map((tag, i) =>
-            <Link to={`/motscles/${dashify(tag)}`} key={`${tag}-${i}`}>
-              <span className='m-3'>{tag}</span>
-            </Link>
-          )}
+          <div className='is-flex is-flex-wrap-wrap'>
+            {tags.map((tag, i) =>
+              <Link to={`/motscles/${dashify(tag)}`} key={`${tag}-${i}`}>
+                <span className='m-3'>{tag}</span>
+              </Link>
+            )}
+          </div>
         </div>
       </section>
     </div>
