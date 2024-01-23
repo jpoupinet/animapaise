@@ -85,3 +85,5 @@ J﻿e vous propose de découvrir 3 disciplines sportives avec avec votre chien :
 * ***D﻿og-dancing*** : discipline qui consiste à **enchaîner une chorégraphie avec son chien**. Cette chorégraphie est constituée d'enchaînements de **tricks/figures** et de **déplacements** réalisés par le chien, le tout en harmonie avec l'humain, le thème et la musique.
 
 C﻿es 3 disciplines sont proposés sous forme de **cours individuels** et de **cours collectifs** afin de coller à tous les profils de chiens. Ce qui veut dire que même les **chiens réactifs** peuvent faire des exploits dans une ou plusieurs disciplines.
+
+C﻿es cours sont à destination de **loisir** et sont réalisées dans le respect du **bien-être psychique ET physique**, certains obstacles ne sont donc pas présents ou proposés de manière plus douce pour le chien.
