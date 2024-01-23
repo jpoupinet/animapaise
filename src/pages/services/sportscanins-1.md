@@ -8,6 +8,29 @@ nomService: Sports canins de loisir
 lienComplementaire: ""
 titreLienComplementaire: ""
 tarifsService:
+  - titre: Cours individuels
+    sousTitre: Pour un moment plaisir complice
+    dureePrix: 45min - 36€
+    description: >-
+      S﻿ur ces cours vous serez seuls avec votre chien sur le terrain, ce qui
+      permet à tout chien, même réactifs de pouvoir profiter d'un moment rien
+      que pour lui et son humain à profiter d'une activité ludique à partager
+      ensemble.
+
+
+      C﻿e cours dure environ 45 min, petites pauses comprises pour que cela ne soit pas trop fatiguant pour votre loulou.
+
+
+      L﻿e premier cours collectif est à 32€ et les suivants à 36€.
+
+
+      D﻿es forfaits existent pour se challenger régulièrement :
+
+
+      * 5﻿ cours collectifs : 165€
+
+      * 1﻿0 cours collectifs : 320€
+    image: /img/design_sans_titre__7_-removebg-preview.png
   - titre: Cours collectifs
     sousTitre: Du collectif et surtout du fun
     dureePrix: Entre 1h et 2h - 26€
@@ -35,29 +58,6 @@ tarifsService:
 
       * 1﻿0 cours collectifs : 230€
     image: /img/design_sans_titre__6_-removebg-preview.png
-  - titre: Cours individuels
-    sousTitre: Pour un moment plaisir complice
-    dureePrix: 45min - 36€
-    description: >-
-      S﻿ur ces cours vous serez seuls avec votre chien sur le terrain, ce qui
-      permet à tout chien, même réactifs de pouvoir profiter d'un moment rien
-      que pour lui et son humain à profiter d'une activité ludique à partager
-      ensemble.
-
-
-      C﻿e cours dure environ 45 min, petites pauses comprises pour que cela ne soit pas trop fatiguant pour votre loulou.
-
-
-      L﻿e premier cours collectif est à 32€ et les suivants à 36€.
-
-
-      D﻿es forfaits existent pour se challenger régulièrement :
-
-
-      * 5﻿ cours collectifs : 165€
-
-      * 1﻿0 cours collectifs : 320€
-    image: /img/design_sans_titre__7_-removebg-preview.png
   - titre: Cours individuels + collectifs
     dureePrix: 10 cours - 270€
     sousTitre: Pour varier les plaisirs
