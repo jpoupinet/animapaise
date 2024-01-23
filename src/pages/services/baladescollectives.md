@@ -1,6 +1,7 @@
 ---
 templateKey: service
 lienService: baladescollectives
+ordre: 2
 photoHaut: /img/42157528770_56e759356a_k1.jpg
 nomService: Balades collectives
 lienComplementaire: https://www.opuscani.com/

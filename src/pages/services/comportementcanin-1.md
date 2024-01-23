@@ -1,6 +1,7 @@
 ---
 templateKey: service
 lienService: comportementcanin
+ordre: 3
 photoHaut: /img/47062837662_c417156e85_o.jpg
 nomService: Comportement canin - Réactivité, agression et peurs
 lienComplementaire: sportscanins

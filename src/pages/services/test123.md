@@ -1,6 +1,7 @@
 ---
 templateKey: service
 lienService: "test123"
+ordre: 7
 photoHaut: "/img/dsc_7791.jpg"
 videoHaut: "/img/dogs.mp4"
 nomService: "Test service"

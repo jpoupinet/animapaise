@@ -14,7 +14,7 @@ const Navbar = () => {
   useEffect(() => {
     active ? setNavbarActiveClass('is-active') : setNavbarActiveClass('');
   }, [active]);
-
+  
   return (
     <nav
       className="navbar is-primary"
@@ -89,21 +89,26 @@ const Navbar = () => {
                           frontmatter {
                             lienService
                             nomService
+                            ordre
                           }
                         }
                       }
                     }
                   }
                 `}
-                render={data => data.allMarkdownRemark.edges.map((page, i) => 
-                  <Link
-                    className="navbar-item"
-                    to={`/${page.node.frontmatter.lienService}`}
-                    key={`lienNavbarPage${i}`}
-                  >
-                    {page.node.frontmatter.nomService}
-                  </Link>
-                )}
+                render={data =>
+                  data.allMarkdownRemark.edges
+                    .sort((a, b) => a.node.frontmatter.ordre - b.node.frontmatter.ordre)
+                    .map((page, i) => 
+                      <Link
+                        className="navbar-item"
+                        to={`/${page.node.frontmatter.lienService}`}
+                        key={`lienNavbarPage${i}`}
+                      >
+                        {page.node.frontmatter.nomService}
+                      </Link>
+                    )
+                }
               />
             </div>
           </div>

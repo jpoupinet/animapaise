@@ -1,6 +1,7 @@
 ---
 templateKey: service
 lienService: soinscooperatifs
+ordre: 5
 photoHaut: /img/dsc_7353.jpg
 nomService: Soins coopératifs animaliers
 lienComplementaire: https://danse-avec-ton-chien.fr/produit/precommande-du-livre-entrainer-son-chien-aux-soins-du-quotidien/

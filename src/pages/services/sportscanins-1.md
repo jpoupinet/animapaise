@@ -1,6 +1,7 @@
 ---
 templateKey: service
 lienService: sportscanins
+ordre: 6
 photoHaut: /img/dsc_8660.jpg
 nomService: Sports canins de loisir
 lienComplementaire: comportementcanin

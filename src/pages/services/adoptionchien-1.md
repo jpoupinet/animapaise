@@ -1,6 +1,7 @@
 ---
 templateKey: service
 lienService: adoptionchien
+ordre: 1
 photoHaut: /img/dsc_8724.jpg
 nomService: Adopter un chien des rues
 lienComplementaire: ""
