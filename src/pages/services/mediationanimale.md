@@ -11,6 +11,9 @@ tarifsService:
     dureePrix: d
     description: d
     image: /img/design_sans_titre__15_-removebg-preview.png
+imagesBasDePage:
+  - image: /img/51191801401_a3fd1564e2_c.jpg
+    survolImage: Photo d'Anim'Apaise
 ---
 La médiation animale est une approche à **visée thérapeutique, préventive ou récréative** favorisant le bien-être d’un bénéficiaire par le lien avec l’animal.\
 \
