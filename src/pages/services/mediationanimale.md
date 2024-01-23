@@ -1,7 +1,7 @@
 ---
 templateKey: service
 lienService: mediationanimale
-ordre: 4
+ordre: 5
 photoHaut: /img/dsc_7537-1-.jpg
 nomService: Médiation animale
 lienComplementaire: ""
