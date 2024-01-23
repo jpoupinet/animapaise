@@ -48,4 +48,6 @@ imagesBasDePage:
   - image: /img/dsc_9123.jpg
     survolImage: Photo d'AnimApaise
 ---
-U﻿n chien des rues, de qui parle-t-on ?
+L﻿e chien des rues, qui est-il ? Ce sont bien souvent des chiens sauvés par des associations en Roumanie, Guadeloupe, Réunion, Croatie etc., qui ont été retrouvés chiots ou adultes dans la rue, ou alors négligés chez des personnes de ces différents pays. 
+
+C﻿es chiens sont proposés à l'adoption grâce à ces différentes associations et sont rapatriés de manière régulières en France dans leur nouvelle famille. Et c'est à ce moment là que j'interviens !
