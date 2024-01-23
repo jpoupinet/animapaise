@@ -6,11 +6,16 @@ nomService: Balades collectives
 lienComplementaire: ""
 titreLienComplementaire: Le site d'Opus Cani c'est par ici
 tarifsService:
-  - titre: Balades longues
+  - titre: Grand format
     sousTitre: Pour tous les chiens adultes
     image: /img/design_sans_titre__10_-removebg-preview.png
     dureePrix: 1h30 - 25€
     description: s﻿ff
+  - titre: Petit format
+    image: /img/design_sans_titre__9_-removebg-preview-1-.png
+    sousTitre: Pour les petits chiens et chiots
+    dureePrix: 1h - 20€
+    description: d
 imagesBasDePage:
   - image: /img/26963759687_cbcf2c57a1_k.jpg
     survolImage: Photo d'Anim'Apaise
