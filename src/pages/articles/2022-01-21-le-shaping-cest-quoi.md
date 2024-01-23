@@ -29,11 +29,9 @@ Oui et non.
 Le **conditionnement dit classique** a été formalisé grâce au Docteur **Ivan Pavlov** qui a mené des investigations précises à ce sujet. C’est un processus par lequel un individu va associer une réponse déjà “programmée”, qui est normalement déclenchée par un stimulus “conditionné”, à un autre stimulus ajouté. Pavlov a expérimenté ce concept en associant le bruit d’une cloche à l’arrivée du repas d’un chien. Les données de départ sont : le réflexe salivaire du chien à la vue de son repas, ainsi que sa non réaction au bruit de la cloche. Ensuite, introduction du bruit de la cloche juste avant la délivrance du repas du chien. La finalité de l’expérience: le seul bruit de la cloche déclenche le réflexe salivaire du chien.
 Le “clic” associé au **clicker** correspond à ce type de conditionnement. 
 
-![BELI Coupe griffe désensibilisation](https://beli.ca/wp-content/uploads/2018/03/coupe-griffe-BELI.jpg)
+![](/img/coupe-griffe-beli.jpg)
 
 Le processus d’apprentissage fera également intervenir le **conditionnement opérant de Skinner** (Burrhus Frederic Skinner, psychologue) qui permet l’introduction d’autres facteurs liés notamment à l’environnement. Contrairement au conditionnement classique, l’animal va déclencher par lui-même le circuit de récompense en actionnant un levier-réponse permettant la délivrance de la récompense alimentaire. 
-
-![Apprentissage canin : éducation par la motivation et le conditionnement |  DEFI-Écologique : le blog](https://blog.defi-ecologique.com/wp-content/uploads/schema-d-une-boite-de-skinner.jpg)
 
 > Pour comparer plus succinctement les deux processus : avec le conditionnement pavlovien, le renforcement sera déclenché par l’expérimentateur ; avec le conditionnement skinnerien elle dépend de la réponse du sujet. On peut donc remarquer que dans le processus d’apprentissage au shaping (ou d’autres méthodes), on retrouve un mix de ces deux types de conditionnement. 
 
