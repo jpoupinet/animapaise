@@ -11,6 +11,6 @@ Pour les stages je peux me déplacer dans toute la France selon les demandes.
 
 ***Frais de déplacement***
 
-Les 15 premiers kilomètres autour d'Orvault Cholière sont gratuits ainsi que les 5km autour du terrain d'Anim'Apaise sur Grandchamp des Fontaines.
+Les 15 premiers kilomètres autour d'Orvault Cholière sont gratuits ainsi que les 10km autour du terrain d'Anim'Apaise sur Grandchamp des Fontaines.
 
 Au delà : 0,5€ le kilomètre (aller-retour).
