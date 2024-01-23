@@ -3,7 +3,7 @@ templateKey: service
 lienService: sportscanins
 photoHaut: /img/dsc_8660.jpg
 nomService: Sports canins de loisir
-lienComplementaire: ""
+lienComplementaire: comportementcanin
 titreLienComplementaire: Un outil dans le travail en modification comportementale
 tarifsService:
   - titre: Cours collectifs
