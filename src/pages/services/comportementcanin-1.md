@@ -10,7 +10,7 @@ tarifsService:
   - titre: Bilan comportemental
     sousTitre: Le moment de l'évaluation
     image: /img/design_sans_titre__3_-removebg-preview.png
-    dureePrix: 2h / 2h30 - 95€
+    dureePrix: 2h - 95€
     description: >-
       L﻿e bilan est un rendez-vous qui dure généralement plus de 2h au sein de
       votre domicile (si la problématique de votre chien et la distance le
