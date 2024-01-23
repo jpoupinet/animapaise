@@ -47,6 +47,10 @@ tarifsService:
 imagesBasDePage:
   - image: /img/dsc_9123.jpg
     survolImage: Photo d'AnimApaise
+  - survolImage: Photo d'AnimApaise
+    image: /img/dsc_8995.jpg
+  - image: /img/dsc_9090.jpg
+    survolImage: Photo d'AnimApaise
 ---
 L﻿e chien des rues, qui est-il ? Ce sont bien souvent des **chiens sauvés par des associations** en Roumanie, Guadeloupe, Réunion, Croatie etc., qui ont été **retrouvés chiots ou adultes dans la rue**, ou alors négligés chez des personnes de ces différents pays. 
 
