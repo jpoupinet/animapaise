@@ -5,8 +5,8 @@ ordre: 4
 photoHaut: ""
 videoHaut: /img/vidéo-sans-titre-‐-réalisée-avec-clipchamp-2-.mp4
 nomService: Sports canins de loisir
-lienComplementaire: comportementcanin
-titreLienComplementaire: Un outil dans le travail en modification comportementale
+lienComplementaire: ""
+titreLienComplementaire: ""
 tarifsService:
   - titre: Cours collectifs
     sousTitre: Du collectif et surtout du fun
