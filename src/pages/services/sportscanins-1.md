@@ -35,18 +35,6 @@ tarifsService:
 
       * 1﻿0 cours collectifs : 230€
     image: /img/design_sans_titre__6_-removebg-preview.png
-  - titre: Cours individuels + collectifs
-    dureePrix: 10 cours - 270€
-    sousTitre: Pour varier les plaisirs
-    description: >-
-      Si vous souhaitez avoir des moments plus individualisés, avec des cours
-      plus réguliers s'intercalant entre les cours collectifs,, tout en
-      continuant de profiter des séances à plusieurs binômes... C'est possiblle
-      !
-
-
-      C﻿ette formule combine la possibilité d'avoir 5 cours individuels et 5 cours collectifs à répartir selon vos envies, vos possibilités et les créneaux de cours collectifs.
-    image: /img/design_sans_titre__8_-removebg-preview.png
   - titre: Cours individuels
     sousTitre: Pour un moment plaisir complice
     dureePrix: 45min - 36€
@@ -70,6 +58,18 @@ tarifsService:
 
       * 1﻿0 cours collectifs : 320€
     image: /img/design_sans_titre__7_-removebg-preview.png
+  - titre: Cours individuels + collectifs
+    dureePrix: 10 cours - 270€
+    sousTitre: Pour varier les plaisirs
+    description: >-
+      Si vous souhaitez avoir des moments plus individualisés, avec des cours
+      plus réguliers s'intercalant entre les cours collectifs,, tout en
+      continuant de profiter des séances à plusieurs binômes... C'est possiblle
+      !
+
+
+      C﻿ette formule combine la possibilité d'avoir 5 cours individuels et 5 cours collectifs à répartir selon vos envies, vos possibilités et les créneaux de cours collectifs.
+    image: /img/design_sans_titre__8_-removebg-preview.png
 imagesBasDePage:
   - image: /img/dsc_7064.jpg
     survolImage: Photo d'Anim'Apaise
