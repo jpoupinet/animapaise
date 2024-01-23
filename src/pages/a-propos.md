@@ -45,6 +45,24 @@ diplomesCertificats:
     description: BTS Économie Sociale et Familiale
     organisme: Adonis
 formationsStages:
+  - annee: "2024"
+    description: Clicker Expo Live 2024
+    organisme: 34 intervenants - ClickerExpo
+  - annee: "2024"
+    description: Webinaire - Hyperactif ? Vraiment ?!
+    organisme: Marjorie Miltenberger - Muzo+
+  - annee: "2023"
+    description: Cooperative Care Conference
+    organisme: 12 intervenants - Zoospensfull
+  - annee: "2023"
+    description: Stage en Détection Sportive
+    organisme: Laure Hanouna - Chien Zen
+  - annee: "2023"
+    description: Formation en Entretien Motivationnel
+    organisme: Morgane Borowiak et Livia Arce - Game of Paws
+  - annee: "2023"
+    description: Aggression in Dogs Conference
+    organisme: 12 intervenants - Aggressive Dog
   - description: Formation intensive – Réactivité et agression canine pour les
       professionnels
     annee: "2023"
