@@ -5,7 +5,7 @@ date: 2024-01-24T12:14:29.318Z
 auteur: Sophie Bourdon
 description: "Mieux comprendre cette émotion à multiples facettes pour mieux
   aider son chien. "
-featuredpost: false
+featuredpost: true
 featuredimage: /img/44487428284_b6f0d2ab2e_c.jpg
 tags:
   - peur
