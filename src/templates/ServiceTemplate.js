@@ -74,34 +74,40 @@ const ServiceTemplate = ({
         </div>
       </section>
 
-      <section
-        className='section px-6 is-flex is-justify-content-center is-flex-wrap-wrap'
-      >
-        {
-          tarifs && tarifs.map((tarif, i) => (
-            <div
-              className='tarif p-6 mb-3 has-background-light'
-              style={{ width: 'fit-content', maxWidth: '30rem' }}
-              key={`tarif${i}`}
-            >
-              <h4 className='title has-text-centered is-4'>{tarif.titre}</h4>
-              <h5 className='title has-text-centered is-5'>{tarif.sousTitre}</h5>
+      {
+        tarifs &&
+        <section
+          className='section px-6'
+        >
+          <h2 className="title is-3 has-text-centered mb-6">Tarifs</h2>
+          <div className='is-flex is-justify-content-center is-flex-wrap-wrap'>
+            {
+              tarifs.map((tarif, i) => (
+                <div
+                  className='tarif p-6 mb-3 has-background-light'
+                  style={{ width: 'fit-content', maxWidth: '30rem' }}
+                  key={`tarif${i}`}
+                >
+                  <h4 className='title has-text-centered is-4'>{tarif.titre}</h4>
+                  <h5 className='title has-text-centered is-5'>{tarif.sousTitre}</h5>
 
-              <div className="has-text-centered">
-                <PreviewCompatibleImage
-                  imageInfo={{ alt: '', image: tarif.image }}
-                />
-              </div>
-              
-              <p className='mt-3 has-text-centered has-text-weight-bold'>{tarif.dureePrix}</p>
+                  <div className="has-text-centered">
+                    <PreviewCompatibleImage
+                      imageInfo={{ alt: '', image: tarif.image }}
+                    />
+                  </div>
+                  
+                  <p className='mt-3 has-text-centered has-text-weight-bold'>{tarif.dureePrix}</p>
 
-              <ReactMarkdown className='content my-5'>
-                {tarif.description}
-              </ReactMarkdown>
-            </div>
-          ))
-        }
-      </section>
+                  <ReactMarkdown className='content my-5'>
+                    {tarif.description}
+                  </ReactMarkdown>
+                </div>
+              ))
+            }
+          </div>
+        </section>
+      }
 
       <section className="section has-text-centered">
         <div>
