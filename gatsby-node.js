@@ -63,6 +63,8 @@ exports.createPages = ({ actions, graphql }) => {
 
     // Make tag pages
     tags.forEach((tag) => {
+      if (!tag) return;
+      
       const tagPath = `/motscles/${dashify(tag)}/`;
 
       createPage({
