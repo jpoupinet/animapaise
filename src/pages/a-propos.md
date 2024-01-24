@@ -52,6 +52,9 @@ formationsStages:
     description: Hyperactif ? Vraiment ?!
     organisme: Marjorie Miltenberger - Muzo+
   - annee: "2023"
+    description: "Mentorat sur le chien des rues "
+    organisme: Géraldine Merry - Vox Canis
+  - annee: "2023"
     description: Cooperative Care Conference
     organisme: 12 intervenants - Zoospensfull
   - annee: "2023"
