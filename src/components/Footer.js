@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'gatsby';
+import { StaticQuery, graphql, Link } from 'gatsby';
 
 import logo from '../../static/img/logo.svg';
 import facebook from '../../static/img/facebook.svg';
@@ -21,33 +21,51 @@ const Footer = () => {
             <section className="menu">
               <ul className="menu-list">
                 <li>
-                  <Link className="navbar-item" to="/mediation">
-                    Médiation animale
-                  </Link>
-                </li>
-                <li>
-                  <Link className="navbar-item" to="/comportement">
-                    Comportement canin
-                  </Link>
-                </li>
-                <li>
-                  <Link className="navbar-item" to="/activites">
-                    Activités et sports canins
-                  </Link>
-                </li>
-                <li>
                   <Link className="navbar-item" to="/a-propos">
                     À propos
+                  </Link>
+                </li>
+                <StaticQuery
+                  query={graphql`
+                    query {
+                      allMarkdownRemark(
+                        filter: {frontmatter: {templateKey: {eq: "service"}}}
+                      ) {
+                        edges {
+                          node {
+                            frontmatter {
+                              lienService
+                              nomService
+                              ordre
+                            }
+                          }
+                        }
+                      }
+                    }
+                  `}
+                  render={data =>
+                    data.allMarkdownRemark.edges
+                      .sort((a, b) => a.node.frontmatter.ordre - b.node.frontmatter.ordre)
+                      .map((page, i) =>
+                        <li key={`lienFooterPage${i}`}>
+                          <Link
+                            className="navbar-item"
+                            to={`/${page.node.frontmatter.lienService}`}
+                          >
+                            {page.node.frontmatter.nomService}
+                          </Link>
+                        </li>
+                      )
+                  }
+                />
+                <li>
+                  <Link className="navbar-item" to="/contact">
+                    Contact
                   </Link>
                 </li>
                 <li>
                   <Link className="navbar-item" to="/articles">
                     Articles
-                  </Link>
-                </li>
-                <li>
-                  <Link className="navbar-item" to="/contact">
-                    Contact
                   </Link>
                 </li>
               </ul>
