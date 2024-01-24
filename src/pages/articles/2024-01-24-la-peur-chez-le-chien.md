@@ -3,7 +3,8 @@ templateKey: article
 title: La peur chez le chien
 date: 2024-01-24T12:14:29.318Z
 auteur: Sophie Bourdon
-description: Mieux la comprendre pour mieux aider son chien.
+description: "Mieux comprendre cette émotion à multiples facettes pour mieux
+  aider son chien. "
 featuredpost: false
 featuredimage: /img/44487428284_b6f0d2ab2e_c.jpg
 tags:
