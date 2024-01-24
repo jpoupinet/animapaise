@@ -3,9 +3,8 @@ templateKey: article
 title: Le shaping, c'est quoi ?
 date: 2022-01-21T18:48:14.237Z
 auteur: Sophie Bourdon et Mathilde Guégan
-description: Le shaping, ou façonnage, est une méthode d’apprentissage ayant
-  pour but de construire un nouveau comportement. Cette méthode s’appuie sur les
-  propositions du chien, renforcées positivement par l’humain.
+description: "Le shaping, ou façonnage, est une méthode d’apprentissage ayant
+  pour but de construire un nouveau comportement. "
 featuredpost: true
 featuredimage: /img/dsc_7791.jpg
 tags:
