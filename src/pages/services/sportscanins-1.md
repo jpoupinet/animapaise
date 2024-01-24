@@ -16,7 +16,7 @@ tarifsService:
       pratiquer une des activités proposées successivement.
 
 
-      C﻿haque chien et son humain passent 3 fois, environ 10min, sur le terrain pendant que les autres sportifs présents apprennent à patienter au bord du terrain dans le calme ou à aller se dégourdir les pattes sur les chemins aux alentours.
+      C﻿haque chien et son humain passent 3 fois lors du cours, sur le terrain pendant que les autres sportifs présents apprennent à patienter au bord du terrain dans le calme ou à aller se dégourdir les pattes sur les chemins aux alentours.
 
 
       L﻿es chiens doivent tolérer la présence de congénères aux alentours, les contacts entre chiens présents ne sont pas obligatoires.
@@ -86,6 +86,6 @@ J﻿e vous propose de découvrir 3 disciplines sportives avec avec votre chien :
 * ***H﻿oopers*** : discipline **dérivée de l'agility**, qui consiste à guider son chien sur un parcours d'obstacles à distance, en restant dans une zone restreinte. Ce parcours est constitué d'arceaux sous lesquels le chien doit passer : les **hoopers**, d'objets qu'il doit contourner : les **barils/gates** et de **tunnels** qu'il doit traverser.
 * ***D﻿og-dancing*** : discipline qui consiste à **enchaîner une chorégraphie avec son chien**. Cette chorégraphie est constituée d'enchaînements de **tricks/figures** et de **déplacements** réalisés par le chien, le tout en harmonie avec l'humain, le thème et la musique.
 
-C﻿es 3 disciplines sont proposés sous forme de **cours individuels** et de **cours collectifs** afin de coller à tous les profils de chiens. Ce qui veut dire que même les **chiens réactifs** peuvent faire des exploits dans une ou plusieurs disciplines.
+C﻿es 3 disciplines sont proposées sous forme de **cours individuels** et de **cours collectifs** afin de coller à tous les profils de chiens. Ce qui veut dire que même les **chiens réactifs** peuvent faire des exploits dans une ou plusieurs disciplines.
 
 C﻿es cours sont à destination de **loisir** et sont réalisées dans le respect du **bien-être psychique ET physique**, certains obstacles ne sont donc pas présents ou proposés de manière plus douce pour le chien.
