@@ -70,7 +70,7 @@ const IndexPageTemplate = ({
         )}
       </section>
       
-      <section className="section hero is-primary">
+      <section className="contact-zi section hero is-primary">
         <div className="hero-body container">
           <p className="is-size-5">
             Anim'Apaise intervient à votre domicile ou sur votre structure en Loire-Atlantique,
