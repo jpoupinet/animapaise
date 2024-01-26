@@ -37,7 +37,7 @@ tarifsService:
   - titre: Séances de suivi
     sousTitre: Pour découvrir sereinement cette nouvelle vie
     image: /img/design_sans_titre__13_-removebg-preview-1-.png
-    dureePrix: 45min - 40€
+    dureePrix: 50min - 45€
     description: >-
       A﻿près avoir fait le bilan, je vous accompagne dans la mise en place
       d'aménagements ou d'un travail sur certaines problématiques rencontrées
