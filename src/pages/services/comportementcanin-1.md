@@ -29,7 +29,7 @@ tarifsService:
   - titre: Séances de suivi
     sousTitre: Pour développer de nouvelles compétences
     image: /img/design_sans_titre__4_-removebg-preview.png
-    dureePrix: 45min / 1h - 50€
+    dureePrix: 50min - 50€
     description: >-
       C﻿es séances qui durent entre 45min et 1h permettront de poursuivre ce qui
       a été évoqué au bilan, de mettre en pratique certains apprentissages et de
