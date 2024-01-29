@@ -3,7 +3,7 @@ templateKey: service
 lienService: sportscanins
 ordre: 4
 photoHaut: ""
-videoHaut: /img/vidéo-sans-titre-‐-réalisée-avec-clipchamp-2-.mp4
+videoHaut: /img/vidéo-sans-titre-‐-réalisée-avec-clipchamp-3-.mp4
 nomService: Sports canins de loisir
 lienComplementaire: ""
 titreLienComplementaire: ""
