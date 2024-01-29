@@ -69,5 +69,3 @@ Oui ! La peur, rappelons-le une dernière fois, est une émotion, on peut modifi
 *<https://www.psychologytoday.com/ca/basics/fear>*\
 *<https://www.dvm360.com/view/four-fs-stress-pets>*\
 *<https://www.welfare4animals.org/blog/the-4fs-of-fear-fear-responses>*
-
-<!--EndFragment-->
