@@ -14,6 +14,8 @@ tags:
   - conditionnement
   - éducation
   - renforcement
+  - chien
+  - apprentissage
 ---
 # **Définition du shaping**
 
