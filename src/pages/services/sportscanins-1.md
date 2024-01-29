@@ -56,7 +56,7 @@ tarifsService:
 
       * 5﻿ cours collectifs : 165€
 
-      * 1﻿0 cours collectifs : 320€
+      * 1﻿0 cours collectifs : 315€
     image: /img/design_sans_titre__7_-removebg-preview.png
   - titre: Cours individuels + collectifs
     dureePrix: 10 cours - 270€
