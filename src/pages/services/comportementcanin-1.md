@@ -14,7 +14,7 @@ tarifsService:
     description: >-
       L﻿e bilan est un rendez-vous qui dure généralement plus de 2h au sein de
       votre domicile (si la problématique de votre chien et la distance le
-      permettent), ou alors en visio ou sur le terrain d'Anim'Apaise (à
+      permettent), en visio ou sur le terrain d'Anim'Apaise (à
       Grandchamp-des-Fontaines, 44119).
 
 
@@ -25,15 +25,15 @@ tarifsService:
 
       * U﻿ne fiche technique sur les comportements dits réactifs
 
-      * U﻿ne/des fiche(s) support(s) des exercices potentiellement préconisés
+      * U﻿ne/des fiche(s) support(s) des exercices préconisés
   - titre: Séances de suivi
     sousTitre: Pour développer de nouvelles compétences
     image: /img/design_sans_titre__4_-removebg-preview.png
     dureePrix: 50min - 50€
     description: >-
-      C﻿es séances qui durent entre 45min et 1h permettront de poursuivre ce qui
-      a été évoqué au bilan, de mettre en pratique certains apprentissages et de
-      faire des mises en situation adaptées à la problématiques.
+      C﻿es séances qui durent 50min permettront de poursuivre ce qui a été
+      évoqué au bilan, de mettre en pratique certains apprentissages et de faire
+      des mises en situation adaptées à la problématiques.
 
 
       C﻿es rendez-vous ont lieu :
@@ -64,7 +64,7 @@ tarifsService:
 
       * L﻿e bilan + 5 séances de suivi : 310€
 
-      * Forfait intensif sur 2 mois avec le bilan + 10 séances + échanges illimités + échanges des exercices : 550€
+      * Forfait intensif sur 2 mois avec le bilan + 10 séances + échanges illimités + partage régulier des exercices : 550€
   - titre: Du comportement et des sports canins
     sousTitre: Pour progresser sans oublier de s'amuser
     dureePrix: Entre 250€ et 385€
