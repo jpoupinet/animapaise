@@ -9,13 +9,13 @@ presentation:
     tout ce que j'entreprends.
 diplomesCertificats:
   - annee: En cours
+    description: Diamond Membership All Access Pass
+    organisme: Grisha Stewart Academy
+  - annee: "2023"
     description: |+
       Comportementaliste Equin
 
     organisme: Marie Sutter - AnimHo Formations
-  - annee: En cours
-    description: Diamond Membership All Access Pass
-    organisme: Grisha Stewart Academy
   - annee: "2023"
     description: Mentorat Professionnel de 6 mois
     organisme: Lisa Longo - Animal Académie
@@ -29,15 +29,15 @@ diplomesCertificats:
     description: Comportementaliste Canin
     organisme: Marie Sutter - AnimHo Formations
   - annee: "2021"
-    description: Intervenante au PECCRAM (Programme d'Éducation à la Connaissance du
-      Chien et au Risque d'Accident par Morsure)
-    organisme: Chantal Hazard - FIMAC Canin
-  - annee: "2021"
     description: Intervenante en Médiation par l'Animal
     organisme: Association de Zoothérapie des Côtes d'Or Formations
   - annee: "2021"
     description: Attestation de connaissance - ACACED n°5049
     organisme: Zoopro
+  - annee: "2021"
+    description: Intervenante au PECCRAM (Programme d'Éducation à la Connaissance du
+      Chien et au Risque d'Accident par Morsure)
+    organisme: Chantal Hazard - FIMAC Canin
   - annee: "2019"
     description: Diplôme d'Etat de Conseillère en Économie Sociale et Familiale
     organisme: Lycée Talensac Etablissement d'Enseignement Général
