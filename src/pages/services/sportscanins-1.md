@@ -48,15 +48,15 @@ tarifsService:
       C﻿e cours dure environ 45 min, petites pauses comprises pour que cela ne soit pas trop fatiguant pour votre loulou.
 
 
-      L﻿e premier cours collectif est à 32€ et les suivants à 36€.
+      L﻿e premier cours individuels est à 32€ et les suivants à 36€.
 
 
       D﻿es forfaits existent pour se challenger régulièrement :
 
 
-      * 5﻿ cours collectifs : 165€
+      * 5﻿ cours individuels : 165€
 
-      * 1﻿0 cours collectifs : 315€
+      * 1﻿0 cours individuels : 315€
     image: /img/design_sans_titre__7_-removebg-preview.png
   - titre: Cours individuels + collectifs
     dureePrix: 10 cours - 270€
