@@ -38,9 +38,9 @@ tarifsService:
       Des forfaits existent pour cette prestation afin de mettre en place un accompagnement régulier :
 
 
-      * 5﻿ séances : **135€**
+      * 5﻿ séances : **140€**
 
-      * 1﻿0 séances : **260€**
+      * 1﻿0 séances : **270€**
   - sousTitre: Pour être sûr de ne rien rater
     titre: Coaching sur mesure
     dureePrix: Sur devis
