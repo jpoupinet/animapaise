@@ -88,4 +88,4 @@ J﻿e vous propose de découvrir 3 disciplines sportives avec avec votre chien :
 
 C﻿es 3 disciplines sont proposées sous forme de **cours individuels** et de **cours collectifs** afin de coller à tous les profils de chiens. Ce qui veut dire que même les **chiens réactifs** peuvent faire des exploits dans une ou plusieurs disciplines.
 
-C﻿es cours sont à destination de **loisir** et sont réalisées dans le respect du **bien-être psychique ET physique**, certains obstacles ne sont donc pas présents ou proposés de manière plus douce pour le chien.
+C﻿es cours sont à destination de **loisir** et sont réalisées dans le respect du **bien-être psychique ET physique**, certains obstacles ne sont donc pas présents ou alors proposés de manière plus douce pour le chien pour coller à mon éthique de ces disciplines.
