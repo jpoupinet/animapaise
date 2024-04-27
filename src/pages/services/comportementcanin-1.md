@@ -115,11 +115,11 @@ Le quotidien avec son chien peut-être un long fleuve tranquille comme un **che
 C'est pourquoi, si votre chien a des **comportements indésirables,** en tant que **spécialiste en comportements dits réactifs, agressifs et phobiques**, je peux vous accompagner autour des problématiques suivantes pouvant être rencontrées par votre/vos chien(s) :
 
 * Comportements réactifs, agressifs et phobiques lors de rencontres ou de croisements de congénères
-* Comportements réactifs, agressifs et phobiques lors de de croisements et rencontres d'humains, vélos, joggers etc. en extérieur 
+* Comportements réactifs, agressifs et phobiques lors de croisements et rencontres d'humains, vélos, joggers etc. en extérieur 
 * Gestion et protection de ressources entre chiens du même foyer ou envers les humains du foyer
 * Comportements problématiques lors de l'arrivée d'invités au domicile
 * Peur des bruits au domicile ou en extérieur
-* Mésentente et conflits dans un foyer multi-chiens
+* Mésententes et conflits dans un foyer multi-chiens
 * E﻿t plein d'autres situations provoquant des comportements réactifs envers l'environnement que vous n'arrivez pas à comprendre chez votre chien 
 
 Je peux vous accompagner pour que vous puissiez **comprendre l'origine** de ces comportements et vous aider à **les modifier** afin que vous retrouviez une vie plus sereine à ses côtés. Mon approche se veut **globale et systémique** afin d'agir efficacement sur le bien-être au quotidien de tout le foyer et du chien en particulier. 
