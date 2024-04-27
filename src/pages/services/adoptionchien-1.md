@@ -4,8 +4,8 @@ lienService: adoptionchien
 ordre: 3
 photoHaut: /img/dsc_8724.jpg
 nomService: Adopter un chien des rues
-lienComplementaire: ""
-titreLienComplementaire: ""
+lienComplementaire: Pour avoir les informations sur la prestation du bilan comportemental
+titreLienComplementaire: /comportementcanin
 tarifsService:
   - titre: Suivi d'adoption
     sousTitre: Pour que tout soit prêt avant son arrivée
@@ -53,7 +53,7 @@ imagesBasDePage:
   - survolImage: Photo d'AnimApaise
     image: /img/dsc_8995.jpg
 ---
-L﻿e chien des rues, qui est-il ? Ce sont bien souvent des **chiens sauvés par des associations** en Roumanie, Guadeloupe, Réunion, Croatie etc., qui ont été **retrouvés chiots ou adultes dans la rue**, ou alors négligés chez des personnes de ces différents pays. 
+L﻿es chiens des rues, qui sont-ils ? Ce sont bien souvent des **chiens sauvés par des associations** en Roumanie, Guadeloupe, Réunion, Croatie etc., qui ont été **retrouvés chiots ou adultes dans la rue**, ou alors négligés voir maltraités chez des personnes de ces différents pays. 
 
 C﻿es chiens sont proposés à l'adoption grâce à ces différentes associations et sont **rapatriés** de manière régulières en France dans leur nouvelle famille. **Et c'est à ce moment là que j'interviens !**
 
@@ -62,3 +62,5 @@ S﻿i vous souhaitez être accompagnés dans la **préparation de l'arrivée** d
 I﻿l est également possible de se rencontrer seulement **après son arrivée** et de vous accompagner dans son adaptation et dans les difficultés pouvant être rencontrées les premiers jours, semaines voire mois.
 
 N﻿ous verrons ensuite ensemble si des **séances de suivi régulières** sont nécessaires le temps de trouver un équilibre dans cette nouvelle vie.
+
+C﻿ependant, si vous rencontrez **une grosse problématique de réactivité** avec votre chien des rues, je vous proposerais de réaliser un **bilan** plus spécifique en **comportement canin** qui demanderait alors plus de temps et un accompagnement plus intense.
