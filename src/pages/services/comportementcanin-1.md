@@ -39,7 +39,7 @@ tarifsService:
       C﻿es rendez-vous ont lieu :
 
 
-      * E﻿n présentiel, principalement autour de Grandchamp-des Fontaines (44119), pour les chiens ayant des comportements réactifs en extérieur. 
+      * E﻿n présentiel, principalement autour de Grandchamp-des Fontaines (44119), dans un premier temps plus particulièrement, pour les chiens ayant des comportements réactifs en extérieur. 
 
       * Peuvent être faits à votre domicile ou en visio pour des problématiques touchant au lieu de vie du chien ou à des peurs précises (par exemple : protection de ressources, accueil d'invités...)
 
@@ -112,17 +112,17 @@ imagesBasDePage:
 ---
 Le quotidien avec son chien peut-être un long fleuve tranquille comme un **chemin semé d'embûches**. Dans certaines situations vous pouvez alors vous sentir **dépassés** et ne plus savoir quoi mettre en place pour **aider votre animal** ou rendre votre **quotidien plus apaisé**.
 
-C'est pourquoi, si votre chien a des **comportements indésirables,** en tant que **spécialiste en comportements dits réactifs, agressifs et phobique**, je peux vous accompagner autour des problématiques suivantes pouvant être rencontrées par votre/vos chien(s) :
+C'est pourquoi, si votre chien a des **comportements indésirables,** en tant que **spécialiste en comportements dits réactifs, agressifs et phobiques**, je peux vous accompagner autour des problématiques suivantes pouvant être rencontrées par votre/vos chien(s) :
 
-* Comportements réactifs, agressifs et phobiques rencontres ou de croisements de congénères
-* Comportements réactifs, agressifs et phobiques lors de de croisements et rencontres d'humains, vélos, joggeur etc. en extérieur 
+* Comportements réactifs, agressifs et phobiques lors de rencontres ou de croisements de congénères
+* Comportements réactifs, agressifs et phobiques lors de de croisements et rencontres d'humains, vélos, joggers etc. en extérieur 
 * Gestion et protection de ressources entre chiens du même foyer ou envers les humains du foyer
-* Comportements problématiques lors d'arrivées d'invités au domicile
-* Peur des bruits au quotidien
+* Comportements problématiques lors de l'arrivée d'invités au domicile
+* Peur des bruits au domicile ou en extérieur
 * Mésentente et conflits dans un foyer multi-chiens
-* E﻿t plein d'autres situations provoquant des comportements envers l'environnement que vous n'arrivez pas à comprendre chez votre chien
+* E﻿t plein d'autres situations provoquant des comportements réactifs envers l'environnement que vous n'arrivez pas à comprendre chez votre chien 
 
-Je peux vous accompagner pour que vous puissiez **comprendre l'origine** de ces comportements et vous aider à **les modifier** afin que vous retrouviez une vie plus sereine à ses côtés. Mon approche se veut **globale et systémique** afin d'agir efficacement sur le bien-être au quotidien de tout le foyer et du chien en particulier.
+Je peux vous accompagner pour que vous puissiez **comprendre l'origine** de ces comportements et vous aider à **les modifier** afin que vous retrouviez une vie plus sereine à ses côtés. Mon approche se veut **globale et systémique** afin d'agir efficacement sur le bien-être au quotidien de tout le foyer et du chien en particulier. 
 
 Mon accompagnement auprès de vous démarre par un ***bilan comportemental*** qui me permet de faire le point avec vous sur l'histoire de votre chien, votre histoire commune, son cadre de vie, vos habitudes communes, l'origine de l'apparition du/des comportement(s) réactif(s), agressif(s) et/ou phobique(s) etc. Puis nous élaborerons ensemble des solutions à mettre en place pour aider à modifier ce(s) comportement(s).
 
@@ -142,4 +142,4 @@ P﻿ar contre, je vous redirigerais vers des **consœurs de confiance** si votre
 * L﻿'accompagnement à l'accueil d'un chiot
 * L﻿'éducation générale d'un chiot/chien en individuel
 * L﻿es cours d'éducation en collectif
-* L﻿es problématiques de séparation / de solitude
+* L﻿es problématiques de séparation / de solitude / prédation / les problématiques non citées dans cette présentation de mes prestations
