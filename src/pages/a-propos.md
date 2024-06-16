@@ -46,9 +46,13 @@ diplomesCertificats:
     organisme: Adonis
 formationsStages:
   - annee: "2024"
+    description: "Colloque Francophone sur le Comportement Animal et Canin 2024 en
+      présentiel sur Paris "
+    organisme: 9 intervenants - Évolution Canine
+  - annee: "2024"
     description: Colloque Francophone sur le Comportement Animal et Canin 2024 en
       ligne depuis le Canada
-    organisme: 9 intervenants - Evolution Canine
+    organisme: 9 intervenants - Évolution Canine
   - annee: "2024"
     description: Clicker Expo Live 2024
     organisme: 34 intervenants - ClickerExpo
