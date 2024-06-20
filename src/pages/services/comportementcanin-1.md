@@ -137,9 +137,9 @@ En parallèle de l'accompagnement amorcé autour de la modification de comportem
 
 Il sera également possible de cumuler cet accompagnement avec des séances en **soins coopératifs** pour une sérénité sur tous les plans du quotidien de votre chien et vous.
 
-P﻿ar contre, je vous redirigerais vers des **consœurs de confiance** si votre souhait est d'être accompagnées autour de problématiques, de profils que **je n'accompagne pas**, tels que :
+P﻿ar contre, je vous redirigerais vers des **consœurs de confiance** si votre souhait est d'être accompagnés autour de problématiques, de profils que **je n'accompagne pas**, tels que :
 
 * L﻿'accompagnement à l'accueil d'un chiot
 * L﻿'éducation générale d'un chiot/chien en individuel
 * L﻿es cours d'éducation en collectif
-* L﻿es problématiques de séparation / de solitude / prédation / les problématiques non citées dans cette présentation de mes prestations
+* L﻿es problématiques de séparation / de solitude / de prédation sur la faune sauvage / les problématiques non citées dans cette présentation de mes prestations
