@@ -10,12 +10,11 @@ featuredimage: /img/dsc_7791.jpg
 tags:
   - shaping
   - clicker
-  - positif
   - conditionnement
-  - éducation
   - renforcement
+  - positif
   - chien
-  - apprentissage
+  - apprentissa
 ---
 # **Définition du shaping**
 
