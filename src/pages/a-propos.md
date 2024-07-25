@@ -63,6 +63,9 @@ formationsStages:
     description: "Mentorat sur les chiens  des rues "
     organisme: Géraldine Merry - Vox Canis
   - annee: "2023"
+    description: Aggression in Dogs Conference
+    organisme: 12 intervenants - Aggressive Dog
+  - annee: "2023"
     description: Cooperative Care Conference
     organisme: 12 intervenants - Zoospensfull
   - annee: "2023"
@@ -71,9 +74,6 @@ formationsStages:
   - annee: "2023"
     description: Formation en Entretien Motivationnel
     organisme: Morgane Borowiak et Livia Arce - Game of Paws
-  - annee: "2023"
-    description: Aggression in Dogs Conference
-    organisme: 12 intervenants - Aggressive Dog
   - description: Formation intensive – Réactivité et agression canine pour les
       professionnels
     annee: "2023"
@@ -154,6 +154,9 @@ formationsStages:
   - annee: "2019"
     description: Stage proprioception fitness canin
     organisme: Marie Démaris - Dogfit
+  - annee: "2018"
+    description: "Stage agility "
+    organisme: Michelle Johnston
   - annee: "2017"
     description: Stage en présentiel de Disdog Niveau 1
     organisme: Yannick Thoulon et Camille Nguyen - Canissimo
