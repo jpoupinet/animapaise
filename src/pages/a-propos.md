@@ -46,6 +46,15 @@ diplomesCertificats:
     organisme: Adonis
 formationsStages:
   - annee: "2024"
+    description: Hoopers Avancés
+    organisme: Camille Parenty
+  - annee: "2024"
+    description: Hoopers Fondations
+    organisme: Camille Parenty
+  - annee: "2024"
+    description: Aventure Réactivité
+    organisme: Léa Hernandez - Crowaf
+  - annee: "2024"
     description: "Colloque Francophone sur le Comportement Animal et Canin 2024 en
       présentiel sur Paris "
     organisme: 9 intervenants - Évolution Canine
