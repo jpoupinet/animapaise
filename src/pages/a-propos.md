@@ -46,6 +46,12 @@ diplomesCertificats:
     organisme: Adonis
 formationsStages:
   - annee: "2024"
+    description: The Role of Emotion in Aggressive Behavior
+    organisme: Nicole Lobry de Bruyn - Animal Sense
+  - annee: "2024"
+    description: Equine Cooperative Care
+    organisme: Trudi Dempsey et Gabriel Lencioni - IAABC Foundation
+  - annee: "2024"
     description: Hoopers Avancés
     organisme: Camille Parenty
   - annee: "2024"
