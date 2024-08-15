@@ -15,15 +15,17 @@ Le terme « le client » désigne la personne morale ou physique qui a fait appe
 
 **Article 2**
 
-Les règlements possibles sont en espèces, par virement ou par chèque.
+Les règlements possibles sont en espèces, par virement, par carte bancaire ou par chèque. 
 
 Le règlement par virement ou chèque pour les forfaits est accepté en plusieurs fois (en 2 à 3 fois). L’ensemble des chèques sera perçu par Sophie Bourdon lors de la première séance et seront encaissés aux dates décidées avec le client.
+
+Le règlement devra être réalisés en amont des séances, toute séance non réglée 24H avant la date du rendez-vous ne sera pas dispensée. Dans le cas d'un règlement en plusieurs fois d'un forfait, un justificatif de mensualité pourra être accepté avant de démarrer ce forfait.
 
 **Article 3**
 
 Les forfaits et stages ne sont pas remboursables sauf en cas de maladie ou de décès du chien empêchant la poursuite des cours.  
 
-Les forfaits seront valables 1 an à compter de la date du premier cours du forfait utilisé.
+Les forfaits sont valables 1 an à compter de la date du premier cours du forfait utilisé.
 
 **Article 4**
 
@@ -35,13 +37,13 @@ Sophie Bourdon intervient systématiquement dans le plus grand respect du chien 
 
 Le client s’engage à appliquer les conseils dispensés par Sophie Bourdon lors des cours et stages. Le client s’engage à faire travailler son chien toutes les semaines de manière régulières en dehors des cours.
 
-Dans ces conditions Sophie Bourdon ne saurait en aucun cas être considérée comme responsable des incidents ou des accidents survenant au cours ou postérieurement des séances données.
+Dans ces conditions Sophie Bourdon ne saurait en aucun cas être considérée comme responsable des incidents ou des accidents survenant en  des séances dispensées.
 
 **Article 6** 
 
 Aucune prestation ne pourra être annulée pour des raisons météorologiques à l’initiative des participants. C’est uniquement Sophie Bourdon qui pourra juger si le cours ou le stage doit être annulé en cas de mauvaises conditions climatiques ou par manque de participants.
 
-Tout cours annulé moins de 48 heures à l’avance à l’initiative du client sans justificatif médical est due.
+Tout cours annulé moins de 48 heures à l’avance à l’initiative du client est due.
 
 **Article 7**
 
