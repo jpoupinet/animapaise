@@ -46,6 +46,15 @@ diplomesCertificats:
     organisme: Adonis
 formationsStages:
   - annee: "2024"
+    description: Stage de cognition canine - 2 fois (mars et octobre)
+    organisme: Karine Faucher - Harmonie Canine
+  - annee: "2024"
+    description: "Réactivité canine : quand la friandise n’est pas une option"
+    organisme: Lisa Longo - Muzo+
+  - annee: "2024"
+    description: Séminaire "Behavior Adjustement Training"
+    organisme: Iris Castaing
+  - annee: "2024"
     description: The Role of Emotion in Aggressive Behavior
     organisme: Nicole Lobry de Bruyn - Animal Sense
   - annee: "2024"
