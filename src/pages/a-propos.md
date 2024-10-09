@@ -45,6 +45,11 @@ diplomesCertificats:
     description: BTS Économie Sociale et Familiale
     organisme: Adonis
 formationsStages:
+  - description: |+
+      Aggression in Dogs Conference 
+
+    annee: "2024"
+    organisme: 15 intervenants - Aggressive Dog
   - annee: "2024"
     description: Stage de cognition canine - 2 fois (mars et octobre)
     organisme: Karine Faucher - Harmonie Canine
