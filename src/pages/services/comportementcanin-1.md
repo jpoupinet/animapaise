@@ -10,7 +10,7 @@ tarifsService:
   - titre: Bilan comportemental
     sousTitre: Le moment de l'évaluation
     image: /img/design_sans_titre__3_-removebg-preview.png
-    dureePrix: 2h - 95€
+    dureePrix: 2h - 100€
     description: >-
       L﻿e bilan est un rendez-vous qui dure généralement plus de 2h au sein de
       votre domicile (si la problématique de votre chien et la distance le
@@ -48,7 +48,7 @@ tarifsService:
   - titre: Les forfaits 100% comportement
     sousTitre: Pour avancer en étant accompagnés
     image: /img/design_sans_titre__5_-removebg-preview.png
-    dureePrix: Entre 225€ et 550€
+    dureePrix: Entre 230€ et 555€
     description: >-
       E﻿n amont ou à la suite du bilan, selon ce que vous pensez judicieux et ce
       que j'évalue lors de nos premiers échanges et/ou de ma venue, il est
@@ -60,14 +60,14 @@ tarifsService:
       C﻿es forfaits prennent en compte un bilan et un certain nombre de séances définies ensemble :
 
 
-      * Le bilan + 3 séances de suivi : 225€
+      * Le bilan + 3 séances de suivi : 230€
 
-      * L﻿e bilan + 5 séances de suivi : 310€
+      * L﻿e bilan + 5 séances de suivi : 315€
 
-      * Forfait intensif sur 2 mois avec le bilan + 10 séances + échanges illimités + partage régulier des exercices : 550€
+      * Forfait intensif sur 2 mois avec le bilan + 10 séances + échanges illimités + partage régulier des exercices : 555€
   - titre: Du comportement et des sports canins
     sousTitre: Pour progresser sans oublier de s'amuser
-    dureePrix: Entre 250€ et 385€
+    dureePrix: Entre 255€ et 390€
     description: >-
       A﻿fin de ponctuer notre acompagnement par des moments de partage plus
       légers avec votre compagnon de vie, je vous propose un forfait de séance
@@ -78,18 +78,18 @@ tarifsService:
       L﻿es cours en sports canins ont lieu sur le terrain d'Anim'Apaise et sont individuels.
 
 
-      * L﻿e bilan + 3 séances de suivi + 1 initiation aux sports canin : 250€
+      * L﻿e bilan + 3 séances de suivi + 1 initiation aux sports canin : 255€
 
-      * L﻿e bilan + 3 séances de suivi + 3 initiations aux sports canin : 300€
+      * L﻿e bilan + 3 séances de suivi + 3 initiations aux sports canin : 305€
 
-      * L﻿e bilan + 5 séances de suivi + 1 initiation aux sports canin : 335€
+      * L﻿e bilan + 5 séances de suivi + 1 initiation aux sports canin : 340€
 
-      * L﻿e bilan + 5 séances de suivi + 3 initiations aux sports canin : 385€
+      * L﻿e bilan + 5 séances de suivi + 3 initiations aux sports canin : 390€
     image: /img/design_sans_titre__17_-removebg-preview.png
   - titre: Du comportement et de l'entraînement aux soins
     sousTitre: Pour se sentir bien dans tout le quotidien
     image: /img/design_sans_titre__18_-removebg-preview.png
-    dureePrix: Entre 300€ et 380€
+    dureePrix: Entre 305€ et 385€
     description: >-
       Construire un apaisement global, même lors des soins, ça peut être une
       bonne chose pour avancer toujours mieux sur les problématiques de
@@ -99,9 +99,9 @@ tarifsService:
       C﻿es forfaits prendront en compte l'accompagnement en présentiel ou visio en comportement et également des séances en plus en visio autour de l'entraînement aux soins du quotidien avec votre loulou.
 
 
-      * L﻿e bilan + 3 séances de suivi + 3 séances d'entraînement aux soins : 300€
+      * L﻿e bilan + 3 séances de suivi + 3 séances d'entraînement aux soins : 305€
 
-      * L﻿e bilan + 5 séances de suivi + 3 séances d'entraînement aux soins : 380€
+      * L﻿e bilan + 5 séances de suivi + 3 séances d'entraînement aux soins : 385€
 imagesBasDePage:
   - image: /img/dsc_7419.jpg
     survolImage: Photo d'Anim'Apaise
