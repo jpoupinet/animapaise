@@ -9,7 +9,7 @@ titreLienComplementaire: Pour avoir les informations sur la prestation du bilan 
 tarifsService:
   - titre: Suivi d'adoption
     sousTitre: Pour que tout soit prêt avant son arrivée
-    dureePrix: 2h30 / 3h - 135€
+    dureePrix: 3h30 - 165€
     description: >-
       C﻿et accompagnement démarre par un bilan pré-adoption d'environ 1h30 lors
       duquel nous pourrons préparer l'arrivée de votre nouveau compagnon de vie
@@ -24,7 +24,7 @@ tarifsService:
   - titre: Bilan post-adoption
     sousTitre: On commence après son arrivée
     image: /img/design_sans_titre__14_-removebg-preview.png
-    dureePrix: 1h30 / 2h - 80€
+    dureePrix: 2h - 90€
     description: >-
       I﻿l est déjà chez vous, ce petit chien qui vous semble tout perdu par ce
       chamboulement dans sa vie. 
@@ -37,7 +37,7 @@ tarifsService:
   - titre: Séances de suivi
     sousTitre: Pour découvrir sereinement cette nouvelle vie
     image: /img/design_sans_titre__13_-removebg-preview-1-.png
-    dureePrix: 50min - 45€
+    dureePrix: 1h - 50€
     description: >-
       A﻿près avoir fait le bilan, je vous accompagne dans la mise en place
       d'aménagements ou d'un travail sur certaines problématiques rencontrées
