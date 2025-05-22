@@ -10,9 +10,9 @@ titreLienComplementaire: ""
 tarifsService:
   - titre: Cours collectifs
     sousTitre: Du collectif et surtout du fun
-    dureePrix: Entre 1h et 2h - 26€
+    dureePrix: 1h30 - 26€
     description: >-
-      U﻿n cours collectif c'est un groupe de 2 à 4 chiens qui vont pouvoir
+      U﻿n cours collectif c'est un groupe de 2 à 3 chiens qui vont pouvoir
       pratiquer une des activités proposées successivement.
 
 
@@ -37,7 +37,7 @@ tarifsService:
     image: /img/design_sans_titre__6_-removebg-preview.png
   - titre: Cours individuels
     sousTitre: Pour un moment plaisir complice
-    dureePrix: 45min - 36€
+    dureePrix: 40min - 36€
     description: >-
       S﻿ur ces cours vous serez seuls avec votre chien sur le terrain, ce qui
       permet à tout chien, même réactifs de pouvoir profiter d'un moment rien
@@ -45,7 +45,7 @@ tarifsService:
       ensemble.
 
 
-      C﻿e cours dure environ 45 min, petites pauses comprises pour que cela ne soit pas trop fatiguant pour votre loulou.
+      C﻿e cours dure environ 40 minutes, petites pauses comprises pour que cela ne soit pas trop fatiguant pour votre loulou.
 
 
       L﻿e premier cours individuels est à 32€ et les suivants à 36€.
@@ -64,8 +64,7 @@ tarifsService:
     description: >-
       Si vous souhaitez avoir des moments plus individualisés, avec des cours
       plus réguliers s'intercalant entre les cours collectifs,, tout en
-      continuant de profiter des séances à plusieurs binômes... C'est possiblle
-      !
+      continuant de profiter des séances à plusieurs binômes... C'est possible !
 
 
       C﻿ette formule combine la possibilité d'avoir 5 cours individuels et 5 cours collectifs à répartir selon vos envies, vos possibilités et les créneaux de cours collectifs.
