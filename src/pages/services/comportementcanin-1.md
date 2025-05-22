@@ -12,8 +12,8 @@ tarifsService:
     image: /img/design_sans_titre__3_-removebg-preview.png
     dureePrix: 2h - 100€
     description: >-
-      L﻿e bilan est un rendez-vous qui dure généralement plus de 2h au sein de
-      votre domicile (si la problématique de votre chien et la distance le
+      L﻿e bilan est un rendez-vous qui dure généralement 2h au sein de votre
+      domicile (si la problématique de votre chien et la distance le
       permettent), en visio ou sur le terrain d'Anim'Apaise (à
       Grandchamp-des-Fontaines, 44119).
 
@@ -31,9 +31,9 @@ tarifsService:
     image: /img/design_sans_titre__4_-removebg-preview.png
     dureePrix: 1h - 55€
     description: >-
-      C﻿es séances qui durent 50min permettront de poursuivre ce qui a été
-      évoqué au bilan, de mettre en pratique certains apprentissages et de faire
-      des mises en situation adaptées à la problématiques.
+      C﻿es séances qui durent environ 1 heure permettront de poursuivre ce qui a
+      été évoqué au bilan, de mettre en pratique certains apprentissages et de
+      faire des mises en situation adaptées à la problématiques. 
 
 
       C﻿es rendez-vous ont lieu :
@@ -41,7 +41,7 @@ tarifsService:
 
       * E﻿n présentiel, principalement autour de Grandchamp-des Fontaines (44119), dans un premier temps plus particulièrement, pour les chiens ayant des comportements réactifs en extérieur. 
 
-      * Peuvent être faits à votre domicile ou en visio pour des problématiques touchant au lieu de vie du chien ou à des peurs précises (par exemple : protection de ressources, accueil d'invités...)
+      * Peuvent être réalisées à votre domicile ou en visio pour des problématiques touchant au lieu de vie du chien ou à des peurs précises (par exemple : protection de ressources, accueil d'invités...) 
 
 
       D﻿es forfaits existent pour des séances de suivi seules.
