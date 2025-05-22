@@ -16,7 +16,7 @@ tarifsService:
       afin de ne rien rater le jour J.
 
 
-      P﻿uis nous nous reverrons quelques jours après son arrivée sur un bilan d'1h environ pour cibler les axes d'aménagements ou de travail adapté au tempérament du loulou.
+      P﻿uis nous nous reverrons quelques jours après son arrivée sur un bilan de 2h environ pour cibler les axes d'aménagements ou de travail adaptés au tempérament du loulou.
 
 
       C﻿et accompagnement peut avoir lieu en présentiel comme en visio si la distance ne permet pas de se rencontrer physiquement.
@@ -30,7 +30,7 @@ tarifsService:
       chamboulement dans sa vie. 
 
 
-      Q﻿u'il soit chez vous depuis 1 journée ou 2 mois, ce rendez-vous d'1h30 à 2h, a pour but de vous donner tous les outils pour mieux appréhender l'adaptation de votre nouveau compagnon de vie et de mieux comprendre ses comportements au quotidien.
+      Q﻿u'il soit chez vous depuis 1 journée ou 2 mois, ce rendez-vous d'environ 2h, a pour but de vous donner tous les outils pour mieux appréhender l'adaptation de votre nouveau compagnon de vie et de mieux comprendre ses comportements au quotidien. 
 
 
       C﻿e bilan peut se faire en présentiel comme en visio si la distance ne permet pas de se rencontrer physiquement.
@@ -44,7 +44,7 @@ tarifsService:
       avec ce petit chien débarquant dans ce nouveau mode de vie.
 
 
-      C﻿es séances durent environ 45 minutes et peuvent se faire en présentiel ou en visio selon la problématique rencontrée.
+      C﻿es séances durent environ 1 heure et peuvent se faire en présentiel ou en visio selon la problématique rencontrée.
 imagesBasDePage:
   - image: /img/dsc_9123.jpg
     survolImage: Photo d'AnimApaise
