@@ -68,7 +68,7 @@ services:
     ordre: 5
   - lien: https://animapaise.teachizy.fr/
     titreLien: Pour les découvrir
-    photo: /img/11.jpeg
+    photo: /img/64588099_1497663137042615_3234429614512144384_o.jpg
     titre: Formations en ligne
     description: A﻿nim'Apaise c'est aussi du **format numérique** sous forme de
       **cours en ligne** ou de **webinaires** autour de thématiques du
