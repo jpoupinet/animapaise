@@ -45,6 +45,21 @@ diplomesCertificats:
     description: BTS Économie Sociale et Familiale
     organisme: Adonis
 formationsStages:
+  - annee: "2025"
+    description: |
+      Débuter en Treibball
+    organisme: Camille Nguyen - Muzo +
+  - annee: "2025"
+    description: Stage 3 jours - Les races bergères en éducation
+    organisme: Amélie Cospérec - Lumos
+  - annee: "2024"
+    description: Stage 4 jours - Les techniques d'entraînement Avancé
+    organisme: Amélie Cospérec - Lumos
+  - annee: "2024"
+    description: |-
+      
+      Le Mouvement, c’est la Vie ! Accompagnez au mieux votre chien sénior.
+    organisme: Fanny Walther - AREG Animalcare
   - description: |+
       Aggression in Dogs Conference 
 
@@ -190,6 +205,12 @@ formationsStages:
     description: Stage en présentiel de Disdog Niveau 1
     organisme: Yannick Thoulon et Camille Nguyen - Canissimo
 experiences:
+  - annee: 2024 et 2025
+    description: Jury d'épreuves du BP éducateur canin
+    organisme: Formations Etablières - Sup Santé Animale
+  - annee: 2023 et 2024
+    organisme: Salon du bien-être animal - Félinacs
+    description: Conférence sur les sujet des Soins Coopératifs chez le chien
   - annee: 2022 à ce jour
     description: Référente du module canin de la formation de comportementaliste animalier
     organisme: AnimHo
