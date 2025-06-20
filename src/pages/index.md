@@ -66,6 +66,13 @@ services:
     lien: mediationanimale
     titreLien: Pour en savoir plus
     ordre: 5
+  - lien: https://animapaise.teachizy.fr/
+    titreLien: Pour les découvrir
+    photo: /img/50648843658_80f9d1bb15_c.jpg
+    titre: Formations en ligne
+    description: A﻿nim'Apaise c'est aussi du **format numérique** sous forme de
+      **cours en ligne** ou de **webinaires** autour de thématiques du
+      **comportement canin** et de **l'entraînement aux soins animaliers**.
 certifications:
   - image: /img/sca-19.png
     lien: ""
