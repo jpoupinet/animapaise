@@ -78,13 +78,13 @@ tarifsService:
       L﻿es cours en sports canins ont lieu sur le terrain d'Anim'Apaise et sont individuels.
 
 
-      * L﻿e bilan + 3 séances de suivi + 1 initiation aux sports canin : 280€
+      * L﻿e bilan + 3 séances de suivi + 1 initiation aux sports canins : 280€
 
-      * L﻿e bilan + 3 séances de suivi + 3 initiations aux sports canin : 320€
+      * L﻿e bilan + 3 séances de suivi + 3 initiations aux sports canins : 320€
 
-      * L﻿e bilan + 5 séances de suivi + 1 initiation aux sports canin : 370€
+      * L﻿e bilan + 5 séances de suivi + 1 initiation aux sports canins : 370€
 
-      * L﻿e bilan + 5 séances de suivi + 3 initiations aux sports canin : 400€
+      * L﻿e bilan + 5 séances de suivi + 3 initiations aux sports canins : 400€
     image: /img/design_sans_titre__17_-removebg-preview.png
   - titre: Du comportement et de l'entraînement aux soins
     sousTitre: Pour se sentir bien dans tout le quotidien
