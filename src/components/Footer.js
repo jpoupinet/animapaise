@@ -59,6 +59,11 @@ const Footer = () => {
                   }
                 />
                 <li>
+                  <a className="navbar-item" href="https://animapaise.teachizy.fr/" target="_blank">
+                    Formations en ligne
+                  </a>
+                </li>
+                <li>
                   <Link className="navbar-item" to="/contact">
                     Contact
                   </Link>
