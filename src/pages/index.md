@@ -68,11 +68,12 @@ services:
     ordre: 5
   - lien: https://animapaise.teachizy.fr/
     titreLien: Pour les découvrir
-    photo: /img/50648843658_80f9d1bb15_c.jpg
+    photo: /img/11.jpeg
     titre: Formations en ligne
     description: A﻿nim'Apaise c'est aussi du **format numérique** sous forme de
       **cours en ligne** ou de **webinaires** autour de thématiques du
-      **comportement canin** et de **l'entraînement aux soins animaliers**.
+      **comportement canin**, de **l'entraînement aux soins animaliers** ou
+      encore autour de **l'apprentissage de tours amusants.**
 certifications:
   - image: /img/sca-19.png
     lien: ""
