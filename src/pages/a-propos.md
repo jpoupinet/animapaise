@@ -46,6 +46,9 @@ diplomesCertificats:
     organisme: Adonis
 formationsStages:
   - annee: "2025"
+    description: Stage pistage de réhabilitation
+    organisme: Karine Faucher - Harmonie Canine
+  - annee: "2025"
     description: |
       Débuter en Treibball
     organisme: Camille Nguyen - Muzo +
