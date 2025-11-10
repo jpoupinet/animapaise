@@ -2,11 +2,34 @@
 templateKey: a-propos-page
 imageIntro: /img/hd-15-.jpg
 compagnonsService:
-  - titre: Navi
-    sousTitre: La best
-    image: /img/2021-06-11_01-09-13.jpg
-    description: >-
-      Que dire de plus ?
+  - titre: Toupie
+    sousTitre: Mon âme soeur équine
+    image: /img/2.png
+    description: T﻿oupie est ma toute première amie cheval, le rêve d'adolescente
+      réalisé. Elle m'a accompagnée pendant 10 ans jusqu'au début de ma vie
+      d'adulte. J'ai eu la chance de partager de merveilleuses aventures
+      équestres à ses côtés. Elle nous a brutalement quittée en 2017. Elle est
+      l'origine de ma passion du monde du cheval et de tout ce qui en émergera.
+  - titre: Jäger
+    sousTitre: Mon âme soeur canine
+    image: /img/1.png
+    description: D﻿ifficile de présenter celui sans qui Anim'Apaise n'existerait
+      pas. Jäger est mon premier chien, celui dont je suis devenue 100%
+      responsable en tant que jeune adulte. Il est celui qui m'a ouvert le monde
+      du chien, et tout ce qu'il implique, tout ce qui me passionne aujourd'hui.
+      Nous avons partagé presque 11 ans d'une histoire extraordinaire, à son
+      image. Il s'est envolé en 2025 mais continuera de vivre au de tout ce
+      qu'il a construit.
+  - titre: Tonerre
+    sousTitre: Le meilleur des Bisounours
+    image: /img/3.png
+    description: T﻿onerre est mon plus vieil ami. Il est arrivé en même temps que
+      Toupie et a connu tout le chemin qui nous a amené ici aujourd'hui. Il est
+      celui qui fait le pont entre l'adolescente insouciante que j'étais et la
+      professionnelle passionnée que je suis aujourd'hui. Il m'accompagne
+      aujourd'hui en médiation, pour aider les chiens qui auraient besoin de
+      travailler avec les chevaux mais aussi pour continuer de découvrir plein
+      de choses à proposer à vos chevaux.
 diplomesCertificats:
   - annee: En cours
     description: Diamond Membership All Access Pass
