@@ -31,7 +31,7 @@ compagnonsService:
       travailler avec les chevaux mais aussi pour continuer de découvrir plein
       de choses à proposer à vos chevaux.
 diplomesCertificats:
-  - annee: En cours
+  - annee: 2023 - 2025
     description: Diamond Membership All Access Pass
     organisme: Grisha Stewart Academy
   - annee: "2023"
