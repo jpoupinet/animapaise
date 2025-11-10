@@ -72,7 +72,7 @@ compagnonsService:
       tout réapprendre pour moi et auprès de qui évoluer. Elle participe
       toujours volontiers aux séances de médiation.
   - titre: Ti'Ki
-    sousTitre: "Mon monsieur goupil. "
+    sousTitre: Mon tendre goupil
     image: /img/8.png
     description: T﻿i'Ki a débarqué de Roumanie il y a 3 ans. Petit chien ayant vécu
       dans les rues, il a découvert auprès de nous les joies d'être un chien de
