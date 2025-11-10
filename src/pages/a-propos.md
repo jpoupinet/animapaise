@@ -3,7 +3,7 @@ templateKey: a-propos-page
 imageIntro: /img/hd-15-.jpg
 compagnonsService:
   - titre: Toupie
-    sousTitre: Mon âme soeur équine
+    sousTitre: Mon éternelle grisounette
     image: /img/2.png
     description: T﻿oupie est ma toute première amie cheval, le rêve d'adolescente
       réalisé. Elle m'a accompagnée pendant 10 ans jusqu'au début de ma vie
@@ -11,17 +11,17 @@ compagnonsService:
       équestres à ses côtés. Elle nous a brutalement quittée en 2017. Elle est
       l'origine de ma passion du monde du cheval et de tout ce qui en émergera.
   - titre: Jäger
-    sousTitre: Mon âme soeur canine
+    sousTitre: "Mon extraordinaire tachu "
     image: /img/1.png
-    description: D﻿ifficile de présenter celui sans qui Anim'Apaise n'existerait
-      pas. Jäger est mon premier chien, celui dont je suis devenue 100%
-      responsable en tant que jeune adulte. Il est celui qui m'a ouvert le monde
-      du chien, et tout ce qu'il implique, tout ce qui me passionne aujourd'hui.
-      Nous avons partagé presque 11 ans d'une histoire extraordinaire, à son
-      image. Il s'est envolé en 2025 mais continuera de vivre au de tout ce
-      qu'il a construit.
+    description: D﻿ifficile de présenter succinctement celui sans qui Anim'Apaise
+      n'existerait pas, mon meilleur ami. Jäger est mon premier chien, celui
+      dont je suis devenue 100% responsable en tant que jeune adulte. Il est
+      celui qui m'a ouvert le monde du chien, et tout ce qu'il implique, tout ce
+      qui me passionne aujourd'hui. Nous avons partagé presque 11 ans d'une
+      histoire extraordinaire, à son image. Il s'est envolé en 2025 mais
+      continuera de vivre au travers de tout ce qu'il a construit.
   - titre: Tonerre
-    sousTitre: Le meilleur des Bisounours
+    sousTitre: Le meilleur des bisounours
     image: /img/3.png
     description: T﻿onerre est mon plus vieil ami. Il est arrivé en même temps que
       Toupie et a connu tout le chemin qui nous a amené ici aujourd'hui. Il est
@@ -30,6 +30,57 @@ compagnonsService:
       aujourd'hui en médiation, pour aider les chiens qui auraient besoin de
       travailler avec les chevaux mais aussi pour continuer de découvrir plein
       de choses à proposer à vos chevaux.
+  - titre: Uskyna
+    sousTitre: La véritable Barbie girl
+    image: /img/4.png
+    description: U﻿skyna est le bébé poney éternel de l'équipe. Celle qui dans ma
+      tête, et dans la sienne, a toujours 1 an. Amie aussi de longue date, 16
+      années partagées, elle a tout vu grandir auprès de Tonerre. Elle est la
+      complice parfaite des bêtises à partager. Elle a une personnalité bien
+      affirmée qui peut intimider mais qui fait aussi beaucoup rire.
+  - titre: Maggie
+    sousTitre: Ma pépite noire
+    image: /img/5.png
+    description: M﻿aggie est une petite chatte qui est arrivée dans ma vie il y a 9
+      ans avec son frère Mushu. Elle m'a fait découvrir la finesse de
+      l'entraînement avec les chats, notamment pour les soins. Elle m'a
+      accompagnée en médiation mais n'y montre plus trop d'envie. Elle reste une
+      super compagne de vie au quotidien.
+  - titre: Mushu
+    sousTitre: Le tendre dragon roux
+    image: /img/9.png
+    description: M﻿ushu est le frère de Maggie et partage nos vies depuis 9 ans. Il
+      m'a fait découvrir comme elle les joies d'entraîner un chat. Il profite de
+      sa vie auprès de nous et aime faire tourner les chiens en bourrique.
+  - titre: Navi
+    sousTitre: Ma perle blanche
+    image: /img/7.png
+    description: N﻿avi partage notre quotidien depuis 9 ans. Une petite chienne tout
+      en sensibilité qui m'apprend beaucoup au quotidien. Elle a tout de suite
+      été la parfaite binôme de Jäger, dès son arrivée, à partager avec nous
+      beaucoup de ce que je partageais avec lui. Elle m'accompagne en médiation
+      et de temps en temps pour aider d'autres poilus en séances de réactivité.
+      Elle est aussi une parfaite modèle pour illustrer le travail en
+      entraînement aux soins en plus d'être une merveilleuse partenaire de vie.
+  - titre: Benga
+    sousTitre: L'attachante blondinette
+    image: /img/6.png
+    description: B﻿enga est arrivée il y a 3 ans, replacée chez nous suite à un
+      diagnostic d'ataxie qui rendait les choses difficiles dans son ancienne
+      famille. Elle est venue compléter l'équipe des poneys, un parfait duo de
+      blondes avec Uskyna, une gentille copine pour Tonerre et une ponette à qui
+      tout réapprendre pour moi et auprès de qui évoluer. Elle participe
+      toujours volontiers aux séances de médiation.
+  - titre: Ti'Ki
+    sousTitre: "Mon monsieur goupil. "
+    image: /img/8.png
+    description: T﻿i'Ki a débarqué de Roumanie il y a 3 ans. Petit chien ayant vécu
+      dans les rues, il a découvert auprès de nous les joies d'être un chien de
+      canapé. Il a apporté avec lui son lot de craintes et de challenges qui
+      sont parfois une richesse et d'autres fois un poids au quotidien. Il est
+      cependant un coeur tendre avec les humains et nous accompagne avec joie en
+      médiation animale. Il a confirmé ma sensibilité à l'importance de bien
+      accompagner l'arrivée dans nos vies des chiens des rues.
 diplomesCertificats:
   - annee: 2023 - 2025
     description: Diamond Membership All Access Pass
