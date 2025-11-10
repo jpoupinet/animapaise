@@ -42,14 +42,16 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Image", name: "imageIntro", widget: image}
           - {
-              label: Presentation, 
-              name: presentation, 
-              widget: object, 
+              label: "Compagnons",
+              name: "compagnonsService",
+              widget: list,
               fields: [
+                {label: Titre, name: titre, widget: string},
+                {label: Sous-titre, name: sousTitre, widget: string},
                 {label: Image, name: image, widget: image},
-                {label: Description, name: description, widget: text},
+                {label: Description, name: description, widget: markdown},
               ]
-          }
+            }
           - {label: "Diplômes / Certificats", name: "diplomesCertificats", widget: list, fields: [
               {label: "Année", name: "annee", widget: string},
               {label: "Description", name: "description", widget: text},

@@ -11,7 +11,7 @@ const AProposPagePreview = ({ entry, widgetFor }) => {
       <AProposPageTemplate
         imageIntro={data.imageIntro}
         content={widgetFor('body')}
-        presentation={data.presentation}
+        compagnons={data.compagnons}
         diplomesCertificats={data.diplomesCertificats}
         formationsStages={data.formationsStages}
         experiences={data.experiences}

@@ -15,7 +15,7 @@ const AProposPage = ({ data }) => {
         imageIntro={post.frontmatter.imageIntro}
         content={post.html}
         contentComponent={HTMLContent}
-        presentation={post.frontmatter.presentation}
+        compagnons={post.frontmatter.compagnonsService}
         diplomesCertificats={post.frontmatter.diplomesCertificats}
         formationsStages={post.frontmatter.formationsStages}
         experiences={post.frontmatter.experiences}
@@ -39,16 +39,19 @@ export const pageQuery = graphql`
           childImageSharp {
             gatsbyImageData(
               width: 1000
+              height: 800
               quality: 64
               placeholder: TRACED_SVG
             )
           }
         }
-        presentation {
+        compagnonsService {
+          titre
+          sousTitre
           image {
             childImageSharp {
               gatsbyImageData(
-                width: 500
+                width: 300
                 quality: 64
                 placeholder: TRACED_SVG
               )

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { StaticQuery, graphql, Link } from 'gatsby';
-import logo from '../../static/img/logo.svg';
-import logoTexte from '../../static/img/logo-texte.svg';
+import logo from '../../static/img/logo.png';
+import logoTexte from '../../static/img/logo-texte.png';
 
 const Navbar = () => {
   const [active, setActive] = useState(false);
@@ -25,14 +25,14 @@ const Navbar = () => {
         <Link to="/" className="navbar-item" title="Accueil">
           <img
             src={logo}
-            className="is-hidden-touch"
+            className="is-hidden-touch mr-4"
             alt="Animapaise logo"
             width="150"
             height="150"
           />
           <img
             src={logo}
-            className="is-hidden-desktop"
+            className="is-hidden-desktop mr-4"
             alt="Animapaise logo"
             width="80"
             height="80"
@@ -123,7 +123,6 @@ const Navbar = () => {
           </Link>
         </div>
       </div>
-      {/* </div> */}
     </nav>
   );
 };

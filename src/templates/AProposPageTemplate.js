@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import Content from '../components/Content';
+import ReactMarkdown from 'react-markdown';
 
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
@@ -8,7 +9,7 @@ const AProposPageTemplate = ({
   imageIntro,
   content,
   contentComponent,
-  presentation,
+  compagnons,
   diplomesCertificats,
   formationsStages,
   experiences,
@@ -54,52 +55,39 @@ const AProposPageTemplate = ({
           </div>
         </div>
       </section>
-      
-      <div className="block presentation-a-propos">
-        {
-          width > 768 ?
-            <div
-              className="columns is-gapless"
-              style={{
-                borderRadius: '8px',
-                boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
-                overflow: 'hidden'
-              }}
-            >
-              <div className="column has-background-primary is-flex is-align-items-center">
-                <div className="block has-text-white p-5">
-                  <p className="has-text-centered">{presentation.description}</p>
+
+      {
+        compagnons &&
+        <section
+          className='section px-6'
+        >
+          <h2 className="title is-3 has-text-centered mb-6">Mes compagnons de vie</h2>
+          <div className='is-flex is-justify-content-center is-flex-wrap-wrap'>
+            {
+              compagnons.map((compagnon, i) => (
+                <div
+                  className='tarif p-6 mb-3'
+                  style={{ width: 'fit-content', maxWidth: '30rem', backgroundColor: '#d0dfed' }}
+                  key={`compagnon${i}`}
+                >
+                  <h4 className='title has-text-centered is-4'>{compagnon.titre}</h4>
+                  <h5 className='title has-text-centered is-5'>{compagnon.sousTitre}</h5>
+
+                  <div className="has-text-centered">
+                    <PreviewCompatibleImage
+                      imageInfo={{ alt: '', image: compagnon.image }}
+                    />
+                  </div>
+
+                  <ReactMarkdown className='content my-5'>
+                    {compagnon.description}
+                  </ReactMarkdown>
                 </div>
-              </div>
-              <div className="column is-flex is-one-quarter" style={{ maxHeight: '10em' }}>
-                <PreviewCompatibleImage
-                  imageInfo={{ alt: 'Presentation', image: presentation.image }}
-                />
-              </div>
-            </div>
-            :
-            <div
-              className="columns is-gapless mx-3"
-              style={{
-                borderRadius: '8px',
-                boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
-                overflow: 'hidden'
-              }}
-            >
-              <div className="column is-flex" style={{ maxHeight: '10em' }}>
-                <PreviewCompatibleImage
-                  imageInfo={{ alt: 'Presentation', image: presentation.image }}
-                  imageStyle={{ width: '100%' }}
-                />
-              </div>
-              <div className="column has-background-primary">
-                <div className="block has-text-white p-5">
-                  <p className="has-text-justified">{presentation.description}</p>
-                </div>
-              </div>
-            </div>
-        }
-      </div>
+              ))
+            }
+          </div>
+        </section>
+      }
 
       <section className="section">
         <div className="container">
@@ -141,7 +129,7 @@ const AProposPageTemplate = ({
                         </div>
                       </li>
                     ))
-                    }
+                  }
                 </ul>
               </div>
             )}

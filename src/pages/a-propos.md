@@ -1,12 +1,12 @@
 ---
 templateKey: a-propos-page
 imageIntro: /img/hd-15-.jpg
-presentation:
-  image: /img/image-n°19.jpg
-  description: Je ne remercierais jamais assez ma Toupie, la jument de ma vie, qui
-    a été le premier déclencheur de toute cette folle aventure. Elle ne marche
-    plus à nos côtés physiquement aujourd'hui, mais n'est jamais bien loin dans
-    tout ce que j'entreprends.
+compagnonsService:
+  - titre: Navi
+    sousTitre: La best
+    image: /img/2021-06-11_01-09-13.jpg
+    description: >-
+      Que dire de plus ?
 diplomesCertificats:
   - annee: En cours
     description: Diamond Membership All Access Pass

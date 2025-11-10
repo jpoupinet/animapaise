@@ -1,7 +1,7 @@
 import React from 'react';
 import { StaticQuery, graphql, Link } from 'gatsby';
 
-import logo from '../../static/img/logo.svg';
+import logo from '../../static/img/logo.png';
 import facebook from '../../static/img/facebook.svg';
 import instagram from '../../static/img/instagram.svg';
 
