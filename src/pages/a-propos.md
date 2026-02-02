@@ -82,9 +82,6 @@ compagnonsService:
       médiation animale. Il a confirmé ma sensibilité à l'importance de bien
       accompagner l'arrivée dans nos vies des chiens des rues.
 diplomesCertificats:
-  - annee: 2023 - 2025
-    description: Diamond Membership All Access Pass
-    organisme: Grisha Stewart Academy
   - annee: "2023"
     description: |+
       Comportementaliste Equin
@@ -119,6 +116,10 @@ diplomesCertificats:
     description: BTS Économie Sociale et Familiale
     organisme: Adonis
 formationsStages:
+  - description: Diamond Membership All Access Pass - Webinaires et cours autour des
+      comportements réactifs et du BAT
+    annee: 2023 - 2025
+    organisme: Grisha Stewart Academy
   - annee: "2025"
     description: Stage pistage de réhabilitation
     organisme: Karine Faucher - Harmonie Canine
