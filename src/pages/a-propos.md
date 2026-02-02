@@ -83,7 +83,7 @@ compagnonsService:
       accompagner l'arrivée dans nos vies des chiens des rues.
   - titre: Caïpi
     sousTitre: Le bébé soleil
-    image: /img/5l3a7985copie-1-.jpg
+    image: /img/design-sans-titre-2-.png
     description: L﻿e petit dernier arrivé. Un petit border croisé whippet arrivé le
       29 décembre 2025. Petit chien sans aucun doute envoyé par son grand frère
       des étoiles dans nos vies. Un futur collègue de médiation, auprès de vos
