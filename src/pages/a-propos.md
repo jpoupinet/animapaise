@@ -81,6 +81,14 @@ compagnonsService:
       cependant un coeur tendre avec les humains et nous accompagne avec joie en
       médiation animale. Il a confirmé ma sensibilité à l'importance de bien
       accompagner l'arrivée dans nos vies des chiens des rues.
+  - titre: Caïpi
+    sousTitre: Le bébé soleil
+    image: /img/5l3a7985copie-1-.jpg
+    description: L﻿e petit dernier arrivé. Un petit border croisé whippet arrivé le
+      29 décembre 2025. Petit chien sans aucun doute envoyé par son grand frère
+      des étoiles dans nos vies. Un futur collègue de médiation, auprès de vos
+      poilus mais aussi un futur partenaire de sports et de voyages. Une jolie
+      histoire à écrire avec ce petit chien !
 diplomesCertificats:
   - annee: "2023"
     description: |+
