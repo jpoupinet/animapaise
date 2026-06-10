@@ -7,24 +7,21 @@ nomService: Adopter un chien des rues
 lienComplementaire: /comportementcanin
 titreLienComplementaire: Pour avoir les informations sur la prestation du bilan comportemental
 tarifsService:
-  - titre: Suivi d'adoption
+  - titre: Bilan pré-adoption
     sousTitre: Pour que tout soit prêt avant son arrivée
-    dureePrix: 3h30 - 165€
+    dureePrix: 1h30 - 85€
     description: >-
-      C﻿et accompagnement démarre par un bilan pré-adoption d'environ 1h30 lors
-      duquel nous pourrons préparer l'arrivée de votre nouveau compagnon de vie
-      afin de ne rien rater le jour J.
+      C﻿e bilan consiste en un rendez-vous de d'environ 1h30 lors duquel nous
+      pourrons préparer l'arrivée de votre nouveau compagnon de vie afin de ne
+      rien rater le jour J. 
 
 
-      P﻿uis nous nous reverrons quelques jours après son arrivée sur un bilan de 2h environ pour cibler les axes d'aménagements ou de travail adaptés au tempérament du loulou.
-
-
-      C﻿et accompagnement peut avoir lieu en présentiel comme en visio si la distance ne permet pas de se rencontrer physiquement.
+      C﻿e bilan peut avoir lieu en présentiel comme en visio si la distance ne permet pas de se rencontrer physiquement.
     image: /img/design_sans_titre__12_-removebg-preview.png
   - titre: Bilan post-adoption
     sousTitre: On commence après son arrivée
     image: /img/design_sans_titre__14_-removebg-preview.png
-    dureePrix: 2h - 90€
+    dureePrix: 2h - 105€
     description: >-
       I﻿l est déjà chez vous, ce petit chien qui vous semble tout perdu par ce
       chamboulement dans sa vie. 
