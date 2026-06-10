@@ -4,13 +4,13 @@ lienService: comportementcanin
 ordre: 2
 photoHaut: /img/47062837662_c417156e85_o.jpg
 nomService: Comportement canin - Réactivité, agression et peurs
-lienComplementaire: /sportscanins
-titreLienComplementaire: Plus d'informations concernant les sports canins proposés
+lienComplementaire: /contact
+titreLienComplementaire: Pour prendre rendez-vous
 tarifsService:
   - titre: Bilan comportemental
     sousTitre: Le moment de l'évaluation
     image: /img/design_sans_titre__3_-removebg-preview.png
-    dureePrix: 2h - 100€
+    dureePrix: 2h - 120€
     description: >-
       L﻿e bilan est un rendez-vous qui dure généralement 2h au sein de votre
       domicile (si la problématique de votre chien et la distance le
@@ -29,7 +29,7 @@ tarifsService:
   - titre: Séances de suivi
     sousTitre: Pour développer de nouvelles compétences
     image: /img/design_sans_titre__4_-removebg-preview.png
-    dureePrix: 1h - 55€
+    dureePrix: 1h - 65€
     description: >-
       C﻿es séances qui durent environ 1 heure permettront de poursuivre ce qui a
       été évoqué au bilan, de mettre en pratique certains apprentissages et de
@@ -45,63 +45,6 @@ tarifsService:
 
 
       D﻿es forfaits existent pour des séances de suivi seules.
-  - titre: Les forfaits 100% comportement
-    sousTitre: Pour avancer en étant accompagnés
-    image: /img/design_sans_titre__5_-removebg-preview.png
-    dureePrix: Entre 230€ et 555€
-    description: >-
-      E﻿n amont ou à la suite du bilan, selon ce que vous pensez judicieux et ce
-      que j'évalue lors de nos premiers échanges et/ou de ma venue, il est
-      possible de s'engager mutuellement sur un suivi de plusieurs séances pour
-      avancer plus efficacement sur les problématiques de réactivité
-      rencontrées.
-
-
-      C﻿es forfaits prennent en compte un bilan et un certain nombre de séances définies ensemble mais également des échanges entre les différentes rencontres.
-
-
-      * Le bilan + 3 séances de suivi : 260€
-
-      * L﻿e bilan + 5 séances de suivi : 350€
-
-      * Le bilan + 10 séances : 580€
-  - titre: Du comportement et des sports canins
-    sousTitre: Pour progresser sans oublier de s'amuser
-    dureePrix: Entre 255€ et 390€
-    description: >-
-      A﻿fin de ponctuer notre acompagnement par des moments de partage plus
-      légers avec votre compagnon de vie, je vous propose un forfait de séance
-      cumulant notre accompagnement en comportement et la découverte d'un sport
-      canin. Vous risquez d'être surpris par les compétences de votre loulou !
-
-
-      L﻿es cours en sports canins ont lieu sur le terrain d'Anim'Apaise et sont individuels.
-
-
-      * L﻿e bilan + 3 séances de suivi + 1 initiation aux sports canins : 280€
-
-      * L﻿e bilan + 3 séances de suivi + 3 initiations aux sports canins : 320€
-
-      * L﻿e bilan + 5 séances de suivi + 1 initiation aux sports canins : 370€
-
-      * L﻿e bilan + 5 séances de suivi + 3 initiations aux sports canins : 400€
-    image: /img/design_sans_titre__17_-removebg-preview.png
-  - titre: Du comportement et de l'entraînement aux soins
-    sousTitre: Pour se sentir bien dans tout le quotidien
-    image: /img/design_sans_titre__18_-removebg-preview.png
-    dureePrix: Entre 305€ et 385€
-    description: >-
-      Construire un apaisement global, même lors des soins, ça peut être une
-      bonne chose pour avancer toujours mieux sur les problématiques de
-      comportements rencontrées.
-
-
-      C﻿es forfaits prendront en compte l'accompagnement en présentiel ou visio en comportement et également des séances en plus en visio autour de l'entraînement aux soins du quotidien avec votre loulou.
-
-
-      * L﻿e bilan + 3 séances de suivi + 3 séances d'entraînement aux soins : 320€
-
-      * L﻿e bilan + 5 séances de suivi + 3 séances d'entraînement aux soins : 400€
 imagesBasDePage:
   - image: /img/dsc_7419.jpg
     survolImage: Photo d'Anim'Apaise
@@ -132,10 +75,6 @@ Le bilan, et potentiellement l'accompagnement, peut avoir lieu en **visio** ou
 
 * La distance ne permet pas que je me déplace jusqu'à chez vous 
 * La problématique que vous rencontrez avec votre chien rend ma présence physique contre-productive (agressivité sur les humains par exemple)
-
-En parallèle de l'accompagnement amorcé autour de la modification de comportements indésirables il sera possible d'initier votre duo à une **activité canine** afin de découvrir votre compagnon sous un nouvel angle, renforcer votre relation et enrichir son quotidien. Les bienfaits de ces activités viendront contribuer au travail en cours. 
-
-Il sera également possible de cumuler cet accompagnement avec des séances en **soins coopératifs** pour une sérénité sur tous les plans du quotidien de votre chien et vous.
 
 P﻿ar contre, je vous redirigerais vers des **consœurs de confiance** si votre souhait est d'être accompagnés autour de problématiques, de profils que **je n'accompagne pas**, tels que :
 
