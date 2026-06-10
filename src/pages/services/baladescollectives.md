@@ -4,8 +4,8 @@ lienService: baladescollectives
 ordre: 5
 photoHaut: /img/42157528770_56e759356a_k1.jpg
 nomService: Balades collectives
-lienComplementaire: https://www.opuscani.com/
-titreLienComplementaire: Le site d'Opus Cani c'est par ici
+lienComplementaire: /contact
+titreLienComplementaire: Pour avoir plus d'informations sur nos balades
 tarifsService:
   - titre: Balade collective
     sousTitre: Pour tous les chiens
