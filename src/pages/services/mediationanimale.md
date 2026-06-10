@@ -4,15 +4,15 @@ lienService: mediationanimale
 ordre: 5
 photoHaut: /img/dsc_7537-1-.jpg
 nomService: Médiation animale
-lienComplementaire: ""
-titreLienComplementaire: ""
+lienComplementaire: /contact
+titreLienComplementaire: Pour découvrir la médiation animale
 tarifsService:
   - titre: Ateliers individuels
     sousTitre: Pour un moment privilégié
-    dureePrix: Sur devis
+    dureePrix: 1h - 55€
     description: >-
-      Ces séances s'adressent à 1 personne et durent entre 30min et 1h. Elles
-      ont lieu sur le terrain d'Anim'Apaise. 
+      Ces séances s'adressent à 1 personne et durent environ 1h. Elles ont lieu
+      sur le terrain d'Anim'Apaise. 
 
 
       Ces séances se baseront sur des objectifs individualisés avec une visée préventive et thérapeutique. On parle aussi de Programme de Médiation Assistée par l’Animale ; les séances seront régulières et basées sur un plan d'intervention établi avec l'équipe des professionnels et/ou les familles.
@@ -30,7 +30,7 @@ tarifsService:
       Ces séances se baseront sur des objectifs communs aux bénéficiaire concernés avec une visée préventive et thérapeutique. Elles peuvent également être récréatives, sous forme d'animation auprès des bénéficiaires.
 
 
-      Dans le cadre d'interventions à visée préventive et thérapeutique qu'on peut également appeler un Programme de Médiation Assistée par l’Animale les séances seront régulières et basées sur un plan d'intervention établi avec l'équipe des professionnels. Elles s'adressent à des groupes de 6 bénéficiaires maximum.
+      Dans le cadre d'interventions à visée préventive et thérapeutique qu'on peut également appeler un Programme de Médiation Assistée par l’Animale les séances seront régulières et basées sur un plan d'intervention établi avec l'équipe des professionnels. Elles s'adressent à des groupes de 5 bénéficiaires maximum.
 imagesBasDePage:
   - image: /img/dsc_7487.jpg
     survolImage: Photo d'AnimApaise
