@@ -5,12 +5,12 @@ ordre: 4
 photoHaut: ""
 videoHaut: /img/vidéo-sans-titre-‐-réalisée-avec-clipchamp-3-.mp4
 nomService: Sports canins de loisir
-lienComplementaire: ""
-titreLienComplementaire: ""
+lienComplementaire: /contact
+titreLienComplementaire: Pour découvrir les sports canins
 tarifsService:
   - titre: Cours collectifs
     sousTitre: Du collectif et surtout du fun
-    dureePrix: 1h30 - 26€
+    dureePrix: 1h30 - 30€
     description: >-
       U﻿n cours collectif c'est un groupe de 2 à 3 chiens qui vont pouvoir
       pratiquer une des activités proposées successivement.
@@ -25,19 +25,11 @@ tarifsService:
       L﻿es cours collectifs ont lieu 2 samedis par mois en automne et hiver et plutôt en fin de journée sur les périodes chaudes d'été.
 
 
-      L﻿e premier cours collectif est à 22€ et les suivants à 26€.
-
-
-      D﻿es forfaits existent pour se challenger régulièrement :
-
-
-      * 5﻿ cours collectifs : 120€
-
-      * 1﻿0 cours collectifs : 230€
+      L﻿e premier cours collectif est à 26€ et les suivants à 30€.
     image: /img/design_sans_titre__6_-removebg-preview.png
   - titre: Cours individuels
     sousTitre: Pour un moment plaisir complice
-    dureePrix: 40min - 36€
+    dureePrix: 40min - 40€
     description: >-
       S﻿ur ces cours vous serez seuls avec votre chien sur le terrain, ce qui
       permet à tout chien, même réactifs de pouvoir profiter d'un moment rien
@@ -48,27 +40,8 @@ tarifsService:
       C﻿e cours dure environ 40 minutes, petites pauses comprises pour que cela ne soit pas trop fatiguant pour votre loulou.
 
 
-      L﻿e premier cours individuels est à 32€ et les suivants à 36€.
-
-
-      D﻿es forfaits existent pour se challenger régulièrement :
-
-
-      * 5﻿ cours individuels : 165€
-
-      * 1﻿0 cours individuels : 315€
+      L﻿e premier cours individuels est à 36€ et les suivants à 40€.
     image: /img/design_sans_titre__7_-removebg-preview.png
-  - titre: Cours individuels + collectifs
-    dureePrix: 10 cours - 270€
-    sousTitre: Pour varier les plaisirs
-    description: >-
-      Si vous souhaitez avoir des moments plus individualisés, avec des cours
-      plus réguliers s'intercalant entre les cours collectifs,, tout en
-      continuant de profiter des séances à plusieurs binômes... C'est possible !
-
-
-      C﻿ette formule combine la possibilité d'avoir 5 cours individuels et 5 cours collectifs à répartir selon vos envies, vos possibilités et les créneaux de cours collectifs.
-    image: /img/design_sans_titre__8_-removebg-preview.png
 imagesBasDePage:
   - image: /img/dsc_7064.jpg
     survolImage: Photo d'Anim'Apaise
