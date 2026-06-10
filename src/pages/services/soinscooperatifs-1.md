@@ -7,7 +7,7 @@ nomService: Soins coopératifs animaliers
 lienComplementaire: /contact
 titreLienComplementaire: Pour prendre rendez-vous
 tarifsService:
-  - titre: Bilan en soins coopératifs
+  - titre: Bilan autour de l'entraînement aux soins
     sousTitre: C'est parti pour l'aventure
     image: /img/design_sans_titre__1_-removebg-preview.png
     dureePrix: 1h - 70€
@@ -33,6 +33,18 @@ tarifsService:
 
 
       C﻿es rendez-vous ont lieu en visio principalement (surtout pour les soins du quotidien), mais peuvent être faits en présentiel si vous visez un soin demandant la présence d'un tiers (comme les soins vétérinaires).
+  - titre: Entraînement collectif aux soins
+    sousTitre: Pour aller plus loin et travailler avec un tiers
+    dureePrix: 3h - 50€
+    description: >-
+      C﻿es séances accueillent jusqu'à 4 chiens sur une demi-journée de 3 heures
+      pour aller plus loin autour du sujet de l'entraînement aux soins et afin
+      de permettre de travailler autour des manipulations par un tiers plus ou
+      moins connus.
+
+
+      C﻿es entranîements auront lieu sur le terrain d'Anim'Apaise (en utilisant les trois lieux possibles du terrain : extérieur, couvert et chalet) ou chez des professionnels de soins partenaires de cette approche (vétérinaire, toiletteur, ostéopathe).
+    image: /img/dsc_0610-modified.png
 imagesBasDePage:
   - image: /img/51287600040_fa3d2f3f99_k.jpg
     survolImage: Photo d'Anim'Apaise
@@ -60,3 +72,5 @@ Mon accompagnement auprès de vous et votre animal démarre par **un temps de b
 E﻿nfin, s'en suivront des **séances de suivi** de 30 minutes, où vous pourrez mettre en application la pratique des soins coopératifs en ma présence, afin de vous guider et optimiser la réussite des soins projetés.
 
 **J﻿'accompagne les gardiens de chiens, chats et équidés dans la mise en place de cette approche.**
+
+J﻿e proposerais également **une fois par mois** environ une **séance collective en présentiel d'entraînement aux soins**. Ces séances pourront avoir lieu sur mon terrain ou chez des professionnels de soins partenaires de cette démarche.
