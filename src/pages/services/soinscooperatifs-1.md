@@ -4,13 +4,13 @@ lienService: soinscooperatifs
 ordre: 1
 photoHaut: /img/dsc_7353.jpg
 nomService: Soins coopératifs animaliers
-lienComplementaire: https://danse-avec-ton-chien.fr/produit/precommande-du-livre-entrainer-son-chien-aux-soins-du-quotidien/
-titreLienComplementaire: Cliquez ici pour découvrir mon livre "Entraîner son chien aux soins quotidiens"
+lienComplementaire: /contact
+titreLienComplementaire: Pour prendre rendez-vous
 tarifsService:
   - titre: Bilan en soins coopératifs
     sousTitre: C'est parti pour l'aventure
     image: /img/design_sans_titre__1_-removebg-preview.png
-    dureePrix: 1h - 60€
+    dureePrix: 1h - 70€
     description: >-
       Le bilan est un rendez-vous d'une heure à votre domicile ou en visio, et
       qui est donc possible où que vous habitiez !
@@ -22,7 +22,7 @@ tarifsService:
       A﻿ la suite de ce bilan, un plan d'entraînement personnalisé vous sera envoyé sous forme de document GoogleSheet afin qu'il évolue en fonction de votre progression.
   - titre: Séances de suivi
     sousTitre: Pour devenir autonome avec son animal
-    dureePrix: 30min - 30€
+    dureePrix: 30min - 35€
     image: /img/design_sans_titre__2_-removebg-preview.png
     description: >-
       Les séances de suivi sont des temps de mise en pratique de ce qui a été
@@ -33,25 +33,6 @@ tarifsService:
 
 
       C﻿es rendez-vous ont lieu en visio principalement (surtout pour les soins du quotidien), mais peuvent être faits en présentiel si vous visez un soin demandant la présence d'un tiers (comme les soins vétérinaires).
-
-
-      Des forfaits existent pour cette prestation afin de mettre en place un accompagnement régulier :
-
-
-      * 5﻿ séances : **140€**
-
-      * 1﻿0 séances : **270€**
-  - sousTitre: Pour être sûr de ne rien rater
-    titre: Coaching sur mesure
-    dureePrix: Sur devis
-    description: >-
-      S﻿i vous souhaitez un accompagnement plus soutenu, encore plus approfondi,
-      il est possible de réfléchir suite au bilan, à un coaching en ligne qui
-      vous ressemble le plus. 
-
-
-      C﻿e type de coaching se fera sous forme de forfait mensuel avec un partage quotidien et/ou hebdomadaire de vidéos, sur un groupe Facebook où il n'y aura que vous et moi, des échanges illimités et des temps mensuels de points en visio. Le tout adapté à votre rythme de vie et vos besoins avec votre animal.
-    image: /img/design_sans_titre-removebg-preview.png
 imagesBasDePage:
   - image: /img/51287600040_fa3d2f3f99_k.jpg
     survolImage: Photo d'Anim'Apaise
