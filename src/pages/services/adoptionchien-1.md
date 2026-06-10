@@ -4,8 +4,8 @@ lienService: adoptionchien
 ordre: 3
 photoHaut: /img/dsc_8724.jpg
 nomService: Adopter un chien des rues
-lienComplementaire: /comportementcanin
-titreLienComplementaire: Pour avoir les informations sur la prestation du bilan comportemental
+lienComplementaire: /contact
+titreLienComplementaire: Pour prendre rendez-vous
 tarifsService:
   - titre: Bilan pré-adoption
     sousTitre: Pour que tout soit prêt avant son arrivée
