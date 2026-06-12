@@ -48,6 +48,8 @@ const Layout = ({ title = 'Anim\'Apaise', children }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
+
+        <script async src="https://tally.so/widgets/embed.js"></script>
       </Helmet>
       <Navbar />
       <div>{children}</div>

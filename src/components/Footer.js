@@ -77,12 +77,6 @@ const Footer = () => {
             </section>
           </div>
           <div className="column is-4 has-text-centered contact-info">
-            <div className="block">
-              <a href="tel:0783049090">07 83 04 90 90</a>
-            </div>
-            <div className="block">
-              <a href="mailto:contact@animapaise.fr">contact@animapaise.fr</a>
-            </div>
             <div className="block">Siret : 841.866.254.00029</div>
             <div className="block">
               <Link to="/mentions-legales">Mentions légales</Link>

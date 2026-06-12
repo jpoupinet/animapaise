@@ -62,7 +62,7 @@ const ServiceTemplate = ({
                 <div className="container has-text-centered">
                   <Link
                     to={lienComplementaire}
-                    className="button is-primary"
+                    className="button is-primary is-large"
                     style={{ whiteSpace: 'unset', height: 'auto' }}
                   >
                     {titreLienComplementaire}
