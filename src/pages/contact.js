@@ -3,10 +3,7 @@ import Icon from "@mdi/react"
 
 import Layout from "../components/Layout"
 
-import { mdiPhoneClassic } from "@mdi/js"
-import { mdiEmail } from "@mdi/js"
 import { mdiDomain } from "@mdi/js"
-import { mdiAccount } from "@mdi/js"
 import facebook from "../../static/img/facebook.svg"
 import instagram from "../../static/img/instagram.svg"
 
@@ -29,9 +26,9 @@ const ContactPage = () => {
           <div className="column is-4">
             <div className="block">
               <p className="block">
-                Si vous souhaitez être accompagné dans la mise en place des
-                soins coopératifs avec votre animal, dans la résolution d'un
-                problème de comportement de réactivité ou d'agression,
+                Si vous souhaitez être accompagné·e dans la mise en place de techniques 
+                d'entraînement aux soins avec votre animal, dans la résolution d'un problème 
+                de comportement de réactivité ou d'agressivité chez votre chien,
                 l'initiation à un sport canin, l'arrivée d'un chien des rues ou
                 si vous êtes une structure ou un particulier souhaitant mettre
                 en place un programme de médiation animal, n'hésitez pas à me
