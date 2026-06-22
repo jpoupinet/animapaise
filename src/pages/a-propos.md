@@ -124,6 +124,9 @@ diplomesCertificats:
     description: BTS Économie Sociale et Familiale
     organisme: Adonis
 formationsStages:
+  - annee: "2026"
+    description: Le leurre – cet outil incompris
+    organisme: Camille Nguyen - Muzo+
   - description: Diamond Membership All Access Pass - Webinaires et cours autour des
       comportements réactifs et du BAT
     annee: 2023 - 2025
