@@ -22,10 +22,7 @@ tarifsService:
       L﻿es chiens doivent tolérer la présence de congénères aux alentours, les contacts entre chiens présents ne sont pas obligatoires.
 
 
-      L﻿es cours collectifs ont lieu 2 samedis par mois en automne et hiver et plutôt en fin de journée sur les périodes chaudes d'été.
-
-
-      L﻿e premier cours collectif est à 26€ et les suivants à 30€.
+      3 à 4 cours collectifs sont proposés par mois le samedi ou en fin de journée en semaine.
     image: /img/design_sans_titre__6_-removebg-preview.png
   - titre: Cours individuels
     sousTitre: Pour un moment plaisir complice
@@ -38,9 +35,6 @@ tarifsService:
 
 
       C﻿e cours dure environ 40 minutes, petites pauses comprises pour que cela ne soit pas trop fatiguant pour votre loulou.
-
-
-      L﻿e premier cours individuels est à 36€ et les suivants à 40€.
     image: /img/design_sans_titre__7_-removebg-preview.png
 imagesBasDePage:
   - image: /img/dsc_7064.jpg
