@@ -10,9 +10,9 @@ titreLienComplementaire: Pour découvrir les sports canins
 tarifsService:
   - titre: Cours collectifs
     sousTitre: Du collectif et surtout du fun
-    dureePrix: 1h30 - 30€
+    dureePrix: 1h à 1h30 - 30€
     description: >-
-      U﻿n cours collectif c'est un groupe de 2 à 3 chiens qui vont pouvoir
+      U﻿n cours collectif c'est un groupe de 2 ou 3 chiens qui vont pouvoir
       pratiquer une des activités proposées successivement.
 
 
