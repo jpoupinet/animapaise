@@ -7,6 +7,7 @@ videoHaut: /img/vidéo-sans-titre-‐-réalisée-avec-clipchamp-3-.mp4
 nomService: Sports canins de loisir
 lienComplementaire: /contact
 titreLienComplementaire: Pour découvrir les sports canins
+delaiPriseEnCharge: ""
 tarifsService:
   - titre: Cours collectifs
     sousTitre: Du collectif et surtout du fun

@@ -19,6 +19,7 @@ const Service = ({ data }) => {
         nomService={service.frontmatter.nomService}
         lienComplementaire={service.frontmatter.lienComplementaire}
         titreLienComplementaire={service.frontmatter.titreLienComplementaire}
+        delaiPriseEnCharge={service.frontmatter.delaiPriseEnCharge}
         tarifs={service.frontmatter.tarifsService}
         imagesBasDePage={service.frontmatter.imagesBasDePage}
       />
@@ -54,6 +55,7 @@ export const pageQuery = graphql`
         nomService
         lienComplementaire
         titreLienComplementaire
+        delaiPriseEnCharge
         tarifsService {
           titre
           sousTitre

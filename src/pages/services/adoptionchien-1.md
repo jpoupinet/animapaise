@@ -6,6 +6,7 @@ photoHaut: /img/dsc_8724.jpg
 nomService: Adopter un chien des rues
 lienComplementaire: /contact
 titreLienComplementaire: Pour prendre rendez-vous
+delaiPriseEnCharge: ""
 tarifsService:
   - titre: Bilan pré-adoption
     sousTitre: Pour que tout soit prêt avant son arrivée

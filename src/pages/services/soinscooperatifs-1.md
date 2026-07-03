@@ -6,6 +6,7 @@ photoHaut: /img/dsc_7353.jpg
 nomService: Soins coopératifs animaliers
 lienComplementaire: /contact
 titreLienComplementaire: Pour prendre rendez-vous
+delaiPriseEnCharge: ""
 tarifsService:
   - titre: Bilan autour de l'entraînement aux soins
     sousTitre: C'est parti pour l'aventure

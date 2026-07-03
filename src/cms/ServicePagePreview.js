@@ -15,6 +15,7 @@ const ServicePagePreview = ({ entry, widgetFor }) => {
         nomService={data.nomService}
         lienComplementaire={data.lienComplementaire}
         titreLienComplementaire={data.titreLienComplementaire}
+        delaiPriseEnCharge={data.delaiPriseEnCharge}
         tarifs={data.tarifsService}
         imagesBasDePage={data.imagesBasDePage}
       />

@@ -1,11 +1,11 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import { Helmet } from 'react-helmet';
-import { Link } from 'gatsby';
-import ReactMarkdown from 'react-markdown';
+import React from "react"
+import PropTypes from "prop-types"
+import { Helmet } from "react-helmet"
+import { Link } from "gatsby"
+import ReactMarkdown from "react-markdown"
 
-import Content from '../components/Content';
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
+import Content from "../components/Content"
+import PreviewCompatibleImage from "../components/PreviewCompatibleImage"
 
 const ServiceTemplate = ({
   content,
@@ -15,99 +15,115 @@ const ServiceTemplate = ({
   nomService,
   lienComplementaire,
   titreLienComplementaire,
+  delaiPriseEnCharge,
   tarifs,
   imagesBasDePage,
 }) => {
-  const PageContent = contentComponent || Content;
+  const PageContent = contentComponent || Content
 
   return (
     <div>
       <Helmet titleTemplate="%s - Anim'Apaise">
         <title>{`${nomService}`}</title>
-        <meta
-          name="description"
-          content={`${nomService}`}
-        />
+        <meta name="description" content={`${nomService}`} />
       </Helmet>
 
-      {
-        photoHaut &&
+      {photoHaut && (
         <PreviewCompatibleImage
-          imageInfo={{ alt: '', image: photoHaut }}
-          imageStyle={{ display: 'inline-block', maxHeight: '30rem', width: '100%' }}
+          imageInfo={{ alt: "", image: photoHaut }}
+          imageStyle={{
+            display: "inline-block",
+            maxHeight: "30rem",
+            width: "100%",
+          }}
         />
-      }
+      )}
 
-      {
-        videoHaut &&
+      {videoHaut && (
         <video
-          autoPlay muted loop playsInline
-          style={{ maxHeight: '30rem', width: '100%', objectFit: 'cover' }}
+          autoPlay
+          muted
+          loop
+          playsInline
+          style={{ maxHeight: "30rem", width: "100%", objectFit: "cover" }}
         >
           <source src={videoHaut.publicURL} type="video/mp4" />
           Votre navigateur web est incompatible avec la vidéo.
         </video>
-      }
+      )}
 
       <section className="section">
         <div className="container">
           <h1 className="title is-2 has-text-centered">{nomService}</h1>
-          <div
-            className="container"
-            style={{ fontSize: '1.1rem' }}
-          >
-            <PageContent className="article-content content p-6" content={content} />
-            {
-              lienComplementaire && (
-                <div className="container has-text-centered">
-                  <Link
-                    to={lienComplementaire}
-                    className="button is-primary is-large"
-                    style={{ whiteSpace: 'unset', height: 'auto' }}
-                  >
-                    {titreLienComplementaire}
-                  </Link>
-                </div>
-              )
-            }
+          <div className="container" style={{ fontSize: "1.1rem" }}>
+            <PageContent
+              className="article-content content p-6"
+              content={content}
+            />
+            {lienComplementaire && (
+              <div className="container has-text-centered">
+                <Link
+                  to={lienComplementaire}
+                  className="button is-primary is-large"
+                  style={{ whiteSpace: "unset", height: "auto" }}
+                >
+                  {titreLienComplementaire}
+                </Link>
+              </div>
+            )}
           </div>
         </div>
       </section>
 
-      {
-        tarifs &&
-        <section
-          className='section px-6'
-        >
-          <h2 className="title is-3 has-text-centered mb-6">Tarifs</h2>
-          <div className='is-flex is-justify-content-center is-flex-wrap-wrap'>
-            {
-              tarifs.map((tarif, i) => (
-                <div
-                  className='tarif p-6 mb-3 has-background-light'
-                  style={{ width: 'fit-content', maxWidth: '30rem' }}
-                  key={`tarif${i}`}
-                >
-                  <h4 className='title has-text-centered is-4'>{tarif.titre}</h4>
-                  <h5 className='title has-text-centered is-5'>{tarif.sousTitre}</h5>
-
-                  <div className="has-text-centered">
-                    <PreviewCompatibleImage
-                      imageInfo={{ alt: '', image: tarif.image }}
-                    />
-                  </div>
-                  
-                  <p className='mt-3 has-text-centered has-text-weight-bold'>{tarif.dureePrix}</p>
-
-                  <ReactMarkdown className='content my-5'>
-                    {tarif.description}
-                  </ReactMarkdown>
-                </div>
-              ))
-            }
+      {delaiPriseEnCharge && (
+        <section className="section has-text-centered">
+          <h3 className="title is-3">Délai de prise en charge</h3>
+          <div className="is-flex is-justify-content-center">
+            <div
+              className="p-6 has-background-light"
+              style={{ width: "fit-content" }}
+            >
+              Pour cette prestation, merci de bien prendre en compte que les
+              délais pour commencer ces accompagnements sont de :
+              <strong> {delaiPriseEnCharge}</strong>
+            </div>
           </div>
         </section>
-      }
+      )}
+
+      {tarifs && (
+        <section className="section px-6">
+          <h2 className="title is-3 has-text-centered mb-6">Tarifs</h2>
+          <div className="is-flex is-justify-content-center is-flex-wrap-wrap">
+            {tarifs.map((tarif, i) => (
+              <div
+                className="tarif p-6 mb-3 has-background-light"
+                style={{ width: "fit-content", maxWidth: "30rem" }}
+                key={`tarif${i}`}
+              >
+                <h4 className="title has-text-centered is-4">{tarif.titre}</h4>
+                <h5 className="title has-text-centered is-5">
+                  {tarif.sousTitre}
+                </h5>
+
+                <div className="has-text-centered">
+                  <PreviewCompatibleImage
+                    imageInfo={{ alt: "", image: tarif.image }}
+                  />
+                </div>
+
+                <p className="mt-3 has-text-centered has-text-weight-bold">
+                  {tarif.dureePrix}
+                </p>
+
+                <ReactMarkdown className="content my-5">
+                  {tarif.description}
+                </ReactMarkdown>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
 
       <section className="section has-text-centered">
         <div>
@@ -116,7 +132,10 @@ const ServiceTemplate = ({
           </Link>
         </div>
         <div>
-          <Link to="/zi-frais-deplacement" className="is-underlined has-text-weight-bold">
+          <Link
+            to="/zi-frais-deplacement"
+            className="is-underlined has-text-weight-bold"
+          >
             Zone d'intervention et frais de déplacement
           </Link>
         </div>
@@ -125,21 +144,23 @@ const ServiceTemplate = ({
       <section className="section has-text-centered">
         <div className="container">
           <div className="images-bas-de-page columns is-justify-content-center is-gapless">
-            {
-              imagesBasDePage.map((img, i) =>
-                <div className="column" key={`imgBasDePage${i}`}>
-                  <PreviewCompatibleImage
-                    imageInfo={{ alt: '', image: img.image, title: img.survolImage }}
-                  />
-                </div>
-              )
-            }
+            {imagesBasDePage.map((img, i) => (
+              <div className="column" key={`imgBasDePage${i}`}>
+                <PreviewCompatibleImage
+                  imageInfo={{
+                    alt: "",
+                    image: img.image,
+                    title: img.survolImage,
+                  }}
+                />
+              </div>
+            ))}
           </div>
         </div>
       </section>
     </div>
   )
-};
+}
 
 ServiceTemplate.propTypes = {
   content: PropTypes.string,
@@ -148,8 +169,9 @@ ServiceTemplate.propTypes = {
   nomService: PropTypes.string,
   lienComplementaire: PropTypes.string,
   titreLienComplementaire: PropTypes.string,
+  delaiPriseEnCharge: PropTypes.string,
   tarifs: PropTypes.array,
   imagesBasDePage: PropTypes.array,
-};
+}
 
-export default ServiceTemplate;
+export default ServiceTemplate

@@ -127,6 +127,13 @@ collections:
           default: '',
         }
       - {
+          label: "Délai de prise en charge",
+          name: "delaiPriseEnCharge",
+          widget: "string",
+          required: false,
+          default: '',
+        }
+      - {
           label: "Tarifs service",
           name: "tarifsService",
           widget: list,

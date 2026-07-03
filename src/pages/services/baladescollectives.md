@@ -6,6 +6,7 @@ photoHaut: /img/42157528770_56e759356a_k1.jpg
 nomService: Balades collectives
 lienComplementaire: /contact
 titreLienComplementaire: Pour avoir plus d'informations sur nos balades
+delaiPriseEnCharge: ""
 tarifsService:
   - titre: Balade collective
     sousTitre: Pour tous les chiens
