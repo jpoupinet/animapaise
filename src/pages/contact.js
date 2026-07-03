@@ -35,11 +35,11 @@ const ContactPage = () => {
                 médiation animal, n'hésitez pas à me contacter en remplissant le
                 formulaire de contact et en précisant votre demande.
               </p>
-              <p className="block">
+              <strong className="block">
                 Des délais de prise en charge peuvent être présents pour
                 certaines prestations. Merci de bien regarder sur la page du
                 service qui vous intéresse.
-              </p>
+              </strong>
               <p className="block">
                 Anim'Apaise est localisé sur Orvault et sur Grandchamp des
                 Fontaines au Nord de Nantes, en Loire-Atlantique (44).
