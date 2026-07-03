@@ -26,14 +26,19 @@ const ContactPage = () => {
           <div className="column is-4">
             <div className="block">
               <p className="block">
-                Si vous souhaitez être accompagné·e dans la mise en place de techniques 
-                d'entraînement aux soins avec votre animal, dans la résolution d'un problème 
-                de comportement de réactivité ou d'agressivité chez votre chien,
-                l'initiation à un sport canin, l'arrivée d'un chien des rues ou
-                si vous êtes une structure ou un particulier souhaitant mettre
-                en place un programme de médiation animal, n'hésitez pas à me
-                contacter en remplissant le formulaire de contact et en
-                précisant votre demande.
+                Si vous souhaitez être accompagné·e dans la mise en place de
+                techniques d'entraînement aux soins avec votre animal, dans la
+                résolution d'un problème de comportement de réactivité ou
+                d'agressivité chez votre chien, l'initiation à un sport canin,
+                l'arrivée d'un chien des rues ou si vous êtes une structure ou
+                un particulier souhaitant mettre en place un programme de
+                médiation animal, n'hésitez pas à me contacter en remplissant le
+                formulaire de contact et en précisant votre demande.
+              </p>
+              <p className="block">
+                Des délais de prise en charge peuvent être présents pour
+                certaines prestations. Merci de bien regarder sur la page du
+                service qui vous intéresse.
               </p>
               <p className="block">
                 Anim'Apaise est localisé sur Orvault et sur Grandchamp des
