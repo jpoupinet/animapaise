@@ -10,10 +10,13 @@ delaiPriseEnCharge: ""
 tarifsService:
   - titre: Ateliers individuels
     sousTitre: Pour un moment privilégié
-    dureePrix: 1h - 55€
+    dureePrix: 40min - 40€
     description: >-
-      Ces séances s'adressent à 1 personne et durent environ 1h. Elles ont lieu
-      sur le terrain d'Anim'Apaise. 
+      Ces séances s'adressent à 1 personne et durent environ 40min. Elles
+      ont lieu sur le terrain d'Anim'Apaise.  
+
+
+      I﻿l est aussi possible de réaliser des séances d'1h pour 55€.
 
 
       Ces séances se baseront sur des objectifs individualisés avec une visée préventive et thérapeutique. On parle aussi de Programme de Médiation Assistée par l’Animale ; les séances seront régulières et basées sur un plan d'intervention établi avec l'équipe des professionnels et/ou les familles.
