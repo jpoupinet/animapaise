@@ -20,7 +20,7 @@ tarifsService:
       L﻿ors de ce premier rendez-vous nous ferons le point sur la problématique de soin rencontré, ou l'objectif visé, je vous présenterais l'approche en soins coopératifs et nous établirons ensemble les premiers objectifs de travail du soin choisi.
 
 
-      A﻿ la suite de ce bilan, un plan d'entraînement personnalisé vous sera envoyé sous forme de document GoogleSheet afin qu'il évolue en fonction de votre progression.
+      A﻿ la suite de ce bilan, un plan d'entraînement personnalisé vous sera envoyé sous forme de tableau de bord Notion, vous y trouverez tout le déroulé du travail ensemble, les exercices et apports théoriques pour vous aider.
   - titre: Séances de suivi
     sousTitre: Pour devenir autonome avec son animal
     dureePrix: 30min - 35€
