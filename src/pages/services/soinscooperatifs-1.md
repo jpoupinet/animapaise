@@ -34,9 +34,9 @@ tarifsService:
 
 
       C﻿es rendez-vous ont lieu en visio principalement (surtout pour les soins du quotidien), mais peuvent être faits en présentiel si vous visez un soin demandant la présence d'un tiers (comme les soins vétérinaires).
-  - titre: Entraînement collectif aux soins
+  - titre: Demi-journée d'entraînement collectif aux soins
     sousTitre: Pour aller plus loin et travailler avec un tiers
-    dureePrix: 3h - 50€
+    dureePrix: 3h - 60€
     description: >-
       C﻿es séances accueillent jusqu'à 4 chiens sur une demi-journée de 3 heures
       pour aller plus loin autour du sujet de l'entraînement aux soins et afin
