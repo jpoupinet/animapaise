@@ -10,7 +10,7 @@ delaiPriseEnCharge: 2 mois
 tarifsService:
   - titre: Bilan comportemental
     sousTitre: Le moment de l'évaluation
-    image: /img/design_sans_titre__3_-removebg-preview.png
+    image: /img/dsc_1045-modified.png
     dureePrix: 2h - 120€
     description: >-
       L﻿e bilan est un rendez-vous qui dure généralement 2h au sein de votre
