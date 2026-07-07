@@ -42,10 +42,7 @@ tarifsService:
 
       * E﻿n présentiel, principalement autour de Grandchamp-des Fontaines (44119), dans un premier temps plus particulièrement, pour les chiens ayant des comportements réactifs en extérieur. 
 
-      * Peuvent être réalisées à votre domicile ou en visio pour des problématiques touchant au lieu de vie du chien ou à des peurs précises (par exemple : protection de ressources, accueil d'invités...) 
-
-
-      D﻿es forfaits existent pour des séances de suivi seules.
+      * Peuvent être réalisées à votre domicile ou en visio pour des problématiques touchant au lieu de vie du chien ou à des peurs précises (par exemple : protection de ressources, accueil d'invités...)
 imagesBasDePage:
   - image: /img/dsc_7419.jpg
     survolImage: Photo d'Anim'Apaise
