@@ -11,9 +11,9 @@ tarifsService:
   - titre: Balade collective
     sousTitre: Pour tous les chiens
     image: /img/design_sans_titre__10_-removebg-preview.png
-    dureePrix: 1h15 - 30€
+    dureePrix: 1h - 30€
     description: >-
-      Ces durent environ 1h15 avec des temps d'échange en début et fin de balade
+      Ces durent environ 1h avec des temps d'échange en début et fin de balade
       pour toujours mieux comprendre et s'adapter à vos loulous.
 
 
