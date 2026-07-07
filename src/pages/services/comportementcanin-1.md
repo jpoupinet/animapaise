@@ -19,14 +19,14 @@ tarifsService:
       Grandchamp-des-Fontaines, 44119).
 
 
-      A﻿ la suite de ce rendez-vous, il vous sera envoyé par mail :
+      A﻿ la suite de ce rendez-vous, il vous sera envoyé par mail le lien vers un tableau de bord contenant :
 
 
       * L﻿e bilan individualisé de votre chien
 
-      * U﻿ne fiche technique sur les comportements dits réactifs
-
       * U﻿ne/des fiche(s) support(s) des exercices préconisés
+
+      * D﻿es apports théoriques autour de la réactivité
   - titre: Séances de suivi
     sousTitre: Pour développer de nouvelles compétences
     image: /img/design_sans_titre__4_-removebg-preview.png
