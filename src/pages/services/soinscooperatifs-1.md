@@ -34,7 +34,7 @@ tarifsService:
 
 
       C﻿es rendez-vous ont lieu en visio principalement (surtout pour les soins du quotidien), mais peuvent être faits en présentiel si vous visez un soin demandant la présence d'un tiers (comme les soins vétérinaires).
-  - titre: Demi-journée d'entraînement collectif aux soins
+  - titre: Demi-journée d'entraînement aux soins collectif
     sousTitre: Pour aller plus loin et travailler avec un tiers
     dureePrix: 3h - 60€
     description: >-
