@@ -43,6 +43,18 @@ tarifsService:
       * E﻿n présentiel, principalement autour de Grandchamp-des Fontaines (44119), dans un premier temps plus particulièrement, pour les chiens ayant des comportements réactifs en extérieur. 
 
       * Peuvent être réalisées à votre domicile ou en visio pour des problématiques touchant au lieu de vie du chien ou à des peurs précises (par exemple : protection de ressources, accueil d'invités...)
+  - titre: "Demi-journée entre réactifs en collectif "
+    sousTitre: Pour travailler ensemble autour d'une problématique qui nous isole
+    dureePrix: 3h - 60€
+    description: >-
+      C﻿es séances accueillent jusqu'à 4 chiens sur une demi-journée de 3 heures
+      pour travailler à plusieurs autour des problématiques de réactivité de ton
+      chien. Un contexte de séance pour découvrir d'autres façons de travailler
+      et échanger avec des personnes qui vivent la même chose que toi.
+
+
+      C﻿es entraînements auront lieu sur le terrain d'Anim'Apaise ou aux alentours.
+    image: /img/p1180231-modified.png
 imagesBasDePage:
   - image: /img/dsc_7419.jpg
     survolImage: Photo d'Anim'Apaise
