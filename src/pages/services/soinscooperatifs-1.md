@@ -44,7 +44,7 @@ tarifsService:
       moins connus.
 
 
-      C﻿es entranîements auront lieu sur le terrain d'Anim'Apaise (en utilisant les trois lieux possibles du terrain : extérieur, couvert et chalet) ou chez des professionnels de soins partenaires de cette approche (vétérinaire, toiletteur, ostéopathe).
+      C﻿es entraînements auront lieu sur le terrain d'Anim'Apaise (en utilisant les trois lieux possibles du terrain : extérieur, couvert et chalet) ou chez des professionnels de soins partenaires de cette approche (vétérinaire, toiletteur, ostéopathe).
     image: /img/dsc_0610-modified.png
 imagesBasDePage:
   - image: /img/51287600040_fa3d2f3f99_k.jpg
