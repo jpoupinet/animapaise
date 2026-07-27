@@ -66,7 +66,7 @@ services:
     lien: mediationanimale
     titreLien: Pour en savoir plus
     ordre: 5
-  - lien: https://animapaise.teachizy.fr/
+  - lien: https://formations.animapaise.fr/
     titreLien: Pour les découvrir
     photo: /img/64588099_1497663137042615_3234429614512144384_o.jpg
     titre: Formations en ligne

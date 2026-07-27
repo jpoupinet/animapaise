@@ -112,7 +112,7 @@ const Navbar = () => {
               />
             </div>
           </div>
-          <a className="navbar-item" href="https://animapaise.teachizy.fr/" target="_blank">
+          <a className="navbar-item" href="https://formations.animapaise.fr/" target="_blank">
             FORMATIONS EN LIGNE
           </a>
           <Link className="navbar-item" to="/contact">
