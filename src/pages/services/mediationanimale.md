@@ -6,7 +6,7 @@ photoHaut: /img/dsc_7537-1-.jpg
 nomService: Médiation animale
 lienComplementaire: /contact
 titreLienComplementaire: Pour découvrir la médiation animale
-delaiPriseEnCharge: ""
+delaiPriseEnCharge: 1 mois
 tarifsService:
   - titre: Ateliers individuels
     sousTitre: Pour un moment privilégié
