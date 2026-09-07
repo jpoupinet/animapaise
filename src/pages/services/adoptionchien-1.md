@@ -6,7 +6,7 @@ photoHaut: /img/dsc_8724.jpg
 nomService: Adopter un chien des rues
 lienComplementaire: /contact
 titreLienComplementaire: Pour prendre rendez-vous
-delaiPriseEnCharge: 6 semaines
+delaiPriseEnCharge: 1 mois
 tarifsService:
   - titre: Bilan pré-adoption
     sousTitre: Pour que tout soit prêt avant son arrivée
