@@ -17,15 +17,13 @@ Le terme « le client » désigne la personne morale ou physique qui a fait appe
 
 Les règlements possibles sont en espèces, par virement, par carte bancaire ou par chèque. 
 
-Le règlement par virement ou chèque pour les forfaits est accepté en plusieurs fois (en 2 à 3 fois). L’ensemble des chèques sera perçu par Sophie Bourdon lors de la première séance et seront encaissés aux dates décidées avec le client.
-
-Le règlement devra être réalisés en amont des séances, toute séance non réglée 24H avant la date du rendez-vous ne sera pas dispensée. Dans le cas d'un règlement en plusieurs fois d'un forfait, un justificatif de mensualité pourra être accepté avant de démarrer ce forfait.
+Le règlement devra être réalisés en amont des séances, toute séance non réglée 48H avant la date du rendez-vous ne sera pas dispensée. 
 
 **Article 3**
 
-Les forfaits et stages ne sont pas remboursables sauf en cas de maladie ou de décès du chien empêchant la poursuite des cours.  
+Les inscriptions aux stages ne sont pas remboursables sauf en cas de maladie ou de décès du chien empêchant la venue.
 
-Les forfaits sont valables 1 an à compter de la date du premier cours du forfait utilisé.
+Les forfaits encore en cours sont valables 1 an à compter de la date du premier cours du forfait utilisé. 
 
 **Article 4**
 
