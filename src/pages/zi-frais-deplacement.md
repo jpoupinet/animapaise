@@ -5,7 +5,7 @@ templateKey: zi-frais-deplacement-page
 
 ***Zone d'intervention***
 
-J'interviens au domicile des clients dans un rayon de 60km autour d'Orvault Cholière.
+J'interviens au domicile des clients dans un rayon de 30km autour d'Orvault Cholière. Au delà, cela pourra t﻿re réalisé au terrain ou en visio. 
 
 Pour les stages je peux me déplacer dans toute la France selon les demandes.
 
