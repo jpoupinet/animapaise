@@ -6,7 +6,7 @@ photoHaut: /img/47062837662_c417156e85_o.jpg
 nomService: Comportement canin - Réactivité, agression et peurs
 lienComplementaire: /contact
 titreLienComplementaire: Pour prendre rendez-vous
-delaiPriseEnCharge: 2,5 mois
+delaiPriseEnCharge: 4,5 mois (fin janvier 2027)
 tarifsService:
   - titre: Bilan comportemental
     sousTitre: Le moment de l'évaluation
